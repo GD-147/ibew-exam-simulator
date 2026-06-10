@@ -18,7 +18,9 @@
       "examQuestions": 33,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+        "algebra_functions_exam_01.json"
+      ]
     },
     {
       "id": "reading-comprehension",
@@ -27,8 +29,19 @@
       "examQuestions": 36,
       "type": "mcq",
       "choices": 4,
-      "examFiles": []
+      "examFiles": [
+        "reading_comprehension_exam_01.json"
+      ]
     }
   ],
-  "printables": []
+  "printables": [
+    {
+      "label": "Algebra and Functions Practice Exam 1",
+      "file": "algebra_functions_exam_01.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 1",
+      "file": "reading_comprehension_exam_01.pdf"
+    }
+  ]
 }

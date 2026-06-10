@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC1-001",
+    "prompt": "Passage 1\nA manufacturing company recently installed new energy-efficient lighting throughout its facility. The upgrade replaced older fluorescent fixtures with LED lights. According to company records, the new system uses approximately 40 percent less electricity than the previous system.\nIn addition to reducing energy consumption, the LED fixtures require less maintenance because they last significantly longer. Facility managers estimate that maintenance costs related to lighting will decrease over the next several years.\nEmployees reported another benefit after the installation. Many workers stated that the brighter and more consistent lighting improved visibility on the production floor. Supervisors noted fewer complaints about eye strain and difficulty reading labels and instructions.\nAlthough the initial installation cost was substantial, company leaders expect the project to pay for itself through lower utility bills and reduced maintenance expenses.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company is planning additional building renovations.",
+      "B": "The company replaced its lighting system and expects multiple benefits.",
+      "C": "Employees requested higher wages after the lighting upgrade.",
+      "D": "Fluorescent lights are safer than LED lights."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on the company's decision to replace its lighting system and the resulting benefits, including lower energy use, reduced maintenance costs, and improved visibility. The other choices mention details not supported by the passage."
+  },
+  {
+    "id": "RC1-002",
+    "prompt": "Passage 1\nA manufacturing company recently installed new energy-efficient lighting throughout its facility. The upgrade replaced older fluorescent fixtures with LED lights. According to company records, the new system uses approximately 40 percent less electricity than the previous system.\nIn addition to reducing energy consumption, the LED fixtures require less maintenance because they last significantly longer. Facility managers estimate that maintenance costs related to lighting will decrease over the next several years.\nEmployees reported another benefit after the installation. Many workers stated that the brighter and more consistent lighting improved visibility on the production floor. Supervisors noted fewer complaints about eye strain and difficulty reading labels and instructions.\nAlthough the initial installation cost was substantial, company leaders expect the project to pay for itself through lower utility bills and reduced maintenance expenses.\n\nAccording to the passage, how much less electricity does the new lighting system use?",
+    "choices": {
+      "A": "About 10 percent",
+      "B": "About 20 percent",
+      "C": "About 40 percent",
+      "D": "About 60 percent"
+    },
+    "correct": "C",
+    "explanation": "The passage states that the new LED system uses approximately 40 percent less electricity than the previous lighting system."
+  },
+  {
+    "id": "RC1-003",
+    "prompt": "Passage 1\nA manufacturing company recently installed new energy-efficient lighting throughout its facility. The upgrade replaced older fluorescent fixtures with LED lights. According to company records, the new system uses approximately 40 percent less electricity than the previous system.\nIn addition to reducing energy consumption, the LED fixtures require less maintenance because they last significantly longer. Facility managers estimate that maintenance costs related to lighting will decrease over the next several years.\nEmployees reported another benefit after the installation. Many workers stated that the brighter and more consistent lighting improved visibility on the production floor. Supervisors noted fewer complaints about eye strain and difficulty reading labels and instructions.\nAlthough the initial installation cost was substantial, company leaders expect the project to pay for itself through lower utility bills and reduced maintenance expenses.\n\nWhy are maintenance costs expected to decrease?",
+    "choices": {
+      "A": "Employees will perform repairs themselves.",
+      "B": "Fewer light fixtures were installed.",
+      "C": "LED fixtures use less electricity.",
+      "D": "LED fixtures last longer than the old lights."
+    },
+    "correct": "D",
+    "explanation": "Facility managers expect maintenance costs to decrease because LED fixtures last significantly longer than the old fluorescent fixtures."
+  },
+  {
+    "id": "RC1-004",
+    "prompt": "Passage 1\nA manufacturing company recently installed new energy-efficient lighting throughout its facility. The upgrade replaced older fluorescent fixtures with LED lights. According to company records, the new system uses approximately 40 percent less electricity than the previous system.\nIn addition to reducing energy consumption, the LED fixtures require less maintenance because they last significantly longer. Facility managers estimate that maintenance costs related to lighting will decrease over the next several years.\nEmployees reported another benefit after the installation. Many workers stated that the brighter and more consistent lighting improved visibility on the production floor. Supervisors noted fewer complaints about eye strain and difficulty reading labels and instructions.\nAlthough the initial installation cost was substantial, company leaders expect the project to pay for itself through lower utility bills and reduced maintenance expenses.\n\nWhich statement is supported by the passage?",
+    "choices": {
+      "A": "The company has already recovered all installation costs.",
+      "B": "Workers found the new lighting made visibility worse.",
+      "C": "Supervisors noticed fewer complaints about eye strain.",
+      "D": "The lighting upgrade reduced the number of employees needed."
+    },
+    "correct": "C",
+    "explanation": "The passage specifically states that supervisors noticed fewer complaints about eye strain and difficulty reading labels and instructions."
+  },
+  {
+    "id": "RC1-005",
+    "prompt": "Passage 1\nA manufacturing company recently installed new energy-efficient lighting throughout its facility. The upgrade replaced older fluorescent fixtures with LED lights. According to company records, the new system uses approximately 40 percent less electricity than the previous system.\nIn addition to reducing energy consumption, the LED fixtures require less maintenance because they last significantly longer. Facility managers estimate that maintenance costs related to lighting will decrease over the next several years.\nEmployees reported another benefit after the installation. Many workers stated that the brighter and more consistent lighting improved visibility on the production floor. Supervisors noted fewer complaints about eye strain and difficulty reading labels and instructions.\nAlthough the initial installation cost was substantial, company leaders expect the project to pay for itself through lower utility bills and reduced maintenance expenses.\n\nThe word “substantial” most nearly means:",
+    "choices": {
+      "A": "Minor",
+      "B": "Temporary",
+      "C": "Significant",
+      "D": "Unexpected"
+    },
+    "correct": "C",
+    "explanation": "In context, \"substantial\" refers to the large installation cost. The best synonym is \"significant.\""
+  },
+  {
+    "id": "RC1-006",
+    "prompt": "Passage 2\nMEMO\nTo: All Employees\nSubject: Parking Lot Resurfacing\nBeginning Monday, July 14, the employee parking lot will undergo resurfacing. Construction is expected to continue for approximately two weeks.\nDuring this period, employees should use the temporary parking area located behind Warehouse B. Signs will be posted to direct traffic. Employees are encouraged to arrive a few minutes early because additional walking time may be required.\nThe resurfacing project is being completed to repair damaged pavement and improve safety. Please use caution when entering and leaving the work area.\nThank you for your cooperation during this project.\n\nWhat is the primary purpose of the memo?",
+    "choices": {
+      "A": "To announce a new warehouse opening",
+      "B": "To explain changes related to a parking lot project",
+      "C": "To request employee feedback about safety",
+      "D": "To advertise construction services"
+    },
+    "correct": "B",
+    "explanation": "The memo informs employees about parking changes caused by a resurfacing project and provides instructions during construction."
+  },
+  {
+    "id": "RC1-007",
+    "prompt": "Passage 2\nMEMO\nTo: All Employees\nSubject: Parking Lot Resurfacing\nBeginning Monday, July 14, the employee parking lot will undergo resurfacing. Construction is expected to continue for approximately two weeks.\nDuring this period, employees should use the temporary parking area located behind Warehouse B. Signs will be posted to direct traffic. Employees are encouraged to arrive a few minutes early because additional walking time may be required.\nThe resurfacing project is being completed to repair damaged pavement and improve safety. Please use caution when entering and leaving the work area.\nThank you for your cooperation during this project.\n\nWhere should employees park during construction?",
+    "choices": {
+      "A": "In front of Warehouse B",
+      "B": "On a nearby public street",
+      "C": "Behind Warehouse B",
+      "D": "In the visitor parking area"
+    },
+    "correct": "C",
+    "explanation": "The memo clearly states that employees should use the temporary parking area located behind Warehouse B."
+  },
+  {
+    "id": "RC1-008",
+    "prompt": "Passage 2\nMEMO\nTo: All Employees\nSubject: Parking Lot Resurfacing\nBeginning Monday, July 14, the employee parking lot will undergo resurfacing. Construction is expected to continue for approximately two weeks.\nDuring this period, employees should use the temporary parking area located behind Warehouse B. Signs will be posted to direct traffic. Employees are encouraged to arrive a few minutes early because additional walking time may be required.\nThe resurfacing project is being completed to repair damaged pavement and improve safety. Please use caution when entering and leaving the work area.\nThank you for your cooperation during this project.\n\nWhy are employees encouraged to arrive early?",
+    "choices": {
+      "A": "Construction workers need assistance.",
+      "B": "Additional walking time may be necessary.",
+      "C": "Parking spaces will be assigned.",
+      "D": "Warehouse B opens later than usual."
+    },
+    "correct": "B",
+    "explanation": "Employees are encouraged to arrive early because additional walking time may be required from the temporary parking area."
+  },
+  {
+    "id": "RC1-009",
+    "prompt": "Passage 2\nMEMO\nTo: All Employees\nSubject: Parking Lot Resurfacing\nBeginning Monday, July 14, the employee parking lot will undergo resurfacing. Construction is expected to continue for approximately two weeks.\nDuring this period, employees should use the temporary parking area located behind Warehouse B. Signs will be posted to direct traffic. Employees are encouraged to arrive a few minutes early because additional walking time may be required.\nThe resurfacing project is being completed to repair damaged pavement and improve safety. Please use caution when entering and leaving the work area.\nThank you for your cooperation during this project.\n\nWhat is one reason the resurfacing project is being completed?",
+    "choices": {
+      "A": "To expand the parking lot",
+      "B": "To improve safety",
+      "C": "To reduce employee travel time",
+      "D": "To create additional office space"
+    },
+    "correct": "B",
+    "explanation": "The memo states that the project is intended to repair damaged pavement and improve safety."
+  },
+  {
+    "id": "RC1-010",
+    "prompt": "Passage 3\nFor many years, companies stored business records primarily on paper. Documents were kept in filing cabinets and archives that often required large amounts of storage space. Finding a specific record could take considerable time, especially when records were several years old.\nToday, many organizations use digital recordkeeping systems. Electronic records can be searched quickly using keywords or document numbers. Digital storage also reduces the need for physical filing space.\nHowever, digital systems present their own challenges. Organizations must protect electronic information from unauthorized access and ensure that backup copies are available in case of equipment failure. As a result, many businesses invest heavily in cybersecurity and data protection measures.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How paper manufacturing has changed",
+      "B": "The advantages and challenges of digital recordkeeping",
+      "C": "Why businesses should avoid electronic systems",
+      "D": "The history of office furniture"
+    },
+    "correct": "B",
+    "explanation": "The passage discusses the benefits of digital recordkeeping as well as the challenges associated with protecting electronic information."
+  },
+  {
+    "id": "RC1-011",
+    "prompt": "Passage 3\nFor many years, companies stored business records primarily on paper. Documents were kept in filing cabinets and archives that often required large amounts of storage space. Finding a specific record could take considerable time, especially when records were several years old.\nToday, many organizations use digital recordkeeping systems. Electronic records can be searched quickly using keywords or document numbers. Digital storage also reduces the need for physical filing space.\nHowever, digital systems present their own challenges. Organizations must protect electronic information from unauthorized access and ensure that backup copies are available in case of equipment failure. As a result, many businesses invest heavily in cybersecurity and data protection measures.\n\nAccording to the passage, what was one disadvantage of paper records?",
+    "choices": {
+      "A": "They were difficult to print.",
+      "B": "They required internet access.",
+      "C": "They could take a long time to locate.",
+      "D": "They could not be copied."
+    },
+    "correct": "C",
+    "explanation": "The passage explains that locating specific paper records could take considerable time, especially older records."
+  },
+  {
+    "id": "RC1-012",
+    "prompt": "Passage 3\nFor many years, companies stored business records primarily on paper. Documents were kept in filing cabinets and archives that often required large amounts of storage space. Finding a specific record could take considerable time, especially when records were several years old.\nToday, many organizations use digital recordkeeping systems. Electronic records can be searched quickly using keywords or document numbers. Digital storage also reduces the need for physical filing space.\nHowever, digital systems present their own challenges. Organizations must protect electronic information from unauthorized access and ensure that backup copies are available in case of equipment failure. As a result, many businesses invest heavily in cybersecurity and data protection measures.\n\nWhat benefit of digital records is specifically mentioned?",
+    "choices": {
+      "A": "They eliminate the need for employees.",
+      "B": "They can be searched quickly.",
+      "C": "They never require backups.",
+      "D": "They automatically prevent theft."
+    },
+    "correct": "B",
+    "explanation": "One advantage specifically mentioned is that electronic records can be searched quickly using keywords or document numbers."
+  },
+  {
+    "id": "RC1-013",
+    "prompt": "Passage 3\nFor many years, companies stored business records primarily on paper. Documents were kept in filing cabinets and archives that often required large amounts of storage space. Finding a specific record could take considerable time, especially when records were several years old.\nToday, many organizations use digital recordkeeping systems. Electronic records can be searched quickly using keywords or document numbers. Digital storage also reduces the need for physical filing space.\nHowever, digital systems present their own challenges. Organizations must protect electronic information from unauthorized access and ensure that backup copies are available in case of equipment failure. As a result, many businesses invest heavily in cybersecurity and data protection measures.\n\nWhat challenge is associated with digital systems?",
+    "choices": {
+      "A": "Excessive paper usage",
+      "B": "Limited storage capacity",
+      "C": "Protecting information from unauthorized access",
+      "D": "Difficulty creating copies"
+    },
+    "correct": "C",
+    "explanation": "The passage identifies protecting information from unauthorized access as a major challenge of digital systems."
+  },
+  {
+    "id": "RC1-014",
+    "prompt": "Passage 3\nFor many years, companies stored business records primarily on paper. Documents were kept in filing cabinets and archives that often required large amounts of storage space. Finding a specific record could take considerable time, especially when records were several years old.\nToday, many organizations use digital recordkeeping systems. Electronic records can be searched quickly using keywords or document numbers. Digital storage also reduces the need for physical filing space.\nHowever, digital systems present their own challenges. Organizations must protect electronic information from unauthorized access and ensure that backup copies are available in case of equipment failure. As a result, many businesses invest heavily in cybersecurity and data protection measures.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Digital systems solve every recordkeeping problem.",
+      "B": "Paper records are becoming more popular.",
+      "C": "Businesses must balance efficiency and security when managing records.",
+      "D": "Filing cabinets are no longer manufactured."
+    },
+    "correct": "C",
+    "explanation": "The passage presents both advantages and challenges of digital records, suggesting that businesses must balance convenience and security."
+  },
+  {
+    "id": "RC1-015",
+    "prompt": "Passage 4\nIn 1903, two brothers achieved a milestone that changed transportation history. After years of experimentation, they successfully completed a powered flight in a machine they had designed and built. The flight lasted only a short time and covered a relatively small distance, but it demonstrated that controlled, powered flight was possible.\nThe brothers continued improving their designs. Over the following years, aircraft became more reliable and capable of traveling greater distances. Inventors and engineers around the world built upon these early achievements.\nToday, air travel plays a major role in transportation and commerce. Millions of passengers travel by air each year, and aircraft move goods quickly across long distances. The modern aviation industry traces its origins to those early experiments.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Air travel has become unnecessary.",
+      "B": "Early successful powered flight helped launch the modern aviation industry.",
+      "C": "Transportation history began in 1903.",
+      "D": "Modern aircraft are identical to early airplanes."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how an early successful powered flight became the foundation for the modern aviation industry."
+  },
+  {
+    "id": "RC1-016",
+    "prompt": "Passage 4\nIn 1903, two brothers achieved a milestone that changed transportation history. After years of experimentation, they successfully completed a powered flight in a machine they had designed and built. The flight lasted only a short time and covered a relatively small distance, but it demonstrated that controlled, powered flight was possible.\nThe brothers continued improving their designs. Over the following years, aircraft became more reliable and capable of traveling greater distances. Inventors and engineers around the world built upon these early achievements.\nToday, air travel plays a major role in transportation and commerce. Millions of passengers travel by air each year, and aircraft move goods quickly across long distances. The modern aviation industry traces its origins to those early experiments.\n\nAccording to the passage, why was the first successful flight important?",
+    "choices": {
+      "A": "It proved that controlled powered flight was possible.",
+      "B": "It transported passengers across the country.",
+      "C": "It generated large profits immediately.",
+      "D": "It was the longest flight ever completed."
+    },
+    "correct": "A",
+    "explanation": "The flight was important because it demonstrated that controlled, powered flight was possible."
+  },
+  {
+    "id": "RC1-017",
+    "prompt": "Passage 4\nIn 1903, two brothers achieved a milestone that changed transportation history. After years of experimentation, they successfully completed a powered flight in a machine they had designed and built. The flight lasted only a short time and covered a relatively small distance, but it demonstrated that controlled, powered flight was possible.\nThe brothers continued improving their designs. Over the following years, aircraft became more reliable and capable of traveling greater distances. Inventors and engineers around the world built upon these early achievements.\nToday, air travel plays a major role in transportation and commerce. Millions of passengers travel by air each year, and aircraft move goods quickly across long distances. The modern aviation industry traces its origins to those early experiments.\n\nWhat happened after the initial flight?",
+    "choices": {
+      "A": "Aircraft technology stopped developing.",
+      "B": "Engineers abandoned flight research.",
+      "C": "Aircraft became more reliable and capable.",
+      "D": "Air travel was banned in many countries."
+    },
+    "correct": "C",
+    "explanation": "The passage states that aircraft became more reliable and capable of traveling greater distances in the years following the initial flight."
+  },
+  {
+    "id": "RC1-018",
+    "prompt": "Passage 4\nIn 1903, two brothers achieved a milestone that changed transportation history. After years of experimentation, they successfully completed a powered flight in a machine they had designed and built. The flight lasted only a short time and covered a relatively small distance, but it demonstrated that controlled, powered flight was possible.\nThe brothers continued improving their designs. Over the following years, aircraft became more reliable and capable of traveling greater distances. Inventors and engineers around the world built upon these early achievements.\nToday, air travel plays a major role in transportation and commerce. Millions of passengers travel by air each year, and aircraft move goods quickly across long distances. The modern aviation industry traces its origins to those early experiments.\n\nWhich statement best reflects the organization of the passage?",
+    "choices": {
+      "A": "Problem followed by solution",
+      "B": "Comparison of two inventions",
+      "C": "Chronological sequence from early flight to modern aviation",
+      "D": "Instructions for building an aircraft"
+    },
+    "correct": "C",
+    "explanation": "The passage begins with the early flight, continues with later improvements, and ends with modern aviation, following a chronological sequence."
+  },
+  {
+    "id": "RC1-019",
+    "prompt": "Passage 5\nA regional utility company recently launched a program designed to help customers reduce household energy consumption. Participants receive information about common sources of energy waste and practical steps that can improve efficiency.\nOne recommendation is to replace older incandescent bulbs with LED bulbs. Another is to seal gaps around doors and windows to reduce heating and cooling losses. Customers are also encouraged to unplug electronics that are not in use, since some devices continue to consume electricity even when turned off.\nAccording to company representatives, small changes made consistently over time can result in meaningful reductions in energy usage. The company hopes the program will help customers lower utility bills while also reducing overall demand on the electrical system.\n\nWhat is the primary purpose of the program described in the passage?",
+    "choices": {
+      "A": "To increase household electricity usage",
+      "B": "To help customers reduce energy consumption",
+      "C": "To sell new appliances",
+      "D": "To replace residential wiring"
+    },
+    "correct": "B",
+    "explanation": "The program's purpose is to help customers reduce household energy consumption through practical efficiency measures."
+  },
+  {
+    "id": "RC1-020",
+    "prompt": "Passage 5\nA regional utility company recently launched a program designed to help customers reduce household energy consumption. Participants receive information about common sources of energy waste and practical steps that can improve efficiency.\nOne recommendation is to replace older incandescent bulbs with LED bulbs. Another is to seal gaps around doors and windows to reduce heating and cooling losses. Customers are also encouraged to unplug electronics that are not in use, since some devices continue to consume electricity even when turned off.\nAccording to company representatives, small changes made consistently over time can result in meaningful reductions in energy usage. The company hopes the program will help customers lower utility bills while also reducing overall demand on the electrical system.\n\nWhich action is specifically recommended?",
+    "choices": {
+      "A": "Purchasing larger heating systems",
+      "B": "Replacing LED bulbs with incandescent bulbs",
+      "C": "Sealing gaps around doors and windows",
+      "D": "Running electronics continuously"
+    },
+    "correct": "C",
+    "explanation": "One recommendation in the passage is to seal gaps around doors and windows to reduce heating and cooling losses."
+  },
+  {
+    "id": "RC1-021",
+    "prompt": "Passage 5\nA regional utility company recently launched a program designed to help customers reduce household energy consumption. Participants receive information about common sources of energy waste and practical steps that can improve efficiency.\nOne recommendation is to replace older incandescent bulbs with LED bulbs. Another is to seal gaps around doors and windows to reduce heating and cooling losses. Customers are also encouraged to unplug electronics that are not in use, since some devices continue to consume electricity even when turned off.\nAccording to company representatives, small changes made consistently over time can result in meaningful reductions in energy usage. The company hopes the program will help customers lower utility bills while also reducing overall demand on the electrical system.\n\nAccording to the passage, why should some electronics be unplugged?",
+    "choices": {
+      "A": "They may continue using electricity when not in use.",
+      "B": "They become difficult to operate.",
+      "C": "They interfere with heating systems.",
+      "D": "They require frequent maintenance."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that some electronics continue to consume electricity even when turned off, making unplugging beneficial."
+  },
+  {
+    "id": "RC1-022",
+    "prompt": "Passage 5\nA regional utility company recently launched a program designed to help customers reduce household energy consumption. Participants receive information about common sources of energy waste and practical steps that can improve efficiency.\nOne recommendation is to replace older incandescent bulbs with LED bulbs. Another is to seal gaps around doors and windows to reduce heating and cooling losses. Customers are also encouraged to unplug electronics that are not in use, since some devices continue to consume electricity even when turned off.\nAccording to company representatives, small changes made consistently over time can result in meaningful reductions in energy usage. The company hopes the program will help customers lower utility bills while also reducing overall demand on the electrical system.\n\nWhich statement best reflects the author's message?",
+    "choices": {
+      "A": "Only major renovations can reduce energy use.",
+      "B": "Small actions can contribute to meaningful energy savings.",
+      "C": "Utility companies oppose conservation efforts.",
+      "D": "Energy waste cannot be reduced significantly."
+    },
+    "correct": "B",
+    "explanation": "The author emphasizes that small actions, when performed consistently, can lead to meaningful reductions in energy use."
+  },
+  {
+    "id": "RC1-023",
+    "prompt": "Passage 6\nSafety inspections are a routine part of many workplaces. These inspections help identify hazards before accidents occur. During an inspection, equipment may be examined for signs of wear, safety procedures may be reviewed, and work areas may be checked for potential risks.\nSome employees view inspections as interruptions to their normal duties. However, safety professionals emphasize that inspections play an important role in preventing injuries and reducing costly downtime. Problems discovered during an inspection can often be corrected before they lead to larger issues.\nOrganizations that conduct regular inspections often develop a stronger culture of safety because employees become more aware of workplace hazards and prevention strategies.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Safety inspections are unnecessary.",
+      "B": "Safety inspections help identify and prevent workplace hazards.",
+      "C": "Employees should conduct inspections only after accidents occur.",
+      "D": "Workplace equipment rarely requires examination."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how safety inspections help identify hazards and prevent workplace accidents."
+  },
+  {
+    "id": "RC1-024",
+    "prompt": "Passage 6\nSafety inspections are a routine part of many workplaces. These inspections help identify hazards before accidents occur. During an inspection, equipment may be examined for signs of wear, safety procedures may be reviewed, and work areas may be checked for potential risks.\nSome employees view inspections as interruptions to their normal duties. However, safety professionals emphasize that inspections play an important role in preventing injuries and reducing costly downtime. Problems discovered during an inspection can often be corrected before they lead to larger issues.\nOrganizations that conduct regular inspections often develop a stronger culture of safety because employees become more aware of workplace hazards and prevention strategies.\n\nWhat may be examined during an inspection?",
+    "choices": {
+      "A": "Employee vacation schedules",
+      "B": "Company advertising campaigns",
+      "C": "Equipment for signs of wear",
+      "D": "Customer purchasing habits"
+    },
+    "correct": "C",
+    "explanation": "The passage specifically mentions examining equipment for signs of wear during inspections."
+  },
+  {
+    "id": "RC1-025",
+    "prompt": "Passage 6\nSafety inspections are a routine part of many workplaces. These inspections help identify hazards before accidents occur. During an inspection, equipment may be examined for signs of wear, safety procedures may be reviewed, and work areas may be checked for potential risks.\nSome employees view inspections as interruptions to their normal duties. However, safety professionals emphasize that inspections play an important role in preventing injuries and reducing costly downtime. Problems discovered during an inspection can often be corrected before they lead to larger issues.\nOrganizations that conduct regular inspections often develop a stronger culture of safety because employees become more aware of workplace hazards and prevention strategies.\n\nWhy do some employees dislike inspections?",
+    "choices": {
+      "A": "They require extensive travel.",
+      "B": "They increase wages.",
+      "C": "They interrupt normal work activities.",
+      "D": "They eliminate safety procedures."
+    },
+    "correct": "C",
+    "explanation": "Some employees view inspections as interruptions to their normal duties, which is why they may dislike them."
+  },
+  {
+    "id": "RC1-026",
+    "prompt": "Passage 6\nSafety inspections are a routine part of many workplaces. These inspections help identify hazards before accidents occur. During an inspection, equipment may be examined for signs of wear, safety procedures may be reviewed, and work areas may be checked for potential risks.\nSome employees view inspections as interruptions to their normal duties. However, safety professionals emphasize that inspections play an important role in preventing injuries and reducing costly downtime. Problems discovered during an inspection can often be corrected before they lead to larger issues.\nOrganizations that conduct regular inspections often develop a stronger culture of safety because employees become more aware of workplace hazards and prevention strategies.\n\nWhat inference can reasonably be made from the passage?",
+    "choices": {
+      "A": "Preventing problems early may reduce future costs.",
+      "B": "Safety inspections guarantee that accidents will never occur.",
+      "C": "Employees are unaware of all workplace hazards.",
+      "D": "Most inspections focus on customer service."
+    },
+    "correct": "A",
+    "explanation": "The passage notes that problems found during inspections can often be corrected before they become larger and more costly issues."
+  },
+  {
+    "id": "RC1-027",
+    "prompt": "Passage 6\nSafety inspections are a routine part of many workplaces. These inspections help identify hazards before accidents occur. During an inspection, equipment may be examined for signs of wear, safety procedures may be reviewed, and work areas may be checked for potential risks.\nSome employees view inspections as interruptions to their normal duties. However, safety professionals emphasize that inspections play an important role in preventing injuries and reducing costly downtime. Problems discovered during an inspection can often be corrected before they lead to larger issues.\nOrganizations that conduct regular inspections often develop a stronger culture of safety because employees become more aware of workplace hazards and prevention strategies.\n\nIn the passage, the word “hazards” most nearly means:",
+    "choices": {
+      "A": "Rewards",
+      "B": "Risks",
+      "C": "Tools",
+      "D": "Procedures"
+    },
+    "correct": "B",
+    "explanation": "Context clues show that \"hazards\" refers to conditions that may cause accidents or injuries. \"Risks\" is the closest meaning."
+  },
+  {
+    "id": "RC1-028",
+    "prompt": "Passage 7\nMany communities operate recycling programs to reduce the amount of waste sent to landfills. Materials such as paper, cardboard, glass, aluminum, and certain plastics can often be collected, processed, and used to create new products.\nRecycling offers several benefits. It can reduce the demand for raw materials, conserve energy, and decrease the amount of space required for waste disposal. However, recycling programs are most effective when residents understand and follow local guidelines regarding acceptable materials.\nContamination occurs when non-recyclable items are placed in recycling containers. Contaminated loads may require additional sorting or, in some cases, may be rejected entirely. For this reason, public education remains an important part of successful recycling efforts.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "The history of landfill construction",
+      "B": "The benefits and challenges of recycling programs",
+      "C": "Manufacturing plastic products",
+      "D": "Waste disposal regulations for businesses only"
+    },
+    "correct": "B",
+    "explanation": "The passage discusses both the advantages of recycling and the challenges caused by contamination."
+  },
+  {
+    "id": "RC1-029",
+    "prompt": "Passage 7\nMany communities operate recycling programs to reduce the amount of waste sent to landfills. Materials such as paper, cardboard, glass, aluminum, and certain plastics can often be collected, processed, and used to create new products.\nRecycling offers several benefits. It can reduce the demand for raw materials, conserve energy, and decrease the amount of space required for waste disposal. However, recycling programs are most effective when residents understand and follow local guidelines regarding acceptable materials.\nContamination occurs when non-recyclable items are placed in recycling containers. Contaminated loads may require additional sorting or, in some cases, may be rejected entirely. For this reason, public education remains an important part of successful recycling efforts.\n\nWhich material is identified as commonly recyclable?",
+    "choices": {
+      "A": "Concrete",
+      "B": "Soil",
+      "C": "Aluminum",
+      "D": "Wood framing"
+    },
+    "correct": "C",
+    "explanation": "Aluminum is specifically listed among the materials that are commonly recyclable."
+  },
+  {
+    "id": "RC1-030",
+    "prompt": "Passage 7\nMany communities operate recycling programs to reduce the amount of waste sent to landfills. Materials such as paper, cardboard, glass, aluminum, and certain plastics can often be collected, processed, and used to create new products.\nRecycling offers several benefits. It can reduce the demand for raw materials, conserve energy, and decrease the amount of space required for waste disposal. However, recycling programs are most effective when residents understand and follow local guidelines regarding acceptable materials.\nContamination occurs when non-recyclable items are placed in recycling containers. Contaminated loads may require additional sorting or, in some cases, may be rejected entirely. For this reason, public education remains an important part of successful recycling efforts.\n\nWhat is contamination in the context of the passage?",
+    "choices": {
+      "A": "Creating new products from old materials",
+      "B": "Sending waste to landfills",
+      "C": "Placing non-recyclable items in recycling containers",
+      "D": "Conserving energy"
+    },
+    "correct": "C",
+    "explanation": "The passage defines contamination as the placement of non-recyclable items into recycling containers."
+  },
+  {
+    "id": "RC1-031",
+    "prompt": "Passage 7\nMany communities operate recycling programs to reduce the amount of waste sent to landfills. Materials such as paper, cardboard, glass, aluminum, and certain plastics can often be collected, processed, and used to create new products.\nRecycling offers several benefits. It can reduce the demand for raw materials, conserve energy, and decrease the amount of space required for waste disposal. However, recycling programs are most effective when residents understand and follow local guidelines regarding acceptable materials.\nContamination occurs when non-recyclable items are placed in recycling containers. Contaminated loads may require additional sorting or, in some cases, may be rejected entirely. For this reason, public education remains an important part of successful recycling efforts.\n\nWhy is public education important for recycling programs?",
+    "choices": {
+      "A": "It increases the number of landfills.",
+      "B": "It helps residents follow recycling guidelines correctly.",
+      "C": "It eliminates the need for collection services.",
+      "D": "It reduces the production of raw materials."
+    },
+    "correct": "B",
+    "explanation": "Recycling programs work best when residents understand and correctly follow local recycling guidelines."
+  },
+  {
+    "id": "RC1-032",
+    "prompt": "Passage 7\nMany communities operate recycling programs to reduce the amount of waste sent to landfills. Materials such as paper, cardboard, glass, aluminum, and certain plastics can often be collected, processed, and used to create new products.\nRecycling offers several benefits. It can reduce the demand for raw materials, conserve energy, and decrease the amount of space required for waste disposal. However, recycling programs are most effective when residents understand and follow local guidelines regarding acceptable materials.\nContamination occurs when non-recyclable items are placed in recycling containers. Contaminated loads may require additional sorting or, in some cases, may be rejected entirely. For this reason, public education remains an important part of successful recycling efforts.\n\nWhich benefit of recycling is specifically mentioned?",
+    "choices": {
+      "A": "Increased fuel consumption",
+      "B": "Elimination of all waste",
+      "C": "Reduced demand for raw materials",
+      "D": "Lower housing costs"
+    },
+    "correct": "C",
+    "explanation": "The passage states that recycling can reduce the demand for raw materials."
+  },
+  {
+    "id": "RC1-033",
+    "prompt": "Passage 8\nA company recently introduced a new employee training program for workers hired within the past year. The program combines classroom instruction with hands-on practice. Managers developed the training after reviewing employee feedback and performance data.\nThe classroom portion focuses on company procedures, workplace communication, and safety requirements. During the hands-on portion, employees work alongside experienced staff members who demonstrate job tasks and answer questions.\nCompany leaders believe the program will shorten the learning curve for new employees and improve overall job performance. Early results suggest that participants are becoming productive more quickly than previous groups of new hires.\n\nWhy was the training program developed?",
+    "choices": {
+      "A": "To replace all experienced employees",
+      "B": "After managers reviewed feedback and performance data",
+      "C": "To reduce workplace communication",
+      "D": "To eliminate safety requirements"
+    },
+    "correct": "B",
+    "explanation": "Managers created the training program after reviewing employee feedback and performance data."
+  },
+  {
+    "id": "RC1-034",
+    "prompt": "Passage 8\nA company recently introduced a new employee training program for workers hired within the past year. The program combines classroom instruction with hands-on practice. Managers developed the training after reviewing employee feedback and performance data.\nThe classroom portion focuses on company procedures, workplace communication, and safety requirements. During the hands-on portion, employees work alongside experienced staff members who demonstrate job tasks and answer questions.\nCompany leaders believe the program will shorten the learning curve for new employees and improve overall job performance. Early results suggest that participants are becoming productive more quickly than previous groups of new hires.\n\nWhat occurs during the hands-on portion of training?",
+    "choices": {
+      "A": "Employees study advertising materials.",
+      "B": "Employees work alone without assistance.",
+      "C": "Employees work with experienced staff members.",
+      "D": "Employees complete annual evaluations."
+    },
+    "correct": "C",
+    "explanation": "During the hands-on portion, employees work alongside experienced staff members who demonstrate tasks and answer questions."
+  },
+  {
+    "id": "RC1-035",
+    "prompt": "Passage 8\nA company recently introduced a new employee training program for workers hired within the past year. The program combines classroom instruction with hands-on practice. Managers developed the training after reviewing employee feedback and performance data.\nThe classroom portion focuses on company procedures, workplace communication, and safety requirements. During the hands-on portion, employees work alongside experienced staff members who demonstrate job tasks and answer questions.\nCompany leaders believe the program will shorten the learning curve for new employees and improve overall job performance. Early results suggest that participants are becoming productive more quickly than previous groups of new hires.\n\nWhat outcome do company leaders expect?",
+    "choices": {
+      "A": "Increased learning time for new employees",
+      "B": "Reduced employee productivity",
+      "C": "Shorter learning curves and better performance",
+      "D": "Fewer training opportunities"
+    },
+    "correct": "C",
+    "explanation": "Company leaders believe the program will shorten the learning curve and improve overall job performance."
+  },
+  {
+    "id": "RC1-036",
+    "prompt": "Passage 8\nA company recently introduced a new employee training program for workers hired within the past year. The program combines classroom instruction with hands-on practice. Managers developed the training after reviewing employee feedback and performance data.\nThe classroom portion focuses on company procedures, workplace communication, and safety requirements. During the hands-on portion, employees work alongside experienced staff members who demonstrate job tasks and answer questions.\nCompany leaders believe the program will shorten the learning curve for new employees and improve overall job performance. Early results suggest that participants are becoming productive more quickly than previous groups of new hires.\n\nWhich evidence supports the idea that the program is effective?",
+    "choices": {
+      "A": "The company eliminated classroom instruction.",
+      "B": "Managers reduced hiring.",
+      "C": "Participants appear to become productive more quickly.",
+      "D": "Experienced employees stopped answering questions."
+    },
+    "correct": "C",
+    "explanation": "Early results show that participants are becoming productive more quickly, which supports the effectiveness of the training program."
+  }
+]
