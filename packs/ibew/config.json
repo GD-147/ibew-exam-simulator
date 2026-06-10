@@ -2,7 +2,7 @@
   "examId": "ibew",
   "brandName": "IBEW Aptitude Test Simulator",
   "theme": "dark",
-  "logoPath": "../packs/ibew/assets/logo.png",
+  "logoPath": "../packs/ibew/assets/logo.png?v=2",
   "accessPassword": "IBEWREADY",
   "practiceChunkSize": 10,
   "nav": [
