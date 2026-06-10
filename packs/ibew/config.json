@@ -1,0 +1,34 @@
+{
+  "examId": "ibew",
+  "brandName": "IBEW Aptitude Test Simulator",
+  "theme": "dark",
+  "logoPath": "../packs/ibew/assets/logo.png",
+  "accessPassword": "IBEWREADY",
+  "practiceChunkSize": 10,
+  "nav": [
+    "Home",
+    "Exam Simulator",
+    "Printable Practice Exams"
+  ],
+  "sections": [
+    {
+      "id": "algebra-functions",
+      "label": "Algebra and Functions",
+      "timeMin": 46,
+      "examQuestions": 33,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    },
+    {
+      "id": "reading-comprehension",
+      "label": "Reading Comprehension",
+      "timeMin": 51,
+      "examQuestions": 36,
+      "type": "mcq",
+      "choices": 4,
+      "examFiles": []
+    }
+  ],
+  "printables": []
+}
