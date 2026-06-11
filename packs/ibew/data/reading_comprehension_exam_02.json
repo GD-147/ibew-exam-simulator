@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC2-001",
+    "prompt": "Passage 1\nA distribution center recently adopted handheld scanning devices to track inventory. Previously, employees recorded product information on paper forms and later entered the data into a computer system. Managers found that the process was time-consuming and occasionally resulted in data-entry errors.\nWith the new devices, employees scan barcodes as products move through the facility. The information is transmitted directly to the inventory database. Supervisors report that inventory records are updated more quickly, and employees spend less time completing paperwork.\nThe company also uses the system to identify trends in product movement. By reviewing the data, managers can determine which items are shipped most frequently and adjust storage locations accordingly. Although training was required before implementation, most employees adapted to the new system within a few weeks.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company plans to eliminate inventory tracking.",
+      "B": "A distribution center improved inventory management by adopting scanning technology.",
+      "C": "Employees opposed all technology changes.",
+      "D": "Paper records are more accurate than digital records."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how a distribution center improved inventory tracking and efficiency by adopting handheld scanning devices. The other choices are not supported by the passage."
+  },
+  {
+    "id": "RC2-002",
+    "prompt": "Passage 1\nA distribution center recently adopted handheld scanning devices to track inventory. Previously, employees recorded product information on paper forms and later entered the data into a computer system. Managers found that the process was time-consuming and occasionally resulted in data-entry errors.\nWith the new devices, employees scan barcodes as products move through the facility. The information is transmitted directly to the inventory database. Supervisors report that inventory records are updated more quickly, and employees spend less time completing paperwork.\nThe company also uses the system to identify trends in product movement. By reviewing the data, managers can determine which items are shipped most frequently and adjust storage locations accordingly. Although training was required before implementation, most employees adapted to the new system within a few weeks.\n\nWhat problem existed with the previous system?",
+    "choices": {
+      "A": "Products could not be shipped.",
+      "B": "Employees lacked barcode labels.",
+      "C": "Data-entry errors sometimes occurred.",
+      "D": "Inventory was counted only once per year."
+    },
+    "correct": "C",
+    "explanation": "Managers found that the old paper-based process occasionally resulted in data-entry errors after information was transferred into the computer system."
+  },
+  {
+    "id": "RC2-003",
+    "prompt": "Passage 1\nA distribution center recently adopted handheld scanning devices to track inventory. Previously, employees recorded product information on paper forms and later entered the data into a computer system. Managers found that the process was time-consuming and occasionally resulted in data-entry errors.\nWith the new devices, employees scan barcodes as products move through the facility. The information is transmitted directly to the inventory database. Supervisors report that inventory records are updated more quickly, and employees spend less time completing paperwork.\nThe company also uses the system to identify trends in product movement. By reviewing the data, managers can determine which items are shipped most frequently and adjust storage locations accordingly. Although training was required before implementation, most employees adapted to the new system within a few weeks.\n\nWhat happens when products are scanned?",
+    "choices": {
+      "A": "Employees complete additional paperwork.",
+      "B": "Information is sent directly to the inventory database.",
+      "C": "Products are automatically shipped.",
+      "D": "Managers approve each transaction."
+    },
+    "correct": "B",
+    "explanation": "The passage states that scanned barcode information is transmitted directly to the inventory database."
+  },
+  {
+    "id": "RC2-004",
+    "prompt": "Passage 1\nA distribution center recently adopted handheld scanning devices to track inventory. Previously, employees recorded product information on paper forms and later entered the data into a computer system. Managers found that the process was time-consuming and occasionally resulted in data-entry errors.\nWith the new devices, employees scan barcodes as products move through the facility. The information is transmitted directly to the inventory database. Supervisors report that inventory records are updated more quickly, and employees spend less time completing paperwork.\nThe company also uses the system to identify trends in product movement. By reviewing the data, managers can determine which items are shipped most frequently and adjust storage locations accordingly. Although training was required before implementation, most employees adapted to the new system within a few weeks.\n\nAccording to the passage, how do managers use the collected data?",
+    "choices": {
+      "A": "To determine employee salaries",
+      "B": "To schedule vacations",
+      "C": "To identify product movement trends",
+      "D": "To design packaging materials"
+    },
+    "correct": "C",
+    "explanation": "Managers review the collected data to identify trends in product movement and make storage decisions accordingly."
+  },
+  {
+    "id": "RC2-005",
+    "prompt": "Passage 1\nA distribution center recently adopted handheld scanning devices to track inventory. Previously, employees recorded product information on paper forms and later entered the data into a computer system. Managers found that the process was time-consuming and occasionally resulted in data-entry errors.\nWith the new devices, employees scan barcodes as products move through the facility. The information is transmitted directly to the inventory database. Supervisors report that inventory records are updated more quickly, and employees spend less time completing paperwork.\nThe company also uses the system to identify trends in product movement. By reviewing the data, managers can determine which items are shipped most frequently and adjust storage locations accordingly. Although training was required before implementation, most employees adapted to the new system within a few weeks.\n\nThe word \"adapted\" most nearly means:",
+    "choices": {
+      "A": "Resisted",
+      "B": "Complained",
+      "C": "Adjusted",
+      "D": "Recorded"
+    },
+    "correct": "C",
+    "explanation": "In context, \"adapted\" means employees adjusted to or became comfortable with the new system after training."
+  },
+  {
+    "id": "RC2-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 1, the company cafeteria will operate under revised hours. Breakfast service will be available from 6:00 a.m. to 8:30 a.m., and lunch service will be available from 11:00 a.m. to 1:30 p.m.\nThe changes were made after a review of customer traffic patterns. Data showed that cafeteria usage outside these periods was very low. Concentrating service during peak hours will allow staff to improve efficiency while continuing to meet employee needs.\nEmployees are encouraged to provide feedback during the first month of the new schedule.\n\nWhy were the cafeteria hours changed?",
+    "choices": {
+      "A": "The cafeteria is being permanently closed.",
+      "B": "Customer traffic patterns were reviewed.",
+      "C": "Employees requested longer dinner hours.",
+      "D": "The building is under construction."
+    },
+    "correct": "B",
+    "explanation": "The notice explains that cafeteria hours were changed after a review of customer traffic patterns."
+  },
+  {
+    "id": "RC2-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 1, the company cafeteria will operate under revised hours. Breakfast service will be available from 6:00 a.m. to 8:30 a.m., and lunch service will be available from 11:00 a.m. to 1:30 p.m.\nThe changes were made after a review of customer traffic patterns. Data showed that cafeteria usage outside these periods was very low. Concentrating service during peak hours will allow staff to improve efficiency while continuing to meet employee needs.\nEmployees are encouraged to provide feedback during the first month of the new schedule.\n\nWhen will lunch service be available?",
+    "choices": {
+      "A": "10:00 a.m. to 12:00 p.m.",
+      "B": "11:00 a.m. to 1:30 p.m.",
+      "C": "12:00 p.m. to 3:00 p.m.",
+      "D": "1:00 p.m. to 4:00 p.m."
+    },
+    "correct": "B",
+    "explanation": "Lunch service will be available from 11:00 a.m. to 1:30 p.m., according to the notice."
+  },
+  {
+    "id": "RC2-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 1, the company cafeteria will operate under revised hours. Breakfast service will be available from 6:00 a.m. to 8:30 a.m., and lunch service will be available from 11:00 a.m. to 1:30 p.m.\nThe changes were made after a review of customer traffic patterns. Data showed that cafeteria usage outside these periods was very low. Concentrating service during peak hours will allow staff to improve efficiency while continuing to meet employee needs.\nEmployees are encouraged to provide feedback during the first month of the new schedule.\n\nWhat did the review reveal?",
+    "choices": {
+      "A": "Employees wanted more menu options.",
+      "B": "Cafeteria equipment needed replacement.",
+      "C": "Usage outside peak periods was low.",
+      "D": "Breakfast service was unpopular."
+    },
+    "correct": "C",
+    "explanation": "The review showed that cafeteria usage outside peak service periods was very low."
+  },
+  {
+    "id": "RC2-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 1, the company cafeteria will operate under revised hours. Breakfast service will be available from 6:00 a.m. to 8:30 a.m., and lunch service will be available from 11:00 a.m. to 1:30 p.m.\nThe changes were made after a review of customer traffic patterns. Data showed that cafeteria usage outside these periods was very low. Concentrating service during peak hours will allow staff to improve efficiency while continuing to meet employee needs.\nEmployees are encouraged to provide feedback during the first month of the new schedule.\n\nWhat is the primary purpose of this notice?",
+    "choices": {
+      "A": "To announce changes to cafeteria operating hours",
+      "B": "To recruit cafeteria employees",
+      "C": "To introduce a new menu",
+      "D": "To explain food safety regulations"
+    },
+    "correct": "A",
+    "explanation": "The primary purpose of the notice is to inform employees about revised cafeteria operating hours."
+  },
+  {
+    "id": "RC2-010",
+    "prompt": "Passage 3\nMany cities have installed electronic message boards along major roads. These signs can display information about traffic conditions, construction zones, weather-related hazards, and emergency situations.\nOne advantage of electronic message boards is flexibility. Unlike traditional printed signs, electronic displays can be updated quickly as conditions change. Drivers can receive current information that may help them avoid delays or hazardous situations.\nTransportation officials note that the effectiveness of these signs depends on clear communication. Messages must be concise enough for drivers to read safely while still providing useful information.\nAs technology improves, some transportation agencies are exploring ways to integrate message boards with other traffic-management systems to improve the flow of information.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Electronic message boards provide drivers with updated information.",
+      "B": "Traditional signs are illegal in most cities.",
+      "C": "Road construction causes all traffic delays.",
+      "D": "Weather forecasting is becoming less important."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how electronic message boards provide updated information to drivers and discusses their benefits."
+  },
+  {
+    "id": "RC2-011",
+    "prompt": "Passage 3\nMany cities have installed electronic message boards along major roads. These signs can display information about traffic conditions, construction zones, weather-related hazards, and emergency situations.\nOne advantage of electronic message boards is flexibility. Unlike traditional printed signs, electronic displays can be updated quickly as conditions change. Drivers can receive current information that may help them avoid delays or hazardous situations.\nTransportation officials note that the effectiveness of these signs depends on clear communication. Messages must be concise enough for drivers to read safely while still providing useful information.\nAs technology improves, some transportation agencies are exploring ways to integrate message boards with other traffic-management systems to improve the flow of information.\n\nWhat advantage of electronic signs is specifically mentioned?",
+    "choices": {
+      "A": "They never require maintenance.",
+      "B": "They can be updated quickly.",
+      "C": "They reduce fuel consumption directly.",
+      "D": "They eliminate traffic congestion."
+    },
+    "correct": "B",
+    "explanation": "A major advantage mentioned is that electronic displays can be updated quickly when conditions change."
+  },
+  {
+    "id": "RC2-012",
+    "prompt": "Passage 3\nMany cities have installed electronic message boards along major roads. These signs can display information about traffic conditions, construction zones, weather-related hazards, and emergency situations.\nOne advantage of electronic message boards is flexibility. Unlike traditional printed signs, electronic displays can be updated quickly as conditions change. Drivers can receive current information that may help them avoid delays or hazardous situations.\nTransportation officials note that the effectiveness of these signs depends on clear communication. Messages must be concise enough for drivers to read safely while still providing useful information.\nAs technology improves, some transportation agencies are exploring ways to integrate message boards with other traffic-management systems to improve the flow of information.\n\nWhy must messages be concise?",
+    "choices": {
+      "A": "Printing costs are expensive.",
+      "B": "Drivers need to read them safely.",
+      "C": "Electronic signs have no storage capacity.",
+      "D": "Transportation officials prefer short words."
+    },
+    "correct": "B",
+    "explanation": "Transportation officials want messages to be concise so drivers can read them safely while driving."
+  },
+  {
+    "id": "RC2-013",
+    "prompt": "Passage 3\nMany cities have installed electronic message boards along major roads. These signs can display information about traffic conditions, construction zones, weather-related hazards, and emergency situations.\nOne advantage of electronic message boards is flexibility. Unlike traditional printed signs, electronic displays can be updated quickly as conditions change. Drivers can receive current information that may help them avoid delays or hazardous situations.\nTransportation officials note that the effectiveness of these signs depends on clear communication. Messages must be concise enough for drivers to read safely while still providing useful information.\nAs technology improves, some transportation agencies are exploring ways to integrate message boards with other traffic-management systems to improve the flow of information.\n\nWhich type of information may appear on the signs?",
+    "choices": {
+      "A": "Stock market prices",
+      "B": "Employee schedules",
+      "C": "Traffic conditions",
+      "D": "Retail advertisements only"
+    },
+    "correct": "C",
+    "explanation": "The passage specifically lists traffic conditions as one type of information displayed on electronic message boards."
+  },
+  {
+    "id": "RC2-014",
+    "prompt": "Passage 3\nMany cities have installed electronic message boards along major roads. These signs can display information about traffic conditions, construction zones, weather-related hazards, and emergency situations.\nOne advantage of electronic message boards is flexibility. Unlike traditional printed signs, electronic displays can be updated quickly as conditions change. Drivers can receive current information that may help them avoid delays or hazardous situations.\nTransportation officials note that the effectiveness of these signs depends on clear communication. Messages must be concise enough for drivers to read safely while still providing useful information.\nAs technology improves, some transportation agencies are exploring ways to integrate message boards with other traffic-management systems to improve the flow of information.\n\nWhat can reasonably be inferred from the passage?",
+    "choices": {
+      "A": "Communication effectiveness is important to the usefulness of message boards.",
+      "B": "Electronic signs are replacing all traffic lights.",
+      "C": "Drivers ignore electronic signs.",
+      "D": "Road conditions never change quickly."
+    },
+    "correct": "A",
+    "explanation": "The passage states that effectiveness depends on clear communication, supporting the conclusion that communication quality is important."
+  },
+  {
+    "id": "RC2-015",
+    "prompt": "Passage 4\nIn the early days of commercial refrigeration, businesses faced significant challenges when transporting food over long distances. Perishable products often spoiled before reaching customers, limiting the size of potential markets.\nThe development of reliable refrigerated transportation changed this situation dramatically. Railcars, trucks, and later shipping containers equipped with refrigeration systems allowed products to remain fresh for longer periods. Businesses gained access to wider markets, and consumers had access to a greater variety of foods throughout the year.\nToday, refrigerated transportation remains an important part of global supply chains. Companies continue to invest in technologies that improve temperature control and monitoring during shipment.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Food transportation is no longer necessary.",
+      "B": "Refrigerated transportation transformed the movement of perishable goods.",
+      "C": "Railroads are the only method of shipping food.",
+      "D": "Consumers prefer locally produced food."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how refrigerated transportation transformed the movement and distribution of perishable goods."
+  },
+  {
+    "id": "RC2-016",
+    "prompt": "Passage 4\nIn the early days of commercial refrigeration, businesses faced significant challenges when transporting food over long distances. Perishable products often spoiled before reaching customers, limiting the size of potential markets.\nThe development of reliable refrigerated transportation changed this situation dramatically. Railcars, trucks, and later shipping containers equipped with refrigeration systems allowed products to remain fresh for longer periods. Businesses gained access to wider markets, and consumers had access to a greater variety of foods throughout the year.\nToday, refrigerated transportation remains an important part of global supply chains. Companies continue to invest in technologies that improve temperature control and monitoring during shipment.\n\nWhat problem existed before reliable refrigerated transportation?",
+    "choices": {
+      "A": "Products spoiled before reaching customers.",
+      "B": "Railroads did not exist.",
+      "C": "Food could not be packaged.",
+      "D": "Businesses produced too little food."
+    },
+    "correct": "A",
+    "explanation": "Before refrigeration technology, many food products spoiled before reaching customers."
+  },
+  {
+    "id": "RC2-017",
+    "prompt": "Passage 4\nIn the early days of commercial refrigeration, businesses faced significant challenges when transporting food over long distances. Perishable products often spoiled before reaching customers, limiting the size of potential markets.\nThe development of reliable refrigerated transportation changed this situation dramatically. Railcars, trucks, and later shipping containers equipped with refrigeration systems allowed products to remain fresh for longer periods. Businesses gained access to wider markets, and consumers had access to a greater variety of foods throughout the year.\nToday, refrigerated transportation remains an important part of global supply chains. Companies continue to invest in technologies that improve temperature control and monitoring during shipment.\n\nAccording to the passage, what was one result of refrigeration technology?",
+    "choices": {
+      "A": "Fewer food choices for consumers",
+      "B": "Reduced access to markets",
+      "C": "Greater variety of foods available to consumers",
+      "D": "Elimination of shipping costs"
+    },
+    "correct": "C",
+    "explanation": "The passage states that consumers gained access to a greater variety of foods throughout the year."
+  },
+  {
+    "id": "RC2-018",
+    "prompt": "Passage 4\nIn the early days of commercial refrigeration, businesses faced significant challenges when transporting food over long distances. Perishable products often spoiled before reaching customers, limiting the size of potential markets.\nThe development of reliable refrigerated transportation changed this situation dramatically. Railcars, trucks, and later shipping containers equipped with refrigeration systems allowed products to remain fresh for longer periods. Businesses gained access to wider markets, and consumers had access to a greater variety of foods throughout the year.\nToday, refrigerated transportation remains an important part of global supply chains. Companies continue to invest in technologies that improve temperature control and monitoring during shipment.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "Comparison and contrast",
+      "B": "Cause and effect over time",
+      "C": "Step-by-step instructions",
+      "D": "Question and answer format"
+    },
+    "correct": "B",
+    "explanation": "The passage describes a problem, explains the development of refrigeration technology, and then discusses its effects over time."
+  },
+  {
+    "id": "RC2-019",
+    "prompt": "Passage 5\nA large office building recently introduced a digital visitor management system. Previously, guests signed a paper logbook when entering the building. Security personnel then manually notified employees that their visitors had arrived.\nUnder the new system, visitors enter their information on a touchscreen kiosk located in the lobby. The system prints a temporary identification badge and automatically sends a notification to the employee being visited. Building management reports that check-in times have decreased and recordkeeping has become more accurate.\nThe system also allows security staff to quickly identify who is in the building during an emergency. While some visitors required assistance during the first few weeks, usage became smoother as people became familiar with the process.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The building eliminated all security procedures.",
+      "B": "A digital visitor management system improved building operations.",
+      "C": "Employees no longer receive visitors.",
+      "D": "Paper records are required by law."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on the implementation of a digital visitor management system and its benefits."
+  },
+  {
+    "id": "RC2-020",
+    "prompt": "Passage 5\nA large office building recently introduced a digital visitor management system. Previously, guests signed a paper logbook when entering the building. Security personnel then manually notified employees that their visitors had arrived.\nUnder the new system, visitors enter their information on a touchscreen kiosk located in the lobby. The system prints a temporary identification badge and automatically sends a notification to the employee being visited. Building management reports that check-in times have decreased and recordkeeping has become more accurate.\nThe system also allows security staff to quickly identify who is in the building during an emergency. While some visitors required assistance during the first few weeks, usage became smoother as people became familiar with the process.\n\nHow did visitors check in before the new system?",
+    "choices": {
+      "A": "Through a mobile application",
+      "B": "By calling employees directly",
+      "C": "By signing a paper logbook",
+      "D": "Through a security interview"
+    },
+    "correct": "C",
+    "explanation": "Before the new system, visitors checked in by signing a paper logbook."
+  },
+  {
+    "id": "RC2-021",
+    "prompt": "Passage 5\nA large office building recently introduced a digital visitor management system. Previously, guests signed a paper logbook when entering the building. Security personnel then manually notified employees that their visitors had arrived.\nUnder the new system, visitors enter their information on a touchscreen kiosk located in the lobby. The system prints a temporary identification badge and automatically sends a notification to the employee being visited. Building management reports that check-in times have decreased and recordkeeping has become more accurate.\nThe system also allows security staff to quickly identify who is in the building during an emergency. While some visitors required assistance during the first few weeks, usage became smoother as people became familiar with the process.\n\nWhat does the new system automatically do?",
+    "choices": {
+      "A": "Assign office space",
+      "B": "Send a notification to the employee being visited",
+      "C": "Approve building purchases",
+      "D": "Schedule future meetings"
+    },
+    "correct": "B",
+    "explanation": "The system automatically notifies the employee being visited after the visitor checks in."
+  },
+  {
+    "id": "RC2-022",
+    "prompt": "Passage 5\nA large office building recently introduced a digital visitor management system. Previously, guests signed a paper logbook when entering the building. Security personnel then manually notified employees that their visitors had arrived.\nUnder the new system, visitors enter their information on a touchscreen kiosk located in the lobby. The system prints a temporary identification badge and automatically sends a notification to the employee being visited. Building management reports that check-in times have decreased and recordkeeping has become more accurate.\nThe system also allows security staff to quickly identify who is in the building during an emergency. While some visitors required assistance during the first few weeks, usage became smoother as people became familiar with the process.\n\nAccording to the passage, what benefit does the system provide during emergencies?",
+    "choices": {
+      "A": "It can identify who is in the building.",
+      "B": "It automatically contacts emergency services.",
+      "C": "It locks all office doors.",
+      "D": "It provides transportation routes."
+    },
+    "correct": "A",
+    "explanation": "The passage states that security staff can quickly identify who is inside the building during an emergency."
+  },
+  {
+    "id": "RC2-023",
+    "prompt": "Passage 5\nA large office building recently introduced a digital visitor management system. Previously, guests signed a paper logbook when entering the building. Security personnel then manually notified employees that their visitors had arrived.\nUnder the new system, visitors enter their information on a touchscreen kiosk located in the lobby. The system prints a temporary identification badge and automatically sends a notification to the employee being visited. Building management reports that check-in times have decreased and recordkeeping has become more accurate.\nThe system also allows security staff to quickly identify who is in the building during an emergency. While some visitors required assistance during the first few weeks, usage became smoother as people became familiar with the process.\n\nThe word “familiar” most nearly means:",
+    "choices": {
+      "A": "Confused by",
+      "B": "Experienced with",
+      "C": "Opposed to",
+      "D": "Responsible for"
+    },
+    "correct": "B",
+    "explanation": "In context, \"familiar\" means becoming experienced with or accustomed to the process."
+  },
+  {
+    "id": "RC2-024",
+    "prompt": "Passage 6\nMany companies use preventive maintenance programs to reduce equipment breakdowns. Instead of waiting for machinery to fail, technicians inspect, clean, lubricate, and service equipment according to a planned schedule.\nSupporters of preventive maintenance argue that routine service helps identify problems before they become serious. A worn component, for example, may be replaced during a scheduled inspection rather than after it causes a shutdown.\nAlthough preventive maintenance requires time and resources, many organizations believe the investment is worthwhile because it reduces unexpected downtime and extends equipment life.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Equipment should only be repaired after failure.",
+      "B": "Preventive maintenance helps reduce equipment problems and downtime.",
+      "C": "Machinery no longer requires inspections.",
+      "D": "Equipment replacement is always less expensive than maintenance."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how preventive maintenance helps reduce equipment breakdowns and downtime."
+  },
+  {
+    "id": "RC2-025",
+    "prompt": "Passage 6\nMany companies use preventive maintenance programs to reduce equipment breakdowns. Instead of waiting for machinery to fail, technicians inspect, clean, lubricate, and service equipment according to a planned schedule.\nSupporters of preventive maintenance argue that routine service helps identify problems before they become serious. A worn component, for example, may be replaced during a scheduled inspection rather than after it causes a shutdown.\nAlthough preventive maintenance requires time and resources, many organizations believe the investment is worthwhile because it reduces unexpected downtime and extends equipment life.\n\nWhat is preventive maintenance?",
+    "choices": {
+      "A": "Waiting for equipment to fail before taking action",
+      "B": "Replacing all equipment every year",
+      "C": "Servicing equipment according to a planned schedule",
+      "D": "Inspecting equipment only during emergencies"
+    },
+    "correct": "C",
+    "explanation": "Preventive maintenance involves inspecting and servicing equipment according to a planned schedule."
+  },
+  {
+    "id": "RC2-026",
+    "prompt": "Passage 6\nMany companies use preventive maintenance programs to reduce equipment breakdowns. Instead of waiting for machinery to fail, technicians inspect, clean, lubricate, and service equipment according to a planned schedule.\nSupporters of preventive maintenance argue that routine service helps identify problems before they become serious. A worn component, for example, may be replaced during a scheduled inspection rather than after it causes a shutdown.\nAlthough preventive maintenance requires time and resources, many organizations believe the investment is worthwhile because it reduces unexpected downtime and extends equipment life.\n\nWhy might a worn component be replaced during an inspection?",
+    "choices": {
+      "A": "To avoid a future shutdown",
+      "B": "To increase energy usage",
+      "C": "To reduce inspection frequency",
+      "D": "To eliminate training requirements"
+    },
+    "correct": "A",
+    "explanation": "Replacing a worn component early can prevent a larger problem that might shut down equipment later."
+  },
+  {
+    "id": "RC2-027",
+    "prompt": "Passage 6\nMany companies use preventive maintenance programs to reduce equipment breakdowns. Instead of waiting for machinery to fail, technicians inspect, clean, lubricate, and service equipment according to a planned schedule.\nSupporters of preventive maintenance argue that routine service helps identify problems before they become serious. A worn component, for example, may be replaced during a scheduled inspection rather than after it causes a shutdown.\nAlthough preventive maintenance requires time and resources, many organizations believe the investment is worthwhile because it reduces unexpected downtime and extends equipment life.\n\nWhat benefit is specifically mentioned?",
+    "choices": {
+      "A": "Elimination of all repair costs",
+      "B": "Reduced unexpected downtime",
+      "C": "Shorter workdays",
+      "D": "Increased product prices"
+    },
+    "correct": "B",
+    "explanation": "The passage specifically mentions reduced unexpected downtime as a benefit of preventive maintenance."
+  },
+  {
+    "id": "RC2-028",
+    "prompt": "Passage 6\nMany companies use preventive maintenance programs to reduce equipment breakdowns. Instead of waiting for machinery to fail, technicians inspect, clean, lubricate, and service equipment according to a planned schedule.\nSupporters of preventive maintenance argue that routine service helps identify problems before they become serious. A worn component, for example, may be replaced during a scheduled inspection rather than after it causes a shutdown.\nAlthough preventive maintenance requires time and resources, many organizations believe the investment is worthwhile because it reduces unexpected downtime and extends equipment life.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Preventive maintenance requires effort but may save money and time later.",
+      "B": "Equipment failures are impossible to predict.",
+      "C": "Inspections rarely identify problems.",
+      "D": "Organizations prefer emergency repairs."
+    },
+    "correct": "A",
+    "explanation": "Although preventive maintenance requires resources, the passage suggests that the long-term benefits often outweigh the costs."
+  },
+  {
+    "id": "RC2-029",
+    "prompt": "Passage 7\nFor decades, weather forecasting relied heavily on observations collected from ground stations, ships, and weather balloons. While these sources provided valuable information, coverage was limited in some regions.\nThe introduction of weather satellites greatly expanded the amount of data available to meteorologists. Satellites can monitor cloud patterns, storm development, and atmospheric conditions across large areas. This information is combined with data from traditional sources to create forecasts.\nAlthough forecasts are not always perfect, advances in technology have generally improved forecasting accuracy. Better forecasts can help individuals, businesses, and emergency planners make informed decisions.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Why weather forecasting should be discontinued",
+      "B": "How satellites improved weather forecasting",
+      "C": "The construction of weather balloons",
+      "D": "The causes of climate change"
+    },
+    "correct": "B",
+    "explanation": "The passage primarily discusses how weather satellites improved forecasting by increasing available data."
+  },
+  {
+    "id": "RC2-030",
+    "prompt": "Passage 7\nFor decades, weather forecasting relied heavily on observations collected from ground stations, ships, and weather balloons. While these sources provided valuable information, coverage was limited in some regions.\nThe introduction of weather satellites greatly expanded the amount of data available to meteorologists. Satellites can monitor cloud patterns, storm development, and atmospheric conditions across large areas. This information is combined with data from traditional sources to create forecasts.\nAlthough forecasts are not always perfect, advances in technology have generally improved forecasting accuracy. Better forecasts can help individuals, businesses, and emergency planners make informed decisions.\n\nWhat limitation existed before weather satellites?",
+    "choices": {
+      "A": "Forecasts were produced only once a year.",
+      "B": "Ground observations covered every location equally.",
+      "C": "Some regions had limited coverage.",
+      "D": "Meteorologists lacked thermometers."
+    },
+    "correct": "C",
+    "explanation": "Before satellites, some geographic areas had limited weather observation coverage."
+  },
+  {
+    "id": "RC2-031",
+    "prompt": "Passage 7\nFor decades, weather forecasting relied heavily on observations collected from ground stations, ships, and weather balloons. While these sources provided valuable information, coverage was limited in some regions.\nThe introduction of weather satellites greatly expanded the amount of data available to meteorologists. Satellites can monitor cloud patterns, storm development, and atmospheric conditions across large areas. This information is combined with data from traditional sources to create forecasts.\nAlthough forecasts are not always perfect, advances in technology have generally improved forecasting accuracy. Better forecasts can help individuals, businesses, and emergency planners make informed decisions.\n\nWhat do satellites monitor?",
+    "choices": {
+      "A": "Employee attendance",
+      "B": "Cloud patterns and storm development",
+      "C": "Shipping schedules",
+      "D": "Agricultural prices"
+    },
+    "correct": "B",
+    "explanation": "Satellites monitor cloud patterns, storm development, and atmospheric conditions."
+  },
+  {
+    "id": "RC2-032",
+    "prompt": "Passage 7\nFor decades, weather forecasting relied heavily on observations collected from ground stations, ships, and weather balloons. While these sources provided valuable information, coverage was limited in some regions.\nThe introduction of weather satellites greatly expanded the amount of data available to meteorologists. Satellites can monitor cloud patterns, storm development, and atmospheric conditions across large areas. This information is combined with data from traditional sources to create forecasts.\nAlthough forecasts are not always perfect, advances in technology have generally improved forecasting accuracy. Better forecasts can help individuals, businesses, and emergency planners make informed decisions.\n\nAccording to the passage, forecasts today are:",
+    "choices": {
+      "A": "Perfectly accurate",
+      "B": "Less accurate than before",
+      "C": "Generally improved by advances in technology",
+      "D": "Based only on satellite data"
+    },
+    "correct": "C",
+    "explanation": "The passage notes that technological advances have generally improved forecasting accuracy."
+  },
+  {
+    "id": "RC2-033",
+    "prompt": "Passage 8\nA city transportation department recently completed a study of bicycle commuting patterns. The study examined how frequently residents used bicycles for travel to work and which factors influenced participation.\nResearchers found that bicycle commuting was more common in areas with connected bike lanes and secure bicycle parking. Survey responses also indicated that many commuters valued predictable travel times and reduced transportation costs.\nBased on the findings, city officials announced plans to expand sections of the bicycle network and install additional parking facilities. Officials stated that the goal is to provide residents with more transportation options rather than replace existing modes of travel.\n\nWhat was the purpose of the study?",
+    "choices": {
+      "A": "To determine how residents commute by bicycle and what affects participation",
+      "B": "To measure automobile fuel efficiency",
+      "C": "To evaluate local schools",
+      "D": "To reduce public transportation services"
+    },
+    "correct": "A",
+    "explanation": "The study examined bicycle commuting rates and the factors influencing participation."
+  },
+  {
+    "id": "RC2-034",
+    "prompt": "Passage 8\nA city transportation department recently completed a study of bicycle commuting patterns. The study examined how frequently residents used bicycles for travel to work and which factors influenced participation.\nResearchers found that bicycle commuting was more common in areas with connected bike lanes and secure bicycle parking. Survey responses also indicated that many commuters valued predictable travel times and reduced transportation costs.\nBased on the findings, city officials announced plans to expand sections of the bicycle network and install additional parking facilities. Officials stated that the goal is to provide residents with more transportation options rather than replace existing modes of travel.\n\nWhich factor was associated with higher bicycle commuting rates?",
+    "choices": {
+      "A": "Higher parking fees",
+      "B": "Connected bike lanes",
+      "C": "Reduced road maintenance",
+      "D": "Longer travel distances"
+    },
+    "correct": "B",
+    "explanation": "Researchers found that connected bike lanes were associated with higher bicycle commuting rates."
+  },
+  {
+    "id": "RC2-035",
+    "prompt": "Passage 8\nA city transportation department recently completed a study of bicycle commuting patterns. The study examined how frequently residents used bicycles for travel to work and which factors influenced participation.\nResearchers found that bicycle commuting was more common in areas with connected bike lanes and secure bicycle parking. Survey responses also indicated that many commuters valued predictable travel times and reduced transportation costs.\nBased on the findings, city officials announced plans to expand sections of the bicycle network and install additional parking facilities. Officials stated that the goal is to provide residents with more transportation options rather than replace existing modes of travel.\n\nWhat action did city officials announce?",
+    "choices": {
+      "A": "Closing bicycle lanes",
+      "B": "Replacing all transportation systems",
+      "C": "Expanding parts of the bicycle network",
+      "D": "Eliminating commuter surveys"
+    },
+    "correct": "C",
+    "explanation": "Based on the study, officials announced plans to expand parts of the bicycle network."
+  },
+  {
+    "id": "RC2-036",
+    "prompt": "Passage 8\nA city transportation department recently completed a study of bicycle commuting patterns. The study examined how frequently residents used bicycles for travel to work and which factors influenced participation.\nResearchers found that bicycle commuting was more common in areas with connected bike lanes and secure bicycle parking. Survey responses also indicated that many commuters valued predictable travel times and reduced transportation costs.\nBased on the findings, city officials announced plans to expand sections of the bicycle network and install additional parking facilities. Officials stated that the goal is to provide residents with more transportation options rather than replace existing modes of travel.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Officials want bicycles to become the only form of transportation.",
+      "B": "Survey participants opposed bicycle commuting.",
+      "C": "Infrastructure can influence transportation choices.",
+      "D": "Bicycle commuting is declining in every area studied."
+    },
+    "correct": "C",
+    "explanation": "The findings show that connected bike lanes and parking facilities influence how people choose to travel."
+  }
+]

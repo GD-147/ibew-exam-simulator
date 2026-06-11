@@ -19,7 +19,8 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "algebra_functions_exam_01.json"
+        "algebra_functions_exam_01.json",
+        "algebra_functions_exam_02.json"
       ]
     },
     {
@@ -30,7 +31,8 @@
       "type": "mcq",
       "choices": 4,
       "examFiles": [
-        "reading_comprehension_exam_01.json"
+        "reading_comprehension_exam_01.json",
+        "reading_comprehension_exam_02.json"
       ]
     }
   ],
@@ -42,6 +44,14 @@
     {
       "label": "Reading Comprehension Practice Exam 1",
       "file": "reading_comprehension_exam_01.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 2",
+      "file": "algebra_functions_exam_02.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 2",
+      "file": "reading_comprehension_exam_02.pdf"
     }
   ]
 }
