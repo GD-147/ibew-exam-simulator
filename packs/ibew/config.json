@@ -4,7 +4,7 @@
   "theme": "dark",
   "logoPath": "../packs/ibew/assets/logo.png?v=2",
   "accessPassword": "IBEWREADY",
-  "practiceChunkSize": 10,
+  "practiceChunkSize": 30,
   "nav": [
     "Home",
     "Exam Simulator",
