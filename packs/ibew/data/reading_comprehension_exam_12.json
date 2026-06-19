@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC12-001",
+    "prompt": "Passage 1\nA regional electrical supply warehouse recently changed how it handles low-stock alerts. Previously, employees checked shelf quantities at the end of each week and reported items that appeared to be running low. This process worked for slower-moving products, but fast-moving items could sell out before the next weekly check.\nThe warehouse now uses an inventory system that sends automatic alerts when certain products fall below a set quantity. Purchasing staff can review the alerts each morning and decide whether to reorder items. The system also allows managers to adjust alert levels for products that sell more quickly during certain seasons.\nSince the change, the warehouse has reduced the number of times commonly requested items are unavailable. Managers believe the system helps them respond sooner to changes in demand.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The warehouse stopped selling fast-moving products.",
+      "B": "Automatic low-stock alerts helped the warehouse manage inventory more effectively.",
+      "C": "Employees now check shelf quantities only once per year.",
+      "D": "Purchasing staff no longer review inventory needs."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how automatic low-stock alerts help the warehouse reorder sooner and reduce unavailable items."
+  },
+  {
+    "id": "RC12-002",
+    "prompt": "Passage 1\nA regional electrical supply warehouse recently changed how it handles low-stock alerts. Previously, employees checked shelf quantities at the end of each week and reported items that appeared to be running low. This process worked for slower-moving products, but fast-moving items could sell out before the next weekly check.\nThe warehouse now uses an inventory system that sends automatic alerts when certain products fall below a set quantity. Purchasing staff can review the alerts each morning and decide whether to reorder items. The system also allows managers to adjust alert levels for products that sell more quickly during certain seasons.\nSince the change, the warehouse has reduced the number of times commonly requested items are unavailable. Managers believe the system helps them respond sooner to changes in demand.\n\nWhat problem occurred with the previous weekly checking process?",
+    "choices": {
+      "A": "Fast-moving items could sell out before the next check.",
+      "B": "Employees refused to report low-stock items.",
+      "C": "Slow-moving products were never counted.",
+      "D": "The warehouse had no shelves."
+    },
+    "correct": "A",
+    "explanation": "Fast-moving items could sell out before the next weekly shelf check. This is the specific weakness of the old process."
+  },
+  {
+    "id": "RC12-003",
+    "prompt": "Passage 1\nA regional electrical supply warehouse recently changed how it handles low-stock alerts. Previously, employees checked shelf quantities at the end of each week and reported items that appeared to be running low. This process worked for slower-moving products, but fast-moving items could sell out before the next weekly check.\nThe warehouse now uses an inventory system that sends automatic alerts when certain products fall below a set quantity. Purchasing staff can review the alerts each morning and decide whether to reorder items. The system also allows managers to adjust alert levels for products that sell more quickly during certain seasons.\nSince the change, the warehouse has reduced the number of times commonly requested items are unavailable. Managers believe the system helps them respond sooner to changes in demand.\n\nWhen can purchasing staff review the alerts?",
+    "choices": {
+      "A": "Only at the end of each year",
+      "B": "Each morning",
+      "C": "After customers leave the building",
+      "D": "Before products are received from suppliers"
+    },
+    "correct": "B",
+    "explanation": "Purchasing staff can review the alerts each morning."
+  },
+  {
+    "id": "RC12-004",
+    "prompt": "Passage 1\nA regional electrical supply warehouse recently changed how it handles low-stock alerts. Previously, employees checked shelf quantities at the end of each week and reported items that appeared to be running low. This process worked for slower-moving products, but fast-moving items could sell out before the next weekly check.\nThe warehouse now uses an inventory system that sends automatic alerts when certain products fall below a set quantity. Purchasing staff can review the alerts each morning and decide whether to reorder items. The system also allows managers to adjust alert levels for products that sell more quickly during certain seasons.\nSince the change, the warehouse has reduced the number of times commonly requested items are unavailable. Managers believe the system helps them respond sooner to changes in demand.\n\nWhat can managers adjust in the new system?",
+    "choices": {
+      "A": "Employee lunch schedules",
+      "B": "Customer payment methods",
+      "C": "Alert levels for certain products",
+      "D": "The size of delivery trucks"
+    },
+    "correct": "C",
+    "explanation": "Managers can adjust alert levels for products that sell more quickly during certain seasons."
+  },
+  {
+    "id": "RC12-005",
+    "prompt": "Passage 1\nA regional electrical supply warehouse recently changed how it handles low-stock alerts. Previously, employees checked shelf quantities at the end of each week and reported items that appeared to be running low. This process worked for slower-moving products, but fast-moving items could sell out before the next weekly check.\nThe warehouse now uses an inventory system that sends automatic alerts when certain products fall below a set quantity. Purchasing staff can review the alerts each morning and decide whether to reorder items. The system also allows managers to adjust alert levels for products that sell more quickly during certain seasons.\nSince the change, the warehouse has reduced the number of times commonly requested items are unavailable. Managers believe the system helps them respond sooner to changes in demand.\n\nThe word “demand” most nearly means:",
+    "choices": {
+      "A": "The need or desire for a product",
+      "B": "The cost of repairing shelves",
+      "C": "The number of employees in a warehouse",
+      "D": "The distance between suppliers"
+    },
+    "correct": "A",
+    "explanation": "In context, “demand” means how much customers need or want a product."
+  },
+  {
+    "id": "RC12-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 1, employees working in the fabrication area must place scrap metal in the labeled collection bins located near each workstation. Scrap should be separated by type whenever possible.\nThe updated procedure is intended to improve recycling, reduce clutter, and make it easier for employees to keep walkways clear. Under the previous process, scrap was sometimes left on carts or placed in general trash containers, making removal less efficient.\nSupervisors will review the procedure with each shift during the first week of July.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new scrap metal collection procedure",
+      "B": "To close the fabrication area",
+      "C": "To explain changes to employee pay",
+      "D": "To introduce a new product catalog"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the new procedure for collecting scrap metal in labeled bins."
+  },
+  {
+    "id": "RC12-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 1, employees working in the fabrication area must place scrap metal in the labeled collection bins located near each workstation. Scrap should be separated by type whenever possible.\nThe updated procedure is intended to improve recycling, reduce clutter, and make it easier for employees to keep walkways clear. Under the previous process, scrap was sometimes left on carts or placed in general trash containers, making removal less efficient.\nSupervisors will review the procedure with each shift during the first week of July.\n\nWhere should scrap metal be placed?",
+    "choices": {
+      "A": "In customer parking spaces",
+      "B": "In labeled collection bins near each workstation",
+      "C": "In office filing cabinets",
+      "D": "On delivery trucks without labels"
+    },
+    "correct": "B",
+    "explanation": "Scrap metal should be placed in labeled collection bins near each workstation."
+  },
+  {
+    "id": "RC12-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 1, employees working in the fabrication area must place scrap metal in the labeled collection bins located near each workstation. Scrap should be separated by type whenever possible.\nThe updated procedure is intended to improve recycling, reduce clutter, and make it easier for employees to keep walkways clear. Under the previous process, scrap was sometimes left on carts or placed in general trash containers, making removal less efficient.\nSupervisors will review the procedure with each shift during the first week of July.\n\nWhy was the procedure updated?",
+    "choices": {
+      "A": "To reduce recycling",
+      "B": "To make walkways harder to clear",
+      "C": "To improve recycling and reduce clutter",
+      "D": "To eliminate all fabrication work"
+    },
+    "correct": "C",
+    "explanation": "The procedure is intended to improve recycling, reduce clutter, and keep walkways clear."
+  },
+  {
+    "id": "RC12-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 1, employees working in the fabrication area must place scrap metal in the labeled collection bins located near each workstation. Scrap should be separated by type whenever possible.\nThe updated procedure is intended to improve recycling, reduce clutter, and make it easier for employees to keep walkways clear. Under the previous process, scrap was sometimes left on carts or placed in general trash containers, making removal less efficient.\nSupervisors will review the procedure with each shift during the first week of July.\n\nWhat happened under the previous process?",
+    "choices": {
+      "A": "Scrap was always sorted correctly.",
+      "B": "Scrap was sometimes left on carts or placed in general trash containers.",
+      "C": "Workstations had no nearby equipment.",
+      "D": "Supervisors reviewed the procedure daily for years."
+    },
+    "correct": "B",
+    "explanation": "The notice states that scrap was sometimes left on carts or placed in general trash containers."
+  },
+  {
+    "id": "RC12-010",
+    "prompt": "Passage 3\nMany companies use purchase approvals to control spending and make sure orders are necessary. A purchase approval process may require employees to describe what they need, explain why it is needed, and receive permission from a supervisor before placing an order.\nThis process can prevent duplicate purchases and help companies stay within budget. For example, one department may already have extra supplies that another department plans to order. A supervisor reviewing the request may identify the overlap before money is spent.\nHowever, approval systems must be designed carefully. If the process is too slow, employees may not receive needed materials on time. A useful system balances cost control with the practical needs of daily work.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Purchase approvals can help control spending but must not slow work too much.",
+      "B": "Employees should order supplies without explaining why.",
+      "C": "Companies should approve every purchase automatically.",
+      "D": "Budgets are unrelated to ordering materials."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that purchase approvals help control spending, but the system must remain practical enough not to delay needed materials."
+  },
+  {
+    "id": "RC12-011",
+    "prompt": "Passage 3\nMany companies use purchase approvals to control spending and make sure orders are necessary. A purchase approval process may require employees to describe what they need, explain why it is needed, and receive permission from a supervisor before placing an order.\nThis process can prevent duplicate purchases and help companies stay within budget. For example, one department may already have extra supplies that another department plans to order. A supervisor reviewing the request may identify the overlap before money is spent.\nHowever, approval systems must be designed carefully. If the process is too slow, employees may not receive needed materials on time. A useful system balances cost control with the practical needs of daily work.\n\nWhat may employees need to do before placing an order?",
+    "choices": {
+      "A": "Repair company vehicles",
+      "B": "Describe what they need and explain why it is needed",
+      "C": "Write customer advertisements",
+      "D": "Remove supplies from other departments"
+    },
+    "correct": "B",
+    "explanation": "Employees may need to describe what they need and explain why it is needed before ordering."
+  },
+  {
+    "id": "RC12-012",
+    "prompt": "Passage 3\nMany companies use purchase approvals to control spending and make sure orders are necessary. A purchase approval process may require employees to describe what they need, explain why it is needed, and receive permission from a supervisor before placing an order.\nThis process can prevent duplicate purchases and help companies stay within budget. For example, one department may already have extra supplies that another department plans to order. A supervisor reviewing the request may identify the overlap before money is spent.\nHowever, approval systems must be designed carefully. If the process is too slow, employees may not receive needed materials on time. A useful system balances cost control with the practical needs of daily work.\n\nHow can purchase approvals prevent duplicate purchases?",
+    "choices": {
+      "A": "By allowing suppliers to approve all orders",
+      "B": "By eliminating department budgets",
+      "C": "By identifying when another department already has extra supplies",
+      "D": "By requiring employees to order twice"
+    },
+    "correct": "C",
+    "explanation": "A supervisor may notice that another department already has extra supplies, preventing a duplicate order."
+  },
+  {
+    "id": "RC12-013",
+    "prompt": "Passage 3\nMany companies use purchase approvals to control spending and make sure orders are necessary. A purchase approval process may require employees to describe what they need, explain why it is needed, and receive permission from a supervisor before placing an order.\nThis process can prevent duplicate purchases and help companies stay within budget. For example, one department may already have extra supplies that another department plans to order. A supervisor reviewing the request may identify the overlap before money is spent.\nHowever, approval systems must be designed carefully. If the process is too slow, employees may not receive needed materials on time. A useful system balances cost control with the practical needs of daily work.\n\nWhat problem can occur if the approval process is too slow?",
+    "choices": {
+      "A": "Employees may receive needed materials late.",
+      "B": "The company may spend less money automatically.",
+      "C": "Supervisors may understand requests more quickly.",
+      "D": "Duplicate purchases become impossible."
+    },
+    "correct": "A",
+    "explanation": "If approval takes too long, employees may not receive needed materials on time."
+  },
+  {
+    "id": "RC12-014",
+    "prompt": "Passage 3\nMany companies use purchase approvals to control spending and make sure orders are necessary. A purchase approval process may require employees to describe what they need, explain why it is needed, and receive permission from a supervisor before placing an order.\nThis process can prevent duplicate purchases and help companies stay within budget. For example, one department may already have extra supplies that another department plans to order. A supervisor reviewing the request may identify the overlap before money is spent.\nHowever, approval systems must be designed carefully. If the process is too slow, employees may not receive needed materials on time. A useful system balances cost control with the practical needs of daily work.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A purchase approval system should balance control with efficiency.",
+      "B": "Purchase approvals are useful only when they delay work.",
+      "C": "Supervisors should never review orders.",
+      "D": "Duplicate purchases cannot affect budgets."
+    },
+    "correct": "A",
+    "explanation": "The passage supports a balanced approval system that controls costs without slowing daily work too much."
+  },
+  {
+    "id": "RC12-015",
+    "prompt": "Passage 4\nBefore refrigerated display cases became common in stores, many perishable foods had to be kept in back-room storage areas or sold quickly before spoiling. Customers often had less opportunity to view fresh products before making a purchase.\nRefrigerated display cases changed retail food sales by keeping items cool while also making them visible to customers. Stores could present dairy products, meats, prepared foods, and other perishables in organized displays. This helped customers compare items and allowed stores to keep products available for longer periods.\nModern refrigerated cases include improved temperature controls and lighting. Store employees still need to monitor temperatures and clean cases regularly to maintain food quality and safety.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Refrigerated display cases changed how stores present and preserve perishable foods.",
+      "B": "Stores no longer sell perishable foods.",
+      "C": "Customers prefer products they cannot see.",
+      "D": "Temperature monitoring is unnecessary in food sales."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how refrigerated display cases helped stores keep perishable food cool and visible to customers."
+  },
+  {
+    "id": "RC12-016",
+    "prompt": "Passage 4\nBefore refrigerated display cases became common in stores, many perishable foods had to be kept in back-room storage areas or sold quickly before spoiling. Customers often had less opportunity to view fresh products before making a purchase.\nRefrigerated display cases changed retail food sales by keeping items cool while also making them visible to customers. Stores could present dairy products, meats, prepared foods, and other perishables in organized displays. This helped customers compare items and allowed stores to keep products available for longer periods.\nModern refrigerated cases include improved temperature controls and lighting. Store employees still need to monitor temperatures and clean cases regularly to maintain food quality and safety.\n\nWhat was one limitation before refrigerated display cases became common?",
+    "choices": {
+      "A": "Customers had less opportunity to view fresh products.",
+      "B": "Stores could not sell any packaged products.",
+      "C": "Perishable foods never spoiled.",
+      "D": "Back-room storage areas were illegal."
+    },
+    "correct": "A",
+    "explanation": "Before refrigerated display cases, customers often had less opportunity to view fresh products."
+  },
+  {
+    "id": "RC12-017",
+    "prompt": "Passage 4\nBefore refrigerated display cases became common in stores, many perishable foods had to be kept in back-room storage areas or sold quickly before spoiling. Customers often had less opportunity to view fresh products before making a purchase.\nRefrigerated display cases changed retail food sales by keeping items cool while also making them visible to customers. Stores could present dairy products, meats, prepared foods, and other perishables in organized displays. This helped customers compare items and allowed stores to keep products available for longer periods.\nModern refrigerated cases include improved temperature controls and lighting. Store employees still need to monitor temperatures and clean cases regularly to maintain food quality and safety.\n\nWhat did refrigerated display cases allow stores to do?",
+    "choices": {
+      "A": "Remove all food safety procedures",
+      "B": "Keep products cool while making them visible",
+      "C": "Stop organizing food items",
+      "D": "Sell only nonperishable products"
+    },
+    "correct": "B",
+    "explanation": "Refrigerated display cases allowed stores to keep foods cool while displaying them to customers."
+  },
+  {
+    "id": "RC12-018",
+    "prompt": "Passage 4\nBefore refrigerated display cases became common in stores, many perishable foods had to be kept in back-room storage areas or sold quickly before spoiling. Customers often had less opportunity to view fresh products before making a purchase.\nRefrigerated display cases changed retail food sales by keeping items cool while also making them visible to customers. Stores could present dairy products, meats, prepared foods, and other perishables in organized displays. This helped customers compare items and allowed stores to keep products available for longer periods.\nModern refrigerated cases include improved temperature controls and lighting. Store employees still need to monitor temperatures and clean cases regularly to maintain food quality and safety.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It describes an earlier limitation, a technology change, and current maintenance needs.",
+      "B": "It provides a recipe for prepared foods.",
+      "C": "It compares grocery stores with construction sites.",
+      "D": "It lists customer complaints about lighting."
+    },
+    "correct": "A",
+    "explanation": "The passage explains the earlier limitation, the change created by display cases, and the ongoing need for temperature monitoring and cleaning."
+  },
+  {
+    "id": "RC12-019",
+    "prompt": "Passage 5\nA city bus garage recently introduced a driver feedback system for reporting route conditions. Drivers can submit notes about construction, damaged bus stops, traffic delays, or areas where passengers frequently ask for schedule information.\nBefore the system was introduced, drivers often mentioned these issues informally to supervisors at the end of a shift. Some concerns were addressed quickly, but others were forgotten or repeated by several drivers before action was taken.\nThe new system allows supervisors to review reports by route and issue type. Transit managers say the information helps them identify recurring problems and coordinate with maintenance crews, planning staff, or city departments when needed.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Bus drivers no longer communicate with supervisors.",
+      "B": "A driver feedback system helps the bus garage track and respond to route issues.",
+      "C": "Transit managers stopped reviewing route conditions.",
+      "D": "Passenger schedule questions are no longer important."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how a driver feedback system helps track route issues and coordinate responses."
+  },
+  {
+    "id": "RC12-020",
+    "prompt": "Passage 5\nA city bus garage recently introduced a driver feedback system for reporting route conditions. Drivers can submit notes about construction, damaged bus stops, traffic delays, or areas where passengers frequently ask for schedule information.\nBefore the system was introduced, drivers often mentioned these issues informally to supervisors at the end of a shift. Some concerns were addressed quickly, but others were forgotten or repeated by several drivers before action was taken.\nThe new system allows supervisors to review reports by route and issue type. Transit managers say the information helps them identify recurring problems and coordinate with maintenance crews, planning staff, or city departments when needed.\n\nWhat could drivers report through the new system?",
+    "choices": {
+      "A": "Construction, damaged stops, traffic delays, or passenger information needs",
+      "B": "Employee vacation requests only",
+      "C": "Grocery prices near bus routes",
+      "D": "Private customer medical records"
+    },
+    "correct": "A",
+    "explanation": "Drivers can report construction, damaged bus stops, traffic delays, and passenger schedule-information needs."
+  },
+  {
+    "id": "RC12-021",
+    "prompt": "Passage 5\nA city bus garage recently introduced a driver feedback system for reporting route conditions. Drivers can submit notes about construction, damaged bus stops, traffic delays, or areas where passengers frequently ask for schedule information.\nBefore the system was introduced, drivers often mentioned these issues informally to supervisors at the end of a shift. Some concerns were addressed quickly, but others were forgotten or repeated by several drivers before action was taken.\nThe new system allows supervisors to review reports by route and issue type. Transit managers say the information helps them identify recurring problems and coordinate with maintenance crews, planning staff, or city departments when needed.\n\nWhat problem occurred before the new system?",
+    "choices": {
+      "A": "Some concerns were forgotten or repeated before action was taken.",
+      "B": "Drivers were unable to finish any routes.",
+      "C": "Supervisors refused all route information.",
+      "D": "Bus stops were inspected every hour."
+    },
+    "correct": "A",
+    "explanation": "Before the system, some concerns were forgotten or repeated by several drivers before action was taken."
+  },
+  {
+    "id": "RC12-022",
+    "prompt": "Passage 5\nA city bus garage recently introduced a driver feedback system for reporting route conditions. Drivers can submit notes about construction, damaged bus stops, traffic delays, or areas where passengers frequently ask for schedule information.\nBefore the system was introduced, drivers often mentioned these issues informally to supervisors at the end of a shift. Some concerns were addressed quickly, but others were forgotten or repeated by several drivers before action was taken.\nThe new system allows supervisors to review reports by route and issue type. Transit managers say the information helps them identify recurring problems and coordinate with maintenance crews, planning staff, or city departments when needed.\n\nHow can supervisors review reports?",
+    "choices": {
+      "A": "By route and issue type",
+      "B": "By customer age only",
+      "C": "By driver uniform size",
+      "D": "By fuel price"
+    },
+    "correct": "A",
+    "explanation": "Supervisors can review reports by route and issue type."
+  },
+  {
+    "id": "RC12-023",
+    "prompt": "Passage 5\nA city bus garage recently introduced a driver feedback system for reporting route conditions. Drivers can submit notes about construction, damaged bus stops, traffic delays, or areas where passengers frequently ask for schedule information.\nBefore the system was introduced, drivers often mentioned these issues informally to supervisors at the end of a shift. Some concerns were addressed quickly, but others were forgotten or repeated by several drivers before action was taken.\nThe new system allows supervisors to review reports by route and issue type. Transit managers say the information helps them identify recurring problems and coordinate with maintenance crews, planning staff, or city departments when needed.\n\nThe word “recurring” most nearly means:",
+    "choices": {
+      "A": "Repeated",
+      "B": "Temporary",
+      "C": "Private",
+      "D": "Unrelated"
+    },
+    "correct": "A",
+    "explanation": "In context, “recurring” means repeated or happening again."
+  },
+  {
+    "id": "RC12-024",
+    "prompt": "Passage 6\nMany workplaces use clear labeling to help employees identify materials, tools, storage areas, and safety information. Labels may include product names, part numbers, hazard warnings, expiration dates, or handling instructions.\nClear labels reduce the chance of mistakes. If two containers look similar but hold different materials, a readable label helps employees choose the correct one. Labels can also save time by making supplies easier to locate.\nHowever, labels must be maintained. A label that is torn, faded, covered, or outdated may create confusion instead of preventing it. For this reason, some organizations include label checks as part of routine inspections.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Clear labels support safety and efficiency but must be maintained.",
+      "B": "Labels are useful only when they are unreadable.",
+      "C": "Workplaces should avoid labeling storage areas.",
+      "D": "Employees should rely only on container appearance."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that clear labels help safety and efficiency, but only if they are maintained."
+  },
+  {
+    "id": "RC12-025",
+    "prompt": "Passage 6\nMany workplaces use clear labeling to help employees identify materials, tools, storage areas, and safety information. Labels may include product names, part numbers, hazard warnings, expiration dates, or handling instructions.\nClear labels reduce the chance of mistakes. If two containers look similar but hold different materials, a readable label helps employees choose the correct one. Labels can also save time by making supplies easier to locate.\nHowever, labels must be maintained. A label that is torn, faded, covered, or outdated may create confusion instead of preventing it. For this reason, some organizations include label checks as part of routine inspections.\n\nWhat information may a label include?",
+    "choices": {
+      "A": "Hazard warnings or handling instructions",
+      "B": "Employee vacation photos",
+      "C": "Local restaurant rankings",
+      "D": "Customer entertainment choices"
+    },
+    "correct": "A",
+    "explanation": "Hazard warnings and handling instructions are specifically mentioned as possible label information."
+  },
+  {
+    "id": "RC12-026",
+    "prompt": "Passage 6\nMany workplaces use clear labeling to help employees identify materials, tools, storage areas, and safety information. Labels may include product names, part numbers, hazard warnings, expiration dates, or handling instructions.\nClear labels reduce the chance of mistakes. If two containers look similar but hold different materials, a readable label helps employees choose the correct one. Labels can also save time by making supplies easier to locate.\nHowever, labels must be maintained. A label that is torn, faded, covered, or outdated may create confusion instead of preventing it. For this reason, some organizations include label checks as part of routine inspections.\n\nHow can labels save time?",
+    "choices": {
+      "A": "By making supplies easier to locate",
+      "B": "By removing all inspection needs",
+      "C": "By hiding product names",
+      "D": "By making containers look identical"
+    },
+    "correct": "A",
+    "explanation": "Labels can save time by making supplies easier to locate."
+  },
+  {
+    "id": "RC12-027",
+    "prompt": "Passage 6\nMany workplaces use clear labeling to help employees identify materials, tools, storage areas, and safety information. Labels may include product names, part numbers, hazard warnings, expiration dates, or handling instructions.\nClear labels reduce the chance of mistakes. If two containers look similar but hold different materials, a readable label helps employees choose the correct one. Labels can also save time by making supplies easier to locate.\nHowever, labels must be maintained. A label that is torn, faded, covered, or outdated may create confusion instead of preventing it. For this reason, some organizations include label checks as part of routine inspections.\n\nWhy can damaged or outdated labels create problems?",
+    "choices": {
+      "A": "They may create confusion instead of preventing it.",
+      "B": "They always improve safety.",
+      "C": "They make supplies easier to identify.",
+      "D": "They prevent containers from being moved."
+    },
+    "correct": "A",
+    "explanation": "A torn, faded, covered, or outdated label can create confusion instead of preventing it."
+  },
+  {
+    "id": "RC12-028",
+    "prompt": "Passage 6\nMany workplaces use clear labeling to help employees identify materials, tools, storage areas, and safety information. Labels may include product names, part numbers, hazard warnings, expiration dates, or handling instructions.\nClear labels reduce the chance of mistakes. If two containers look similar but hold different materials, a readable label helps employees choose the correct one. Labels can also save time by making supplies easier to locate.\nHowever, labels must be maintained. A label that is torn, faded, covered, or outdated may create confusion instead of preventing it. For this reason, some organizations include label checks as part of routine inspections.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Labels are useful only if they remain readable and accurate.",
+      "B": "Routine inspections should ignore labels.",
+      "C": "Similar containers never need labels.",
+      "D": "Outdated labels are safer than current labels."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that labels work best when they remain readable, accurate, and current."
+  },
+  {
+    "id": "RC12-029",
+    "prompt": "Passage 7\nMany communities operate household hazardous waste collection events. These events allow residents to bring items such as old paint, solvents, pesticides, batteries, and certain cleaning products to a designated location for proper handling.\nThe goal is to keep hazardous materials out of regular trash, storm drains, and household storage areas where they may create risks. Trained staff at collection events sort items and send them to appropriate disposal or recycling facilities.\nPublic education is important because residents may not always know which items require special handling. Clear instructions about accepted materials, drop-off times, and packaging requirements can make the events safer and more efficient.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Household hazardous waste events help residents dispose of certain materials safely.",
+      "B": "Residents should pour hazardous liquids into storm drains.",
+      "C": "Cleaning products can never create risks.",
+      "D": "Collection events are used only for regular household trash."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how hazardous waste collection events help residents dispose of risky household materials safely."
+  },
+  {
+    "id": "RC12-030",
+    "prompt": "Passage 7\nMany communities operate household hazardous waste collection events. These events allow residents to bring items such as old paint, solvents, pesticides, batteries, and certain cleaning products to a designated location for proper handling.\nThe goal is to keep hazardous materials out of regular trash, storm drains, and household storage areas where they may create risks. Trained staff at collection events sort items and send them to appropriate disposal or recycling facilities.\nPublic education is important because residents may not always know which items require special handling. Clear instructions about accepted materials, drop-off times, and packaging requirements can make the events safer and more efficient.\n\nWhich item may be accepted at a hazardous waste collection event?",
+    "choices": {
+      "A": "Old paint",
+      "B": "Fresh groceries",
+      "C": "Office furniture only",
+      "D": "Clothing donations only"
+    },
+    "correct": "A",
+    "explanation": "Old paint is specifically listed as an item residents may bring to collection events."
+  },
+  {
+    "id": "RC12-031",
+    "prompt": "Passage 7\nMany communities operate household hazardous waste collection events. These events allow residents to bring items such as old paint, solvents, pesticides, batteries, and certain cleaning products to a designated location for proper handling.\nThe goal is to keep hazardous materials out of regular trash, storm drains, and household storage areas where they may create risks. Trained staff at collection events sort items and send them to appropriate disposal or recycling facilities.\nPublic education is important because residents may not always know which items require special handling. Clear instructions about accepted materials, drop-off times, and packaging requirements can make the events safer and more efficient.\n\nWhat is one goal of these events?",
+    "choices": {
+      "A": "To keep hazardous materials out of regular trash and storm drains",
+      "B": "To increase unsafe household storage",
+      "C": "To encourage residents to mix chemicals at home",
+      "D": "To eliminate the need for trained staff"
+    },
+    "correct": "A",
+    "explanation": "One goal is to keep hazardous materials out of regular trash, storm drains, and unsafe storage areas."
+  },
+  {
+    "id": "RC12-032",
+    "prompt": "Passage 7\nMany communities operate household hazardous waste collection events. These events allow residents to bring items such as old paint, solvents, pesticides, batteries, and certain cleaning products to a designated location for proper handling.\nThe goal is to keep hazardous materials out of regular trash, storm drains, and household storage areas where they may create risks. Trained staff at collection events sort items and send them to appropriate disposal or recycling facilities.\nPublic education is important because residents may not always know which items require special handling. Clear instructions about accepted materials, drop-off times, and packaging requirements can make the events safer and more efficient.\n\nWhy is public education important?",
+    "choices": {
+      "A": "Residents may not know which items require special handling.",
+      "B": "Residents always know every disposal rule.",
+      "C": "Collection events work best without instructions.",
+      "D": "Packaging requirements make events impossible."
+    },
+    "correct": "A",
+    "explanation": "Public education matters because residents may not know which materials require special handling."
+  },
+  {
+    "id": "RC12-033",
+    "prompt": "Passage 8\nAn adult training program recently revised its attendance policy for a pre-apprenticeship course. Instructors had noticed that students who missed several early classes often struggled with later lessons, even when they tried to catch up on their own.\nThe revised policy requires students to contact the program office after any absence. Staff then provide information about missed assignments, available review sessions, and upcoming deadlines. The goal is not to punish students for missing class, but to help them reconnect with the course before they fall too far behind.\nProgram leaders believe the new policy may be especially helpful for adult learners who balance school with work, family responsibilities, and transportation challenges.\n\nWhy was the attendance policy revised?",
+    "choices": {
+      "A": "Students who missed early classes often struggled with later lessons.",
+      "B": "Instructors wanted to cancel the pre-apprenticeship course.",
+      "C": "Students no longer needed assignments.",
+      "D": "The program stopped offering review sessions."
+    },
+    "correct": "A",
+    "explanation": "The policy was revised because students who missed several early classes often struggled with later lessons."
+  },
+  {
+    "id": "RC12-034",
+    "prompt": "Passage 8\nAn adult training program recently revised its attendance policy for a pre-apprenticeship course. Instructors had noticed that students who missed several early classes often struggled with later lessons, even when they tried to catch up on their own.\nThe revised policy requires students to contact the program office after any absence. Staff then provide information about missed assignments, available review sessions, and upcoming deadlines. The goal is not to punish students for missing class, but to help them reconnect with the course before they fall too far behind.\nProgram leaders believe the new policy may be especially helpful for adult learners who balance school with work, family responsibilities, and transportation challenges.\n\nWhat must students do after any absence?",
+    "choices": {
+      "A": "Contact the program office",
+      "B": "Retake the entire course immediately",
+      "C": "Stop attending review sessions",
+      "D": "Avoid asking about deadlines"
+    },
+    "correct": "A",
+    "explanation": "After any absence, students must contact the program office."
+  },
+  {
+    "id": "RC12-035",
+    "prompt": "Passage 8\nAn adult training program recently revised its attendance policy for a pre-apprenticeship course. Instructors had noticed that students who missed several early classes often struggled with later lessons, even when they tried to catch up on their own.\nThe revised policy requires students to contact the program office after any absence. Staff then provide information about missed assignments, available review sessions, and upcoming deadlines. The goal is not to punish students for missing class, but to help them reconnect with the course before they fall too far behind.\nProgram leaders believe the new policy may be especially helpful for adult learners who balance school with work, family responsibilities, and transportation challenges.\n\nWhat is the goal of the revised policy?",
+    "choices": {
+      "A": "To punish students for every missed class",
+      "B": "To help students reconnect with the course before falling too far behind",
+      "C": "To remove adult learners from the program",
+      "D": "To make missed assignments unavailable"
+    },
+    "correct": "B",
+    "explanation": "The goal is to help students reconnect with the course before they fall too far behind."
+  },
+  {
+    "id": "RC12-036",
+    "prompt": "Passage 8\nAn adult training program recently revised its attendance policy for a pre-apprenticeship course. Instructors had noticed that students who missed several early classes often struggled with later lessons, even when they tried to catch up on their own.\nThe revised policy requires students to contact the program office after any absence. Staff then provide information about missed assignments, available review sessions, and upcoming deadlines. The goal is not to punish students for missing class, but to help them reconnect with the course before they fall too far behind.\nProgram leaders believe the new policy may be especially helpful for adult learners who balance school with work, family responsibilities, and transportation challenges.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Adult learners may need structured support after absences.",
+      "B": "Missing early classes never affects later learning.",
+      "C": "Attendance policies should ignore work and family responsibilities.",
+      "D": "Review sessions prevent students from learning."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that adult learners balancing work, family, and transportation challenges may benefit from structured support after absences."
+  }
+]

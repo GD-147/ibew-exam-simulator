@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC23-001",
+    "prompt": "Passage 1\nA regional production facility recently changed how it reports machine downtime. Previously, operators wrote downtime notes on paper forms at the end of each shift. These forms sometimes lacked important details, such as the time the problem began or whether maintenance had been contacted.\nThe facility now uses a digital downtime report. Operators enter the machine number, start time, estimated length of the stoppage, suspected cause, and action taken. If the stoppage lasts more than fifteen minutes, the system automatically notifies the maintenance supervisor.\nManagers report that the new process helps them understand which machines cause the most delays. It also gives maintenance staff clearer information before they arrive at the work area.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The facility stopped recording machine downtime.",
+      "B": "Operators now repair every machine without help.",
+      "C": "A digital downtime report improved how machine stoppages are tracked.",
+      "D": "Maintenance supervisors no longer receive notifications."
+    },
+    "correct": "C",
+    "explanation": "The passage explains that the digital downtime report gives clearer information about machine stoppages and helps managers understand delays."
+  },
+  {
+    "id": "RC23-002",
+    "prompt": "Passage 1\nA regional production facility recently changed how it reports machine downtime. Previously, operators wrote downtime notes on paper forms at the end of each shift. These forms sometimes lacked important details, such as the time the problem began or whether maintenance had been contacted.\nThe facility now uses a digital downtime report. Operators enter the machine number, start time, estimated length of the stoppage, suspected cause, and action taken. If the stoppage lasts more than fifteen minutes, the system automatically notifies the maintenance supervisor.\nManagers report that the new process helps them understand which machines cause the most delays. It also gives maintenance staff clearer information before they arrive at the work area.\n\nWhat problem occurred with the old paper forms?",
+    "choices": {
+      "A": "They always included too much information.",
+      "B": "They sometimes lacked important details.",
+      "C": "They were completed before any downtime occurred.",
+      "D": "They automatically notified maintenance staff."
+    },
+    "correct": "B",
+    "explanation": "The old paper forms sometimes lacked important details, such as start time or whether maintenance had been contacted."
+  },
+  {
+    "id": "RC23-003",
+    "prompt": "Passage 1\nA regional production facility recently changed how it reports machine downtime. Previously, operators wrote downtime notes on paper forms at the end of each shift. These forms sometimes lacked important details, such as the time the problem began or whether maintenance had been contacted.\nThe facility now uses a digital downtime report. Operators enter the machine number, start time, estimated length of the stoppage, suspected cause, and action taken. If the stoppage lasts more than fifteen minutes, the system automatically notifies the maintenance supervisor.\nManagers report that the new process helps them understand which machines cause the most delays. It also gives maintenance staff clearer information before they arrive at the work area.\n\nWhat information do operators enter in the digital report?",
+    "choices": {
+      "A": "Machine number, start time, suspected cause, and action taken",
+      "B": "Customer payment history",
+      "C": "Employee vacation requests",
+      "D": "Building rental costs"
+    },
+    "correct": "A",
+    "explanation": "Operators enter the machine number, start time, estimated length of stoppage, suspected cause, and action taken."
+  },
+  {
+    "id": "RC23-004",
+    "prompt": "Passage 1\nA regional production facility recently changed how it reports machine downtime. Previously, operators wrote downtime notes on paper forms at the end of each shift. These forms sometimes lacked important details, such as the time the problem began or whether maintenance had been contacted.\nThe facility now uses a digital downtime report. Operators enter the machine number, start time, estimated length of the stoppage, suspected cause, and action taken. If the stoppage lasts more than fifteen minutes, the system automatically notifies the maintenance supervisor.\nManagers report that the new process helps them understand which machines cause the most delays. It also gives maintenance staff clearer information before they arrive at the work area.\n\nWhen does the system automatically notify the maintenance supervisor?",
+    "choices": {
+      "A": "When the stoppage lasts more than fifteen minutes",
+      "B": "When an operator begins a lunch break",
+      "C": "When a customer places an order",
+      "D": "When a machine runs normally"
+    },
+    "correct": "A",
+    "explanation": "The system automatically notifies the maintenance supervisor if a stoppage lasts more than fifteen minutes."
+  },
+  {
+    "id": "RC23-005",
+    "prompt": "Passage 1\nA regional production facility recently changed how it reports machine downtime. Previously, operators wrote downtime notes on paper forms at the end of each shift. These forms sometimes lacked important details, such as the time the problem began or whether maintenance had been contacted.\nThe facility now uses a digital downtime report. Operators enter the machine number, start time, estimated length of the stoppage, suspected cause, and action taken. If the stoppage lasts more than fifteen minutes, the system automatically notifies the maintenance supervisor.\nManagers report that the new process helps them understand which machines cause the most delays. It also gives maintenance staff clearer information before they arrive at the work area.\n\nThe word “stoppage” most nearly means:",
+    "choices": {
+      "A": "A planned meeting",
+      "B": "A period when work or equipment stops",
+      "C": "A completed repair",
+      "D": "A supply order"
+    },
+    "correct": "B",
+    "explanation": "In context, “stoppage” means a period when equipment or work stops."
+  },
+  {
+    "id": "RC23-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 9, employees who use the shared chemical storage cabinet must return containers to the correct labeled shelf after use. Containers should remain closed unless material is being removed.\nThe updated procedure was created after several containers were found on the wrong shelves. In one case, employees spent extra time looking for a commonly used cleaner because it had been returned to the wrong location.\nThe purpose of the procedure is to reduce search time, prevent mix-ups, and keep storage records accurate. Questions should be directed to the safety lead.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a procedure for using the chemical storage cabinet correctly",
+      "B": "To cancel use of all cleaning materials",
+      "C": "To replace the safety lead",
+      "D": "To remove labels from storage shelves"
+    },
+    "correct": "A",
+    "explanation": "The notice explains how employees should return chemical containers to the correct labeled shelf and keep containers closed."
+  },
+  {
+    "id": "RC23-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 9, employees who use the shared chemical storage cabinet must return containers to the correct labeled shelf after use. Containers should remain closed unless material is being removed.\nThe updated procedure was created after several containers were found on the wrong shelves. In one case, employees spent extra time looking for a commonly used cleaner because it had been returned to the wrong location.\nThe purpose of the procedure is to reduce search time, prevent mix-ups, and keep storage records accurate. Questions should be directed to the safety lead.\n\nWhat should employees do after using a container?",
+    "choices": {
+      "A": "Leave it wherever space is available",
+      "B": "Return it to the correct labeled shelf",
+      "C": "Place it in the breakroom",
+      "D": "Remove its label"
+    },
+    "correct": "B",
+    "explanation": "Employees must return containers to the correct labeled shelf after use."
+  },
+  {
+    "id": "RC23-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 9, employees who use the shared chemical storage cabinet must return containers to the correct labeled shelf after use. Containers should remain closed unless material is being removed.\nThe updated procedure was created after several containers were found on the wrong shelves. In one case, employees spent extra time looking for a commonly used cleaner because it had been returned to the wrong location.\nThe purpose of the procedure is to reduce search time, prevent mix-ups, and keep storage records accurate. Questions should be directed to the safety lead.\n\nWhat problem led to the updated procedure?",
+    "choices": {
+      "A": "Containers were found on the wrong shelves.",
+      "B": "Employees stopped using storage cabinets.",
+      "C": "Labels were too large to read.",
+      "D": "All containers were empty."
+    },
+    "correct": "A",
+    "explanation": "The procedure was updated because several containers were found on the wrong shelves."
+  },
+  {
+    "id": "RC23-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning July 9, employees who use the shared chemical storage cabinet must return containers to the correct labeled shelf after use. Containers should remain closed unless material is being removed.\nThe updated procedure was created after several containers were found on the wrong shelves. In one case, employees spent extra time looking for a commonly used cleaner because it had been returned to the wrong location.\nThe purpose of the procedure is to reduce search time, prevent mix-ups, and keep storage records accurate. Questions should be directed to the safety lead.\n\nWhich goal is specifically mentioned in the notice?",
+    "choices": {
+      "A": "Increasing search time",
+      "B": "Preventing mix-ups",
+      "C": "Removing storage records",
+      "D": "Keeping containers open"
+    },
+    "correct": "B",
+    "explanation": "Preventing mix-ups is specifically listed as one purpose of the updated procedure."
+  },
+  {
+    "id": "RC23-010",
+    "prompt": "Passage 3\nMany organizations use skills checklists during employee training. A skills checklist lists tasks an employee must learn and gives trainers a way to record when each task has been demonstrated correctly.\nSkills checklists help make training more consistent. Without a checklist, one trainer may cover a task in detail while another trainer may mention it only briefly. A checklist gives both trainers and learners a shared guide for what must be practiced.\nHowever, a checklist should not be treated as a simple paperwork exercise. Marking a task complete should mean the employee can perform it correctly, not just that the topic was discussed. For this reason, many workplaces require trainees to demonstrate skills before receiving approval.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Skills checklists make training more consistent when they are based on demonstrated ability.",
+      "B": "Trainers should avoid recording employee progress.",
+      "C": "Checklists are useful only when tasks are not practiced.",
+      "D": "Employees should be approved before learning a task."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that skills checklists make training consistent and should show that a trainee can actually perform the task."
+  },
+  {
+    "id": "RC23-011",
+    "prompt": "Passage 3\nMany organizations use skills checklists during employee training. A skills checklist lists tasks an employee must learn and gives trainers a way to record when each task has been demonstrated correctly.\nSkills checklists help make training more consistent. Without a checklist, one trainer may cover a task in detail while another trainer may mention it only briefly. A checklist gives both trainers and learners a shared guide for what must be practiced.\nHowever, a checklist should not be treated as a simple paperwork exercise. Marking a task complete should mean the employee can perform it correctly, not just that the topic was discussed. For this reason, many workplaces require trainees to demonstrate skills before receiving approval.\n\nWhat does a skills checklist allow trainers to record?",
+    "choices": {
+      "A": "When each task has been demonstrated correctly",
+      "B": "Customer delivery addresses",
+      "C": "Employee meal preferences",
+      "D": "Weather conditions outside the building"
+    },
+    "correct": "A",
+    "explanation": "A skills checklist lets trainers record when each task has been demonstrated correctly."
+  },
+  {
+    "id": "RC23-012",
+    "prompt": "Passage 3\nMany organizations use skills checklists during employee training. A skills checklist lists tasks an employee must learn and gives trainers a way to record when each task has been demonstrated correctly.\nSkills checklists help make training more consistent. Without a checklist, one trainer may cover a task in detail while another trainer may mention it only briefly. A checklist gives both trainers and learners a shared guide for what must be practiced.\nHowever, a checklist should not be treated as a simple paperwork exercise. Marking a task complete should mean the employee can perform it correctly, not just that the topic was discussed. For this reason, many workplaces require trainees to demonstrate skills before receiving approval.\n\nWhy do checklists make training more consistent?",
+    "choices": {
+      "A": "They prevent trainers from speaking to trainees.",
+      "B": "They give trainers and learners a shared guide.",
+      "C": "They remove all required tasks.",
+      "D": "They allow each trainer to skip different topics."
+    },
+    "correct": "B",
+    "explanation": "Checklists make training more consistent by giving trainers and learners a shared guide for what must be practiced."
+  },
+  {
+    "id": "RC23-013",
+    "prompt": "Passage 3\nMany organizations use skills checklists during employee training. A skills checklist lists tasks an employee must learn and gives trainers a way to record when each task has been demonstrated correctly.\nSkills checklists help make training more consistent. Without a checklist, one trainer may cover a task in detail while another trainer may mention it only briefly. A checklist gives both trainers and learners a shared guide for what must be practiced.\nHowever, a checklist should not be treated as a simple paperwork exercise. Marking a task complete should mean the employee can perform it correctly, not just that the topic was discussed. For this reason, many workplaces require trainees to demonstrate skills before receiving approval.\n\nWhat should marking a task complete mean?",
+    "choices": {
+      "A": "The trainee heard the task mentioned once.",
+      "B": "The paperwork was filed before training.",
+      "C": "The employee can perform the task correctly.",
+      "D": "The trainer did not observe the employee."
+    },
+    "correct": "C",
+    "explanation": "Marking a task complete should mean the employee can perform it correctly, not just that it was discussed."
+  },
+  {
+    "id": "RC23-014",
+    "prompt": "Passage 3\nMany organizations use skills checklists during employee training. A skills checklist lists tasks an employee must learn and gives trainers a way to record when each task has been demonstrated correctly.\nSkills checklists help make training more consistent. Without a checklist, one trainer may cover a task in detail while another trainer may mention it only briefly. A checklist gives both trainers and learners a shared guide for what must be practiced.\nHowever, a checklist should not be treated as a simple paperwork exercise. Marking a task complete should mean the employee can perform it correctly, not just that the topic was discussed. For this reason, many workplaces require trainees to demonstrate skills before receiving approval.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Training approval should be connected to actual performance.",
+      "B": "Skills checklists are most useful when no one follows them.",
+      "C": "Discussing a task is always the same as performing it.",
+      "D": "Demonstrations are unnecessary in training."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that training approval should be based on demonstrated performance."
+  },
+  {
+    "id": "RC23-015",
+    "prompt": "Passage 4\nBefore electronic toll collection became common, drivers usually had to stop or slow down at toll booths to pay with cash or tickets. During busy travel times, long lines could form, causing delays and increasing congestion near toll plazas.\nElectronic toll systems changed this process by allowing vehicles with transponders or license-plate accounts to pass through toll points more quickly. The system records the vehicle and charges the account without requiring a cash payment at the booth. This helps traffic move more steadily.\nElectronic tolling does not eliminate all traffic delays, especially when roads are crowded. However, it reduces the need for each driver to stop individually to pay, which can improve traffic flow at toll locations.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Electronic toll collection can improve traffic flow by reducing the need to stop for payment.",
+      "B": "Toll booths always make traffic faster.",
+      "C": "Electronic tolling removes all road congestion.",
+      "D": "Drivers can no longer be charged for tolls."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how electronic toll collection reduces the need to stop for payment and helps traffic move more steadily."
+  },
+  {
+    "id": "RC23-016",
+    "prompt": "Passage 4\nBefore electronic toll collection became common, drivers usually had to stop or slow down at toll booths to pay with cash or tickets. During busy travel times, long lines could form, causing delays and increasing congestion near toll plazas.\nElectronic toll systems changed this process by allowing vehicles with transponders or license-plate accounts to pass through toll points more quickly. The system records the vehicle and charges the account without requiring a cash payment at the booth. This helps traffic move more steadily.\nElectronic tolling does not eliminate all traffic delays, especially when roads are crowded. However, it reduces the need for each driver to stop individually to pay, which can improve traffic flow at toll locations.\n\nWhat problem occurred with traditional toll booths during busy times?",
+    "choices": {
+      "A": "Long lines could form near toll plazas.",
+      "B": "Drivers could pass without slowing.",
+      "C": "Roads became empty.",
+      "D": "Toll payments were never collected."
+    },
+    "correct": "A",
+    "explanation": "Traditional toll booths could cause long lines near toll plazas during busy travel times."
+  },
+  {
+    "id": "RC23-017",
+    "prompt": "Passage 4\nBefore electronic toll collection became common, drivers usually had to stop or slow down at toll booths to pay with cash or tickets. During busy travel times, long lines could form, causing delays and increasing congestion near toll plazas.\nElectronic toll systems changed this process by allowing vehicles with transponders or license-plate accounts to pass through toll points more quickly. The system records the vehicle and charges the account without requiring a cash payment at the booth. This helps traffic move more steadily.\nElectronic tolling does not eliminate all traffic delays, especially when roads are crowded. However, it reduces the need for each driver to stop individually to pay, which can improve traffic flow at toll locations.\n\nHow does electronic tolling charge drivers?",
+    "choices": {
+      "A": "By requiring drivers to mail cash before each trip",
+      "B": "By recording the vehicle and charging the account",
+      "C": "By stopping every car at a booth",
+      "D": "By removing all toll points"
+    },
+    "correct": "B",
+    "explanation": "Electronic toll systems record the vehicle and charge the account."
+  },
+  {
+    "id": "RC23-018",
+    "prompt": "Passage 4\nBefore electronic toll collection became common, drivers usually had to stop or slow down at toll booths to pay with cash or tickets. During busy travel times, long lines could form, causing delays and increasing congestion near toll plazas.\nElectronic toll systems changed this process by allowing vehicles with transponders or license-plate accounts to pass through toll points more quickly. The system records the vehicle and charges the account without requiring a cash payment at the booth. This helps traffic move more steadily.\nElectronic tolling does not eliminate all traffic delays, especially when roads are crowded. However, it reduces the need for each driver to stop individually to pay, which can improve traffic flow at toll locations.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Electronic tolling reduces one source of delay but cannot prevent all traffic problems.",
+      "B": "Electronic tolling works only when roads are empty.",
+      "C": "Every driver must still stop individually to pay.",
+      "D": "Toll locations no longer affect traffic flow."
+    },
+    "correct": "A",
+    "explanation": "The passage says electronic tolling improves traffic flow but does not eliminate every delay."
+  },
+  {
+    "id": "RC23-019",
+    "prompt": "Passage 5\nA regional contractor recently introduced a pre-job briefing before each major work assignment. During the briefing, the crew reviews the task, location, tools needed, possible hazards, weather concerns, and any changes from the original plan.\nBefore the briefings were added, some crews began work with different assumptions about who was responsible for specific steps. This sometimes caused delays when equipment was missing or when a worker had not been told about a change.\nSupervisors say the briefings do not need to be long to be useful. Even a short discussion can help the crew confirm the plan and ask questions before work begins.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Pre-job briefings help crews confirm plans before beginning major work.",
+      "B": "Crews should begin work without asking questions.",
+      "C": "Briefings are useful only when they last several hours.",
+      "D": "Supervisors no longer review work assignments."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that pre-job briefings help crews review tasks, hazards, tools, and plan changes before work begins."
+  },
+  {
+    "id": "RC23-020",
+    "prompt": "Passage 5\nA regional contractor recently introduced a pre-job briefing before each major work assignment. During the briefing, the crew reviews the task, location, tools needed, possible hazards, weather concerns, and any changes from the original plan.\nBefore the briefings were added, some crews began work with different assumptions about who was responsible for specific steps. This sometimes caused delays when equipment was missing or when a worker had not been told about a change.\nSupervisors say the briefings do not need to be long to be useful. Even a short discussion can help the crew confirm the plan and ask questions before work begins.\n\nWhat is reviewed during the briefing?",
+    "choices": {
+      "A": "Task, location, tools needed, hazards, weather concerns, and plan changes",
+      "B": "Employee home addresses",
+      "C": "Customer advertising preferences",
+      "D": "Payroll tax forms"
+    },
+    "correct": "A",
+    "explanation": "The briefing includes the task, location, tools, hazards, weather concerns, and any changes from the original plan."
+  },
+  {
+    "id": "RC23-021",
+    "prompt": "Passage 5\nA regional contractor recently introduced a pre-job briefing before each major work assignment. During the briefing, the crew reviews the task, location, tools needed, possible hazards, weather concerns, and any changes from the original plan.\nBefore the briefings were added, some crews began work with different assumptions about who was responsible for specific steps. This sometimes caused delays when equipment was missing or when a worker had not been told about a change.\nSupervisors say the briefings do not need to be long to be useful. Even a short discussion can help the crew confirm the plan and ask questions before work begins.\n\nWhat problem occurred before briefings were added?",
+    "choices": {
+      "A": "Crews always had too many tools.",
+      "B": "Workers had different assumptions about responsibilities.",
+      "C": "Supervisors refused to discuss assignments.",
+      "D": "Weather concerns disappeared."
+    },
+    "correct": "B",
+    "explanation": "Before briefings, crews sometimes had different assumptions about who was responsible for certain steps."
+  },
+  {
+    "id": "RC23-022",
+    "prompt": "Passage 5\nA regional contractor recently introduced a pre-job briefing before each major work assignment. During the briefing, the crew reviews the task, location, tools needed, possible hazards, weather concerns, and any changes from the original plan.\nBefore the briefings were added, some crews began work with different assumptions about who was responsible for specific steps. This sometimes caused delays when equipment was missing or when a worker had not been told about a change.\nSupervisors say the briefings do not need to be long to be useful. Even a short discussion can help the crew confirm the plan and ask questions before work begins.\n\nWhy can even a short briefing be useful?",
+    "choices": {
+      "A": "It helps the crew confirm the plan and ask questions before work begins.",
+      "B": "It replaces all training permanently.",
+      "C": "It prevents the crew from reviewing hazards.",
+      "D": "It makes missing equipment easier to ignore."
+    },
+    "correct": "A",
+    "explanation": "Even a short briefing lets the crew confirm the plan and ask questions before starting work."
+  },
+  {
+    "id": "RC23-023",
+    "prompt": "Passage 5\nA regional contractor recently introduced a pre-job briefing before each major work assignment. During the briefing, the crew reviews the task, location, tools needed, possible hazards, weather concerns, and any changes from the original plan.\nBefore the briefings were added, some crews began work with different assumptions about who was responsible for specific steps. This sometimes caused delays when equipment was missing or when a worker had not been told about a change.\nSupervisors say the briefings do not need to be long to be useful. Even a short discussion can help the crew confirm the plan and ask questions before work begins.\n\nThe word “assumptions” most nearly means:",
+    "choices": {
+      "A": "Things believed without being fully confirmed",
+      "B": "Written repair records",
+      "C": "Completed safety inspections",
+      "D": "Tools used for cutting"
+    },
+    "correct": "A",
+    "explanation": "In context, “assumptions” means things believed without being fully confirmed."
+  },
+  {
+    "id": "RC23-024",
+    "prompt": "Passage 6\nMany businesses use appointment confirmation messages to reduce missed appointments. These messages may be sent by text, email, or phone and usually include the date, time, location, and any instructions the customer should follow before arriving.\nConfirmation messages help both businesses and customers. Customers are reminded of the appointment and can check details before the visit. Businesses may have fewer unused time slots because customers are more likely to remember or reschedule in advance.\nThe messages must be clear and timely. A reminder sent too late may not give the customer enough time to adjust plans. A message missing the location or preparation instructions may still leave the customer confused.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Appointment confirmations can reduce missed visits when they are clear and timely.",
+      "B": "Customers should never receive appointment details.",
+      "C": "Businesses benefit when customers miss appointments.",
+      "D": "Confirmation messages should be sent only after appointments."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that confirmation messages reduce missed appointments when they provide clear information early enough."
+  },
+  {
+    "id": "RC23-025",
+    "prompt": "Passage 6\nMany businesses use appointment confirmation messages to reduce missed appointments. These messages may be sent by text, email, or phone and usually include the date, time, location, and any instructions the customer should follow before arriving.\nConfirmation messages help both businesses and customers. Customers are reminded of the appointment and can check details before the visit. Businesses may have fewer unused time slots because customers are more likely to remember or reschedule in advance.\nThe messages must be clear and timely. A reminder sent too late may not give the customer enough time to adjust plans. A message missing the location or preparation instructions may still leave the customer confused.\n\nWhat information may be included in a confirmation message?",
+    "choices": {
+      "A": "Date, time, location, and instructions",
+      "B": "Employee payroll information",
+      "C": "Weather data from last year",
+      "D": "Customer shopping history"
+    },
+    "correct": "A",
+    "explanation": "Confirmation messages may include the date, time, location, and instructions."
+  },
+  {
+    "id": "RC23-026",
+    "prompt": "Passage 6\nMany businesses use appointment confirmation messages to reduce missed appointments. These messages may be sent by text, email, or phone and usually include the date, time, location, and any instructions the customer should follow before arriving.\nConfirmation messages help both businesses and customers. Customers are reminded of the appointment and can check details before the visit. Businesses may have fewer unused time slots because customers are more likely to remember or reschedule in advance.\nThe messages must be clear and timely. A reminder sent too late may not give the customer enough time to adjust plans. A message missing the location or preparation instructions may still leave the customer confused.\n\nHow can confirmation messages help businesses?",
+    "choices": {
+      "A": "They may reduce unused time slots.",
+      "B": "They prevent customers from rescheduling.",
+      "C": "They remove the need for locations.",
+      "D": "They make appointment times less clear."
+    },
+    "correct": "A",
+    "explanation": "Businesses may have fewer unused time slots when customers remember or reschedule in advance."
+  },
+  {
+    "id": "RC23-027",
+    "prompt": "Passage 6\nMany businesses use appointment confirmation messages to reduce missed appointments. These messages may be sent by text, email, or phone and usually include the date, time, location, and any instructions the customer should follow before arriving.\nConfirmation messages help both businesses and customers. Customers are reminded of the appointment and can check details before the visit. Businesses may have fewer unused time slots because customers are more likely to remember or reschedule in advance.\nThe messages must be clear and timely. A reminder sent too late may not give the customer enough time to adjust plans. A message missing the location or preparation instructions may still leave the customer confused.\n\nWhat problem can occur if a reminder is sent too late?",
+    "choices": {
+      "A": "The customer may not have enough time to adjust plans.",
+      "B": "The appointment becomes unnecessary.",
+      "C": "The location becomes easier to find.",
+      "D": "The business no longer needs a schedule."
+    },
+    "correct": "A",
+    "explanation": "A reminder sent too late may not give the customer enough time to adjust plans."
+  },
+  {
+    "id": "RC23-028",
+    "prompt": "Passage 6\nMany businesses use appointment confirmation messages to reduce missed appointments. These messages may be sent by text, email, or phone and usually include the date, time, location, and any instructions the customer should follow before arriving.\nConfirmation messages help both businesses and customers. Customers are reminded of the appointment and can check details before the visit. Businesses may have fewer unused time slots because customers are more likely to remember or reschedule in advance.\nThe messages must be clear and timely. A reminder sent too late may not give the customer enough time to adjust plans. A message missing the location or preparation instructions may still leave the customer confused.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Reminders are most helpful when they provide useful information early enough.",
+      "B": "Missing instructions make messages clearer.",
+      "C": "Confirmation messages should avoid appointment details.",
+      "D": "Customers cannot benefit from reminders."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that reminders are most useful when they are clear and timely."
+  },
+  {
+    "id": "RC23-029",
+    "prompt": "Passage 7\nMany communities operate public lost-and-found systems in libraries, recreation centers, transit stations, and municipal buildings. These systems help return misplaced items such as wallets, keys, bags, coats, and phones to their owners.\nA good lost-and-found system includes a clear intake process. Staff may record where the item was found, the date, a short description, and any identifying details. Valuable items may be stored in a secure area until the owner can be contacted or can provide proof of ownership.\nClear procedures also protect staff and visitors. Without a record, it may be difficult to know whether an item was returned to the correct person. Public information about how to report or claim items can make the system easier to use.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Lost-and-found systems help return items when clear records and procedures are used.",
+      "B": "Public buildings should throw away all misplaced items.",
+      "C": "Visitors should not report lost belongings.",
+      "D": "Valuable items should be left in open areas."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that lost-and-found systems return misplaced items more effectively when records and procedures are clear."
+  },
+  {
+    "id": "RC23-030",
+    "prompt": "Passage 7\nMany communities operate public lost-and-found systems in libraries, recreation centers, transit stations, and municipal buildings. These systems help return misplaced items such as wallets, keys, bags, coats, and phones to their owners.\nA good lost-and-found system includes a clear intake process. Staff may record where the item was found, the date, a short description, and any identifying details. Valuable items may be stored in a secure area until the owner can be contacted or can provide proof of ownership.\nClear procedures also protect staff and visitors. Without a record, it may be difficult to know whether an item was returned to the correct person. Public information about how to report or claim items can make the system easier to use.\n\nWhich item might be handled by a lost-and-found system?",
+    "choices": {
+      "A": "A wallet",
+      "B": "A public road sign",
+      "C": "A machine repair manual only",
+      "D": "A city water meter"
+    },
+    "correct": "A",
+    "explanation": "A wallet is specifically listed as an example of an item handled by lost-and-found systems."
+  },
+  {
+    "id": "RC23-031",
+    "prompt": "Passage 7\nMany communities operate public lost-and-found systems in libraries, recreation centers, transit stations, and municipal buildings. These systems help return misplaced items such as wallets, keys, bags, coats, and phones to their owners.\nA good lost-and-found system includes a clear intake process. Staff may record where the item was found, the date, a short description, and any identifying details. Valuable items may be stored in a secure area until the owner can be contacted or can provide proof of ownership.\nClear procedures also protect staff and visitors. Without a record, it may be difficult to know whether an item was returned to the correct person. Public information about how to report or claim items can make the system easier to use.\n\nWhat may staff record when taking in a lost item?",
+    "choices": {
+      "A": "Where the item was found, the date, and a short description",
+      "B": "The owner’s future travel plans",
+      "C": "Employee vacation balances",
+      "D": "Local weather forecasts"
+    },
+    "correct": "A",
+    "explanation": "Staff may record where the item was found, the date, and a short description."
+  },
+  {
+    "id": "RC23-032",
+    "prompt": "Passage 7\nMany communities operate public lost-and-found systems in libraries, recreation centers, transit stations, and municipal buildings. These systems help return misplaced items such as wallets, keys, bags, coats, and phones to their owners.\nA good lost-and-found system includes a clear intake process. Staff may record where the item was found, the date, a short description, and any identifying details. Valuable items may be stored in a secure area until the owner can be contacted or can provide proof of ownership.\nClear procedures also protect staff and visitors. Without a record, it may be difficult to know whether an item was returned to the correct person. Public information about how to report or claim items can make the system easier to use.\n\nWhy are records important in a lost-and-found system?",
+    "choices": {
+      "A": "They help show whether an item was returned to the correct person.",
+      "B": "They prevent people from claiming items.",
+      "C": "They make valuable items less secure.",
+      "D": "They remove the need for descriptions."
+    },
+    "correct": "A",
+    "explanation": "Records help show whether an item was returned to the correct person."
+  },
+  {
+    "id": "RC23-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added “answer choice comparison” practice to its reading lessons. Instructors noticed that some students found a reasonable answer and selected it without checking the remaining choices.\nDuring the practice, students must explain why the correct answer is better than the other three choices. They learn to look for answers that are too broad, too narrow, opposite of the passage, or not supported by evidence. The goal is to help students avoid choosing the first answer that sounds acceptable.\nInstructors remind students that reading tests often include more than one answer that sounds possible at first. Careful comparison helps students choose the best answer, not just a decent one.\n\nWhy did the class add answer choice comparison practice?",
+    "choices": {
+      "A": "Some students chose a reasonable answer without checking the remaining choices.",
+      "B": "Students stopped reading passages.",
+      "C": "Instructors removed multiple-choice questions.",
+      "D": "The class no longer practiced reading."
+    },
+    "correct": "A",
+    "explanation": "The practice was added because some students selected a reasonable answer without comparing it to the remaining choices."
+  },
+  {
+    "id": "RC23-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added “answer choice comparison” practice to its reading lessons. Instructors noticed that some students found a reasonable answer and selected it without checking the remaining choices.\nDuring the practice, students must explain why the correct answer is better than the other three choices. They learn to look for answers that are too broad, too narrow, opposite of the passage, or not supported by evidence. The goal is to help students avoid choosing the first answer that sounds acceptable.\nInstructors remind students that reading tests often include more than one answer that sounds possible at first. Careful comparison helps students choose the best answer, not just a decent one.\n\nWhat must students explain during the practice?",
+    "choices": {
+      "A": "Why the correct answer is better than the other three choices",
+      "B": "Why every answer should be chosen",
+      "C": "Why evidence should be ignored",
+      "D": "Why the first answer is always correct"
+    },
+    "correct": "A",
+    "explanation": "Students must explain why the correct answer is better than the other three choices."
+  },
+  {
+    "id": "RC23-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added “answer choice comparison” practice to its reading lessons. Instructors noticed that some students found a reasonable answer and selected it without checking the remaining choices.\nDuring the practice, students must explain why the correct answer is better than the other three choices. They learn to look for answers that are too broad, too narrow, opposite of the passage, or not supported by evidence. The goal is to help students avoid choosing the first answer that sounds acceptable.\nInstructors remind students that reading tests often include more than one answer that sounds possible at first. Careful comparison helps students choose the best answer, not just a decent one.\n\nWhich type of wrong answer is mentioned in the passage?",
+    "choices": {
+      "A": "An answer that is too broad",
+      "B": "An answer printed in a different font",
+      "C": "An answer with fewer letters",
+      "D": "An answer chosen by another student"
+    },
+    "correct": "A",
+    "explanation": "The passage specifically mentions wrong answers that are too broad, too narrow, opposite, or unsupported."
+  },
+  {
+    "id": "RC23-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added “answer choice comparison” practice to its reading lessons. Instructors noticed that some students found a reasonable answer and selected it without checking the remaining choices.\nDuring the practice, students must explain why the correct answer is better than the other three choices. They learn to look for answers that are too broad, too narrow, opposite of the passage, or not supported by evidence. The goal is to help students avoid choosing the first answer that sounds acceptable.\nInstructors remind students that reading tests often include more than one answer that sounds possible at first. Careful comparison helps students choose the best answer, not just a decent one.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Comparing answer choices can help students choose the best supported answer.",
+      "B": "Students should select the first answer that sounds acceptable.",
+      "C": "Reading tests never include tempting wrong answers.",
+      "D": "Broad or unsupported answers are always correct."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that comparing choices helps students select the best supported answer, not just one that sounds acceptable."
+  }
+]

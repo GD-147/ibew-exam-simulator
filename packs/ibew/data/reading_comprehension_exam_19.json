@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC19-001",
+    "prompt": "Passage 1\nA regional manufacturing plant recently changed how it handles tool calibration reminders. Previously, supervisors checked a spreadsheet at the end of each month to see which tools needed calibration. This process sometimes allowed tools to remain in use past their recommended calibration date, especially if the spreadsheet had not been updated promptly.\nThe plant now uses a tracking system that sends automatic reminders before a tool is due for calibration. Each tool record includes the tool identification number, department, last calibration date, next due date, and current status. Employees can check whether a tool is available, due soon, or temporarily removed from use.\nManagers report that the new system has made calibration schedules easier to follow. It also helps prevent tools from being used when their status is uncertain.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Supervisors stopped checking tool records.",
+      "B": "Automatic reminders improved the plant’s tool calibration process.",
+      "C": "Employees now calibrate tools without records.",
+      "D": "The plant removed all tools from use."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how automatic reminders made calibration schedules easier to follow and helped prevent use of tools with uncertain status."
+  },
+  {
+    "id": "RC19-002",
+    "prompt": "Passage 1\nA regional manufacturing plant recently changed how it handles tool calibration reminders. Previously, supervisors checked a spreadsheet at the end of each month to see which tools needed calibration. This process sometimes allowed tools to remain in use past their recommended calibration date, especially if the spreadsheet had not been updated promptly.\nThe plant now uses a tracking system that sends automatic reminders before a tool is due for calibration. Each tool record includes the tool identification number, department, last calibration date, next due date, and current status. Employees can check whether a tool is available, due soon, or temporarily removed from use.\nManagers report that the new system has made calibration schedules easier to follow. It also helps prevent tools from being used when their status is uncertain.\n\nWhat problem occurred under the old spreadsheet process?",
+    "choices": {
+      "A": "Tools were sometimes used past their recommended calibration date.",
+      "B": "Tools were calibrated every hour.",
+      "C": "Employees could not identify any departments.",
+      "D": "Calibration dates were never recorded."
+    },
+    "correct": "A",
+    "explanation": "The old spreadsheet process sometimes allowed tools to remain in use past the recommended calibration date."
+  },
+  {
+    "id": "RC19-003",
+    "prompt": "Passage 1\nA regional manufacturing plant recently changed how it handles tool calibration reminders. Previously, supervisors checked a spreadsheet at the end of each month to see which tools needed calibration. This process sometimes allowed tools to remain in use past their recommended calibration date, especially if the spreadsheet had not been updated promptly.\nThe plant now uses a tracking system that sends automatic reminders before a tool is due for calibration. Each tool record includes the tool identification number, department, last calibration date, next due date, and current status. Employees can check whether a tool is available, due soon, or temporarily removed from use.\nManagers report that the new system has made calibration schedules easier to follow. It also helps prevent tools from being used when their status is uncertain.\n\nWhat information is included in each tool record?",
+    "choices": {
+      "A": "Tool identification number, department, last calibration date, next due date, and status",
+      "B": "Employee lunch orders and parking permits",
+      "C": "Customer payment details and home addresses",
+      "D": "Supplier advertising plans and sales goals"
+    },
+    "correct": "A",
+    "explanation": "Each tool record includes the identification number, department, last calibration date, next due date, and current status."
+  },
+  {
+    "id": "RC19-004",
+    "prompt": "Passage 1\nA regional manufacturing plant recently changed how it handles tool calibration reminders. Previously, supervisors checked a spreadsheet at the end of each month to see which tools needed calibration. This process sometimes allowed tools to remain in use past their recommended calibration date, especially if the spreadsheet had not been updated promptly.\nThe plant now uses a tracking system that sends automatic reminders before a tool is due for calibration. Each tool record includes the tool identification number, department, last calibration date, next due date, and current status. Employees can check whether a tool is available, due soon, or temporarily removed from use.\nManagers report that the new system has made calibration schedules easier to follow. It also helps prevent tools from being used when their status is uncertain.\n\nWhat can employees check in the new system?",
+    "choices": {
+      "A": "Whether a tool is available, due soon, or temporarily removed from use",
+      "B": "Whether customers approved the production schedule",
+      "C": "Whether supervisors completed payroll forms",
+      "D": "Whether the building has enough office chairs"
+    },
+    "correct": "A",
+    "explanation": "Employees can check whether a tool is available, due soon, or temporarily removed from use."
+  },
+  {
+    "id": "RC19-005",
+    "prompt": "Passage 1\nA regional manufacturing plant recently changed how it handles tool calibration reminders. Previously, supervisors checked a spreadsheet at the end of each month to see which tools needed calibration. This process sometimes allowed tools to remain in use past their recommended calibration date, especially if the spreadsheet had not been updated promptly.\nThe plant now uses a tracking system that sends automatic reminders before a tool is due for calibration. Each tool record includes the tool identification number, department, last calibration date, next due date, and current status. Employees can check whether a tool is available, due soon, or temporarily removed from use.\nManagers report that the new system has made calibration schedules easier to follow. It also helps prevent tools from being used when their status is uncertain.\n\nThe word “uncertain” most nearly means:",
+    "choices": {
+      "A": "Not clearly known",
+      "B": "Recently cleaned",
+      "C": "Fully approved",
+      "D": "Easy to measure"
+    },
+    "correct": "A",
+    "explanation": "In context, “uncertain” means not clearly known, especially when a tool’s status is unclear."
+  },
+  {
+    "id": "RC19-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning March 18, employees who use the shared maintenance cart must return all supplies to the labeled drawers before the cart is placed back in storage. The cart should also be checked for missing items at the end of each shift.\nThis procedure was created after several employees reported that common supplies, such as tape, markers, small fasteners, and gloves, were missing when the cart was needed. In some cases, workers had to leave the job area to search for replacement supplies.\nThe goal is to keep the cart ready for the next user and reduce time lost looking for basic materials.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To explain a procedure for keeping the shared maintenance cart organized",
+      "B": "To remove the maintenance cart from service permanently",
+      "C": "To announce a new employee break schedule",
+      "D": "To require customers to restock supplies"
+    },
+    "correct": "A",
+    "explanation": "The notice explains how employees should return supplies and check the shared maintenance cart so it stays ready for use."
+  },
+  {
+    "id": "RC19-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning March 18, employees who use the shared maintenance cart must return all supplies to the labeled drawers before the cart is placed back in storage. The cart should also be checked for missing items at the end of each shift.\nThis procedure was created after several employees reported that common supplies, such as tape, markers, small fasteners, and gloves, were missing when the cart was needed. In some cases, workers had to leave the job area to search for replacement supplies.\nThe goal is to keep the cart ready for the next user and reduce time lost looking for basic materials.\n\nWhere should employees return supplies?",
+    "choices": {
+      "A": "To the labeled drawers",
+      "B": "To customer vehicles",
+      "C": "To the parking lot",
+      "D": "To office mailboxes"
+    },
+    "correct": "A",
+    "explanation": "Employees must return supplies to the labeled drawers before placing the cart back in storage."
+  },
+  {
+    "id": "RC19-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning March 18, employees who use the shared maintenance cart must return all supplies to the labeled drawers before the cart is placed back in storage. The cart should also be checked for missing items at the end of each shift.\nThis procedure was created after several employees reported that common supplies, such as tape, markers, small fasteners, and gloves, were missing when the cart was needed. In some cases, workers had to leave the job area to search for replacement supplies.\nThe goal is to keep the cart ready for the next user and reduce time lost looking for basic materials.\n\nWhat problem led to the new procedure?",
+    "choices": {
+      "A": "Employees were using too many labeled drawers.",
+      "B": "Common supplies were missing when the cart was needed.",
+      "C": "The cart was never placed in storage.",
+      "D": "Gloves were no longer allowed at work."
+    },
+    "correct": "B",
+    "explanation": "The procedure was created because common supplies were missing when the cart was needed."
+  },
+  {
+    "id": "RC19-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning March 18, employees who use the shared maintenance cart must return all supplies to the labeled drawers before the cart is placed back in storage. The cart should also be checked for missing items at the end of each shift.\nThis procedure was created after several employees reported that common supplies, such as tape, markers, small fasteners, and gloves, were missing when the cart was needed. In some cases, workers had to leave the job area to search for replacement supplies.\nThe goal is to keep the cart ready for the next user and reduce time lost looking for basic materials.\n\nWhat is one goal of the procedure?",
+    "choices": {
+      "A": "To make the cart harder to find",
+      "B": "To reduce time lost looking for basic materials",
+      "C": "To remove all supplies from the work area",
+      "D": "To stop employees from using maintenance tools"
+    },
+    "correct": "B",
+    "explanation": "One goal is to reduce time lost looking for basic materials."
+  },
+  {
+    "id": "RC19-010",
+    "prompt": "Passage 3\nMany organizations use written emergency contact lists to prepare for unexpected events. These lists may include supervisors, facility managers, security contacts, utility providers, equipment vendors, and local emergency services.\nA contact list is useful only if the information is accurate. An outdated phone number can delay a response when time matters. For this reason, many companies review emergency contact lists on a regular schedule and after major staffing changes.\nThe list should also be easy to find. If employees must search through old emails or several folders during an emergency, the list may not serve its purpose. Some workplaces post printed copies in key areas and store digital copies in shared locations.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Emergency contact lists are useful only when they are current and easy to find.",
+      "B": "Employees should search old emails during emergencies.",
+      "C": "Emergency contact lists should include only customers.",
+      "D": "Companies should avoid updating phone numbers."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that emergency contact lists are useful only when the information is accurate and easy to access."
+  },
+  {
+    "id": "RC19-011",
+    "prompt": "Passage 3\nMany organizations use written emergency contact lists to prepare for unexpected events. These lists may include supervisors, facility managers, security contacts, utility providers, equipment vendors, and local emergency services.\nA contact list is useful only if the information is accurate. An outdated phone number can delay a response when time matters. For this reason, many companies review emergency contact lists on a regular schedule and after major staffing changes.\nThe list should also be easy to find. If employees must search through old emails or several folders during an emergency, the list may not serve its purpose. Some workplaces post printed copies in key areas and store digital copies in shared locations.\n\nWhich contact may be included on an emergency contact list?",
+    "choices": {
+      "A": "Facility managers",
+      "B": "Grocery store shoppers",
+      "C": "Vacation planners",
+      "D": "Advertising designers only"
+    },
+    "correct": "A",
+    "explanation": "Facility managers are specifically listed as contacts that may appear on an emergency contact list."
+  },
+  {
+    "id": "RC19-012",
+    "prompt": "Passage 3\nMany organizations use written emergency contact lists to prepare for unexpected events. These lists may include supervisors, facility managers, security contacts, utility providers, equipment vendors, and local emergency services.\nA contact list is useful only if the information is accurate. An outdated phone number can delay a response when time matters. For this reason, many companies review emergency contact lists on a regular schedule and after major staffing changes.\nThe list should also be easy to find. If employees must search through old emails or several folders during an emergency, the list may not serve its purpose. Some workplaces post printed copies in key areas and store digital copies in shared locations.\n\nWhy should companies review emergency contact lists after major staffing changes?",
+    "choices": {
+      "A": "Contact information may have changed.",
+      "B": "Emergency lists become unnecessary after staffing changes.",
+      "C": "Employees no longer need supervisors.",
+      "D": "Printed copies cannot be used."
+    },
+    "correct": "A",
+    "explanation": "Major staffing changes may affect contact information, so lists should be reviewed afterward."
+  },
+  {
+    "id": "RC19-013",
+    "prompt": "Passage 3\nMany organizations use written emergency contact lists to prepare for unexpected events. These lists may include supervisors, facility managers, security contacts, utility providers, equipment vendors, and local emergency services.\nA contact list is useful only if the information is accurate. An outdated phone number can delay a response when time matters. For this reason, many companies review emergency contact lists on a regular schedule and after major staffing changes.\nThe list should also be easy to find. If employees must search through old emails or several folders during an emergency, the list may not serve its purpose. Some workplaces post printed copies in key areas and store digital copies in shared locations.\n\nWhat problem can occur if employees must search through old emails during an emergency?",
+    "choices": {
+      "A": "The response may be delayed.",
+      "B": "The list becomes easier to use.",
+      "C": "Phone numbers update automatically.",
+      "D": "Emergency services are no longer needed."
+    },
+    "correct": "A",
+    "explanation": "If employees must search old emails or folders, emergency response may be delayed."
+  },
+  {
+    "id": "RC19-014",
+    "prompt": "Passage 3\nMany organizations use written emergency contact lists to prepare for unexpected events. These lists may include supervisors, facility managers, security contacts, utility providers, equipment vendors, and local emergency services.\nA contact list is useful only if the information is accurate. An outdated phone number can delay a response when time matters. For this reason, many companies review emergency contact lists on a regular schedule and after major staffing changes.\nThe list should also be easy to find. If employees must search through old emails or several folders during an emergency, the list may not serve its purpose. Some workplaces post printed copies in key areas and store digital copies in shared locations.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Emergency preparation depends partly on having accessible information.",
+      "B": "Contact lists are useful even when no one can find them.",
+      "C": "Old phone numbers improve emergency response.",
+      "D": "Digital copies should never be stored in shared locations."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that emergency preparation depends on having information that can be found quickly."
+  },
+  {
+    "id": "RC19-015",
+    "prompt": "Passage 4\nBefore automated teller machines became common, many banking tasks required customers to visit a bank branch during business hours. Customers who needed cash after hours often had few convenient options.\nATMs changed banking by allowing customers to withdraw cash, check balances, and complete certain transactions without speaking to a teller. This made basic banking services available at more times and in more locations. Banks also benefited because some routine transactions could be handled without waiting in line inside the branch.\nATMs did not replace all banking services. Customers may still need bank employees for loans, account problems, or services that require personal review. However, ATMs made routine access to money and account information more convenient.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "ATMs made routine banking services more convenient.",
+      "B": "Bank branches stopped offering all services.",
+      "C": "Customers can use ATMs only during business hours.",
+      "D": "ATMs replaced every bank employee."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how ATMs made routine banking services more convenient and available outside traditional branch hours."
+  },
+  {
+    "id": "RC19-016",
+    "prompt": "Passage 4\nBefore automated teller machines became common, many banking tasks required customers to visit a bank branch during business hours. Customers who needed cash after hours often had few convenient options.\nATMs changed banking by allowing customers to withdraw cash, check balances, and complete certain transactions without speaking to a teller. This made basic banking services available at more times and in more locations. Banks also benefited because some routine transactions could be handled without waiting in line inside the branch.\nATMs did not replace all banking services. Customers may still need bank employees for loans, account problems, or services that require personal review. However, ATMs made routine access to money and account information more convenient.\n\nWhat was one limitation before ATMs became common?",
+    "choices": {
+      "A": "Customers often had to visit a branch during business hours.",
+      "B": "Customers could not open bank accounts.",
+      "C": "Banks had no tellers.",
+      "D": "Cash was never available anywhere."
+    },
+    "correct": "A",
+    "explanation": "Before ATMs, many banking tasks required visiting a branch during business hours."
+  },
+  {
+    "id": "RC19-017",
+    "prompt": "Passage 4\nBefore automated teller machines became common, many banking tasks required customers to visit a bank branch during business hours. Customers who needed cash after hours often had few convenient options.\nATMs changed banking by allowing customers to withdraw cash, check balances, and complete certain transactions without speaking to a teller. This made basic banking services available at more times and in more locations. Banks also benefited because some routine transactions could be handled without waiting in line inside the branch.\nATMs did not replace all banking services. Customers may still need bank employees for loans, account problems, or services that require personal review. However, ATMs made routine access to money and account information more convenient.\n\nWhich task can ATMs help customers complete?",
+    "choices": {
+      "A": "Withdraw cash or check balances",
+      "B": "Build bank branches",
+      "C": "Approve business loans automatically",
+      "D": "Repair bank computers"
+    },
+    "correct": "A",
+    "explanation": "ATMs allow customers to withdraw cash, check balances, and complete certain transactions."
+  },
+  {
+    "id": "RC19-018",
+    "prompt": "Passage 4\nBefore automated teller machines became common, many banking tasks required customers to visit a bank branch during business hours. Customers who needed cash after hours often had few convenient options.\nATMs changed banking by allowing customers to withdraw cash, check balances, and complete certain transactions without speaking to a teller. This made basic banking services available at more times and in more locations. Banks also benefited because some routine transactions could be handled without waiting in line inside the branch.\nATMs did not replace all banking services. Customers may still need bank employees for loans, account problems, or services that require personal review. However, ATMs made routine access to money and account information more convenient.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "ATMs improved convenience but did not replace all banking services.",
+      "B": "ATMs are useful only for complex loan decisions.",
+      "C": "Bank employees are never needed by customers.",
+      "D": "Routine banking became less available after ATMs."
+    },
+    "correct": "A",
+    "explanation": "The passage states that ATMs improved convenience but did not replace services requiring bank employees."
+  },
+  {
+    "id": "RC19-019",
+    "prompt": "Passage 5\nA regional shipping company recently added a weather review step to its daily route planning. Dispatchers now check weather conditions before assigning long-distance deliveries. The review includes forecasts for heavy rain, snow, high winds, and road closures.\nBefore the change, drivers sometimes learned about severe weather only after starting their route. This could lead to delays, route changes, or unsafe driving conditions. The new review does not eliminate weather problems, but it gives dispatchers and drivers more time to plan.\nWhen poor weather is expected, dispatchers may adjust departure times, choose alternate routes, or contact customers about possible delays. Managers say the goal is to make safer and more realistic delivery plans.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped making long-distance deliveries.",
+      "B": "A weather review step helps the company plan routes more safely and realistically.",
+      "C": "Drivers now ignore road closures.",
+      "D": "Customers are responsible for checking weather forecasts."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how weather reviews help dispatchers and drivers plan safer and more realistic delivery routes."
+  },
+  {
+    "id": "RC19-020",
+    "prompt": "Passage 5\nA regional shipping company recently added a weather review step to its daily route planning. Dispatchers now check weather conditions before assigning long-distance deliveries. The review includes forecasts for heavy rain, snow, high winds, and road closures.\nBefore the change, drivers sometimes learned about severe weather only after starting their route. This could lead to delays, route changes, or unsafe driving conditions. The new review does not eliminate weather problems, but it gives dispatchers and drivers more time to plan.\nWhen poor weather is expected, dispatchers may adjust departure times, choose alternate routes, or contact customers about possible delays. Managers say the goal is to make safer and more realistic delivery plans.\n\nWhat does the weather review include?",
+    "choices": {
+      "A": "Forecasts for heavy rain, snow, high winds, and road closures",
+      "B": "Customer billing history",
+      "C": "Warehouse cleaning assignments",
+      "D": "Employee training scores"
+    },
+    "correct": "A",
+    "explanation": "The review includes forecasts for heavy rain, snow, high winds, and road closures."
+  },
+  {
+    "id": "RC19-021",
+    "prompt": "Passage 5\nA regional shipping company recently added a weather review step to its daily route planning. Dispatchers now check weather conditions before assigning long-distance deliveries. The review includes forecasts for heavy rain, snow, high winds, and road closures.\nBefore the change, drivers sometimes learned about severe weather only after starting their route. This could lead to delays, route changes, or unsafe driving conditions. The new review does not eliminate weather problems, but it gives dispatchers and drivers more time to plan.\nWhen poor weather is expected, dispatchers may adjust departure times, choose alternate routes, or contact customers about possible delays. Managers say the goal is to make safer and more realistic delivery plans.\n\nWhat problem occurred before the weather review was added?",
+    "choices": {
+      "A": "Drivers sometimes learned about severe weather only after starting routes.",
+      "B": "Dispatchers checked weather too frequently.",
+      "C": "Customers refused all delivery updates.",
+      "D": "Trucks could not travel in normal weather."
+    },
+    "correct": "A",
+    "explanation": "Before the change, drivers sometimes learned about severe weather only after starting their route."
+  },
+  {
+    "id": "RC19-022",
+    "prompt": "Passage 5\nA regional shipping company recently added a weather review step to its daily route planning. Dispatchers now check weather conditions before assigning long-distance deliveries. The review includes forecasts for heavy rain, snow, high winds, and road closures.\nBefore the change, drivers sometimes learned about severe weather only after starting their route. This could lead to delays, route changes, or unsafe driving conditions. The new review does not eliminate weather problems, but it gives dispatchers and drivers more time to plan.\nWhen poor weather is expected, dispatchers may adjust departure times, choose alternate routes, or contact customers about possible delays. Managers say the goal is to make safer and more realistic delivery plans.\n\nWhat may dispatchers do when poor weather is expected?",
+    "choices": {
+      "A": "Adjust departure times or choose alternate routes",
+      "B": "Remove all delivery information",
+      "C": "Stop contacting customers permanently",
+      "D": "Ignore forecasts until the next week"
+    },
+    "correct": "A",
+    "explanation": "Dispatchers may adjust departure times, choose alternate routes, or contact customers about delays."
+  },
+  {
+    "id": "RC19-023",
+    "prompt": "Passage 5\nA regional shipping company recently added a weather review step to its daily route planning. Dispatchers now check weather conditions before assigning long-distance deliveries. The review includes forecasts for heavy rain, snow, high winds, and road closures.\nBefore the change, drivers sometimes learned about severe weather only after starting their route. This could lead to delays, route changes, or unsafe driving conditions. The new review does not eliminate weather problems, but it gives dispatchers and drivers more time to plan.\nWhen poor weather is expected, dispatchers may adjust departure times, choose alternate routes, or contact customers about possible delays. Managers say the goal is to make safer and more realistic delivery plans.\n\nThe word “realistic” most nearly means:",
+    "choices": {
+      "A": "Practical and based on actual conditions",
+      "B": "Imaginary",
+      "C": "Unrelated to facts",
+      "D": "Impossible to follow"
+    },
+    "correct": "A",
+    "explanation": "In context, “realistic” means practical and based on actual weather and road conditions."
+  },
+  {
+    "id": "RC19-024",
+    "prompt": "Passage 6\nMany workplaces use shared digital calendars to coordinate training sessions, inspections, deadlines, and staff meetings. These calendars allow employees to see upcoming events without waiting for individual reminders.\nA shared calendar can reduce confusion when multiple departments are involved. For example, if a safety inspection requires both maintenance and operations employees to be present, placing the event on a shared calendar helps both groups prepare.\nHowever, shared calendars must be maintained. If an event is canceled but remains on the calendar, employees may waste time preparing for something that will not happen. If an event is added too late, employees may not have enough time to adjust their schedules.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Shared digital calendars can improve coordination when they are kept accurate.",
+      "B": "Employees should avoid checking upcoming events.",
+      "C": "Calendars are useful only for personal appointments.",
+      "D": "Canceled events should remain on shared calendars."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that shared digital calendars improve coordination only when event information is maintained accurately."
+  },
+  {
+    "id": "RC19-025",
+    "prompt": "Passage 6\nMany workplaces use shared digital calendars to coordinate training sessions, inspections, deadlines, and staff meetings. These calendars allow employees to see upcoming events without waiting for individual reminders.\nA shared calendar can reduce confusion when multiple departments are involved. For example, if a safety inspection requires both maintenance and operations employees to be present, placing the event on a shared calendar helps both groups prepare.\nHowever, shared calendars must be maintained. If an event is canceled but remains on the calendar, employees may waste time preparing for something that will not happen. If an event is added too late, employees may not have enough time to adjust their schedules.\n\nWhat can shared calendars help coordinate?",
+    "choices": {
+      "A": "Training sessions, inspections, deadlines, and staff meetings",
+      "B": "Customer grocery lists",
+      "C": "Private bank transactions",
+      "D": "Weather patterns only"
+    },
+    "correct": "A",
+    "explanation": "Training sessions, inspections, deadlines, and staff meetings are listed as events a shared calendar may coordinate."
+  },
+  {
+    "id": "RC19-026",
+    "prompt": "Passage 6\nMany workplaces use shared digital calendars to coordinate training sessions, inspections, deadlines, and staff meetings. These calendars allow employees to see upcoming events without waiting for individual reminders.\nA shared calendar can reduce confusion when multiple departments are involved. For example, if a safety inspection requires both maintenance and operations employees to be present, placing the event on a shared calendar helps both groups prepare.\nHowever, shared calendars must be maintained. If an event is canceled but remains on the calendar, employees may waste time preparing for something that will not happen. If an event is added too late, employees may not have enough time to adjust their schedules.\n\nWhy might a safety inspection be placed on a shared calendar?",
+    "choices": {
+      "A": "So both maintenance and operations employees can prepare",
+      "B": "So employees forget the inspection",
+      "C": "So departments avoid coordination",
+      "D": "So the inspection can be canceled automatically"
+    },
+    "correct": "A",
+    "explanation": "A shared calendar helps both maintenance and operations employees prepare for an inspection."
+  },
+  {
+    "id": "RC19-027",
+    "prompt": "Passage 6\nMany workplaces use shared digital calendars to coordinate training sessions, inspections, deadlines, and staff meetings. These calendars allow employees to see upcoming events without waiting for individual reminders.\nA shared calendar can reduce confusion when multiple departments are involved. For example, if a safety inspection requires both maintenance and operations employees to be present, placing the event on a shared calendar helps both groups prepare.\nHowever, shared calendars must be maintained. If an event is canceled but remains on the calendar, employees may waste time preparing for something that will not happen. If an event is added too late, employees may not have enough time to adjust their schedules.\n\nWhat can happen if a canceled event remains on the calendar?",
+    "choices": {
+      "A": "Employees may waste time preparing for it.",
+      "B": "The event becomes more important.",
+      "C": "Employees receive more accurate information.",
+      "D": "The calendar updates itself without help."
+    },
+    "correct": "A",
+    "explanation": "If a canceled event remains on the calendar, employees may waste time preparing for it."
+  },
+  {
+    "id": "RC19-028",
+    "prompt": "Passage 6\nMany workplaces use shared digital calendars to coordinate training sessions, inspections, deadlines, and staff meetings. These calendars allow employees to see upcoming events without waiting for individual reminders.\nA shared calendar can reduce confusion when multiple departments are involved. For example, if a safety inspection requires both maintenance and operations employees to be present, placing the event on a shared calendar helps both groups prepare.\nHowever, shared calendars must be maintained. If an event is canceled but remains on the calendar, employees may waste time preparing for something that will not happen. If an event is added too late, employees may not have enough time to adjust their schedules.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Shared calendars are most useful when event information is current.",
+      "B": "Events should always be added late.",
+      "C": "Employees should rely only on individual reminders.",
+      "D": "Calendar errors have no effect on planning."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that shared calendars are most useful when current and accurate."
+  },
+  {
+    "id": "RC19-029",
+    "prompt": "Passage 7\nMany communities use public service announcements to share important information with residents. These announcements may explain changes to trash pickup, water service interruptions, road closures, public health clinics, or emergency procedures.\nA good announcement is clear, brief, and specific. Residents need to know what is happening, who is affected, when the change occurs, and what action they should take. If an announcement gives too much background but leaves out the required action, residents may still be confused.\nPublic service announcements may be shared through websites, text alerts, flyers, radio messages, or social media. Using several channels can help reach residents who get information in different ways.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public service announcements help residents when they are clear and specific.",
+      "B": "Residents should avoid public information.",
+      "C": "Public announcements should include as little useful information as possible.",
+      "D": "Communities use announcements only for entertainment."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that public service announcements help residents when they clearly explain what is happening and what action to take."
+  },
+  {
+    "id": "RC19-030",
+    "prompt": "Passage 7\nMany communities use public service announcements to share important information with residents. These announcements may explain changes to trash pickup, water service interruptions, road closures, public health clinics, or emergency procedures.\nA good announcement is clear, brief, and specific. Residents need to know what is happening, who is affected, when the change occurs, and what action they should take. If an announcement gives too much background but leaves out the required action, residents may still be confused.\nPublic service announcements may be shared through websites, text alerts, flyers, radio messages, or social media. Using several channels can help reach residents who get information in different ways.\n\nWhich topic may be covered by a public service announcement?",
+    "choices": {
+      "A": "Road closures",
+      "B": "Private employee passwords",
+      "C": "Fiction book reviews",
+      "D": "Personal shopping lists"
+    },
+    "correct": "A",
+    "explanation": "Road closures are specifically listed as a possible topic of a public service announcement."
+  },
+  {
+    "id": "RC19-031",
+    "prompt": "Passage 7\nMany communities use public service announcements to share important information with residents. These announcements may explain changes to trash pickup, water service interruptions, road closures, public health clinics, or emergency procedures.\nA good announcement is clear, brief, and specific. Residents need to know what is happening, who is affected, when the change occurs, and what action they should take. If an announcement gives too much background but leaves out the required action, residents may still be confused.\nPublic service announcements may be shared through websites, text alerts, flyers, radio messages, or social media. Using several channels can help reach residents who get information in different ways.\n\nWhat information should a good announcement provide?",
+    "choices": {
+      "A": "What is happening, who is affected, when it occurs, and what action to take",
+      "B": "Only a long history of the community",
+      "C": "Private information about residents",
+      "D": "Unrelated stories about past events"
+    },
+    "correct": "A",
+    "explanation": "A good announcement should explain what is happening, who is affected, when it occurs, and what action residents should take."
+  },
+  {
+    "id": "RC19-032",
+    "prompt": "Passage 7\nMany communities use public service announcements to share important information with residents. These announcements may explain changes to trash pickup, water service interruptions, road closures, public health clinics, or emergency procedures.\nA good announcement is clear, brief, and specific. Residents need to know what is happening, who is affected, when the change occurs, and what action they should take. If an announcement gives too much background but leaves out the required action, residents may still be confused.\nPublic service announcements may be shared through websites, text alerts, flyers, radio messages, or social media. Using several channels can help reach residents who get information in different ways.\n\nWhy might announcements be shared through several channels?",
+    "choices": {
+      "A": "To reach residents who get information in different ways",
+      "B": "To make the message harder to find",
+      "C": "To prevent residents from learning about changes",
+      "D": "To replace all public services"
+    },
+    "correct": "A",
+    "explanation": "Using multiple channels helps reach residents who receive information in different ways."
+  },
+  {
+    "id": "RC19-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short confidence checks before practice exams. Students are asked to rate how prepared they feel in reading, math, and test pacing. They also write one concern they want to focus on during the practice exam.\nInstructors added the activity after noticing that some students could not clearly describe what made them nervous. One student might say “I am bad at tests,” when the real issue was running out of time on reading passages. Another might feel worried about math but actually struggle most with setting up word problems.\nThe confidence checks help instructors provide more focused advice. They also help students turn general worry into a specific study target.\n\nWhy did the class add confidence checks?",
+    "choices": {
+      "A": "Some students could not clearly describe what made them nervous.",
+      "B": "Students stopped taking practice exams.",
+      "C": "Instructors wanted to remove reading and math practice.",
+      "D": "The class no longer worked on test pacing."
+    },
+    "correct": "A",
+    "explanation": "The confidence checks were added because some students could not clearly describe what made them nervous."
+  },
+  {
+    "id": "RC19-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short confidence checks before practice exams. Students are asked to rate how prepared they feel in reading, math, and test pacing. They also write one concern they want to focus on during the practice exam.\nInstructors added the activity after noticing that some students could not clearly describe what made them nervous. One student might say “I am bad at tests,” when the real issue was running out of time on reading passages. Another might feel worried about math but actually struggle most with setting up word problems.\nThe confidence checks help instructors provide more focused advice. They also help students turn general worry into a specific study target.\n\nWhat do students rate before practice exams?",
+    "choices": {
+      "A": "How prepared they feel in reading, math, and test pacing",
+      "B": "How much they like the classroom furniture",
+      "C": "How many customers they helped",
+      "D": "How difficult the parking lot is to use"
+    },
+    "correct": "A",
+    "explanation": "Students rate how prepared they feel in reading, math, and test pacing."
+  },
+  {
+    "id": "RC19-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short confidence checks before practice exams. Students are asked to rate how prepared they feel in reading, math, and test pacing. They also write one concern they want to focus on during the practice exam.\nInstructors added the activity after noticing that some students could not clearly describe what made them nervous. One student might say “I am bad at tests,” when the real issue was running out of time on reading passages. Another might feel worried about math but actually struggle most with setting up word problems.\nThe confidence checks help instructors provide more focused advice. They also help students turn general worry into a specific study target.\n\nWhat might be the real issue for a student who says, “I am bad at tests”?",
+    "choices": {
+      "A": "Running out of time on reading passages",
+      "B": "Knowing too much about the exam",
+      "C": "Having no concerns at all",
+      "D": "Finishing every section early"
+    },
+    "correct": "A",
+    "explanation": "The passage gives the example that a student who says “I am bad at tests” may actually be running out of time on reading passages."
+  },
+  {
+    "id": "RC19-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short confidence checks before practice exams. Students are asked to rate how prepared they feel in reading, math, and test pacing. They also write one concern they want to focus on during the practice exam.\nInstructors added the activity after noticing that some students could not clearly describe what made them nervous. One student might say “I am bad at tests,” when the real issue was running out of time on reading passages. Another might feel worried about math but actually struggle most with setting up word problems.\nThe confidence checks help instructors provide more focused advice. They also help students turn general worry into a specific study target.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Identifying a specific concern can make studying more focused.",
+      "B": "General worry is always more useful than a specific study target.",
+      "C": "Confidence checks prevent instructors from giving advice.",
+      "D": "Students should avoid thinking about preparation before practice exams."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that turning general worry into a specific concern helps create a more focused study target."
+  }
+]

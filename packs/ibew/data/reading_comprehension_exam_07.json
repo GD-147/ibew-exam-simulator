@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC7-001",
+    "prompt": "Passage 1\nA regional maintenance company recently adopted a digital scheduling system for service calls. Previously, office staff created daily schedules on paper and called technicians when assignments changed. This process worked during slow periods, but it became difficult to manage when several urgent requests arrived at the same time.\nThe new system allows dispatchers to assign service calls through a shared online schedule. Technicians can view their assignments on mobile devices and receive updates when changes are made. Managers report that technicians now receive information more quickly and that customers are given more accurate arrival windows.\nThe company also uses the scheduling data to identify busy service periods and plan staffing more effectively. Although the system required training, most employees adjusted after several weeks of regular use.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped accepting urgent service calls.",
+      "B": "A digital scheduling system improved service-call management.",
+      "C": "Technicians now create all customer invoices.",
+      "D": "Paper schedules are more accurate than digital schedules."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the digital scheduling system helped the company manage service calls, update technicians, and give customers more accurate arrival windows."
+  },
+  {
+    "id": "RC7-002",
+    "prompt": "Passage 1\nA regional maintenance company recently adopted a digital scheduling system for service calls. Previously, office staff created daily schedules on paper and called technicians when assignments changed. This process worked during slow periods, but it became difficult to manage when several urgent requests arrived at the same time.\nThe new system allows dispatchers to assign service calls through a shared online schedule. Technicians can view their assignments on mobile devices and receive updates when changes are made. Managers report that technicians now receive information more quickly and that customers are given more accurate arrival windows.\nThe company also uses the scheduling data to identify busy service periods and plan staffing more effectively. Although the system required training, most employees adjusted after several weeks of regular use.\n\nWhat problem occurred with the old scheduling process?",
+    "choices": {
+      "A": "It became difficult to manage during periods with multiple urgent requests.",
+      "B": "Technicians refused to use mobile devices.",
+      "C": "Customers stopped requesting service calls.",
+      "D": "Office staff were unable to contact technicians at all."
+    },
+    "correct": "A",
+    "explanation": "The old process became difficult when several urgent requests arrived at the same time. The trap is choosing a choice that sounds like a general communication problem but is not stated."
+  },
+  {
+    "id": "RC7-003",
+    "prompt": "Passage 1\nA regional maintenance company recently adopted a digital scheduling system for service calls. Previously, office staff created daily schedules on paper and called technicians when assignments changed. This process worked during slow periods, but it became difficult to manage when several urgent requests arrived at the same time.\nThe new system allows dispatchers to assign service calls through a shared online schedule. Technicians can view their assignments on mobile devices and receive updates when changes are made. Managers report that technicians now receive information more quickly and that customers are given more accurate arrival windows.\nThe company also uses the scheduling data to identify busy service periods and plan staffing more effectively. Although the system required training, most employees adjusted after several weeks of regular use.\n\nHow do technicians view their assignments under the new system?",
+    "choices": {
+      "A": "On mobile devices",
+      "B": "On printed customer receipts",
+      "C": "Through mailed notices",
+      "D": "On warehouse inventory forms"
+    },
+    "correct": "A",
+    "explanation": "The passage says technicians can view assignments on mobile devices."
+  },
+  {
+    "id": "RC7-004",
+    "prompt": "Passage 1\nA regional maintenance company recently adopted a digital scheduling system for service calls. Previously, office staff created daily schedules on paper and called technicians when assignments changed. This process worked during slow periods, but it became difficult to manage when several urgent requests arrived at the same time.\nThe new system allows dispatchers to assign service calls through a shared online schedule. Technicians can view their assignments on mobile devices and receive updates when changes are made. Managers report that technicians now receive information more quickly and that customers are given more accurate arrival windows.\nThe company also uses the scheduling data to identify busy service periods and plan staffing more effectively. Although the system required training, most employees adjusted after several weeks of regular use.\n\nWhat additional use does the company make of scheduling data?",
+    "choices": {
+      "A": "To identify busy service periods and plan staffing",
+      "B": "To decide which customers should repair equipment themselves",
+      "C": "To remove all urgent service options",
+      "D": "To replace all technicians with office staff"
+    },
+    "correct": "A",
+    "explanation": "The company uses scheduling data to identify busy service periods and plan staffing more effectively."
+  },
+  {
+    "id": "RC7-005",
+    "prompt": "Passage 1\nA regional maintenance company recently adopted a digital scheduling system for service calls. Previously, office staff created daily schedules on paper and called technicians when assignments changed. This process worked during slow periods, but it became difficult to manage when several urgent requests arrived at the same time.\nThe new system allows dispatchers to assign service calls through a shared online schedule. Technicians can view their assignments on mobile devices and receive updates when changes are made. Managers report that technicians now receive information more quickly and that customers are given more accurate arrival windows.\nThe company also uses the scheduling data to identify busy service periods and plan staffing more effectively. Although the system required training, most employees adjusted after several weeks of regular use.\n\nThe word “adjusted” most nearly means:",
+    "choices": {
+      "A": "Became used to",
+      "B": "Refused",
+      "C": "Delayed",
+      "D": "Measured"
+    },
+    "correct": "A",
+    "explanation": "In context, “adjusted” means employees became used to the new system after several weeks."
+  },
+  {
+    "id": "RC7-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 12, all employees who operate company vehicles must complete the updated fuel-card procedure. The new procedure requires employees to enter the vehicle number and current mileage at the time of each fuel purchase.\nThe change is intended to improve fuel tracking and help identify unusual usage patterns. Under the previous process, some receipts did not include enough information to match fuel purchases with specific vehicles.\nEmployees should contact Fleet Services if they have questions about using the fuel card system.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce an updated fuel-card procedure",
+      "B": "To introduce a new vehicle repair shop",
+      "C": "To cancel company vehicle use",
+      "D": "To explain employee parking rules"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the updated fuel-card procedure for employees who operate company vehicles."
+  },
+  {
+    "id": "RC7-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 12, all employees who operate company vehicles must complete the updated fuel-card procedure. The new procedure requires employees to enter the vehicle number and current mileage at the time of each fuel purchase.\nThe change is intended to improve fuel tracking and help identify unusual usage patterns. Under the previous process, some receipts did not include enough information to match fuel purchases with specific vehicles.\nEmployees should contact Fleet Services if they have questions about using the fuel card system.\n\nWhat must employees enter when purchasing fuel?",
+    "choices": {
+      "A": "Their home address and phone number",
+      "B": "The vehicle number and current mileage",
+      "C": "The customer name and invoice number",
+      "D": "The route map and delivery time"
+    },
+    "correct": "B",
+    "explanation": "Employees must enter the vehicle number and current mileage at the time of each fuel purchase."
+  },
+  {
+    "id": "RC7-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 12, all employees who operate company vehicles must complete the updated fuel-card procedure. The new procedure requires employees to enter the vehicle number and current mileage at the time of each fuel purchase.\nThe change is intended to improve fuel tracking and help identify unusual usage patterns. Under the previous process, some receipts did not include enough information to match fuel purchases with specific vehicles.\nEmployees should contact Fleet Services if they have questions about using the fuel card system.\n\nWhy was the procedure changed?",
+    "choices": {
+      "A": "To improve fuel tracking",
+      "B": "To eliminate fuel purchases",
+      "C": "To reduce vehicle maintenance",
+      "D": "To replace all receipts with cash payments"
+    },
+    "correct": "A",
+    "explanation": "The notice states that the change is intended to improve fuel tracking and identify unusual usage patterns."
+  },
+  {
+    "id": "RC7-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 12, all employees who operate company vehicles must complete the updated fuel-card procedure. The new procedure requires employees to enter the vehicle number and current mileage at the time of each fuel purchase.\nThe change is intended to improve fuel tracking and help identify unusual usage patterns. Under the previous process, some receipts did not include enough information to match fuel purchases with specific vehicles.\nEmployees should contact Fleet Services if they have questions about using the fuel card system.\n\nWhat problem existed under the previous process?",
+    "choices": {
+      "A": "Some receipts lacked enough information to match fuel purchases with vehicles.",
+      "B": "Vehicles could not be driven outside the parking lot.",
+      "C": "Fuel cards were used only by customers.",
+      "D": "Mileage was recorded too frequently."
+    },
+    "correct": "A",
+    "explanation": "The previous process sometimes produced receipts without enough information to match purchases with specific vehicles."
+  },
+  {
+    "id": "RC7-010",
+    "prompt": "Passage 3\nMany businesses use customer feedback surveys to understand how well their services are meeting customer needs. Surveys may ask about wait times, employee communication, product quality, billing, or overall satisfaction.\nA well-designed survey can help a company identify strengths and weaknesses. For example, if many customers report that service representatives are helpful but response times are slow, managers may decide to adjust staffing or improve scheduling.\nHowever, surveys are most useful when the results are reviewed carefully and connected to specific actions. Collecting feedback without making improvements may reduce customer confidence over time.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Customer surveys can help businesses improve when results are used carefully.",
+      "B": "Surveys are useful only when customers complain.",
+      "C": "Companies should avoid asking customers for feedback.",
+      "D": "Customer satisfaction cannot be measured."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that customer surveys can identify strengths and weaknesses, but their value depends on using the results to make improvements."
+  },
+  {
+    "id": "RC7-011",
+    "prompt": "Passage 3\nMany businesses use customer feedback surveys to understand how well their services are meeting customer needs. Surveys may ask about wait times, employee communication, product quality, billing, or overall satisfaction.\nA well-designed survey can help a company identify strengths and weaknesses. For example, if many customers report that service representatives are helpful but response times are slow, managers may decide to adjust staffing or improve scheduling.\nHowever, surveys are most useful when the results are reviewed carefully and connected to specific actions. Collecting feedback without making improvements may reduce customer confidence over time.\n\nWhich topic might a customer feedback survey ask about?",
+    "choices": {
+      "A": "Employee shoe sizes",
+      "B": "Wait times",
+      "C": "Weather forecasts",
+      "D": "Building permits"
+    },
+    "correct": "B",
+    "explanation": "Wait times are specifically listed as a possible survey topic."
+  },
+  {
+    "id": "RC7-012",
+    "prompt": "Passage 3\nMany businesses use customer feedback surveys to understand how well their services are meeting customer needs. Surveys may ask about wait times, employee communication, product quality, billing, or overall satisfaction.\nA well-designed survey can help a company identify strengths and weaknesses. For example, if many customers report that service representatives are helpful but response times are slow, managers may decide to adjust staffing or improve scheduling.\nHowever, surveys are most useful when the results are reviewed carefully and connected to specific actions. Collecting feedback without making improvements may reduce customer confidence over time.\n\nWhat might managers do if customers report slow response times?",
+    "choices": {
+      "A": "Adjust staffing or improve scheduling",
+      "B": "Stop reviewing survey results",
+      "C": "Remove all service representatives",
+      "D": "Increase customer wait times"
+    },
+    "correct": "A",
+    "explanation": "The passage gives an example where slow response times may lead managers to adjust staffing or improve scheduling."
+  },
+  {
+    "id": "RC7-013",
+    "prompt": "Passage 3\nMany businesses use customer feedback surveys to understand how well their services are meeting customer needs. Surveys may ask about wait times, employee communication, product quality, billing, or overall satisfaction.\nA well-designed survey can help a company identify strengths and weaknesses. For example, if many customers report that service representatives are helpful but response times are slow, managers may decide to adjust staffing or improve scheduling.\nHowever, surveys are most useful when the results are reviewed carefully and connected to specific actions. Collecting feedback without making improvements may reduce customer confidence over time.\n\nAccording to the passage, when are surveys most useful?",
+    "choices": {
+      "A": "When results are reviewed and connected to specific actions",
+      "B": "When customers are not allowed to answer honestly",
+      "C": "When companies ignore negative comments",
+      "D": "When surveys ask only one question"
+    },
+    "correct": "A",
+    "explanation": "Surveys are most useful when results are reviewed carefully and connected to specific actions."
+  },
+  {
+    "id": "RC7-014",
+    "prompt": "Passage 3\nMany businesses use customer feedback surveys to understand how well their services are meeting customer needs. Surveys may ask about wait times, employee communication, product quality, billing, or overall satisfaction.\nA well-designed survey can help a company identify strengths and weaknesses. For example, if many customers report that service representatives are helpful but response times are slow, managers may decide to adjust staffing or improve scheduling.\nHowever, surveys are most useful when the results are reviewed carefully and connected to specific actions. Collecting feedback without making improvements may reduce customer confidence over time.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Feedback has the greatest value when it leads to improvement.",
+      "B": "Customer surveys always solve every business problem.",
+      "C": "Companies should collect feedback but never change procedures.",
+      "D": "Customers cannot identify service problems."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that feedback matters most when it leads to real improvement."
+  },
+  {
+    "id": "RC7-015",
+    "prompt": "Passage 4\nThe development of elevator technology changed the way buildings were designed and used. Before reliable elevators became common, most buildings were limited in practical height because people had to climb stairs to reach upper floors. This made higher floors less desirable for offices or apartments.\nAs elevators became safer and more dependable, taller buildings became more practical. Businesses could use upper floors more effectively, and cities were able to expand upward rather than only outward. Elevator improvements also influenced building design, construction planning, and daily movement within large structures.\nToday, elevators remain essential in many workplaces, hospitals, residential buildings, and public facilities. Regular inspection and maintenance help ensure they continue operating safely.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Elevator technology made taller buildings more practical.",
+      "B": "Stairs are no longer found in modern buildings.",
+      "C": "Cities stopped expanding after elevators were invented.",
+      "D": "Elevators are used only in residential buildings."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how reliable elevators made taller buildings more practical and changed building design and city growth."
+  },
+  {
+    "id": "RC7-016",
+    "prompt": "Passage 4\nThe development of elevator technology changed the way buildings were designed and used. Before reliable elevators became common, most buildings were limited in practical height because people had to climb stairs to reach upper floors. This made higher floors less desirable for offices or apartments.\nAs elevators became safer and more dependable, taller buildings became more practical. Businesses could use upper floors more effectively, and cities were able to expand upward rather than only outward. Elevator improvements also influenced building design, construction planning, and daily movement within large structures.\nToday, elevators remain essential in many workplaces, hospitals, residential buildings, and public facilities. Regular inspection and maintenance help ensure they continue operating safely.\n\nWhy were buildings once limited in practical height?",
+    "choices": {
+      "A": "People had to climb stairs to reach upper floors.",
+      "B": "Upper floors were always less expensive to build.",
+      "C": "Cities prohibited all tall buildings.",
+      "D": "Construction materials were unavailable."
+    },
+    "correct": "A",
+    "explanation": "Before reliable elevators, people had to climb stairs to reach upper floors, which limited practical building height."
+  },
+  {
+    "id": "RC7-017",
+    "prompt": "Passage 4\nThe development of elevator technology changed the way buildings were designed and used. Before reliable elevators became common, most buildings were limited in practical height because people had to climb stairs to reach upper floors. This made higher floors less desirable for offices or apartments.\nAs elevators became safer and more dependable, taller buildings became more practical. Businesses could use upper floors more effectively, and cities were able to expand upward rather than only outward. Elevator improvements also influenced building design, construction planning, and daily movement within large structures.\nToday, elevators remain essential in many workplaces, hospitals, residential buildings, and public facilities. Regular inspection and maintenance help ensure they continue operating safely.\n\nWhat was one effect of safer and more dependable elevators?",
+    "choices": {
+      "A": "Businesses could use upper floors more effectively.",
+      "B": "Hospitals stopped using multi-story buildings.",
+      "C": "Cities could no longer grow upward.",
+      "D": "Building maintenance became unnecessary."
+    },
+    "correct": "A",
+    "explanation": "The passage states that safer, more dependable elevators allowed businesses to use upper floors more effectively."
+  },
+  {
+    "id": "RC7-018",
+    "prompt": "Passage 4\nThe development of elevator technology changed the way buildings were designed and used. Before reliable elevators became common, most buildings were limited in practical height because people had to climb stairs to reach upper floors. This made higher floors less desirable for offices or apartments.\nAs elevators became safer and more dependable, taller buildings became more practical. Businesses could use upper floors more effectively, and cities were able to expand upward rather than only outward. Elevator improvements also influenced building design, construction planning, and daily movement within large structures.\nToday, elevators remain essential in many workplaces, hospitals, residential buildings, and public facilities. Regular inspection and maintenance help ensure they continue operating safely.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains a limitation, a technological change, and the effects of that change.",
+      "B": "It lists instructions for repairing elevators.",
+      "C": "It compares two unrelated public services.",
+      "D": "It argues that tall buildings should be avoided."
+    },
+    "correct": "A",
+    "explanation": "The passage first explains the limitation of stairs, then the technological change of elevators, and finally the effects on buildings and cities."
+  },
+  {
+    "id": "RC7-019",
+    "prompt": "Passage 5\nA manufacturing facility recently began using color-coded floor markings to improve organization and safety. Different colors are used to identify walkways, equipment zones, storage areas, and emergency access routes.\nBefore the markings were added, employees sometimes placed materials in areas that blocked movement or made equipment harder to reach. Supervisors also noticed that visitors and new employees occasionally had trouble identifying safe walking paths.\nThe new markings provide visual guidance throughout the facility. Managers report that work areas are easier to navigate and that employees are more consistent about keeping materials in designated locations.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Color-coded floor markings improved organization and safety in the facility.",
+      "B": "The facility removed all storage areas.",
+      "C": "Employees no longer need safety procedures.",
+      "D": "Visitors are not allowed inside the facility."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how color-coded floor markings helped improve organization, navigation, and safety."
+  },
+  {
+    "id": "RC7-020",
+    "prompt": "Passage 5\nA manufacturing facility recently began using color-coded floor markings to improve organization and safety. Different colors are used to identify walkways, equipment zones, storage areas, and emergency access routes.\nBefore the markings were added, employees sometimes placed materials in areas that blocked movement or made equipment harder to reach. Supervisors also noticed that visitors and new employees occasionally had trouble identifying safe walking paths.\nThe new markings provide visual guidance throughout the facility. Managers report that work areas are easier to navigate and that employees are more consistent about keeping materials in designated locations.\n\nWhat do the different floor colors identify?",
+    "choices": {
+      "A": "Walkways, equipment zones, storage areas, and emergency access routes",
+      "B": "Employee salaries and job titles",
+      "C": "Customer orders and shipping prices",
+      "D": "Product advertisements and company logos"
+    },
+    "correct": "A",
+    "explanation": "The passage states that different colors identify walkways, equipment zones, storage areas, and emergency access routes."
+  },
+  {
+    "id": "RC7-021",
+    "prompt": "Passage 5\nA manufacturing facility recently began using color-coded floor markings to improve organization and safety. Different colors are used to identify walkways, equipment zones, storage areas, and emergency access routes.\nBefore the markings were added, employees sometimes placed materials in areas that blocked movement or made equipment harder to reach. Supervisors also noticed that visitors and new employees occasionally had trouble identifying safe walking paths.\nThe new markings provide visual guidance throughout the facility. Managers report that work areas are easier to navigate and that employees are more consistent about keeping materials in designated locations.\n\nWhat problem occurred before the markings were added?",
+    "choices": {
+      "A": "Materials were sometimes placed in areas that blocked movement.",
+      "B": "Employees had too many safe walking paths.",
+      "C": "Equipment was never used.",
+      "D": "Visitors created all production schedules."
+    },
+    "correct": "A",
+    "explanation": "Before the markings, materials were sometimes placed in areas that blocked movement or made equipment harder to reach."
+  },
+  {
+    "id": "RC7-022",
+    "prompt": "Passage 5\nA manufacturing facility recently began using color-coded floor markings to improve organization and safety. Different colors are used to identify walkways, equipment zones, storage areas, and emergency access routes.\nBefore the markings were added, employees sometimes placed materials in areas that blocked movement or made equipment harder to reach. Supervisors also noticed that visitors and new employees occasionally had trouble identifying safe walking paths.\nThe new markings provide visual guidance throughout the facility. Managers report that work areas are easier to navigate and that employees are more consistent about keeping materials in designated locations.\n\nWhat benefit has been reported since the markings were added?",
+    "choices": {
+      "A": "Work areas are easier to navigate.",
+      "B": "Storage areas have been eliminated.",
+      "C": "Employees no longer move materials.",
+      "D": "Emergency routes are harder to identify."
+    },
+    "correct": "A",
+    "explanation": "Managers report that work areas are easier to navigate after the markings were added."
+  },
+  {
+    "id": "RC7-023",
+    "prompt": "Passage 5\nA manufacturing facility recently began using color-coded floor markings to improve organization and safety. Different colors are used to identify walkways, equipment zones, storage areas, and emergency access routes.\nBefore the markings were added, employees sometimes placed materials in areas that blocked movement or made equipment harder to reach. Supervisors also noticed that visitors and new employees occasionally had trouble identifying safe walking paths.\nThe new markings provide visual guidance throughout the facility. Managers report that work areas are easier to navigate and that employees are more consistent about keeping materials in designated locations.\n\nThe word “designated” most nearly means:",
+    "choices": {
+      "A": "Assigned",
+      "B": "Hidden",
+      "C": "Crowded",
+      "D": "Temporary"
+    },
+    "correct": "A",
+    "explanation": "In context, “designated” means assigned for a specific purpose, such as assigned storage locations."
+  },
+  {
+    "id": "RC7-024",
+    "prompt": "Passage 6\nMany organizations use written standard operating procedures, often called SOPs, to describe how routine tasks should be performed. An SOP may explain the steps for starting equipment, handling materials, completing inspections, or documenting work.\nSOPs help create consistency because employees can follow the same process each time a task is completed. They are especially useful when training new employees or when tasks must be performed carefully to meet safety or quality requirements.\nHowever, SOPs must be kept up to date. If procedures change but written instructions are not revised, employees may follow outdated steps. For this reason, supervisors often review SOPs after equipment changes, process updates, or safety concerns.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "SOPs help standardize work but must be kept current.",
+      "B": "Written procedures are useful only for office workers.",
+      "C": "Employees should avoid following instructions.",
+      "D": "SOPs are never used during training."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that SOPs help make work consistent, but they must be updated when procedures change."
+  },
+  {
+    "id": "RC7-025",
+    "prompt": "Passage 6\nMany organizations use written standard operating procedures, often called SOPs, to describe how routine tasks should be performed. An SOP may explain the steps for starting equipment, handling materials, completing inspections, or documenting work.\nSOPs help create consistency because employees can follow the same process each time a task is completed. They are especially useful when training new employees or when tasks must be performed carefully to meet safety or quality requirements.\nHowever, SOPs must be kept up to date. If procedures change but written instructions are not revised, employees may follow outdated steps. For this reason, supervisors often review SOPs after equipment changes, process updates, or safety concerns.\n\nWhat might an SOP explain?",
+    "choices": {
+      "A": "Steps for starting equipment",
+      "B": "Local restaurant menus",
+      "C": "Employee vacation plans",
+      "D": "Weather conditions"
+    },
+    "correct": "A",
+    "explanation": "The passage specifically says an SOP may explain the steps for starting equipment."
+  },
+  {
+    "id": "RC7-026",
+    "prompt": "Passage 6\nMany organizations use written standard operating procedures, often called SOPs, to describe how routine tasks should be performed. An SOP may explain the steps for starting equipment, handling materials, completing inspections, or documenting work.\nSOPs help create consistency because employees can follow the same process each time a task is completed. They are especially useful when training new employees or when tasks must be performed carefully to meet safety or quality requirements.\nHowever, SOPs must be kept up to date. If procedures change but written instructions are not revised, employees may follow outdated steps. For this reason, supervisors often review SOPs after equipment changes, process updates, or safety concerns.\n\nWhy are SOPs useful when training new employees?",
+    "choices": {
+      "A": "They provide a consistent process to follow.",
+      "B": "They eliminate all supervision.",
+      "C": "They replace the need for safe work practices.",
+      "D": "They make tasks more confusing."
+    },
+    "correct": "A",
+    "explanation": "SOPs help new employees because they provide a consistent process to follow."
+  },
+  {
+    "id": "RC7-027",
+    "prompt": "Passage 6\nMany organizations use written standard operating procedures, often called SOPs, to describe how routine tasks should be performed. An SOP may explain the steps for starting equipment, handling materials, completing inspections, or documenting work.\nSOPs help create consistency because employees can follow the same process each time a task is completed. They are especially useful when training new employees or when tasks must be performed carefully to meet safety or quality requirements.\nHowever, SOPs must be kept up to date. If procedures change but written instructions are not revised, employees may follow outdated steps. For this reason, supervisors often review SOPs after equipment changes, process updates, or safety concerns.\n\nWhat can happen if SOPs are not revised after procedures change?",
+    "choices": {
+      "A": "Employees may follow outdated steps.",
+      "B": "Equipment automatically repairs itself.",
+      "C": "Safety concerns disappear.",
+      "D": "Training becomes unnecessary."
+    },
+    "correct": "A",
+    "explanation": "If procedures change but SOPs are not updated, employees may follow outdated steps."
+  },
+  {
+    "id": "RC7-028",
+    "prompt": "Passage 6\nMany organizations use written standard operating procedures, often called SOPs, to describe how routine tasks should be performed. An SOP may explain the steps for starting equipment, handling materials, completing inspections, or documenting work.\nSOPs help create consistency because employees can follow the same process each time a task is completed. They are especially useful when training new employees or when tasks must be performed carefully to meet safety or quality requirements.\nHowever, SOPs must be kept up to date. If procedures change but written instructions are not revised, employees may follow outdated steps. For this reason, supervisors often review SOPs after equipment changes, process updates, or safety concerns.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Written procedures are most helpful when they reflect current work practices.",
+      "B": "SOPs should never be reviewed.",
+      "C": "Outdated instructions improve workplace consistency.",
+      "D": "Employees should create different procedures each time."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that written procedures are useful only when they match current work practices."
+  },
+  {
+    "id": "RC7-029",
+    "prompt": "Passage 7\nMany towns operate public works departments that maintain streets, sidewalks, drainage systems, signs, and other local infrastructure. Although residents may notice public works crews most often after storms or during road repairs, much of the department’s work occurs throughout the year.\nRoutine maintenance can prevent small problems from becoming larger and more expensive. For example, clearing drainage areas before heavy rainfall may reduce flooding, while repairing small pavement cracks may help prevent more serious road damage.\nPublic works departments must often prioritize tasks because budgets, equipment, and staff time are limited. Decisions may be based on safety concerns, urgency, cost, and the number of residents affected.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "The role and priorities of public works departments",
+      "B": "The history of town elections",
+      "C": "Why residents should repair public roads themselves",
+      "D": "How private businesses set product prices"
+    },
+    "correct": "A",
+    "explanation": "The passage explains what public works departments do and how they decide which tasks to prioritize."
+  },
+  {
+    "id": "RC7-030",
+    "prompt": "Passage 7\nMany towns operate public works departments that maintain streets, sidewalks, drainage systems, signs, and other local infrastructure. Although residents may notice public works crews most often after storms or during road repairs, much of the department’s work occurs throughout the year.\nRoutine maintenance can prevent small problems from becoming larger and more expensive. For example, clearing drainage areas before heavy rainfall may reduce flooding, while repairing small pavement cracks may help prevent more serious road damage.\nPublic works departments must often prioritize tasks because budgets, equipment, and staff time are limited. Decisions may be based on safety concerns, urgency, cost, and the number of residents affected.\n\nWhich responsibility is specifically mentioned?",
+    "choices": {
+      "A": "Maintaining drainage systems",
+      "B": "Managing hospital appointments",
+      "C": "Selling construction equipment",
+      "D": "Teaching college courses"
+    },
+    "correct": "A",
+    "explanation": "Maintaining drainage systems is specifically listed as one responsibility of public works departments."
+  },
+  {
+    "id": "RC7-031",
+    "prompt": "Passage 7\nMany towns operate public works departments that maintain streets, sidewalks, drainage systems, signs, and other local infrastructure. Although residents may notice public works crews most often after storms or during road repairs, much of the department’s work occurs throughout the year.\nRoutine maintenance can prevent small problems from becoming larger and more expensive. For example, clearing drainage areas before heavy rainfall may reduce flooding, while repairing small pavement cracks may help prevent more serious road damage.\nPublic works departments must often prioritize tasks because budgets, equipment, and staff time are limited. Decisions may be based on safety concerns, urgency, cost, and the number of residents affected.\n\nWhy is routine maintenance important?",
+    "choices": {
+      "A": "It can prevent small problems from becoming larger ones.",
+      "B": "It eliminates the need for public budgets.",
+      "C": "It prevents all storms from occurring.",
+      "D": "It allows towns to stop repairing roads."
+    },
+    "correct": "A",
+    "explanation": "Routine maintenance can prevent small problems, such as drainage issues or pavement cracks, from becoming larger and more costly."
+  },
+  {
+    "id": "RC7-032",
+    "prompt": "Passage 7\nMany towns operate public works departments that maintain streets, sidewalks, drainage systems, signs, and other local infrastructure. Although residents may notice public works crews most often after storms or during road repairs, much of the department’s work occurs throughout the year.\nRoutine maintenance can prevent small problems from becoming larger and more expensive. For example, clearing drainage areas before heavy rainfall may reduce flooding, while repairing small pavement cracks may help prevent more serious road damage.\nPublic works departments must often prioritize tasks because budgets, equipment, and staff time are limited. Decisions may be based on safety concerns, urgency, cost, and the number of residents affected.\n\nWhat may affect how public works departments prioritize tasks?",
+    "choices": {
+      "A": "Safety concerns, urgency, cost, and number of residents affected",
+      "B": "Employee clothing preferences",
+      "C": "Store advertising schedules",
+      "D": "Private customer reviews only"
+    },
+    "correct": "A",
+    "explanation": "The passage states that priorities may be based on safety, urgency, cost, and the number of residents affected."
+  },
+  {
+    "id": "RC7-033",
+    "prompt": "Passage 8\nA regional training program recently reviewed completion rates for its apprenticeship preparation course. The course is designed to help applicants improve basic math, reading, and workplace study skills before taking entrance exams.\nProgram staff found that students who attended at least 80 percent of class sessions were more likely to complete the course than those who attended less often. Students who used the optional practice materials also showed stronger progress on weekly quizzes.\nBased on the review, staff decided to remind students about attendance expectations during orientation and provide clearer instructions for using the practice materials. The goal is to help more students stay on track and finish the program.\n\nWhat was the purpose of the course described in the passage?",
+    "choices": {
+      "A": "To help applicants improve basic skills before entrance exams",
+      "B": "To certify experienced electricians immediately",
+      "C": "To replace all apprenticeship programs",
+      "D": "To teach advanced engineering only"
+    },
+    "correct": "A",
+    "explanation": "The course is designed to help applicants improve basic math, reading, and workplace study skills before entrance exams."
+  },
+  {
+    "id": "RC7-034",
+    "prompt": "Passage 8\nA regional training program recently reviewed completion rates for its apprenticeship preparation course. The course is designed to help applicants improve basic math, reading, and workplace study skills before taking entrance exams.\nProgram staff found that students who attended at least 80 percent of class sessions were more likely to complete the course than those who attended less often. Students who used the optional practice materials also showed stronger progress on weekly quizzes.\nBased on the review, staff decided to remind students about attendance expectations during orientation and provide clearer instructions for using the practice materials. The goal is to help more students stay on track and finish the program.\n\nWhat did staff find about students who attended at least 80 percent of class sessions?",
+    "choices": {
+      "A": "They were more likely to complete the course.",
+      "B": "They stopped using practice materials.",
+      "C": "They were less prepared for weekly quizzes.",
+      "D": "They skipped orientation."
+    },
+    "correct": "A",
+    "explanation": "Students who attended at least 80 percent of class sessions were more likely to complete the course."
+  },
+  {
+    "id": "RC7-035",
+    "prompt": "Passage 8\nA regional training program recently reviewed completion rates for its apprenticeship preparation course. The course is designed to help applicants improve basic math, reading, and workplace study skills before taking entrance exams.\nProgram staff found that students who attended at least 80 percent of class sessions were more likely to complete the course than those who attended less often. Students who used the optional practice materials also showed stronger progress on weekly quizzes.\nBased on the review, staff decided to remind students about attendance expectations during orientation and provide clearer instructions for using the practice materials. The goal is to help more students stay on track and finish the program.\n\nWhat did staff decide to do based on the review?",
+    "choices": {
+      "A": "Remind students about attendance expectations and explain practice materials more clearly",
+      "B": "Cancel all weekly quizzes",
+      "C": "Reduce course completion goals",
+      "D": "Remove reading and math skills from the course"
+    },
+    "correct": "A",
+    "explanation": "Staff decided to remind students about attendance expectations and provide clearer instructions for using practice materials."
+  },
+  {
+    "id": "RC7-036",
+    "prompt": "Passage 8\nA regional training program recently reviewed completion rates for its apprenticeship preparation course. The course is designed to help applicants improve basic math, reading, and workplace study skills before taking entrance exams.\nProgram staff found that students who attended at least 80 percent of class sessions were more likely to complete the course than those who attended less often. Students who used the optional practice materials also showed stronger progress on weekly quizzes.\nBased on the review, staff decided to remind students about attendance expectations during orientation and provide clearer instructions for using the practice materials. The goal is to help more students stay on track and finish the program.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Attendance and practice can support student progress.",
+      "B": "Optional materials never help students.",
+      "C": "Students who attend less often always complete courses faster.",
+      "D": "Orientation has no connection to student expectations."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that both attendance and use of practice materials were connected with better course progress."
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "id": "AF7-001",
+    "prompt": "Solve: 10x - 6 = 64",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "B",
+    "explanation": "Solve 10x - 6 = 64. Add 6 to both sides: 10x = 70. Divide by 10: x = 7. The most common mistake is subtracting 6 instead of adding 6."
+  },
+  {
+    "id": "AF7-002",
+    "prompt": "If 8n + 3 = 51, what is n?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Start with 8n + 3 = 51. Subtract 3 from both sides: 8n = 48. Divide by 8: n = 6. A common mistake is stopping at 48 and forgetting to divide by 8."
+  },
+  {
+    "id": "AF7-003",
+    "prompt": "Simplify: 5(2x - 3) + 4x",
+    "choices": {
+      "A": "10x - 15",
+      "B": "14x - 15",
+      "C": "14x - 3",
+      "D": "6x - 15"
+    },
+    "correct": "B",
+    "explanation": "Distribute first: 5(2x - 3) = 10x - 15. Then add 4x: 10x + 4x - 15 = 14x - 15. A common mistake is forgetting to multiply -3 by 5."
+  },
+  {
+    "id": "AF7-004",
+    "prompt": "A company charges $22 per visit plus $9 for each supply used. Which expression represents the total charge for s supplies?",
+    "choices": {
+      "A": "22s + 9",
+      "B": "9s + 22",
+      "C": "31s",
+      "D": "22 - 9s"
+    },
+    "correct": "B",
+    "explanation": "The company charges $9 for each supply, so that part is 9s. The $22 visit charge is added one time. The total charge is 9s + 22. A common mistake is treating the visit charge as if it repeats for every supply."
+  },
+  {
+    "id": "AF7-005",
+    "prompt": "If f(x) = 4x - 11, what is f(8)?",
+    "choices": {
+      "A": "19",
+      "B": "21",
+      "C": "32",
+      "D": "43"
+    },
+    "correct": "B",
+    "explanation": "Substitute 8 for x: f(8) = 4(8) - 11 = 32 - 11 = 21. A common mistake is adding 11 instead of subtracting it."
+  },
+  {
+    "id": "AF7-006",
+    "prompt": "Which ordered pair satisfies the equation y = 3x - 7?",
+    "choices": {
+      "A": "(3, 1)",
+      "B": "(4, 5)",
+      "C": "(5, 8)",
+      "D": "(6, 12)"
+    },
+    "correct": "C",
+    "explanation": "Test the choices in y = 3x - 7. For (5, 8), 3(5) - 7 = 15 - 7 = 8, which matches the y-value. A common mistake is choosing a point that looks close without checking both sides."
+  },
+  {
+    "id": "AF7-007",
+    "prompt": "Solve: 9(x - 3) = 45",
+    "choices": {
+      "A": "6",
+      "B": "7",
+      "C": "8",
+      "D": "9"
+    },
+    "correct": "C",
+    "explanation": "Solve 9(x - 3) = 45. Divide both sides by 9: x - 3 = 5. Add 3: x = 8. A common mistake is adding 3 before undoing the multiplication by 9."
+  },
+  {
+    "id": "AF7-008",
+    "prompt": "A pattern begins: 11, 18, 25, 32, ... What is the next number?",
+    "choices": {
+      "A": "37",
+      "B": "38",
+      "C": "39",
+      "D": "40"
+    },
+    "correct": "C",
+    "explanation": "The pattern increases by 7 each time: 11, 18, 25, 32. Add 7 to 32: 39. A common mistake is assuming the next number is 38 because the increase seems close to 6."
+  },
+  {
+    "id": "AF7-009",
+    "prompt": "Solve: x/14 = 3",
+    "choices": {
+      "A": "17",
+      "B": "28",
+      "C": "42",
+      "D": "56"
+    },
+    "correct": "C",
+    "explanation": "x/14 = 3 means x divided by 14 equals 3. Multiply both sides by 14: x = 42. A common mistake is adding 14 and 3 instead of multiplying."
+  },
+  {
+    "id": "AF7-010",
+    "prompt": "A line has a slope of -6 and crosses the y-axis at 5. Which equation represents the line?",
+    "choices": {
+      "A": "y = 5x - 6",
+      "B": "y = -6x + 5",
+      "C": "y = 6x + 5",
+      "D": "y = -5x + 6"
+    },
+    "correct": "B",
+    "explanation": "Slope-intercept form is y = mx + b. The slope is -6 and the y-intercept is 5, so the equation is y = -6x + 5. A common mistake is switching the slope and y-intercept."
+  },
+  {
+    "id": "AF7-011",
+    "prompt": "If 3 bundles contain 57 pieces, how many pieces are in 8 bundles at the same rate?",
+    "choices": {
+      "A": "128",
+      "B": "144",
+      "C": "152",
+      "D": "171"
+    },
+    "correct": "C",
+    "explanation": "Find the unit rate: 57 pieces ÷ 3 bundles = 19 pieces per bundle. For 8 bundles: 19 × 8 = 152. A common mistake is adding 5 bundles and 5 pieces instead of using the rate."
+  },
+  {
+    "id": "AF7-012",
+    "prompt": "Solve: 42 - 7x = 14",
+    "choices": {
+      "A": "3",
+      "B": "4",
+      "C": "5",
+      "D": "6"
+    },
+    "correct": "B",
+    "explanation": "Solve 42 - 7x = 14. Subtract 42 from both sides: -7x = -28. Divide by -7: x = 4. A common mistake is losing the negative sign after subtracting 42."
+  },
+  {
+    "id": "AF7-013",
+    "prompt": "Which expression is equivalent to 24d - 9d - 8?",
+    "choices": {
+      "A": "15d - 8",
+      "B": "33d - 8",
+      "C": "15d + 8",
+      "D": "24d - 17"
+    },
+    "correct": "A",
+    "explanation": "Combine like terms: 24d - 9d = 15d. The constant -8 stays the same. The expression becomes 15d - 8. A common mistake is combining the constant with the variable terms."
+  },
+  {
+    "id": "AF7-014",
+    "prompt": "A shelf starts with 95 items. Workers remove 6 items each hour. Which equation gives the number of items I left after h hours?",
+    "choices": {
+      "A": "I = 95h - 6",
+      "B": "I = 6h + 95",
+      "C": "I = 95 - 6h",
+      "D": "I = 6h - 95"
+    },
+    "correct": "C",
+    "explanation": "The shelf starts with 95 items. Workers remove 6 items each hour, so after h hours, 6h items are removed. The number left is I = 95 - 6h. A common mistake is adding 6h even though items are being removed."
+  },
+  {
+    "id": "AF7-015",
+    "prompt": "If y = -7x + 30, what is y when x = 4?",
+    "choices": {
+      "A": "2",
+      "B": "7",
+      "C": "26",
+      "D": "58"
+    },
+    "correct": "A",
+    "explanation": "Substitute x = 4 into y = -7x + 30: y = -7(4) + 30 = -28 + 30 = 2. A common mistake is treating -7(4) as positive 28."
+  },
+  {
+    "id": "AF7-016",
+    "prompt": "Solve: 13x + 9 = 7x + 45",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "B",
+    "explanation": "Solve 13x + 9 = 7x + 45. Subtract 7x: 6x + 9 = 45. Subtract 9: 6x = 36. Divide by 6: x = 6. A common mistake is subtracting 9 from only one side."
+  },
+  {
+    "id": "AF7-017",
+    "prompt": "Which value of x makes 6x - 2 less than 34?",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "A",
+    "explanation": "Solve 6x - 2 < 34. Add 2: 6x < 36. Divide by 6: x < 6. The only listed value less than 6 is 5. A common mistake is choosing 6, but 6(6) - 2 = 34, not less than 34."
+  },
+  {
+    "id": "AF7-018",
+    "prompt": "A table shows a linear relationship.\nx: 0, 1, 2, 3\ny: 7, 15, 23, 31\nWhat is the rule?",
+    "choices": {
+      "A": "y = 7x + 8",
+      "B": "y = 8x + 7",
+      "C": "y = 15x - 8",
+      "D": "y = x + 7"
+    },
+    "correct": "B",
+    "explanation": "The y-values increase by 8 each time x increases by 1, so the slope is 8. When x = 0, y = 7, so the y-intercept is 7. The rule is y = 8x + 7. A common mistake is using 7 as the slope because it is the first y-value."
+  },
+  {
+    "id": "AF7-019",
+    "prompt": "Solve: 5(x + 6) = 2x + 48",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "7"
+    },
+    "correct": "C",
+    "explanation": "Distribute: 5x + 30 = 2x + 48. Subtract 2x: 3x + 30 = 48. Subtract 30: 3x = 18. Divide by 3: x = 6. A common mistake is forgetting to multiply 6 by 5."
+  },
+  {
+    "id": "AF7-020",
+    "prompt": "If m = -8 and n = 3, what is m + 4n?",
+    "choices": {
+      "A": "-20",
+      "B": "-5",
+      "C": "4",
+      "D": "20"
+    },
+    "correct": "C",
+    "explanation": "Substitute m = -8 and n = 3: m + 4n = -8 + 4(3) = -8 + 12 = 4. A common mistake is treating -8 as positive 8."
+  },
+  {
+    "id": "AF7-021",
+    "prompt": "Which point is located in Quadrant I?",
+    "choices": {
+      "A": "(-3, 4)",
+      "B": "(3, -4)",
+      "C": "(-3, -4)",
+      "D": "(3, 4)"
+    },
+    "correct": "D",
+    "explanation": "Quadrant I has a positive x-coordinate and a positive y-coordinate. The point (3, 4) fits this description. A common mistake is choosing a point with only one positive coordinate."
+  },
+  {
+    "id": "AF7-022",
+    "prompt": "A worker sorts 72 items in 8 minutes. At the same rate, how many items can the worker sort in 6 minutes?",
+    "choices": {
+      "A": "48",
+      "B": "54",
+      "C": "60",
+      "D": "66"
+    },
+    "correct": "B",
+    "explanation": "72 items in 8 minutes means 72 ÷ 8 = 9 items per minute. In 6 minutes: 9 × 6 = 54. A common mistake is multiplying 72 by 6 without finding the rate first."
+  },
+  {
+    "id": "AF7-023",
+    "prompt": "Solve for r: H = 8r + 24",
+    "choices": {
+      "A": "r = H - 24",
+      "B": "r = (H - 24)/8",
+      "C": "r = 8(H - 24)",
+      "D": "r = H/8 + 24"
+    },
+    "correct": "B",
+    "explanation": "Start with H = 8r + 24. Subtract 24 from both sides: H - 24 = 8r. Divide by 8: r = (H - 24)/8. A common mistake is dividing H by 8 first and then subtracting 24."
+  },
+  {
+    "id": "AF7-024",
+    "prompt": "What is the slope of a line that goes through (1, 6) and (5, 26)?",
+    "choices": {
+      "A": "4",
+      "B": "5",
+      "C": "6",
+      "D": "20"
+    },
+    "correct": "B",
+    "explanation": "Slope equals change in y divided by change in x. From (1, 6) to (5, 26), y increases by 20 and x increases by 4. The slope is 20 ÷ 4 = 5. A common mistake is using 20 as the slope without dividing by the change in x."
+  },
+  {
+    "id": "AF7-025",
+    "prompt": "Simplify: 17x + 3 - 9x - 15",
+    "choices": {
+      "A": "8x - 12",
+      "B": "26x - 12",
+      "C": "8x + 18",
+      "D": "26x + 18"
+    },
+    "correct": "A",
+    "explanation": "Combine like terms: 17x - 9x = 8x, and 3 - 15 = -12. The simplified expression is 8x - 12. A common mistake is writing 8x + 12 because the negative sign before 15 is missed."
+  },
+  {
+    "id": "AF7-026",
+    "prompt": "If g(x) = x² + 3x, what is g(6)?",
+    "choices": {
+      "A": "36",
+      "B": "42",
+      "C": "54",
+      "D": "72"
+    },
+    "correct": "C",
+    "explanation": "Substitute 6 for x: g(6) = 6² + 3(6) = 36 + 18 = 54. A common mistake is calculating 6² as 12 instead of 36."
+  },
+  {
+    "id": "AF7-027",
+    "prompt": "A sequence follows the rule “add 6, then multiply by 2.” If the first term is 7, what is the second term?",
+    "choices": {
+      "A": "13",
+      "B": "19",
+      "C": "26",
+      "D": "28"
+    },
+    "correct": "C",
+    "explanation": "Start with 7. Add 6: 13. Then multiply by 2: 26. A common mistake is multiplying first and then adding 6."
+  },
+  {
+    "id": "AF7-028",
+    "prompt": "Solve: 8(x - 2) + 4 = 52",
+    "choices": {
+      "A": "5",
+      "B": "6",
+      "C": "7",
+      "D": "8"
+    },
+    "correct": "D",
+    "explanation": "Solve 8(x - 2) + 4 = 52. Distribute: 8x - 16 + 4 = 52. Combine: 8x - 12 = 52. Add 12: 8x = 64. Divide by 8: x = 8. A common mistake is forgetting to combine -16 and +4."
+  },
+  {
+    "id": "AF7-029",
+    "prompt": "A line crosses the y-axis at -9 and rises 3 units for every 1 unit to the right. Which equation represents the line?",
+    "choices": {
+      "A": "y = -9x + 3",
+      "B": "y = 3x - 9",
+      "C": "y = -3x - 9",
+      "D": "y = 9x + 3"
+    },
+    "correct": "B",
+    "explanation": "The line rises 3 units for every 1 unit to the right, so the slope is 3. It crosses the y-axis at -9, so the equation is y = 3x - 9. A common mistake is switching the slope and intercept."
+  },
+  {
+    "id": "AF7-030",
+    "prompt": "If 10/12 = x/36, what is x?",
+    "choices": {
+      "A": "24",
+      "B": "27",
+      "C": "30",
+      "D": "32"
+    },
+    "correct": "C",
+    "explanation": "Use the proportion 10/12 = x/36. Since 12 × 3 = 36, multiply 10 by 3: x = 30. A common mistake is adding 24 to the numerator because 12 becomes 36."
+  },
+  {
+    "id": "AF7-031",
+    "prompt": "Solve: -10x + 15 = -65",
+    "choices": {
+      "A": "-8",
+      "B": "-5",
+      "C": "5",
+      "D": "8"
+    },
+    "correct": "D",
+    "explanation": "Solve -10x + 15 = -65. Subtract 15 from both sides: -10x = -80. Divide by -10: x = 8. A common mistake is giving -8 because both sides contain negative numbers."
+  },
+  {
+    "id": "AF7-032",
+    "prompt": "A bin starts with 600 clips. Each package uses 25 clips. Which expression gives the number of clips left after p packages?",
+    "choices": {
+      "A": "600 + 25p",
+      "B": "600 - 25p",
+      "C": "25p - 600",
+      "D": "600 ÷ 25p"
+    },
+    "correct": "B",
+    "explanation": "The bin starts with 600 clips. Each package uses 25 clips, so p packages use 25p clips. The number left is 600 - 25p. A common mistake is adding 25p even though clips are being used."
+  },
+  {
+    "id": "AF7-033",
+    "prompt": "Which equation has x = 13 as its solution?",
+    "choices": {
+      "A": "2x + 9 = 33",
+      "B": "3x - 5 = 34",
+      "C": "x/13 + 4 = 6",
+      "D": "4x - 7 = 47"
+    },
+    "correct": "B",
+    "explanation": "Test x = 13. In choice B, 3(13) - 5 = 39 - 5 = 34, so the equation is true. A common mistake is choosing a nearby equation without checking both sides exactly."
+  }
+]

@@ -1,9 +1,9 @@
 import re, json, argparse
 from pathlib import Path
 
-ID_RE = re.compile(r"^[A-Z]{1,3}\d-\d{3}\s*$")
+ID_RE = re.compile(r"^[A-Z]{1,3}\d+-\d{3}\s*$")
 OPT_RE = re.compile(r"^([ABCD])\)\s*(.*)\s*$")
-KEY_RE = re.compile(r"^(?P<id>[A-Z]{1,3}\d-\d{3})\s*[-–—]+\s*Correct:\s*(?P<correct>[ABCD])(?:\s*[-–—]+\s*Explanation:\s*(?P<exp>.*))?\s*$")
+KEY_RE = re.compile(r"^(?P<id>[A-Z]{1,3}\d+-\d{3})\s*[-–—�]+\s*Correct:\s*(?P<correct>[ABCD])(?:\s*[-–—�]+\s*Explanation:\s*(?P<exp>.*))?\s*$")
 
 def split_questions_and_key(lines):
     for i, line in enumerate(lines):

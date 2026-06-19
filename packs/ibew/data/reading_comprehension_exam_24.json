@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC24-001",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for checking outgoing orders. Previously, employees performed a final count by comparing the packed boxes with a printed order sheet. This method worked most of the time, but errors sometimes occurred when sheets were misplaced or when similar products had nearly identical names.\nThe warehouse now uses a scanning step before an order is released for shipping. Employees scan each packed item and compare it with the order record in the system. If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area.\nManagers report that the scanning step has reduced shipping errors and helped employees catch mistakes earlier. The system does not replace careful work, but it adds another check before the customer receives the order.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The warehouse stopped checking outgoing orders.",
+      "B": "A scanning step improved accuracy in outgoing order checks.",
+      "C": "Printed order sheets are always more reliable than scanning.",
+      "D": "Customers now scan their own orders before shipment."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that scanning outgoing items helps employees catch wrong items or quantities before shipping."
+  },
+  {
+    "id": "RC24-002",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for checking outgoing orders. Previously, employees performed a final count by comparing the packed boxes with a printed order sheet. This method worked most of the time, but errors sometimes occurred when sheets were misplaced or when similar products had nearly identical names.\nThe warehouse now uses a scanning step before an order is released for shipping. Employees scan each packed item and compare it with the order record in the system. If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area.\nManagers report that the scanning step has reduced shipping errors and helped employees catch mistakes earlier. The system does not replace careful work, but it adds another check before the customer receives the order.\n\nWhat problem occurred under the old process?",
+    "choices": {
+      "A": "Employees could not count boxes.",
+      "B": "Similar products sometimes had nearly identical names.",
+      "C": "Customers refused to receive orders.",
+      "D": "The warehouse had no order records."
+    },
+    "correct": "B",
+    "explanation": "The old process sometimes caused problems because similar products had nearly identical names."
+  },
+  {
+    "id": "RC24-003",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for checking outgoing orders. Previously, employees performed a final count by comparing the packed boxes with a printed order sheet. This method worked most of the time, but errors sometimes occurred when sheets were misplaced or when similar products had nearly identical names.\nThe warehouse now uses a scanning step before an order is released for shipping. Employees scan each packed item and compare it with the order record in the system. If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area.\nManagers report that the scanning step has reduced shipping errors and helped employees catch mistakes earlier. The system does not replace careful work, but it adds another check before the customer receives the order.\n\nWhat happens if the wrong item or quantity is scanned?",
+    "choices": {
+      "A": "The order is shipped immediately.",
+      "B": "The customer is asked to fix the order.",
+      "C": "The system alerts the employee.",
+      "D": "The printed sheet is destroyed."
+    },
+    "correct": "C",
+    "explanation": "If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area."
+  },
+  {
+    "id": "RC24-004",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for checking outgoing orders. Previously, employees performed a final count by comparing the packed boxes with a printed order sheet. This method worked most of the time, but errors sometimes occurred when sheets were misplaced or when similar products had nearly identical names.\nThe warehouse now uses a scanning step before an order is released for shipping. Employees scan each packed item and compare it with the order record in the system. If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area.\nManagers report that the scanning step has reduced shipping errors and helped employees catch mistakes earlier. The system does not replace careful work, but it adds another check before the customer receives the order.\n\nWhat does the passage say the system does not replace?",
+    "choices": {
+      "A": "Careful work",
+      "B": "Customer complaints",
+      "C": "Shipping boxes",
+      "D": "Product names"
+    },
+    "correct": "A",
+    "explanation": "The passage states that the system does not replace careful work; it adds another check."
+  },
+  {
+    "id": "RC24-005",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for checking outgoing orders. Previously, employees performed a final count by comparing the packed boxes with a printed order sheet. This method worked most of the time, but errors sometimes occurred when sheets were misplaced or when similar products had nearly identical names.\nThe warehouse now uses a scanning step before an order is released for shipping. Employees scan each packed item and compare it with the order record in the system. If the wrong item or quantity is scanned, the system alerts the employee before the order leaves the packing area.\nManagers report that the scanning step has reduced shipping errors and helped employees catch mistakes earlier. The system does not replace careful work, but it adds another check before the customer receives the order.\n\nThe word “released” most nearly means:",
+    "choices": {
+      "A": "Approved to move forward",
+      "B": "Hidden from employees",
+      "C": "Returned to inventory",
+      "D": "Damaged during packing"
+    },
+    "correct": "A",
+    "explanation": "In context, “released” means approved to move forward for shipping."
+  },
+  {
+    "id": "RC24-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 5, all employees using the shared loading dock must record trailer arrival and departure times in the dock log. Employees should also note whether the trailer was loaded, unloaded, or waiting for paperwork.\nThe updated log procedure was created after several trailers waited longer than expected without a clear record of the reason. This made it difficult for supervisors to identify whether delays were caused by staffing, paperwork, equipment availability, or scheduling.\nThe dock lead will review the log at the end of each day and discuss repeated delays during the weekly operations meeting.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new procedure for recording trailer activity at the loading dock",
+      "B": "To close the loading dock permanently",
+      "C": "To remove trailers from the facility",
+      "D": "To cancel weekly operations meetings"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the new dock log procedure for recording trailer arrivals, departures, and status."
+  },
+  {
+    "id": "RC24-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 5, all employees using the shared loading dock must record trailer arrival and departure times in the dock log. Employees should also note whether the trailer was loaded, unloaded, or waiting for paperwork.\nThe updated log procedure was created after several trailers waited longer than expected without a clear record of the reason. This made it difficult for supervisors to identify whether delays were caused by staffing, paperwork, equipment availability, or scheduling.\nThe dock lead will review the log at the end of each day and discuss repeated delays during the weekly operations meeting.\n\nWhat must employees record in the dock log?",
+    "choices": {
+      "A": "Trailer arrival and departure times",
+      "B": "Employee home addresses",
+      "C": "Customer payment methods",
+      "D": "Weather reports from the previous month"
+    },
+    "correct": "A",
+    "explanation": "Employees must record trailer arrival and departure times."
+  },
+  {
+    "id": "RC24-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 5, all employees using the shared loading dock must record trailer arrival and departure times in the dock log. Employees should also note whether the trailer was loaded, unloaded, or waiting for paperwork.\nThe updated log procedure was created after several trailers waited longer than expected without a clear record of the reason. This made it difficult for supervisors to identify whether delays were caused by staffing, paperwork, equipment availability, or scheduling.\nThe dock lead will review the log at the end of each day and discuss repeated delays during the weekly operations meeting.\n\nWhy was the updated log procedure created?",
+    "choices": {
+      "A": "Trailers were never delayed.",
+      "B": "Supervisors wanted fewer records.",
+      "C": "Some trailer delays lacked a clear record of the reason.",
+      "D": "Employees stopped using the loading dock."
+    },
+    "correct": "C",
+    "explanation": "The new log was created because some trailer delays lacked a clear reason."
+  },
+  {
+    "id": "RC24-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 5, all employees using the shared loading dock must record trailer arrival and departure times in the dock log. Employees should also note whether the trailer was loaded, unloaded, or waiting for paperwork.\nThe updated log procedure was created after several trailers waited longer than expected without a clear record of the reason. This made it difficult for supervisors to identify whether delays were caused by staffing, paperwork, equipment availability, or scheduling.\nThe dock lead will review the log at the end of each day and discuss repeated delays during the weekly operations meeting.\n\nWho will review the dock log at the end of each day?",
+    "choices": {
+      "A": "The customer service manager",
+      "B": "The dock lead",
+      "C": "The delivery customer",
+      "D": "The accounting department"
+    },
+    "correct": "B",
+    "explanation": "The dock lead will review the log at the end of each day."
+  },
+  {
+    "id": "RC24-010",
+    "prompt": "Passage 3\nMany companies use written approval limits to guide purchasing decisions. An approval limit states how much money an employee or manager is allowed to spend without additional permission. For example, a supervisor may be allowed to approve small supply orders, while larger equipment purchases require review by a department manager.\nApproval limits help organizations control spending and reduce confusion. Employees know who can approve different types of purchases, and managers can focus on higher-cost decisions. These limits also create a record of responsibility when questions arise about why money was spent.\nHowever, approval limits must be communicated clearly. If employees do not understand the limits, they may delay necessary purchases or place orders without proper review.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Approval limits help guide purchasing decisions when employees understand them.",
+      "B": "Employees should make all purchases without review.",
+      "C": "Approval limits are used only for customer refunds.",
+      "D": "Large purchases should never be reviewed."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that approval limits guide purchasing decisions and work only when employees understand them."
+  },
+  {
+    "id": "RC24-011",
+    "prompt": "Passage 3\nMany companies use written approval limits to guide purchasing decisions. An approval limit states how much money an employee or manager is allowed to spend without additional permission. For example, a supervisor may be allowed to approve small supply orders, while larger equipment purchases require review by a department manager.\nApproval limits help organizations control spending and reduce confusion. Employees know who can approve different types of purchases, and managers can focus on higher-cost decisions. These limits also create a record of responsibility when questions arise about why money was spent.\nHowever, approval limits must be communicated clearly. If employees do not understand the limits, they may delay necessary purchases or place orders without proper review.\n\nWhat does an approval limit state?",
+    "choices": {
+      "A": "How much money someone may spend without additional permission",
+      "B": "How many customers can enter a building",
+      "C": "How long employees may take lunch breaks",
+      "D": "How often equipment must be cleaned"
+    },
+    "correct": "A",
+    "explanation": "An approval limit states how much money someone can spend without additional permission."
+  },
+  {
+    "id": "RC24-012",
+    "prompt": "Passage 3\nMany companies use written approval limits to guide purchasing decisions. An approval limit states how much money an employee or manager is allowed to spend without additional permission. For example, a supervisor may be allowed to approve small supply orders, while larger equipment purchases require review by a department manager.\nApproval limits help organizations control spending and reduce confusion. Employees know who can approve different types of purchases, and managers can focus on higher-cost decisions. These limits also create a record of responsibility when questions arise about why money was spent.\nHowever, approval limits must be communicated clearly. If employees do not understand the limits, they may delay necessary purchases or place orders without proper review.\n\nWhy can approval limits reduce confusion?",
+    "choices": {
+      "A": "They remove all spending records.",
+      "B": "They show who can approve different types of purchases.",
+      "C": "They make every employee approve every order.",
+      "D": "They prevent managers from reviewing purchases."
+    },
+    "correct": "B",
+    "explanation": "Approval limits reduce confusion by showing who can approve different purchase types."
+  },
+  {
+    "id": "RC24-013",
+    "prompt": "Passage 3\nMany companies use written approval limits to guide purchasing decisions. An approval limit states how much money an employee or manager is allowed to spend without additional permission. For example, a supervisor may be allowed to approve small supply orders, while larger equipment purchases require review by a department manager.\nApproval limits help organizations control spending and reduce confusion. Employees know who can approve different types of purchases, and managers can focus on higher-cost decisions. These limits also create a record of responsibility when questions arise about why money was spent.\nHowever, approval limits must be communicated clearly. If employees do not understand the limits, they may delay necessary purchases or place orders without proper review.\n\nWhat can happen if employees do not understand approval limits?",
+    "choices": {
+      "A": "They may delay purchases or place orders without proper review.",
+      "B": "All purchases become automatically correct.",
+      "C": "Spending records become unnecessary.",
+      "D": "Larger equipment purchases require no approval."
+    },
+    "correct": "A",
+    "explanation": "If employees do not understand the limits, they may delay needed purchases or place orders without proper review."
+  },
+  {
+    "id": "RC24-014",
+    "prompt": "Passage 3\nMany companies use written approval limits to guide purchasing decisions. An approval limit states how much money an employee or manager is allowed to spend without additional permission. For example, a supervisor may be allowed to approve small supply orders, while larger equipment purchases require review by a department manager.\nApproval limits help organizations control spending and reduce confusion. Employees know who can approve different types of purchases, and managers can focus on higher-cost decisions. These limits also create a record of responsibility when questions arise about why money was spent.\nHowever, approval limits must be communicated clearly. If employees do not understand the limits, they may delay necessary purchases or place orders without proper review.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Spending rules are useful only when people know how to apply them.",
+      "B": "Approval limits should be kept secret from employees.",
+      "C": "Small supply orders always require the highest approval level.",
+      "D": "Purchasing decisions should never be documented."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that spending rules are useful only when employees know how to apply them."
+  },
+  {
+    "id": "RC24-015",
+    "prompt": "Passage 4\nBefore digital maps became common, drivers often relied on printed maps, written directions, or local knowledge to reach unfamiliar places. These tools were useful, but they could be difficult to update when roads changed, exits closed, or new routes became available.\nDigital mapping systems changed navigation by providing updated route information, estimated travel times, and turn-by-turn directions. Many systems can also show traffic conditions, construction areas, or alternate routes. This helps drivers adjust plans when conditions change.\nDigital maps are not perfect. A driver may still need to watch road signs, confirm addresses, and use judgment when a suggested route seems unsafe or unsuitable. The technology is most helpful when used along with careful attention to actual road conditions.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Printed maps are always more accurate than digital maps.",
+      "B": "Digital maps improved navigation but still require driver judgment.",
+      "C": "Drivers should ignore road signs when using digital maps.",
+      "D": "Digital maps are useful only when roads never change."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that digital maps improved navigation but still require drivers to use judgment and watch real conditions."
+  },
+  {
+    "id": "RC24-016",
+    "prompt": "Passage 4\nBefore digital maps became common, drivers often relied on printed maps, written directions, or local knowledge to reach unfamiliar places. These tools were useful, but they could be difficult to update when roads changed, exits closed, or new routes became available.\nDigital mapping systems changed navigation by providing updated route information, estimated travel times, and turn-by-turn directions. Many systems can also show traffic conditions, construction areas, or alternate routes. This helps drivers adjust plans when conditions change.\nDigital maps are not perfect. A driver may still need to watch road signs, confirm addresses, and use judgment when a suggested route seems unsafe or unsuitable. The technology is most helpful when used along with careful attention to actual road conditions.\n\nWhat was one limitation of printed maps and written directions?",
+    "choices": {
+      "A": "They could be difficult to update when roads changed.",
+      "B": "They provided automatic traffic alerts.",
+      "C": "They always showed current construction areas.",
+      "D": "They prevented drivers from using local knowledge."
+    },
+    "correct": "A",
+    "explanation": "Printed maps and written directions could be difficult to update when roads changed."
+  },
+  {
+    "id": "RC24-017",
+    "prompt": "Passage 4\nBefore digital maps became common, drivers often relied on printed maps, written directions, or local knowledge to reach unfamiliar places. These tools were useful, but they could be difficult to update when roads changed, exits closed, or new routes became available.\nDigital mapping systems changed navigation by providing updated route information, estimated travel times, and turn-by-turn directions. Many systems can also show traffic conditions, construction areas, or alternate routes. This helps drivers adjust plans when conditions change.\nDigital maps are not perfect. A driver may still need to watch road signs, confirm addresses, and use judgment when a suggested route seems unsafe or unsuitable. The technology is most helpful when used along with careful attention to actual road conditions.\n\nWhat can many digital mapping systems show?",
+    "choices": {
+      "A": "Traffic conditions, construction areas, or alternate routes",
+      "B": "Employee training records",
+      "C": "Customer billing statements",
+      "D": "Warehouse shelf labels"
+    },
+    "correct": "A",
+    "explanation": "Many digital maps can show traffic, construction areas, or alternate routes."
+  },
+  {
+    "id": "RC24-018",
+    "prompt": "Passage 4\nBefore digital maps became common, drivers often relied on printed maps, written directions, or local knowledge to reach unfamiliar places. These tools were useful, but they could be difficult to update when roads changed, exits closed, or new routes became available.\nDigital mapping systems changed navigation by providing updated route information, estimated travel times, and turn-by-turn directions. Many systems can also show traffic conditions, construction areas, or alternate routes. This helps drivers adjust plans when conditions change.\nDigital maps are not perfect. A driver may still need to watch road signs, confirm addresses, and use judgment when a suggested route seems unsafe or unsuitable. The technology is most helpful when used along with careful attention to actual road conditions.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Digital maps are most helpful when combined with attention to real road conditions.",
+      "B": "Digital maps make driver judgment unnecessary.",
+      "C": "Printed maps update themselves automatically.",
+      "D": "Drivers should follow every suggested route without question."
+    },
+    "correct": "A",
+    "explanation": "The passage supports using digital maps along with attention to road signs and actual conditions."
+  },
+  {
+    "id": "RC24-019",
+    "prompt": "Passage 5\nA regional office recently introduced a visitor appointment system. Previously, visitors arrived at the front desk and waited while staff contacted the person they came to see. If the employee was in a meeting or away from the building, the visitor sometimes had to wait or reschedule.\nWith the new system, employees enter visitor appointments in advance. The entry includes the visitor’s name, arrival time, meeting location, host employee, and whether a badge is required. Front desk staff can review the schedule at the start of each day and prepare badges before visitors arrive.\nThe office reports that visitor check-in is faster and that front desk staff can better manage busy periods. The system also helps employees confirm that they are available before inviting visitors to the building.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Visitors are no longer allowed in the office.",
+      "B": "A visitor appointment system made check-in more organized and efficient.",
+      "C": "Front desk staff stopped preparing badges.",
+      "D": "Employees now avoid scheduling meetings."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how the visitor appointment system made visitor check-in faster and more organized."
+  },
+  {
+    "id": "RC24-020",
+    "prompt": "Passage 5\nA regional office recently introduced a visitor appointment system. Previously, visitors arrived at the front desk and waited while staff contacted the person they came to see. If the employee was in a meeting or away from the building, the visitor sometimes had to wait or reschedule.\nWith the new system, employees enter visitor appointments in advance. The entry includes the visitor’s name, arrival time, meeting location, host employee, and whether a badge is required. Front desk staff can review the schedule at the start of each day and prepare badges before visitors arrive.\nThe office reports that visitor check-in is faster and that front desk staff can better manage busy periods. The system also helps employees confirm that they are available before inviting visitors to the building.\n\nWhat problem sometimes occurred under the old process?",
+    "choices": {
+      "A": "Visitors sometimes had to wait or reschedule if the employee was unavailable.",
+      "B": "Visitors always received badges in advance.",
+      "C": "Employees were never in meetings.",
+      "D": "The front desk had no contact with visitors."
+    },
+    "correct": "A",
+    "explanation": "Under the old process, visitors sometimes had to wait or reschedule if the host employee was unavailable."
+  },
+  {
+    "id": "RC24-021",
+    "prompt": "Passage 5\nA regional office recently introduced a visitor appointment system. Previously, visitors arrived at the front desk and waited while staff contacted the person they came to see. If the employee was in a meeting or away from the building, the visitor sometimes had to wait or reschedule.\nWith the new system, employees enter visitor appointments in advance. The entry includes the visitor’s name, arrival time, meeting location, host employee, and whether a badge is required. Front desk staff can review the schedule at the start of each day and prepare badges before visitors arrive.\nThe office reports that visitor check-in is faster and that front desk staff can better manage busy periods. The system also helps employees confirm that they are available before inviting visitors to the building.\n\nWhat information is included in a visitor appointment entry?",
+    "choices": {
+      "A": "Visitor name, arrival time, meeting location, host employee, and badge requirement",
+      "B": "Customer purchase history",
+      "C": "Employee vacation balance",
+      "D": "Building repair costs"
+    },
+    "correct": "A",
+    "explanation": "Entries include visitor name, arrival time, meeting location, host employee, and badge requirement."
+  },
+  {
+    "id": "RC24-022",
+    "prompt": "Passage 5\nA regional office recently introduced a visitor appointment system. Previously, visitors arrived at the front desk and waited while staff contacted the person they came to see. If the employee was in a meeting or away from the building, the visitor sometimes had to wait or reschedule.\nWith the new system, employees enter visitor appointments in advance. The entry includes the visitor’s name, arrival time, meeting location, host employee, and whether a badge is required. Front desk staff can review the schedule at the start of each day and prepare badges before visitors arrive.\nThe office reports that visitor check-in is faster and that front desk staff can better manage busy periods. The system also helps employees confirm that they are available before inviting visitors to the building.\n\nHow does the system help front desk staff?",
+    "choices": {
+      "A": "It lets them review the schedule and prepare badges before visitors arrive.",
+      "B": "It prevents them from speaking with visitors.",
+      "C": "It removes the need for meeting locations.",
+      "D": "It requires all visitors to reschedule."
+    },
+    "correct": "A",
+    "explanation": "Front desk staff can review the schedule at the start of the day and prepare badges before visitors arrive."
+  },
+  {
+    "id": "RC24-023",
+    "prompt": "Passage 5\nA regional office recently introduced a visitor appointment system. Previously, visitors arrived at the front desk and waited while staff contacted the person they came to see. If the employee was in a meeting or away from the building, the visitor sometimes had to wait or reschedule.\nWith the new system, employees enter visitor appointments in advance. The entry includes the visitor’s name, arrival time, meeting location, host employee, and whether a badge is required. Front desk staff can review the schedule at the start of each day and prepare badges before visitors arrive.\nThe office reports that visitor check-in is faster and that front desk staff can better manage busy periods. The system also helps employees confirm that they are available before inviting visitors to the building.\n\nThe word “confirm” most nearly means:",
+    "choices": {
+      "A": "Verify or make sure",
+      "B": "Forget",
+      "C": "Delay without reason",
+      "D": "Remove from the schedule"
+    },
+    "correct": "A",
+    "explanation": "In context, “confirm” means verify or make sure the employee is available before inviting a visitor."
+  },
+  {
+    "id": "RC24-024",
+    "prompt": "Passage 6\nMany workplaces use housekeeping inspections to keep work areas clean and organized. These inspections may check whether walkways are clear, tools are stored properly, trash is removed, and materials are stacked safely.\nHousekeeping inspections are not only about appearance. A cluttered area can create tripping hazards, block emergency exits, or make it harder to find needed tools. Regular inspections can help identify problems before they lead to injuries or lost time.\nInspections are most effective when results are acted on. If the same blocked walkway appears on several inspection reports, supervisors may need to change storage practices or assign clearer cleanup responsibilities.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Housekeeping inspections support safety and organization when followed by action.",
+      "B": "Housekeeping inspections are only about making work areas look nice.",
+      "C": "Cluttered areas make tools easier to find.",
+      "D": "Inspection reports should be ignored."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that housekeeping inspections support safety and organization, especially when findings lead to action."
+  },
+  {
+    "id": "RC24-025",
+    "prompt": "Passage 6\nMany workplaces use housekeeping inspections to keep work areas clean and organized. These inspections may check whether walkways are clear, tools are stored properly, trash is removed, and materials are stacked safely.\nHousekeeping inspections are not only about appearance. A cluttered area can create tripping hazards, block emergency exits, or make it harder to find needed tools. Regular inspections can help identify problems before they lead to injuries or lost time.\nInspections are most effective when results are acted on. If the same blocked walkway appears on several inspection reports, supervisors may need to change storage practices or assign clearer cleanup responsibilities.\n\nWhat may housekeeping inspections check?",
+    "choices": {
+      "A": "Whether walkways are clear and tools are stored properly",
+      "B": "Employee vacation requests",
+      "C": "Customer advertisements",
+      "D": "Public road conditions"
+    },
+    "correct": "A",
+    "explanation": "The passage states inspections may check whether walkways are clear and tools are stored properly."
+  },
+  {
+    "id": "RC24-026",
+    "prompt": "Passage 6\nMany workplaces use housekeeping inspections to keep work areas clean and organized. These inspections may check whether walkways are clear, tools are stored properly, trash is removed, and materials are stacked safely.\nHousekeeping inspections are not only about appearance. A cluttered area can create tripping hazards, block emergency exits, or make it harder to find needed tools. Regular inspections can help identify problems before they lead to injuries or lost time.\nInspections are most effective when results are acted on. If the same blocked walkway appears on several inspection reports, supervisors may need to change storage practices or assign clearer cleanup responsibilities.\n\nWhy can a cluttered area be dangerous?",
+    "choices": {
+      "A": "It may create tripping hazards or block emergency exits.",
+      "B": "It always improves emergency access.",
+      "C": "It prevents tools from being misplaced.",
+      "D": "It removes the need for inspections."
+    },
+    "correct": "A",
+    "explanation": "A cluttered area can create tripping hazards or block emergency exits."
+  },
+  {
+    "id": "RC24-027",
+    "prompt": "Passage 6\nMany workplaces use housekeeping inspections to keep work areas clean and organized. These inspections may check whether walkways are clear, tools are stored properly, trash is removed, and materials are stacked safely.\nHousekeeping inspections are not only about appearance. A cluttered area can create tripping hazards, block emergency exits, or make it harder to find needed tools. Regular inspections can help identify problems before they lead to injuries or lost time.\nInspections are most effective when results are acted on. If the same blocked walkway appears on several inspection reports, supervisors may need to change storage practices or assign clearer cleanup responsibilities.\n\nWhat should happen if the same blocked walkway appears on several reports?",
+    "choices": {
+      "A": "Supervisors may need to change storage practices or assign cleanup responsibilities.",
+      "B": "Employees should ignore the reports.",
+      "C": "The walkway should remain blocked.",
+      "D": "Inspections should stop immediately."
+    },
+    "correct": "A",
+    "explanation": "If the same problem appears repeatedly, supervisors may need to change storage practices or cleanup responsibilities."
+  },
+  {
+    "id": "RC24-028",
+    "prompt": "Passage 6\nMany workplaces use housekeeping inspections to keep work areas clean and organized. These inspections may check whether walkways are clear, tools are stored properly, trash is removed, and materials are stacked safely.\nHousekeeping inspections are not only about appearance. A cluttered area can create tripping hazards, block emergency exits, or make it harder to find needed tools. Regular inspections can help identify problems before they lead to injuries or lost time.\nInspections are most effective when results are acted on. If the same blocked walkway appears on several inspection reports, supervisors may need to change storage practices or assign clearer cleanup responsibilities.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Inspection findings are useful only when they lead to correction.",
+      "B": "Repeated problems should be accepted as normal.",
+      "C": "Housekeeping has no connection to workplace safety.",
+      "D": "Emergency exits do not need to remain clear."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that inspection findings matter when they lead to correction."
+  },
+  {
+    "id": "RC24-029",
+    "prompt": "Passage 7\nMany communities use public lighting in parking lots, sidewalks, and transit stops to improve visibility after dark. Good lighting can help people see walking surfaces, signs, vehicles, and other people nearby.\nLighting design requires balance. Too little light may make an area difficult to use safely. Too much poorly directed light can create glare or disturb nearby homes. Communities may choose fixtures that direct light downward and use timers or sensors to control when lights operate.\nPublic lighting also requires maintenance. Burned-out bulbs, damaged poles, or blocked fixtures can reduce visibility. Regular checks help keep lighting systems useful and reliable.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public lighting improves visibility when designed and maintained properly.",
+      "B": "Communities should remove all lighting from public areas.",
+      "C": "Bright glare is always the goal of lighting design.",
+      "D": "Public lighting never needs maintenance."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that public lighting improves visibility when it is well designed and maintained."
+  },
+  {
+    "id": "RC24-030",
+    "prompt": "Passage 7\nMany communities use public lighting in parking lots, sidewalks, and transit stops to improve visibility after dark. Good lighting can help people see walking surfaces, signs, vehicles, and other people nearby.\nLighting design requires balance. Too little light may make an area difficult to use safely. Too much poorly directed light can create glare or disturb nearby homes. Communities may choose fixtures that direct light downward and use timers or sensors to control when lights operate.\nPublic lighting also requires maintenance. Burned-out bulbs, damaged poles, or blocked fixtures can reduce visibility. Regular checks help keep lighting systems useful and reliable.\n\nWhat can good lighting help people see?",
+    "choices": {
+      "A": "Walking surfaces, signs, vehicles, and nearby people",
+      "B": "Employee payroll records",
+      "C": "Private emails",
+      "D": "Warehouse inventory totals only"
+    },
+    "correct": "A",
+    "explanation": "Good lighting can help people see walking surfaces, signs, vehicles, and people nearby."
+  },
+  {
+    "id": "RC24-031",
+    "prompt": "Passage 7\nMany communities use public lighting in parking lots, sidewalks, and transit stops to improve visibility after dark. Good lighting can help people see walking surfaces, signs, vehicles, and other people nearby.\nLighting design requires balance. Too little light may make an area difficult to use safely. Too much poorly directed light can create glare or disturb nearby homes. Communities may choose fixtures that direct light downward and use timers or sensors to control when lights operate.\nPublic lighting also requires maintenance. Burned-out bulbs, damaged poles, or blocked fixtures can reduce visibility. Regular checks help keep lighting systems useful and reliable.\n\nWhy might too much poorly directed light be a problem?",
+    "choices": {
+      "A": "It can create glare or disturb nearby homes.",
+      "B": "It always improves visibility.",
+      "C": "It makes timers unnecessary.",
+      "D": "It prevents bulbs from burning out."
+    },
+    "correct": "A",
+    "explanation": "Poorly directed light can create glare or disturb nearby homes."
+  },
+  {
+    "id": "RC24-032",
+    "prompt": "Passage 7\nMany communities use public lighting in parking lots, sidewalks, and transit stops to improve visibility after dark. Good lighting can help people see walking surfaces, signs, vehicles, and other people nearby.\nLighting design requires balance. Too little light may make an area difficult to use safely. Too much poorly directed light can create glare or disturb nearby homes. Communities may choose fixtures that direct light downward and use timers or sensors to control when lights operate.\nPublic lighting also requires maintenance. Burned-out bulbs, damaged poles, or blocked fixtures can reduce visibility. Regular checks help keep lighting systems useful and reliable.\n\nWhat can reduce visibility in a public lighting system?",
+    "choices": {
+      "A": "Burned-out bulbs, damaged poles, or blocked fixtures",
+      "B": "Downward-directed fixtures",
+      "C": "Regular maintenance checks",
+      "D": "Timers and sensors"
+    },
+    "correct": "A",
+    "explanation": "Burned-out bulbs, damaged poles, or blocked fixtures can reduce visibility."
+  },
+  {
+    "id": "RC24-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “mixed review” sessions to its final month of classes. Earlier lessons focused on one skill at a time, such as main idea, vocabulary, equations, or ratios. Instructors noticed that students performed well during single-skill practice but sometimes struggled when different question types appeared together.\nDuring mixed review, students complete short sets that combine several skills. Afterward, instructors discuss how to recognize what each question is asking before choosing a method. The goal is to help students shift between skills more smoothly during the entrance exam.\nStudents report that mixed review feels more challenging than single-skill practice, but many say it better resembles the experience of a real test.\n\nWhy did the program add mixed review sessions?",
+    "choices": {
+      "A": "Students sometimes struggled when different question types appeared together.",
+      "B": "Students no longer needed final-month classes.",
+      "C": "Instructors removed all reading practice.",
+      "D": "Single-skill practice was never used."
+    },
+    "correct": "A",
+    "explanation": "Mixed review was added because students struggled when different question types appeared together."
+  },
+  {
+    "id": "RC24-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “mixed review” sessions to its final month of classes. Earlier lessons focused on one skill at a time, such as main idea, vocabulary, equations, or ratios. Instructors noticed that students performed well during single-skill practice but sometimes struggled when different question types appeared together.\nDuring mixed review, students complete short sets that combine several skills. Afterward, instructors discuss how to recognize what each question is asking before choosing a method. The goal is to help students shift between skills more smoothly during the entrance exam.\nStudents report that mixed review feels more challenging than single-skill practice, but many say it better resembles the experience of a real test.\n\nWhat do mixed review sets include?",
+    "choices": {
+      "A": "Several skills combined in short sets",
+      "B": "Only one repeated question type",
+      "C": "Long fiction passages only",
+      "D": "Unrelated personal questions"
+    },
+    "correct": "A",
+    "explanation": "Mixed review sets combine several skills in short sets."
+  },
+  {
+    "id": "RC24-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “mixed review” sessions to its final month of classes. Earlier lessons focused on one skill at a time, such as main idea, vocabulary, equations, or ratios. Instructors noticed that students performed well during single-skill practice but sometimes struggled when different question types appeared together.\nDuring mixed review, students complete short sets that combine several skills. Afterward, instructors discuss how to recognize what each question is asking before choosing a method. The goal is to help students shift between skills more smoothly during the entrance exam.\nStudents report that mixed review feels more challenging than single-skill practice, but many say it better resembles the experience of a real test.\n\nWhat do instructors discuss after mixed review?",
+    "choices": {
+      "A": "How to recognize what each question is asking before choosing a method",
+      "B": "Why students should ignore question types",
+      "C": "How to avoid changing strategies",
+      "D": "Why real tests contain no mixed skills"
+    },
+    "correct": "A",
+    "explanation": "Instructors discuss how to recognize what each question is asking before choosing a method."
+  },
+  {
+    "id": "RC24-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “mixed review” sessions to its final month of classes. Earlier lessons focused on one skill at a time, such as main idea, vocabulary, equations, or ratios. Instructors noticed that students performed well during single-skill practice but sometimes struggled when different question types appeared together.\nDuring mixed review, students complete short sets that combine several skills. Afterward, instructors discuss how to recognize what each question is asking before choosing a method. The goal is to help students shift between skills more smoothly during the entrance exam.\nStudents report that mixed review feels more challenging than single-skill practice, but many say it better resembles the experience of a real test.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Mixed review can help students prepare for the variety of a real exam.",
+      "B": "Single-skill practice and real tests are always identical.",
+      "C": "Students should avoid practicing multiple skills together.",
+      "D": "Mixed review makes it impossible to recognize question types."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that mixed review helps students prepare for the variety of a real entrance exam."
+  }
+]

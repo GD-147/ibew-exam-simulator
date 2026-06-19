@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC21-001",
+    "prompt": "Passage 1\nA regional building-services company recently updated the way it handles requests for replacement light bulbs. Previously, employees sent emails to the maintenance department when lights burned out. These emails did not always include the exact location, so maintenance staff sometimes had to walk through several rooms before finding the problem.\nThe company introduced a short online lighting request form. Employees now enter the building, floor, room number, fixture location, and whether the area is a hallway, office, storage room, or work area. The form also asks whether the burned-out light affects safety or normal work.\nMaintenance staff say the new form helps them plan their route and bring the correct supplies. Managers report that lighting issues are being resolved with fewer return trips.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Employees stopped reporting burned-out lights.",
+      "B": "A new lighting request form helped maintenance staff respond more efficiently.",
+      "C": "Maintenance staff now replace lights only in hallways.",
+      "D": "The company removed all lighting from storage rooms."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how the online lighting request form gives maintenance staff better location details and helps them resolve issues with fewer return trips."
+  },
+  {
+    "id": "RC21-002",
+    "prompt": "Passage 1\nA regional building-services company recently updated the way it handles requests for replacement light bulbs. Previously, employees sent emails to the maintenance department when lights burned out. These emails did not always include the exact location, so maintenance staff sometimes had to walk through several rooms before finding the problem.\nThe company introduced a short online lighting request form. Employees now enter the building, floor, room number, fixture location, and whether the area is a hallway, office, storage room, or work area. The form also asks whether the burned-out light affects safety or normal work.\nMaintenance staff say the new form helps them plan their route and bring the correct supplies. Managers report that lighting issues are being resolved with fewer return trips.\n\nWhat problem occurred with the old email process?",
+    "choices": {
+      "A": "Emails always included too much information.",
+      "B": "Maintenance staff sometimes had to search several rooms to find the problem.",
+      "C": "Employees were not allowed to report lighting issues.",
+      "D": "Light bulbs were replaced before they burned out."
+    },
+    "correct": "B",
+    "explanation": "The old emails did not always include exact locations, so maintenance staff sometimes had to search several rooms."
+  },
+  {
+    "id": "RC21-003",
+    "prompt": "Passage 1\nA regional building-services company recently updated the way it handles requests for replacement light bulbs. Previously, employees sent emails to the maintenance department when lights burned out. These emails did not always include the exact location, so maintenance staff sometimes had to walk through several rooms before finding the problem.\nThe company introduced a short online lighting request form. Employees now enter the building, floor, room number, fixture location, and whether the area is a hallway, office, storage room, or work area. The form also asks whether the burned-out light affects safety or normal work.\nMaintenance staff say the new form helps them plan their route and bring the correct supplies. Managers report that lighting issues are being resolved with fewer return trips.\n\nWhat information does the new form ask employees to provide?",
+    "choices": {
+      "A": "Building, floor, room number, and fixture location",
+      "B": "Customer payment history",
+      "C": "Employee vacation plans",
+      "D": "Supplier advertising messages"
+    },
+    "correct": "A",
+    "explanation": "The form asks for the building, floor, room number, and fixture location, along with other details."
+  },
+  {
+    "id": "RC21-004",
+    "prompt": "Passage 1\nA regional building-services company recently updated the way it handles requests for replacement light bulbs. Previously, employees sent emails to the maintenance department when lights burned out. These emails did not always include the exact location, so maintenance staff sometimes had to walk through several rooms before finding the problem.\nThe company introduced a short online lighting request form. Employees now enter the building, floor, room number, fixture location, and whether the area is a hallway, office, storage room, or work area. The form also asks whether the burned-out light affects safety or normal work.\nMaintenance staff say the new form helps them plan their route and bring the correct supplies. Managers report that lighting issues are being resolved with fewer return trips.\n\nHow does the new form help maintenance staff?",
+    "choices": {
+      "A": "It helps them plan their route and bring correct supplies.",
+      "B": "It prevents them from entering work areas.",
+      "C": "It removes the need to replace light bulbs.",
+      "D": "It sends all lighting requests to customers."
+    },
+    "correct": "A",
+    "explanation": "Maintenance staff use the form information to plan their route and bring the correct supplies."
+  },
+  {
+    "id": "RC21-005",
+    "prompt": "Passage 1\nA regional building-services company recently updated the way it handles requests for replacement light bulbs. Previously, employees sent emails to the maintenance department when lights burned out. These emails did not always include the exact location, so maintenance staff sometimes had to walk through several rooms before finding the problem.\nThe company introduced a short online lighting request form. Employees now enter the building, floor, room number, fixture location, and whether the area is a hallway, office, storage room, or work area. The form also asks whether the burned-out light affects safety or normal work.\nMaintenance staff say the new form helps them plan their route and bring the correct supplies. Managers report that lighting issues are being resolved with fewer return trips.\n\nThe phrase “return trips” most nearly means:",
+    "choices": {
+      "A": "Extra trips back to the same problem area",
+      "B": "Employee vacations",
+      "C": "Completed payroll records",
+      "D": "Customer deliveries"
+    },
+    "correct": "A",
+    "explanation": "In context, “return trips” means extra trips back to the same area because the first visit did not fully solve the issue."
+  },
+  {
+    "id": "RC21-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 20, all employees using the shared material scale must clean the weighing surface after each use. Employees should also report any display errors or unstable readings to the quality lead.\nThe updated procedure was created after several batches had to be weighed again because leftover material remained on the scale surface. Even small amounts of residue can affect the next measurement.\nCleaning wipes will be stored beside the scale, and the quality lead will review proper scale-care steps during shift meetings.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To explain a new procedure for using and cleaning the shared material scale",
+      "B": "To cancel all weighing procedures",
+      "C": "To replace the quality lead",
+      "D": "To move the scale to the parking lot"
+    },
+    "correct": "A",
+    "explanation": "The notice explains how employees should clean and report issues with the shared material scale."
+  },
+  {
+    "id": "RC21-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 20, all employees using the shared material scale must clean the weighing surface after each use. Employees should also report any display errors or unstable readings to the quality lead.\nThe updated procedure was created after several batches had to be weighed again because leftover material remained on the scale surface. Even small amounts of residue can affect the next measurement.\nCleaning wipes will be stored beside the scale, and the quality lead will review proper scale-care steps during shift meetings.\n\nWhat should employees report to the quality lead?",
+    "choices": {
+      "A": "Display errors or unstable readings",
+      "B": "Lunch orders",
+      "C": "Customer complaints about billing",
+      "D": "Parking space numbers"
+    },
+    "correct": "A",
+    "explanation": "Employees should report display errors or unstable readings to the quality lead."
+  },
+  {
+    "id": "RC21-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 20, all employees using the shared material scale must clean the weighing surface after each use. Employees should also report any display errors or unstable readings to the quality lead.\nThe updated procedure was created after several batches had to be weighed again because leftover material remained on the scale surface. Even small amounts of residue can affect the next measurement.\nCleaning wipes will be stored beside the scale, and the quality lead will review proper scale-care steps during shift meetings.\n\nWhy did several batches need to be weighed again?",
+    "choices": {
+      "A": "Employees used the wrong parking entrance.",
+      "B": "Leftover material remained on the scale surface.",
+      "C": "The scale was removed from the work area.",
+      "D": "Cleaning wipes were stored too close to the scale."
+    },
+    "correct": "B",
+    "explanation": "Several batches had to be weighed again because leftover material remained on the scale surface."
+  },
+  {
+    "id": "RC21-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 20, all employees using the shared material scale must clean the weighing surface after each use. Employees should also report any display errors or unstable readings to the quality lead.\nThe updated procedure was created after several batches had to be weighed again because leftover material remained on the scale surface. Even small amounts of residue can affect the next measurement.\nCleaning wipes will be stored beside the scale, and the quality lead will review proper scale-care steps during shift meetings.\n\nWhy can residue on the scale be a problem?",
+    "choices": {
+      "A": "It can affect the next measurement.",
+      "B": "It improves scale accuracy.",
+      "C": "It prevents employees from cleaning.",
+      "D": "It makes shift meetings unnecessary."
+    },
+    "correct": "A",
+    "explanation": "Residue can affect the next measurement, even if the amount is small."
+  },
+  {
+    "id": "RC21-010",
+    "prompt": "Passage 3\nMany companies use delivery checklists to reduce mistakes when sending products to customers. A checklist may remind employees to confirm the customer name, delivery address, order number, package count, and any special instructions.\nChecklists are especially useful when orders look similar. Two customers may order the same product but require different quantities or delivery locations. A final checklist gives employees a chance to catch differences before a truck leaves the facility.\nHowever, checklists are only useful when employees treat them as more than a formality. If workers mark each line without actually checking the order, the process may not prevent errors. Supervisors often remind employees that a checklist is a tool for careful review, not just paperwork.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Delivery checklists help reduce errors when employees use them carefully.",
+      "B": "Delivery addresses should not be checked.",
+      "C": "Similar orders are always impossible to tell apart.",
+      "D": "Checklists are useful only after the truck leaves."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that delivery checklists reduce errors when employees use them carefully as a final review."
+  },
+  {
+    "id": "RC21-011",
+    "prompt": "Passage 3\nMany companies use delivery checklists to reduce mistakes when sending products to customers. A checklist may remind employees to confirm the customer name, delivery address, order number, package count, and any special instructions.\nChecklists are especially useful when orders look similar. Two customers may order the same product but require different quantities or delivery locations. A final checklist gives employees a chance to catch differences before a truck leaves the facility.\nHowever, checklists are only useful when employees treat them as more than a formality. If workers mark each line without actually checking the order, the process may not prevent errors. Supervisors often remind employees that a checklist is a tool for careful review, not just paperwork.\n\nWhat may a delivery checklist remind employees to confirm?",
+    "choices": {
+      "A": "Customer name, delivery address, order number, and package count",
+      "B": "Employee shoe sizes",
+      "C": "Weather reports for the month",
+      "D": "Office decoration plans"
+    },
+    "correct": "A",
+    "explanation": "The checklist may remind employees to confirm the customer name, delivery address, order number, package count, and special instructions."
+  },
+  {
+    "id": "RC21-012",
+    "prompt": "Passage 3\nMany companies use delivery checklists to reduce mistakes when sending products to customers. A checklist may remind employees to confirm the customer name, delivery address, order number, package count, and any special instructions.\nChecklists are especially useful when orders look similar. Two customers may order the same product but require different quantities or delivery locations. A final checklist gives employees a chance to catch differences before a truck leaves the facility.\nHowever, checklists are only useful when employees treat them as more than a formality. If workers mark each line without actually checking the order, the process may not prevent errors. Supervisors often remind employees that a checklist is a tool for careful review, not just paperwork.\n\nWhy are checklists especially useful when orders look similar?",
+    "choices": {
+      "A": "Similar orders never contain differences.",
+      "B": "They help employees catch differences before delivery.",
+      "C": "They make customers place identical orders.",
+      "D": "They replace delivery addresses."
+    },
+    "correct": "B",
+    "explanation": "Checklists help catch differences between similar-looking orders before a truck leaves."
+  },
+  {
+    "id": "RC21-013",
+    "prompt": "Passage 3\nMany companies use delivery checklists to reduce mistakes when sending products to customers. A checklist may remind employees to confirm the customer name, delivery address, order number, package count, and any special instructions.\nChecklists are especially useful when orders look similar. Two customers may order the same product but require different quantities or delivery locations. A final checklist gives employees a chance to catch differences before a truck leaves the facility.\nHowever, checklists are only useful when employees treat them as more than a formality. If workers mark each line without actually checking the order, the process may not prevent errors. Supervisors often remind employees that a checklist is a tool for careful review, not just paperwork.\n\nWhat can happen if employees mark checklist lines without actually checking the order?",
+    "choices": {
+      "A": "The process may not prevent errors.",
+      "B": "The truck will always leave early.",
+      "C": "The order becomes easier to identify automatically.",
+      "D": "The checklist becomes more accurate."
+    },
+    "correct": "A",
+    "explanation": "If employees mark items without actually checking, the checklist may not prevent errors."
+  },
+  {
+    "id": "RC21-014",
+    "prompt": "Passage 3\nMany companies use delivery checklists to reduce mistakes when sending products to customers. A checklist may remind employees to confirm the customer name, delivery address, order number, package count, and any special instructions.\nChecklists are especially useful when orders look similar. Two customers may order the same product but require different quantities or delivery locations. A final checklist gives employees a chance to catch differences before a truck leaves the facility.\nHowever, checklists are only useful when employees treat them as more than a formality. If workers mark each line without actually checking the order, the process may not prevent errors. Supervisors often remind employees that a checklist is a tool for careful review, not just paperwork.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Checklists work best when they are used as an active review tool.",
+      "B": "Employees should treat checklists as meaningless paperwork.",
+      "C": "Special instructions should be ignored.",
+      "D": "Delivery errors cannot be reduced."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that a checklist must be used actively, not just treated as paperwork."
+  },
+  {
+    "id": "RC21-015",
+    "prompt": "Passage 4\nBefore modern water meters became common, many communities charged residents for water based on flat fees or rough estimates. This system did not always reflect how much water a household actually used.\nWater meters changed utility billing by measuring actual water use. Customers who used less water could be billed differently from customers who used more. Meter readings also helped utilities detect unusual usage that might suggest a leak.\nModern meters may be read manually or through automated systems. Although meter technology has improved, utilities still need accurate records, regular maintenance, and clear communication when unusual usage is found.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Water meters helped utilities measure use more accurately and identify possible problems.",
+      "B": "Flat fees always show exact water use.",
+      "C": "Water meters are used only in factories.",
+      "D": "Utilities no longer need customer records."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how water meters improved measurement of actual use and helped utilities identify unusual usage."
+  },
+  {
+    "id": "RC21-016",
+    "prompt": "Passage 4\nBefore modern water meters became common, many communities charged residents for water based on flat fees or rough estimates. This system did not always reflect how much water a household actually used.\nWater meters changed utility billing by measuring actual water use. Customers who used less water could be billed differently from customers who used more. Meter readings also helped utilities detect unusual usage that might suggest a leak.\nModern meters may be read manually or through automated systems. Although meter technology has improved, utilities still need accurate records, regular maintenance, and clear communication when unusual usage is found.\n\nWhat was one limitation of flat fees or rough estimates?",
+    "choices": {
+      "A": "They did not always reflect actual water use.",
+      "B": "They required automated meters.",
+      "C": "They detected every leak immediately.",
+      "D": "They were based on exact readings."
+    },
+    "correct": "A",
+    "explanation": "Flat fees or rough estimates did not always reflect how much water a household actually used."
+  },
+  {
+    "id": "RC21-017",
+    "prompt": "Passage 4\nBefore modern water meters became common, many communities charged residents for water based on flat fees or rough estimates. This system did not always reflect how much water a household actually used.\nWater meters changed utility billing by measuring actual water use. Customers who used less water could be billed differently from customers who used more. Meter readings also helped utilities detect unusual usage that might suggest a leak.\nModern meters may be read manually or through automated systems. Although meter technology has improved, utilities still need accurate records, regular maintenance, and clear communication when unusual usage is found.\n\nWhat might unusual water usage suggest?",
+    "choices": {
+      "A": "A possible leak",
+      "B": "A lower billing rate automatically",
+      "C": "A missing road sign",
+      "D": "A broken delivery truck"
+    },
+    "correct": "A",
+    "explanation": "Unusual usage may suggest a leak."
+  },
+  {
+    "id": "RC21-018",
+    "prompt": "Passage 4\nBefore modern water meters became common, many communities charged residents for water based on flat fees or rough estimates. This system did not always reflect how much water a household actually used.\nWater meters changed utility billing by measuring actual water use. Customers who used less water could be billed differently from customers who used more. Meter readings also helped utilities detect unusual usage that might suggest a leak.\nModern meters may be read manually or through automated systems. Although meter technology has improved, utilities still need accurate records, regular maintenance, and clear communication when unusual usage is found.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an older billing method, a measurement improvement, and current needs.",
+      "B": "It lists instructions for repairing a pipe.",
+      "C": "It compares water meters with traffic lights.",
+      "D": "It argues that water use should never be measured."
+    },
+    "correct": "A",
+    "explanation": "The passage explains the older billing method, the improvement provided by meters, and current needs for records and maintenance."
+  },
+  {
+    "id": "RC21-019",
+    "prompt": "Passage 5\nA regional office recently introduced a new process for handling incoming mail. Previously, mail was placed in several department bins throughout the building. If an envelope was delivered to the wrong bin, it could remain unnoticed for several days.\nThe new process uses one central mail station. Mail is sorted each morning by a designated employee, and departments receive a notification when important documents arrive. Items that require a signature or time-sensitive response are logged before being delivered.\nManagers say the new system has reduced misplaced documents and made it easier to track important mail. Some departments initially preferred their old bins, but most agreed that the central station improved accountability.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The office stopped receiving mail.",
+      "B": "A central mail station improved mail tracking and reduced misplaced documents.",
+      "C": "Departments now sort all mail at random.",
+      "D": "Important documents are no longer logged."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that the central mail station reduced misplaced documents and improved tracking of important mail."
+  },
+  {
+    "id": "RC21-020",
+    "prompt": "Passage 5\nA regional office recently introduced a new process for handling incoming mail. Previously, mail was placed in several department bins throughout the building. If an envelope was delivered to the wrong bin, it could remain unnoticed for several days.\nThe new process uses one central mail station. Mail is sorted each morning by a designated employee, and departments receive a notification when important documents arrive. Items that require a signature or time-sensitive response are logged before being delivered.\nManagers say the new system has reduced misplaced documents and made it easier to track important mail. Some departments initially preferred their old bins, but most agreed that the central station improved accountability.\n\nWhat problem occurred under the old mail process?",
+    "choices": {
+      "A": "Mail delivered to the wrong bin could remain unnoticed for several days.",
+      "B": "Mail was always delivered directly to customers.",
+      "C": "Departments received too many notifications.",
+      "D": "Employees were not allowed to open envelopes."
+    },
+    "correct": "A",
+    "explanation": "Under the old process, mail placed in the wrong bin could remain unnoticed for several days."
+  },
+  {
+    "id": "RC21-021",
+    "prompt": "Passage 5\nA regional office recently introduced a new process for handling incoming mail. Previously, mail was placed in several department bins throughout the building. If an envelope was delivered to the wrong bin, it could remain unnoticed for several days.\nThe new process uses one central mail station. Mail is sorted each morning by a designated employee, and departments receive a notification when important documents arrive. Items that require a signature or time-sensitive response are logged before being delivered.\nManagers say the new system has reduced misplaced documents and made it easier to track important mail. Some departments initially preferred their old bins, but most agreed that the central station improved accountability.\n\nWhen is mail sorted under the new process?",
+    "choices": {
+      "A": "Each morning",
+      "B": "Once per year",
+      "C": "Only after the building closes",
+      "D": "Before it arrives"
+    },
+    "correct": "A",
+    "explanation": "Mail is sorted each morning by a designated employee."
+  },
+  {
+    "id": "RC21-022",
+    "prompt": "Passage 5\nA regional office recently introduced a new process for handling incoming mail. Previously, mail was placed in several department bins throughout the building. If an envelope was delivered to the wrong bin, it could remain unnoticed for several days.\nThe new process uses one central mail station. Mail is sorted each morning by a designated employee, and departments receive a notification when important documents arrive. Items that require a signature or time-sensitive response are logged before being delivered.\nManagers say the new system has reduced misplaced documents and made it easier to track important mail. Some departments initially preferred their old bins, but most agreed that the central station improved accountability.\n\nWhat happens to items that require a signature or time-sensitive response?",
+    "choices": {
+      "A": "They are logged before being delivered.",
+      "B": "They are thrown away.",
+      "C": "They are sent to random bins.",
+      "D": "They are held until the end of the month."
+    },
+    "correct": "A",
+    "explanation": "Items requiring signatures or time-sensitive responses are logged before delivery."
+  },
+  {
+    "id": "RC21-023",
+    "prompt": "Passage 5\nA regional office recently introduced a new process for handling incoming mail. Previously, mail was placed in several department bins throughout the building. If an envelope was delivered to the wrong bin, it could remain unnoticed for several days.\nThe new process uses one central mail station. Mail is sorted each morning by a designated employee, and departments receive a notification when important documents arrive. Items that require a signature or time-sensitive response are logged before being delivered.\nManagers say the new system has reduced misplaced documents and made it easier to track important mail. Some departments initially preferred their old bins, but most agreed that the central station improved accountability.\n\nThe word “accountability” most nearly means:",
+    "choices": {
+      "A": "Responsibility and ability to track actions",
+      "B": "Lack of organization",
+      "C": "A storage cabinet",
+      "D": "A type of envelope"
+    },
+    "correct": "A",
+    "explanation": "In context, “accountability” means responsibility and the ability to track what happens to important mail."
+  },
+  {
+    "id": "RC21-024",
+    "prompt": "Passage 6\nMany workplaces use refresher training to review skills or procedures employees have already learned. Refresher training may be scheduled yearly, after a policy change, or when supervisors notice repeated mistakes.\nThe purpose is not to treat employees as beginners. Instead, refresher training helps workers remember important steps, learn updates, and correct habits that may have drifted over time. Even experienced employees can benefit from reviewing procedures they do often.\nGood refresher training is focused. If workers need a review of one updated procedure, a short targeted session may be more useful than repeating an entire long course.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Refresher training helps employees review important procedures and updates.",
+      "B": "Refresher training is useful only for brand-new employees.",
+      "C": "Experienced employees never need review.",
+      "D": "Long courses are always better than focused sessions."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that refresher training helps employees review important steps, learn updates, and correct drifting habits."
+  },
+  {
+    "id": "RC21-025",
+    "prompt": "Passage 6\nMany workplaces use refresher training to review skills or procedures employees have already learned. Refresher training may be scheduled yearly, after a policy change, or when supervisors notice repeated mistakes.\nThe purpose is not to treat employees as beginners. Instead, refresher training helps workers remember important steps, learn updates, and correct habits that may have drifted over time. Even experienced employees can benefit from reviewing procedures they do often.\nGood refresher training is focused. If workers need a review of one updated procedure, a short targeted session may be more useful than repeating an entire long course.\n\nWhen might refresher training be scheduled?",
+    "choices": {
+      "A": "After a policy change",
+      "B": "Only before an employee is hired",
+      "C": "After all procedures are removed",
+      "D": "When no mistakes have ever occurred"
+    },
+    "correct": "A",
+    "explanation": "Refresher training may be scheduled after a policy change, yearly, or after repeated mistakes."
+  },
+  {
+    "id": "RC21-026",
+    "prompt": "Passage 6\nMany workplaces use refresher training to review skills or procedures employees have already learned. Refresher training may be scheduled yearly, after a policy change, or when supervisors notice repeated mistakes.\nThe purpose is not to treat employees as beginners. Instead, refresher training helps workers remember important steps, learn updates, and correct habits that may have drifted over time. Even experienced employees can benefit from reviewing procedures they do often.\nGood refresher training is focused. If workers need a review of one updated procedure, a short targeted session may be more useful than repeating an entire long course.\n\nAccording to the passage, why is refresher training useful for experienced employees?",
+    "choices": {
+      "A": "It helps them remember steps and correct habits that may have drifted.",
+      "B": "It makes them forget regular procedures.",
+      "C": "It prevents them from learning updates.",
+      "D": "It treats them as if they have no experience."
+    },
+    "correct": "A",
+    "explanation": "The passage says experienced employees can benefit by remembering steps and correcting habits that have changed over time."
+  },
+  {
+    "id": "RC21-027",
+    "prompt": "Passage 6\nMany workplaces use refresher training to review skills or procedures employees have already learned. Refresher training may be scheduled yearly, after a policy change, or when supervisors notice repeated mistakes.\nThe purpose is not to treat employees as beginners. Instead, refresher training helps workers remember important steps, learn updates, and correct habits that may have drifted over time. Even experienced employees can benefit from reviewing procedures they do often.\nGood refresher training is focused. If workers need a review of one updated procedure, a short targeted session may be more useful than repeating an entire long course.\n\nWhat kind of refresher training may be best for one updated procedure?",
+    "choices": {
+      "A": "A short targeted session",
+      "B": "A course on unrelated topics",
+      "C": "No review at all",
+      "D": "A session with no examples"
+    },
+    "correct": "A",
+    "explanation": "For one updated procedure, a short targeted session may be more useful than repeating an entire course."
+  },
+  {
+    "id": "RC21-028",
+    "prompt": "Passage 6\nMany workplaces use refresher training to review skills or procedures employees have already learned. Refresher training may be scheduled yearly, after a policy change, or when supervisors notice repeated mistakes.\nThe purpose is not to treat employees as beginners. Instead, refresher training helps workers remember important steps, learn updates, and correct habits that may have drifted over time. Even experienced employees can benefit from reviewing procedures they do often.\nGood refresher training is focused. If workers need a review of one updated procedure, a short targeted session may be more useful than repeating an entire long course.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Refresher training should match the actual review need.",
+      "B": "Every refresher session must repeat an entire course.",
+      "C": "Workers should avoid reviewing common procedures.",
+      "D": "Repeated mistakes are never a reason for training."
+    },
+    "correct": "A",
+    "explanation": "The passage supports matching refresher training to the actual review need."
+  },
+  {
+    "id": "RC21-029",
+    "prompt": "Passage 7\nMany communities install public benches near sidewalks, transit stops, parks, and civic buildings. Benches give people a place to rest, wait, or gather. They can be especially helpful for older adults, people with limited mobility, and parents with young children.\nThe location of benches matters. A bench placed near shade, lighting, and clear walking paths is usually more useful than one placed where it blocks movement or feels unsafe. Communities may also consider nearby trash cans, bus routes, and building entrances when choosing locations.\nBenches require maintenance. Broken boards, sharp edges, graffiti, or loose hardware can reduce safety and comfort. Regular inspections help keep public seating useful and welcoming.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public benches can improve access and comfort when well placed and maintained.",
+      "B": "Communities should remove benches from parks.",
+      "C": "Benches are useful only inside private homes.",
+      "D": "Public seating never requires inspection."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that benches help public access and comfort, but location and maintenance determine how useful they are."
+  },
+  {
+    "id": "RC21-030",
+    "prompt": "Passage 7\nMany communities install public benches near sidewalks, transit stops, parks, and civic buildings. Benches give people a place to rest, wait, or gather. They can be especially helpful for older adults, people with limited mobility, and parents with young children.\nThe location of benches matters. A bench placed near shade, lighting, and clear walking paths is usually more useful than one placed where it blocks movement or feels unsafe. Communities may also consider nearby trash cans, bus routes, and building entrances when choosing locations.\nBenches require maintenance. Broken boards, sharp edges, graffiti, or loose hardware can reduce safety and comfort. Regular inspections help keep public seating useful and welcoming.\n\nWho may especially benefit from public benches?",
+    "choices": {
+      "A": "Older adults, people with limited mobility, and parents with young children",
+      "B": "Employees repairing printers",
+      "C": "Customers reviewing invoices",
+      "D": "Drivers replacing tires"
+    },
+    "correct": "A",
+    "explanation": "Older adults, people with limited mobility, and parents with young children are specifically mentioned."
+  },
+  {
+    "id": "RC21-031",
+    "prompt": "Passage 7\nMany communities install public benches near sidewalks, transit stops, parks, and civic buildings. Benches give people a place to rest, wait, or gather. They can be especially helpful for older adults, people with limited mobility, and parents with young children.\nThe location of benches matters. A bench placed near shade, lighting, and clear walking paths is usually more useful than one placed where it blocks movement or feels unsafe. Communities may also consider nearby trash cans, bus routes, and building entrances when choosing locations.\nBenches require maintenance. Broken boards, sharp edges, graffiti, or loose hardware can reduce safety and comfort. Regular inspections help keep public seating useful and welcoming.\n\nWhy does bench location matter?",
+    "choices": {
+      "A": "A poorly placed bench may block movement or feel unsafe.",
+      "B": "Benches are useful only when hidden from sidewalks.",
+      "C": "Lighting and walking paths are unrelated to bench use.",
+      "D": "Benches should always be far from transit stops."
+    },
+    "correct": "A",
+    "explanation": "The passage states that a bench can be less useful if it blocks movement or feels unsafe."
+  },
+  {
+    "id": "RC21-032",
+    "prompt": "Passage 7\nMany communities install public benches near sidewalks, transit stops, parks, and civic buildings. Benches give people a place to rest, wait, or gather. They can be especially helpful for older adults, people with limited mobility, and parents with young children.\nThe location of benches matters. A bench placed near shade, lighting, and clear walking paths is usually more useful than one placed where it blocks movement or feels unsafe. Communities may also consider nearby trash cans, bus routes, and building entrances when choosing locations.\nBenches require maintenance. Broken boards, sharp edges, graffiti, or loose hardware can reduce safety and comfort. Regular inspections help keep public seating useful and welcoming.\n\nWhat maintenance issue is mentioned in the passage?",
+    "choices": {
+      "A": "Broken boards or loose hardware",
+      "B": "Late delivery trucks",
+      "C": "Missing customer records",
+      "D": "Incorrect water bills"
+    },
+    "correct": "A",
+    "explanation": "Broken boards and loose hardware are listed as maintenance problems."
+  },
+  {
+    "id": "RC21-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “direction check” exercises to its weekly practice. Instructors noticed that some students lost points because they answered what they expected the question to ask rather than what it actually asked.\nDuring the exercises, students underline command words such as “compare,” “identify,” “infer,” or “explain.” They then restate the task in their own words before choosing an answer. The activity takes only a few minutes but is repeated often.\nInstructors believe this habit helps students slow down at the right moment. The goal is not to make students read every passage more slowly, but to make sure they understand the task before answering.\n\nWhy did the program add direction check exercises?",
+    "choices": {
+      "A": "Some students answered what they expected instead of what the question actually asked.",
+      "B": "Students no longer needed weekly practice.",
+      "C": "Instructors wanted to remove command words.",
+      "D": "The program stopped using reading questions."
+    },
+    "correct": "A",
+    "explanation": "The exercises were added because some students answered based on expectation instead of the actual question."
+  },
+  {
+    "id": "RC21-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “direction check” exercises to its weekly practice. Instructors noticed that some students lost points because they answered what they expected the question to ask rather than what it actually asked.\nDuring the exercises, students underline command words such as “compare,” “identify,” “infer,” or “explain.” They then restate the task in their own words before choosing an answer. The activity takes only a few minutes but is repeated often.\nInstructors believe this habit helps students slow down at the right moment. The goal is not to make students read every passage more slowly, but to make sure they understand the task before answering.\n\nWhich command word is mentioned in the passage?",
+    "choices": {
+      "A": "Compare",
+      "B": "Deliver",
+      "C": "Repair",
+      "D": "Purchase"
+    },
+    "correct": "A",
+    "explanation": "“Compare” is specifically listed as one of the command words."
+  },
+  {
+    "id": "RC21-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “direction check” exercises to its weekly practice. Instructors noticed that some students lost points because they answered what they expected the question to ask rather than what it actually asked.\nDuring the exercises, students underline command words such as “compare,” “identify,” “infer,” or “explain.” They then restate the task in their own words before choosing an answer. The activity takes only a few minutes but is repeated often.\nInstructors believe this habit helps students slow down at the right moment. The goal is not to make students read every passage more slowly, but to make sure they understand the task before answering.\n\nWhat do students do after underlining command words?",
+    "choices": {
+      "A": "Restate the task in their own words",
+      "B": "Skip the question immediately",
+      "C": "Choose the longest answer",
+      "D": "Stop reading the passage"
+    },
+    "correct": "A",
+    "explanation": "After underlining command words, students restate the task in their own words."
+  },
+  {
+    "id": "RC21-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short “direction check” exercises to its weekly practice. Instructors noticed that some students lost points because they answered what they expected the question to ask rather than what it actually asked.\nDuring the exercises, students underline command words such as “compare,” “identify,” “infer,” or “explain.” They then restate the task in their own words before choosing an answer. The activity takes only a few minutes but is repeated often.\nInstructors believe this habit helps students slow down at the right moment. The goal is not to make students read every passage more slowly, but to make sure they understand the task before answering.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Understanding the exact task can help students answer more accurately.",
+      "B": "Students should ignore command words.",
+      "C": "Reading questions should be answered before they are understood.",
+      "D": "Direction checks are meant to make all reading slower."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that understanding the exact task helps students answer more accurately."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC10-001",
+    "prompt": "Passage 1\nA regional parts distributor recently updated its order-packing process. In the past, employees picked items from shelves, placed them in boxes, and wrote order numbers by hand on packing slips. During busy periods, some boxes were delayed because slips were hard to read or items had to be checked again before shipping.\nThe new process uses printed labels generated directly from the order system. Each label includes the order number, customer name, shipping method, and a barcode that employees scan before the box leaves the packing area. If an item is missing, the system alerts the employee before the order is released.\nManagers report that the updated process has reduced packing errors and helped orders move through the shipping area more consistently.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The distributor stopped shipping customer orders.",
+      "B": "A new labeling process improved order packing and shipping accuracy.",
+      "C": "Employees now write all packing slips by hand.",
+      "D": "Customers are responsible for checking missing items."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how printed labels and barcode scanning improved order packing accuracy and movement through shipping."
+  },
+  {
+    "id": "RC10-002",
+    "prompt": "Passage 1\nA regional parts distributor recently updated its order-packing process. In the past, employees picked items from shelves, placed them in boxes, and wrote order numbers by hand on packing slips. During busy periods, some boxes were delayed because slips were hard to read or items had to be checked again before shipping.\nThe new process uses printed labels generated directly from the order system. Each label includes the order number, customer name, shipping method, and a barcode that employees scan before the box leaves the packing area. If an item is missing, the system alerts the employee before the order is released.\nManagers report that the updated process has reduced packing errors and helped orders move through the shipping area more consistently.\n\nWhat problem occurred with the old process?",
+    "choices": {
+      "A": "Packing slips were sometimes hard to read.",
+      "B": "Boxes were never checked before shipping.",
+      "C": "Customers refused printed labels.",
+      "D": "Employees could not find the shipping area."
+    },
+    "correct": "A",
+    "explanation": "The old process caused delays because handwritten packing slips were sometimes hard to read or required rechecking."
+  },
+  {
+    "id": "RC10-003",
+    "prompt": "Passage 1\nA regional parts distributor recently updated its order-packing process. In the past, employees picked items from shelves, placed them in boxes, and wrote order numbers by hand on packing slips. During busy periods, some boxes were delayed because slips were hard to read or items had to be checked again before shipping.\nThe new process uses printed labels generated directly from the order system. Each label includes the order number, customer name, shipping method, and a barcode that employees scan before the box leaves the packing area. If an item is missing, the system alerts the employee before the order is released.\nManagers report that the updated process has reduced packing errors and helped orders move through the shipping area more consistently.\n\nWhat information is included on each printed label?",
+    "choices": {
+      "A": "Employee lunch schedules and break times",
+      "B": "Order number, customer name, shipping method, and barcode",
+      "C": "Supplier advertisements and sales goals",
+      "D": "Building inspection dates and parking rules"
+    },
+    "correct": "B",
+    "explanation": "Each printed label includes the order number, customer name, shipping method, and barcode."
+  },
+  {
+    "id": "RC10-004",
+    "prompt": "Passage 1\nA regional parts distributor recently updated its order-packing process. In the past, employees picked items from shelves, placed them in boxes, and wrote order numbers by hand on packing slips. During busy periods, some boxes were delayed because slips were hard to read or items had to be checked again before shipping.\nThe new process uses printed labels generated directly from the order system. Each label includes the order number, customer name, shipping method, and a barcode that employees scan before the box leaves the packing area. If an item is missing, the system alerts the employee before the order is released.\nManagers report that the updated process has reduced packing errors and helped orders move through the shipping area more consistently.\n\nWhat happens if an item is missing?",
+    "choices": {
+      "A": "The order is automatically delivered.",
+      "B": "The customer must find the item.",
+      "C": "The system alerts the employee.",
+      "D": "The barcode is removed from the label."
+    },
+    "correct": "C",
+    "explanation": "The passage states that if an item is missing, the system alerts the employee before release."
+  },
+  {
+    "id": "RC10-005",
+    "prompt": "Passage 1\nA regional parts distributor recently updated its order-packing process. In the past, employees picked items from shelves, placed them in boxes, and wrote order numbers by hand on packing slips. During busy periods, some boxes were delayed because slips were hard to read or items had to be checked again before shipping.\nThe new process uses printed labels generated directly from the order system. Each label includes the order number, customer name, shipping method, and a barcode that employees scan before the box leaves the packing area. If an item is missing, the system alerts the employee before the order is released.\nManagers report that the updated process has reduced packing errors and helped orders move through the shipping area more consistently.\n\nThe word “released” most nearly means:",
+    "choices": {
+      "A": "Damaged",
+      "B": "Approved to move forward",
+      "C": "Hidden",
+      "D": "Returned to the shelf permanently"
+    },
+    "correct": "B",
+    "explanation": "In context, “released” means approved to move forward from the packing area."
+  },
+  {
+    "id": "RC10-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 6, employees who use the materials testing room must sign in using the tablet mounted beside the entrance. Employees should enter their name, department, time of entry, and the type of test being performed.\nThe updated sign-in process is intended to improve room scheduling and help supervisors identify when testing equipment is used most heavily. Under the previous paper log system, several entries were incomplete, and some handwriting was difficult to read.\nQuestions about the new process should be directed to the Quality Department.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new sign-in process for the materials testing room",
+      "B": "To close the materials testing room permanently",
+      "C": "To replace the Quality Department",
+      "D": "To explain employee vacation rules"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the new tablet sign-in process for the materials testing room."
+  },
+  {
+    "id": "RC10-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 6, employees who use the materials testing room must sign in using the tablet mounted beside the entrance. Employees should enter their name, department, time of entry, and the type of test being performed.\nThe updated sign-in process is intended to improve room scheduling and help supervisors identify when testing equipment is used most heavily. Under the previous paper log system, several entries were incomplete, and some handwriting was difficult to read.\nQuestions about the new process should be directed to the Quality Department.\n\nWhat must employees enter on the tablet?",
+    "choices": {
+      "A": "Their home address and personal purchases",
+      "B": "Their name, department, time of entry, and type of test",
+      "C": "Their lunch order and parking space",
+      "D": "Their supervisor’s payroll record"
+    },
+    "correct": "B",
+    "explanation": "Employees must enter their name, department, time of entry, and type of test."
+  },
+  {
+    "id": "RC10-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 6, employees who use the materials testing room must sign in using the tablet mounted beside the entrance. Employees should enter their name, department, time of entry, and the type of test being performed.\nThe updated sign-in process is intended to improve room scheduling and help supervisors identify when testing equipment is used most heavily. Under the previous paper log system, several entries were incomplete, and some handwriting was difficult to read.\nQuestions about the new process should be directed to the Quality Department.\n\nWhy was the process updated?",
+    "choices": {
+      "A": "To stop employees from using testing equipment",
+      "B": "To reduce all testing requirements",
+      "C": "To improve room scheduling and track equipment use",
+      "D": "To remove the tablet from the entrance"
+    },
+    "correct": "C",
+    "explanation": "The updated process is intended to improve room scheduling and help supervisors identify heavy equipment-use times."
+  },
+  {
+    "id": "RC10-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning May 6, employees who use the materials testing room must sign in using the tablet mounted beside the entrance. Employees should enter their name, department, time of entry, and the type of test being performed.\nThe updated sign-in process is intended to improve room scheduling and help supervisors identify when testing equipment is used most heavily. Under the previous paper log system, several entries were incomplete, and some handwriting was difficult to read.\nQuestions about the new process should be directed to the Quality Department.\n\nWhat problem existed with the previous paper log system?",
+    "choices": {
+      "A": "It recorded too much information automatically.",
+      "B": "It was used only by customers.",
+      "C": "It prevented testing from being completed.",
+      "D": "Several entries were incomplete or hard to read."
+    },
+    "correct": "D",
+    "explanation": "The previous paper log had incomplete entries and handwriting that was difficult to read."
+  },
+  {
+    "id": "RC10-010",
+    "prompt": "Passage 3\nMany workplaces use shift handoff notes to communicate important information between employees working different shifts. These notes may describe unfinished tasks, equipment concerns, supply shortages, safety issues, or customer requests that still need attention.\nEffective handoff notes are clear and specific. A note that says “machine acting strange” may not help the next shift understand what to check. A better note might state that a machine made a grinding noise during the last hour of operation and that maintenance was notified.\nGood handoff communication can reduce repeated work, missed problems, and confusion. However, handoff notes are most useful when employees write them promptly and include enough detail for the next person to act.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Shift handoff notes are useful when they clearly communicate important information.",
+      "B": "Employees should avoid writing about unfinished tasks.",
+      "C": "Handoff notes are needed only after serious accidents.",
+      "D": "Different shifts should not share information."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that shift handoff notes help communicate unfinished tasks, concerns, and other important details between shifts."
+  },
+  {
+    "id": "RC10-011",
+    "prompt": "Passage 3\nMany workplaces use shift handoff notes to communicate important information between employees working different shifts. These notes may describe unfinished tasks, equipment concerns, supply shortages, safety issues, or customer requests that still need attention.\nEffective handoff notes are clear and specific. A note that says “machine acting strange” may not help the next shift understand what to check. A better note might state that a machine made a grinding noise during the last hour of operation and that maintenance was notified.\nGood handoff communication can reduce repeated work, missed problems, and confusion. However, handoff notes are most useful when employees write them promptly and include enough detail for the next person to act.\n\nWhich topic may be included in handoff notes?",
+    "choices": {
+      "A": "Employee clothing preferences",
+      "B": "Equipment concerns",
+      "C": "Local restaurant reviews",
+      "D": "Payroll tax rules"
+    },
+    "correct": "B",
+    "explanation": "Equipment concerns are specifically listed as information that may be included in handoff notes."
+  },
+  {
+    "id": "RC10-012",
+    "prompt": "Passage 3\nMany workplaces use shift handoff notes to communicate important information between employees working different shifts. These notes may describe unfinished tasks, equipment concerns, supply shortages, safety issues, or customer requests that still need attention.\nEffective handoff notes are clear and specific. A note that says “machine acting strange” may not help the next shift understand what to check. A better note might state that a machine made a grinding noise during the last hour of operation and that maintenance was notified.\nGood handoff communication can reduce repeated work, missed problems, and confusion. However, handoff notes are most useful when employees write them promptly and include enough detail for the next person to act.\n\nWhy is the note “machine acting strange” weak?",
+    "choices": {
+      "A": "It contains too many numbers.",
+      "B": "It is too specific.",
+      "C": "It does not explain clearly what the next shift should check.",
+      "D": "It describes a completed customer request."
+    },
+    "correct": "C",
+    "explanation": "The note is weak because it is vague and does not tell the next shift what to check."
+  },
+  {
+    "id": "RC10-013",
+    "prompt": "Passage 3\nMany workplaces use shift handoff notes to communicate important information between employees working different shifts. These notes may describe unfinished tasks, equipment concerns, supply shortages, safety issues, or customer requests that still need attention.\nEffective handoff notes are clear and specific. A note that says “machine acting strange” may not help the next shift understand what to check. A better note might state that a machine made a grinding noise during the last hour of operation and that maintenance was notified.\nGood handoff communication can reduce repeated work, missed problems, and confusion. However, handoff notes are most useful when employees write them promptly and include enough detail for the next person to act.\n\nWhat can good handoff communication reduce?",
+    "choices": {
+      "A": "Repeated work, missed problems, and confusion",
+      "B": "The need for all workplace training",
+      "C": "The number of shifts in a company",
+      "D": "All equipment maintenance"
+    },
+    "correct": "A",
+    "explanation": "Good handoff communication can reduce repeated work, missed problems, and confusion."
+  },
+  {
+    "id": "RC10-014",
+    "prompt": "Passage 3\nMany workplaces use shift handoff notes to communicate important information between employees working different shifts. These notes may describe unfinished tasks, equipment concerns, supply shortages, safety issues, or customer requests that still need attention.\nEffective handoff notes are clear and specific. A note that says “machine acting strange” may not help the next shift understand what to check. A better note might state that a machine made a grinding noise during the last hour of operation and that maintenance was notified.\nGood handoff communication can reduce repeated work, missed problems, and confusion. However, handoff notes are most useful when employees write them promptly and include enough detail for the next person to act.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Vague notes are more useful than specific notes.",
+      "B": "Handoff notes should be written only at the end of each month.",
+      "C": "Useful handoff notes help the next worker know what action may be needed.",
+      "D": "Handoff communication is unrelated to workplace efficiency."
+    },
+    "correct": "C",
+    "explanation": "The passage supports the idea that useful notes include enough detail for the next person to act."
+  },
+  {
+    "id": "RC10-015",
+    "prompt": "Passage 4\nBefore modern weather radar became common, storm tracking depended heavily on ground reports, visual observations, and weather instruments located in specific places. These methods provided useful information, but they could leave gaps when storms developed between observation points.\nWeather radar improved storm monitoring by allowing meteorologists to observe precipitation patterns over wide areas. Radar can help identify storm movement, intensity, and areas where heavy rain or severe weather may be developing. This information supports more timely public warnings and better planning by emergency officials.\nAlthough radar does not make forecasts perfect, it provides valuable data that can be combined with satellite images, ground observations, and computer models.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Weather radar improved storm monitoring by providing wider and more timely information.",
+      "B": "Weather radar replaced all other forecasting tools.",
+      "C": "Storm tracking was impossible before radar.",
+      "D": "Ground observations are no longer useful."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how radar improved storm monitoring by providing broader information about storm movement and intensity."
+  },
+  {
+    "id": "RC10-016",
+    "prompt": "Passage 4\nBefore modern weather radar became common, storm tracking depended heavily on ground reports, visual observations, and weather instruments located in specific places. These methods provided useful information, but they could leave gaps when storms developed between observation points.\nWeather radar improved storm monitoring by allowing meteorologists to observe precipitation patterns over wide areas. Radar can help identify storm movement, intensity, and areas where heavy rain or severe weather may be developing. This information supports more timely public warnings and better planning by emergency officials.\nAlthough radar does not make forecasts perfect, it provides valuable data that can be combined with satellite images, ground observations, and computer models.\n\nWhat limitation existed before modern weather radar?",
+    "choices": {
+      "A": "Storms could not produce rain.",
+      "B": "Weather instruments were used only indoors.",
+      "C": "Observation methods could leave gaps between reporting points.",
+      "D": "Emergency officials refused weather information."
+    },
+    "correct": "C",
+    "explanation": "Before modern radar, ground reports and instruments could leave gaps when storms developed between observation points."
+  },
+  {
+    "id": "RC10-017",
+    "prompt": "Passage 4\nBefore modern weather radar became common, storm tracking depended heavily on ground reports, visual observations, and weather instruments located in specific places. These methods provided useful information, but they could leave gaps when storms developed between observation points.\nWeather radar improved storm monitoring by allowing meteorologists to observe precipitation patterns over wide areas. Radar can help identify storm movement, intensity, and areas where heavy rain or severe weather may be developing. This information supports more timely public warnings and better planning by emergency officials.\nAlthough radar does not make forecasts perfect, it provides valuable data that can be combined with satellite images, ground observations, and computer models.\n\nWhat can radar help identify?",
+    "choices": {
+      "A": "Storm movement and intensity",
+      "B": "Employee work schedules",
+      "C": "Road construction budgets",
+      "D": "School attendance records"
+    },
+    "correct": "A",
+    "explanation": "Radar can help identify storm movement, intensity, and developing severe weather."
+  },
+  {
+    "id": "RC10-018",
+    "prompt": "Passage 4\nBefore modern weather radar became common, storm tracking depended heavily on ground reports, visual observations, and weather instruments located in specific places. These methods provided useful information, but they could leave gaps when storms developed between observation points.\nWeather radar improved storm monitoring by allowing meteorologists to observe precipitation patterns over wide areas. Radar can help identify storm movement, intensity, and areas where heavy rain or severe weather may be developing. This information supports more timely public warnings and better planning by emergency officials.\nAlthough radar does not make forecasts perfect, it provides valuable data that can be combined with satellite images, ground observations, and computer models.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It gives instructions for repairing radar equipment.",
+      "B": "It explains an earlier limitation, a technological improvement, and current use.",
+      "C": "It compares weather radar with public transportation.",
+      "D": "It argues against using emergency warnings."
+    },
+    "correct": "B",
+    "explanation": "The passage describes an earlier limitation, then explains radar as an improvement, and ends with how radar data is used today."
+  },
+  {
+    "id": "RC10-019",
+    "prompt": "Passage 5\nA community health clinic recently reviewed its reminder system for patient appointments. Previously, staff members called patients manually two days before each appointment. During busy weeks, some calls were missed, and patients sometimes forgot scheduled visits.\nThe clinic introduced automated text and phone reminders. Patients can choose which type of reminder they prefer, and the system sends messages according to the clinic schedule. Staff members still call patients when special instructions are needed, but routine reminders are handled automatically.\nClinic administrators report that missed appointments have decreased. They also note that staff now spend less time making routine reminder calls and more time helping patients with questions that require personal attention.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The clinic stopped scheduling patient appointments.",
+      "B": "Automated reminders helped reduce missed appointments and staff workload.",
+      "C": "Patients are no longer allowed to receive phone calls.",
+      "D": "Staff members now avoid helping patients with questions."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how automated reminders reduced missed appointments and allowed staff to spend less time on routine calls."
+  },
+  {
+    "id": "RC10-020",
+    "prompt": "Passage 5\nA community health clinic recently reviewed its reminder system for patient appointments. Previously, staff members called patients manually two days before each appointment. During busy weeks, some calls were missed, and patients sometimes forgot scheduled visits.\nThe clinic introduced automated text and phone reminders. Patients can choose which type of reminder they prefer, and the system sends messages according to the clinic schedule. Staff members still call patients when special instructions are needed, but routine reminders are handled automatically.\nClinic administrators report that missed appointments have decreased. They also note that staff now spend less time making routine reminder calls and more time helping patients with questions that require personal attention.\n\nWhat problem occurred with the previous reminder system?",
+    "choices": {
+      "A": "Some reminder calls were missed during busy weeks.",
+      "B": "Patients received too many written bills.",
+      "C": "The clinic had no appointment schedule.",
+      "D": "Staff could not speak to patients at all."
+    },
+    "correct": "A",
+    "explanation": "Under the old system, some calls were missed during busy weeks."
+  },
+  {
+    "id": "RC10-021",
+    "prompt": "Passage 5\nA community health clinic recently reviewed its reminder system for patient appointments. Previously, staff members called patients manually two days before each appointment. During busy weeks, some calls were missed, and patients sometimes forgot scheduled visits.\nThe clinic introduced automated text and phone reminders. Patients can choose which type of reminder they prefer, and the system sends messages according to the clinic schedule. Staff members still call patients when special instructions are needed, but routine reminders are handled automatically.\nClinic administrators report that missed appointments have decreased. They also note that staff now spend less time making routine reminder calls and more time helping patients with questions that require personal attention.\n\nWhat choice can patients make under the new system?",
+    "choices": {
+      "A": "Which type of reminder they prefer",
+      "B": "Which clinic employee gets paid",
+      "C": "Which medical equipment is purchased",
+      "D": "Which building repairs are completed"
+    },
+    "correct": "A",
+    "explanation": "Patients can choose the type of reminder they prefer."
+  },
+  {
+    "id": "RC10-022",
+    "prompt": "Passage 5\nA community health clinic recently reviewed its reminder system for patient appointments. Previously, staff members called patients manually two days before each appointment. During busy weeks, some calls were missed, and patients sometimes forgot scheduled visits.\nThe clinic introduced automated text and phone reminders. Patients can choose which type of reminder they prefer, and the system sends messages according to the clinic schedule. Staff members still call patients when special instructions are needed, but routine reminders are handled automatically.\nClinic administrators report that missed appointments have decreased. They also note that staff now spend less time making routine reminder calls and more time helping patients with questions that require personal attention.\n\nWhen do staff members still call patients?",
+    "choices": {
+      "A": "When special instructions are needed",
+      "B": "Every hour before an appointment",
+      "C": "Only after the clinic closes permanently",
+      "D": "When patients refuse all appointments"
+    },
+    "correct": "A",
+    "explanation": "Staff still call patients when special instructions are needed."
+  },
+  {
+    "id": "RC10-023",
+    "prompt": "Passage 5\nA community health clinic recently reviewed its reminder system for patient appointments. Previously, staff members called patients manually two days before each appointment. During busy weeks, some calls were missed, and patients sometimes forgot scheduled visits.\nThe clinic introduced automated text and phone reminders. Patients can choose which type of reminder they prefer, and the system sends messages according to the clinic schedule. Staff members still call patients when special instructions are needed, but routine reminders are handled automatically.\nClinic administrators report that missed appointments have decreased. They also note that staff now spend less time making routine reminder calls and more time helping patients with questions that require personal attention.\n\nThe word “routine” most nearly means:",
+    "choices": {
+      "A": "Unusual",
+      "B": "Regular",
+      "C": "Confusing",
+      "D": "Expensive"
+    },
+    "correct": "B",
+    "explanation": "In context, “routine” means regular or ordinary reminder calls."
+  },
+  {
+    "id": "RC10-024",
+    "prompt": "Passage 6\nMany companies use workplace audits to review whether procedures are being followed correctly. An audit may examine records, observe work activities, inspect equipment, or interview employees about common practices.\nThe purpose of an audit is not simply to find mistakes. A well-run audit can identify where procedures are unclear, where training may be needed, and where work practices differ from written instructions. These findings can help managers improve systems before small problems become larger ones.\nAudits are most effective when results are communicated clearly and followed by action. If the same issue appears repeatedly but nothing changes, employees may lose confidence in the process.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Workplace audits can identify problems and guide improvements when followed by action.",
+      "B": "Workplace audits are useful only for punishing employees.",
+      "C": "Companies should avoid reviewing procedures.",
+      "D": "Audits eliminate the need for training."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that workplace audits can identify unclear procedures, training needs, and differences between written instructions and actual practice."
+  },
+  {
+    "id": "RC10-025",
+    "prompt": "Passage 6\nMany companies use workplace audits to review whether procedures are being followed correctly. An audit may examine records, observe work activities, inspect equipment, or interview employees about common practices.\nThe purpose of an audit is not simply to find mistakes. A well-run audit can identify where procedures are unclear, where training may be needed, and where work practices differ from written instructions. These findings can help managers improve systems before small problems become larger ones.\nAudits are most effective when results are communicated clearly and followed by action. If the same issue appears repeatedly but nothing changes, employees may lose confidence in the process.\n\nWhat may an audit include?",
+    "choices": {
+      "A": "Observing work activities",
+      "B": "Planning employee vacations",
+      "C": "Selling products to customers",
+      "D": "Designing company logos"
+    },
+    "correct": "A",
+    "explanation": "Observing work activities is specifically listed as something an audit may include."
+  },
+  {
+    "id": "RC10-026",
+    "prompt": "Passage 6\nMany companies use workplace audits to review whether procedures are being followed correctly. An audit may examine records, observe work activities, inspect equipment, or interview employees about common practices.\nThe purpose of an audit is not simply to find mistakes. A well-run audit can identify where procedures are unclear, where training may be needed, and where work practices differ from written instructions. These findings can help managers improve systems before small problems become larger ones.\nAudits are most effective when results are communicated clearly and followed by action. If the same issue appears repeatedly but nothing changes, employees may lose confidence in the process.\n\nAccording to the passage, a well-run audit can identify:",
+    "choices": {
+      "A": "Where procedures are unclear or training may be needed",
+      "B": "Which employees should stop asking questions",
+      "C": "How to remove all written instructions",
+      "D": "Why records should never be examined"
+    },
+    "correct": "A",
+    "explanation": "A well-run audit can identify unclear procedures, training needs, and mismatches between practice and written instructions."
+  },
+  {
+    "id": "RC10-027",
+    "prompt": "Passage 6\nMany companies use workplace audits to review whether procedures are being followed correctly. An audit may examine records, observe work activities, inspect equipment, or interview employees about common practices.\nThe purpose of an audit is not simply to find mistakes. A well-run audit can identify where procedures are unclear, where training may be needed, and where work practices differ from written instructions. These findings can help managers improve systems before small problems become larger ones.\nAudits are most effective when results are communicated clearly and followed by action. If the same issue appears repeatedly but nothing changes, employees may lose confidence in the process.\n\nWhen are audits most effective?",
+    "choices": {
+      "A": "When results are ignored",
+      "B": "When findings are hidden from employees",
+      "C": "When results are communicated clearly and followed by action",
+      "D": "When the same issue appears repeatedly without change"
+    },
+    "correct": "C",
+    "explanation": "Audits are most effective when results are clearly communicated and followed by action."
+  },
+  {
+    "id": "RC10-028",
+    "prompt": "Passage 6\nMany companies use workplace audits to review whether procedures are being followed correctly. An audit may examine records, observe work activities, inspect equipment, or interview employees about common practices.\nThe purpose of an audit is not simply to find mistakes. A well-run audit can identify where procedures are unclear, where training may be needed, and where work practices differ from written instructions. These findings can help managers improve systems before small problems become larger ones.\nAudits are most effective when results are communicated clearly and followed by action. If the same issue appears repeatedly but nothing changes, employees may lose confidence in the process.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Audits are valuable only if they lead to useful follow-up.",
+      "B": "Repeated issues should be left unchanged.",
+      "C": "Written procedures should never match actual work.",
+      "D": "Employees always lose confidence after audits."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that audits are valuable when they lead to useful follow-up and improvement."
+  },
+  {
+    "id": "RC10-029",
+    "prompt": "Passage 7\nMany towns use pavement condition ratings to decide which roads should be repaired first. Inspectors evaluate roads for cracks, potholes, drainage problems, surface wear, and other signs of damage. Each road section receives a score that helps officials compare repair needs.\nA low rating does not always mean a road will be repaired immediately. Towns must also consider traffic volume, safety concerns, available funds, and whether underground utility work is planned. Repairing a road just before a scheduled utility project could waste money if the pavement must be opened again soon afterward.\nUsing ratings and planning information together helps towns make more practical repair decisions.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How towns use road ratings and planning factors to prioritize repairs",
+      "B": "Why towns should stop inspecting roads",
+      "C": "How private companies sell vehicles",
+      "D": "Why traffic volume is never considered"
+    },
+    "correct": "A",
+    "explanation": "The passage explains how towns use pavement ratings along with traffic, safety, funding, and utility plans to prioritize road repairs."
+  },
+  {
+    "id": "RC10-030",
+    "prompt": "Passage 7\nMany towns use pavement condition ratings to decide which roads should be repaired first. Inspectors evaluate roads for cracks, potholes, drainage problems, surface wear, and other signs of damage. Each road section receives a score that helps officials compare repair needs.\nA low rating does not always mean a road will be repaired immediately. Towns must also consider traffic volume, safety concerns, available funds, and whether underground utility work is planned. Repairing a road just before a scheduled utility project could waste money if the pavement must be opened again soon afterward.\nUsing ratings and planning information together helps towns make more practical repair decisions.\n\nWhat do inspectors evaluate?",
+    "choices": {
+      "A": "Cracks, potholes, drainage problems, and surface wear",
+      "B": "Restaurant menus near roads",
+      "C": "Driver license applications",
+      "D": "School bus seating charts"
+    },
+    "correct": "A",
+    "explanation": "Inspectors evaluate cracks, potholes, drainage problems, surface wear, and other damage."
+  },
+  {
+    "id": "RC10-031",
+    "prompt": "Passage 7\nMany towns use pavement condition ratings to decide which roads should be repaired first. Inspectors evaluate roads for cracks, potholes, drainage problems, surface wear, and other signs of damage. Each road section receives a score that helps officials compare repair needs.\nA low rating does not always mean a road will be repaired immediately. Towns must also consider traffic volume, safety concerns, available funds, and whether underground utility work is planned. Repairing a road just before a scheduled utility project could waste money if the pavement must be opened again soon afterward.\nUsing ratings and planning information together helps towns make more practical repair decisions.\n\nWhy might a low-rated road not be repaired immediately?",
+    "choices": {
+      "A": "Towns must consider other factors such as traffic, safety, funds, and utility work.",
+      "B": "Low-rated roads are always safe.",
+      "C": "Inspectors cannot identify damage.",
+      "D": "Road ratings are never used in planning."
+    },
+    "correct": "A",
+    "explanation": "A low rating does not always lead to immediate repair because towns must consider traffic, safety, funds, and planned utility work."
+  },
+  {
+    "id": "RC10-032",
+    "prompt": "Passage 7\nMany towns use pavement condition ratings to decide which roads should be repaired first. Inspectors evaluate roads for cracks, potholes, drainage problems, surface wear, and other signs of damage. Each road section receives a score that helps officials compare repair needs.\nA low rating does not always mean a road will be repaired immediately. Towns must also consider traffic volume, safety concerns, available funds, and whether underground utility work is planned. Repairing a road just before a scheduled utility project could waste money if the pavement must be opened again soon afterward.\nUsing ratings and planning information together helps towns make more practical repair decisions.\n\nWhat could waste money?",
+    "choices": {
+      "A": "Repairing a road just before scheduled underground utility work",
+      "B": "Comparing road sections before repairs",
+      "C": "Inspecting pavement for cracks",
+      "D": "Considering traffic volume"
+    },
+    "correct": "A",
+    "explanation": "Repairing a road right before underground utility work could waste money if the pavement must be opened again."
+  },
+  {
+    "id": "RC10-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation center recently added a study-skills session to its entrance-exam review course. Instructors noticed that some students understood the material during class but performed poorly on timed practice tests.\nThe new session teaches students how to divide test time, mark difficult questions for later review, and avoid spending too long on one item. Students also practice reading directions carefully before answering.\nInstructors emphasize that study skills do not replace content knowledge. Instead, they help students use what they know more effectively during a timed test. Early feedback from students has been positive, especially from those who had not taken a formal exam in several years.\n\nWhy did the center add a study-skills session?",
+    "choices": {
+      "A": "Some students struggled on timed practice tests despite understanding class material.",
+      "B": "Students no longer needed entrance-exam review.",
+      "C": "Instructors wanted to remove all reading practice.",
+      "D": "The course stopped covering test content."
+    },
+    "correct": "A",
+    "explanation": "The session was added because some students understood the material but struggled on timed practice tests."
+  },
+  {
+    "id": "RC10-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation center recently added a study-skills session to its entrance-exam review course. Instructors noticed that some students understood the material during class but performed poorly on timed practice tests.\nThe new session teaches students how to divide test time, mark difficult questions for later review, and avoid spending too long on one item. Students also practice reading directions carefully before answering.\nInstructors emphasize that study skills do not replace content knowledge. Instead, they help students use what they know more effectively during a timed test. Early feedback from students has been positive, especially from those who had not taken a formal exam in several years.\n\nWhich strategy is taught in the new session?",
+    "choices": {
+      "A": "Spending unlimited time on each question",
+      "B": "Marking difficult questions for later review",
+      "C": "Ignoring test directions",
+      "D": "Avoiding timed practice"
+    },
+    "correct": "B",
+    "explanation": "The session teaches students to mark difficult questions for later review."
+  },
+  {
+    "id": "RC10-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation center recently added a study-skills session to its entrance-exam review course. Instructors noticed that some students understood the material during class but performed poorly on timed practice tests.\nThe new session teaches students how to divide test time, mark difficult questions for later review, and avoid spending too long on one item. Students also practice reading directions carefully before answering.\nInstructors emphasize that study skills do not replace content knowledge. Instead, they help students use what they know more effectively during a timed test. Early feedback from students has been positive, especially from those who had not taken a formal exam in several years.\n\nAccording to the passage, study skills:",
+    "choices": {
+      "A": "Replace content knowledge entirely",
+      "B": "Are useful only for students currently in high school",
+      "C": "Help students use what they know more effectively",
+      "D": "Make timed tests unnecessary"
+    },
+    "correct": "C",
+    "explanation": "The passage states that study skills help students use what they know more effectively during a timed test."
+  },
+  {
+    "id": "RC10-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation center recently added a study-skills session to its entrance-exam review course. Instructors noticed that some students understood the material during class but performed poorly on timed practice tests.\nThe new session teaches students how to divide test time, mark difficult questions for later review, and avoid spending too long on one item. Students also practice reading directions carefully before answering.\nInstructors emphasize that study skills do not replace content knowledge. Instead, they help students use what they know more effectively during a timed test. Early feedback from students has been positive, especially from those who had not taken a formal exam in several years.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Test-taking strategies can help adult learners manage timed exams.",
+      "B": "Students should avoid reading directions carefully.",
+      "C": "Timed tests do not require planning.",
+      "D": "Practice tests are unrelated to exam preparation."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that test-taking strategies can help adult learners manage timed exams, especially if they have not taken formal exams recently."
+  }
+]

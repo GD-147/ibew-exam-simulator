@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC9-001",
+    "prompt": "Passage 1\nA regional hardware supplier recently introduced a barcode system for managing returned products. Before the change, employees recorded returns by hand on paper forms. The forms were later reviewed by office staff and entered into the inventory system. This sometimes caused delays, especially when handwriting was unclear or product numbers were missing.\nUnder the new system, employees scan the product barcode at the return counter. The system records the item number, return date, reason for return, and whether the item can be restocked. Managers can review return patterns more quickly and identify products that may have repeated quality issues.\nAlthough the system required employees to learn a new process, supervisors report that return records are now more complete and easier to search.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "A barcode system improved how the company manages product returns.",
+      "B": "The company stopped accepting returned products.",
+      "C": "Paper forms are required for all inventory records.",
+      "D": "Customers now enter all return information themselves."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how the barcode system improved product return records by making them more complete and easier to search."
+  },
+  {
+    "id": "RC9-002",
+    "prompt": "Passage 1\nA regional hardware supplier recently introduced a barcode system for managing returned products. Before the change, employees recorded returns by hand on paper forms. The forms were later reviewed by office staff and entered into the inventory system. This sometimes caused delays, especially when handwriting was unclear or product numbers were missing.\nUnder the new system, employees scan the product barcode at the return counter. The system records the item number, return date, reason for return, and whether the item can be restocked. Managers can review return patterns more quickly and identify products that may have repeated quality issues.\nAlthough the system required employees to learn a new process, supervisors report that return records are now more complete and easier to search.\n\nWhat problem occurred under the old return process?",
+    "choices": {
+      "A": "Employees refused to accept returns.",
+      "B": "Product barcodes were not allowed.",
+      "C": "Customers had to repair products before returning them.",
+      "D": "Delays occurred when handwriting was unclear or product numbers were missing."
+    },
+    "correct": "D",
+    "explanation": "The old process caused delays when handwriting was unclear or product numbers were missing. The trap is choosing a general paperwork problem that is not stated."
+  },
+  {
+    "id": "RC9-003",
+    "prompt": "Passage 1\nA regional hardware supplier recently introduced a barcode system for managing returned products. Before the change, employees recorded returns by hand on paper forms. The forms were later reviewed by office staff and entered into the inventory system. This sometimes caused delays, especially when handwriting was unclear or product numbers were missing.\nUnder the new system, employees scan the product barcode at the return counter. The system records the item number, return date, reason for return, and whether the item can be restocked. Managers can review return patterns more quickly and identify products that may have repeated quality issues.\nAlthough the system required employees to learn a new process, supervisors report that return records are now more complete and easier to search.\n\nWhat information does the new system record?",
+    "choices": {
+      "A": "Employee vacation requests",
+      "B": "Customer parking locations",
+      "C": "Item number, return date, reason for return, and restock status",
+      "D": "Supplier advertising schedules"
+    },
+    "correct": "C",
+    "explanation": "The passage says the system records the item number, return date, reason for return, and whether the item can be restocked."
+  },
+  {
+    "id": "RC9-004",
+    "prompt": "Passage 1\nA regional hardware supplier recently introduced a barcode system for managing returned products. Before the change, employees recorded returns by hand on paper forms. The forms were later reviewed by office staff and entered into the inventory system. This sometimes caused delays, especially when handwriting was unclear or product numbers were missing.\nUnder the new system, employees scan the product barcode at the return counter. The system records the item number, return date, reason for return, and whether the item can be restocked. Managers can review return patterns more quickly and identify products that may have repeated quality issues.\nAlthough the system required employees to learn a new process, supervisors report that return records are now more complete and easier to search.\n\nHow can managers use the return data?",
+    "choices": {
+      "A": "To identify products with repeated quality issues",
+      "B": "To eliminate all customer service desks",
+      "C": "To replace all warehouse employees",
+      "D": "To prevent customers from asking questions"
+    },
+    "correct": "A",
+    "explanation": "Managers can use the return data to identify products that may have repeated quality issues."
+  },
+  {
+    "id": "RC9-005",
+    "prompt": "Passage 1\nA regional hardware supplier recently introduced a barcode system for managing returned products. Before the change, employees recorded returns by hand on paper forms. The forms were later reviewed by office staff and entered into the inventory system. This sometimes caused delays, especially when handwriting was unclear or product numbers were missing.\nUnder the new system, employees scan the product barcode at the return counter. The system records the item number, return date, reason for return, and whether the item can be restocked. Managers can review return patterns more quickly and identify products that may have repeated quality issues.\nAlthough the system required employees to learn a new process, supervisors report that return records are now more complete and easier to search.\n\nThe word “restocked” most nearly means:",
+    "choices": {
+      "A": "Thrown away",
+      "B": "Placed back into inventory",
+      "C": "Repaired by a customer",
+      "D": "Shipped to a competitor"
+    },
+    "correct": "B",
+    "explanation": "In context, “restocked” means the returned item can be placed back into inventory for sale or use."
+  },
+  {
+    "id": "RC9-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 15, employees entering the assembly area must wear the updated visitor-style identification badge if they are not normally assigned to that department. The badge must be obtained from the front office and returned before leaving the building.\nThe updated badge procedure is intended to help supervisors quickly identify who is authorized to be in the assembly area. It will also improve emergency headcounts if the building must be evacuated.\nEmployees who regularly work in assembly will continue using their standard department badges.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To explain a new payroll process",
+      "B": "To announce an updated badge procedure for the assembly area",
+      "C": "To cancel access to the assembly area",
+      "D": "To introduce a new assembly machine"
+    },
+    "correct": "B",
+    "explanation": "The notice announces an updated badge procedure for employees entering the assembly area who are not normally assigned there."
+  },
+  {
+    "id": "RC9-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 15, employees entering the assembly area must wear the updated visitor-style identification badge if they are not normally assigned to that department. The badge must be obtained from the front office and returned before leaving the building.\nThe updated badge procedure is intended to help supervisors quickly identify who is authorized to be in the assembly area. It will also improve emergency headcounts if the building must be evacuated.\nEmployees who regularly work in assembly will continue using their standard department badges.\n\nWho must wear the updated visitor-style badge?",
+    "choices": {
+      "A": "Customers shopping in stores",
+      "B": "Employees not normally assigned to the assembly area",
+      "C": "Employees who work from home only",
+      "D": "Delivery drivers using public roads"
+    },
+    "correct": "B",
+    "explanation": "The notice states that employees not normally assigned to the assembly area must wear the updated visitor-style identification badge."
+  },
+  {
+    "id": "RC9-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 15, employees entering the assembly area must wear the updated visitor-style identification badge if they are not normally assigned to that department. The badge must be obtained from the front office and returned before leaving the building.\nThe updated badge procedure is intended to help supervisors quickly identify who is authorized to be in the assembly area. It will also improve emergency headcounts if the building must be evacuated.\nEmployees who regularly work in assembly will continue using their standard department badges.\n\nWhere must the badge be obtained?",
+    "choices": {
+      "A": "From the front office",
+      "B": "From the parking lot",
+      "C": "From the maintenance shop",
+      "D": "From the shipping dock only"
+    },
+    "correct": "A",
+    "explanation": "The badge must be obtained from the front office and returned before leaving the building."
+  },
+  {
+    "id": "RC9-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 15, employees entering the assembly area must wear the updated visitor-style identification badge if they are not normally assigned to that department. The badge must be obtained from the front office and returned before leaving the building.\nThe updated badge procedure is intended to help supervisors quickly identify who is authorized to be in the assembly area. It will also improve emergency headcounts if the building must be evacuated.\nEmployees who regularly work in assembly will continue using their standard department badges.\n\nWhat is one reason for the updated badge procedure?",
+    "choices": {
+      "A": "To make lunch breaks shorter",
+      "B": "To reduce product quality",
+      "C": "To improve emergency headcounts",
+      "D": "To eliminate department badges"
+    },
+    "correct": "C",
+    "explanation": "One reason for the updated procedure is to improve emergency headcounts if evacuation is needed."
+  },
+  {
+    "id": "RC9-010",
+    "prompt": "Passage 3\nMany workplaces use training records to document which employees have completed required instruction. These records may include the employee’s name, the course completed, the date of completion, and when refresher training is due.\nTraining records help organizations confirm that employees are prepared for certain tasks. For example, before assigning a worker to operate specific equipment, a supervisor may check whether the employee has completed the required training. Records can also help companies schedule refresher sessions before previous training becomes outdated.\nAccurate records are important because missing or incomplete information can create confusion. If a record does not show whether training was completed, supervisors may need to delay an assignment until the information is verified.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Training records are used only for new employees.",
+      "B": "Training records help organizations track completed instruction and plan assignments.",
+      "C": "Training records replace all workplace instruction.",
+      "D": "Employees should avoid refresher training."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that training records document completed instruction and help supervisors make assignment decisions."
+  },
+  {
+    "id": "RC9-011",
+    "prompt": "Passage 3\nMany workplaces use training records to document which employees have completed required instruction. These records may include the employee’s name, the course completed, the date of completion, and when refresher training is due.\nTraining records help organizations confirm that employees are prepared for certain tasks. For example, before assigning a worker to operate specific equipment, a supervisor may check whether the employee has completed the required training. Records can also help companies schedule refresher sessions before previous training becomes outdated.\nAccurate records are important because missing or incomplete information can create confusion. If a record does not show whether training was completed, supervisors may need to delay an assignment until the information is verified.\n\nWhich information may be included in a training record?",
+    "choices": {
+      "A": "The employee’s favorite task",
+      "B": "The employee’s home repair plans",
+      "C": "The course completed and date of completion",
+      "D": "The company’s advertising budget"
+    },
+    "correct": "C",
+    "explanation": "The passage specifically lists the course completed and date of completion as information that may appear in training records."
+  },
+  {
+    "id": "RC9-012",
+    "prompt": "Passage 3\nMany workplaces use training records to document which employees have completed required instruction. These records may include the employee’s name, the course completed, the date of completion, and when refresher training is due.\nTraining records help organizations confirm that employees are prepared for certain tasks. For example, before assigning a worker to operate specific equipment, a supervisor may check whether the employee has completed the required training. Records can also help companies schedule refresher sessions before previous training becomes outdated.\nAccurate records are important because missing or incomplete information can create confusion. If a record does not show whether training was completed, supervisors may need to delay an assignment until the information is verified.\n\nWhy might a supervisor check training records before assigning equipment work?",
+    "choices": {
+      "A": "To confirm that the employee completed required training",
+      "B": "To choose the fastest employee in the department",
+      "C": "To reduce the number of available workers",
+      "D": "To avoid using written records"
+    },
+    "correct": "A",
+    "explanation": "A supervisor may check records to confirm the employee has completed required training before operating specific equipment."
+  },
+  {
+    "id": "RC9-013",
+    "prompt": "Passage 3\nMany workplaces use training records to document which employees have completed required instruction. These records may include the employee’s name, the course completed, the date of completion, and when refresher training is due.\nTraining records help organizations confirm that employees are prepared for certain tasks. For example, before assigning a worker to operate specific equipment, a supervisor may check whether the employee has completed the required training. Records can also help companies schedule refresher sessions before previous training becomes outdated.\nAccurate records are important because missing or incomplete information can create confusion. If a record does not show whether training was completed, supervisors may need to delay an assignment until the information is verified.\n\nWhat may happen if training information is missing?",
+    "choices": {
+      "A": "The assignment may be delayed until the information is verified.",
+      "B": "The employee automatically receives a promotion.",
+      "C": "The equipment no longer needs to be inspected.",
+      "D": "The training requirement disappears."
+    },
+    "correct": "A",
+    "explanation": "If training information is missing, a supervisor may delay an assignment until the information is verified."
+  },
+  {
+    "id": "RC9-014",
+    "prompt": "Passage 3\nMany workplaces use training records to document which employees have completed required instruction. These records may include the employee’s name, the course completed, the date of completion, and when refresher training is due.\nTraining records help organizations confirm that employees are prepared for certain tasks. For example, before assigning a worker to operate specific equipment, a supervisor may check whether the employee has completed the required training. Records can also help companies schedule refresher sessions before previous training becomes outdated.\nAccurate records are important because missing or incomplete information can create confusion. If a record does not show whether training was completed, supervisors may need to delay an assignment until the information is verified.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Complete training records can help prevent confusion in work assignments.",
+      "B": "Supervisors should assign tasks without checking preparation.",
+      "C": "Refresher training is unrelated to employee records.",
+      "D": "Missing records improve workplace efficiency."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that complete records help avoid confusion about whether employees are prepared for certain tasks."
+  },
+  {
+    "id": "RC9-015",
+    "prompt": "Passage 4\nBefore widespread use of electric street lighting, many cities depended on gas lamps or oil lamps to light public streets. These systems required workers to light and maintain lamps regularly. Illumination was often limited, and some streets remained dark or difficult to travel at night.\nElectric streetlights changed public lighting by providing brighter and more reliable illumination. Streets became easier to navigate after dark, and businesses could operate with improved visibility during evening hours. Electric lighting also reduced the amount of labor required to keep street lamps in service.\nOver time, cities continued improving streetlight systems with better bulbs, automatic controls, and more efficient equipment. Modern street lighting remains an important part of public safety and transportation planning.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Cities stopped using public lighting after electricity became available.",
+      "B": "Electric street lighting improved public visibility and reduced maintenance demands.",
+      "C": "Gas lamps were brighter than all electric streetlights.",
+      "D": "Street lighting is unrelated to public safety."
+    },
+    "correct": "B",
+    "explanation": "The passage describes how electric street lighting improved visibility, reduced labor, and remained important for public safety and transportation."
+  },
+  {
+    "id": "RC9-016",
+    "prompt": "Passage 4\nBefore widespread use of electric street lighting, many cities depended on gas lamps or oil lamps to light public streets. These systems required workers to light and maintain lamps regularly. Illumination was often limited, and some streets remained dark or difficult to travel at night.\nElectric streetlights changed public lighting by providing brighter and more reliable illumination. Streets became easier to navigate after dark, and businesses could operate with improved visibility during evening hours. Electric lighting also reduced the amount of labor required to keep street lamps in service.\nOver time, cities continued improving streetlight systems with better bulbs, automatic controls, and more efficient equipment. Modern street lighting remains an important part of public safety and transportation planning.\n\nWhat was one limitation of older gas or oil lamp systems?",
+    "choices": {
+      "A": "They never required maintenance.",
+      "B": "They were controlled by computers.",
+      "C": "They provided unlimited illumination.",
+      "D": "Some streets remained dark or difficult to travel at night."
+    },
+    "correct": "D",
+    "explanation": "Older gas and oil lamp systems often provided limited illumination, leaving some streets dark or difficult to travel."
+  },
+  {
+    "id": "RC9-017",
+    "prompt": "Passage 4\nBefore widespread use of electric street lighting, many cities depended on gas lamps or oil lamps to light public streets. These systems required workers to light and maintain lamps regularly. Illumination was often limited, and some streets remained dark or difficult to travel at night.\nElectric streetlights changed public lighting by providing brighter and more reliable illumination. Streets became easier to navigate after dark, and businesses could operate with improved visibility during evening hours. Electric lighting also reduced the amount of labor required to keep street lamps in service.\nOver time, cities continued improving streetlight systems with better bulbs, automatic controls, and more efficient equipment. Modern street lighting remains an important part of public safety and transportation planning.\n\nHow did electric streetlights help businesses?",
+    "choices": {
+      "A": "They improved visibility during evening hours.",
+      "B": "They eliminated the need for customers.",
+      "C": "They reduced all transportation costs.",
+      "D": "They ended public safety planning."
+    },
+    "correct": "A",
+    "explanation": "The passage states that businesses could operate with improved visibility during evening hours."
+  },
+  {
+    "id": "RC9-018",
+    "prompt": "Passage 4\nBefore widespread use of electric street lighting, many cities depended on gas lamps or oil lamps to light public streets. These systems required workers to light and maintain lamps regularly. Illumination was often limited, and some streets remained dark or difficult to travel at night.\nElectric streetlights changed public lighting by providing brighter and more reliable illumination. Streets became easier to navigate after dark, and businesses could operate with improved visibility during evening hours. Electric lighting also reduced the amount of labor required to keep street lamps in service.\nOver time, cities continued improving streetlight systems with better bulbs, automatic controls, and more efficient equipment. Modern street lighting remains an important part of public safety and transportation planning.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an older system, describes a technological improvement, and discusses later developments.",
+      "B": "It lists rules for installing private home lighting.",
+      "C": "It compares two unrelated forms of transportation.",
+      "D": "It presents a complaint about modern cities."
+    },
+    "correct": "A",
+    "explanation": "The passage moves from older lighting systems to electric lighting and then to later improvements in streetlight technology."
+  },
+  {
+    "id": "RC9-019",
+    "prompt": "Passage 5\nA large construction company recently reviewed how tools and materials are delivered to job sites. Previously, each crew requested supplies independently. This sometimes resulted in multiple deliveries to the same site in one day, while other crews waited for items that were not available.\nThe company created a centralized delivery request process. Crew leaders now submit requests by noon for the following workday. A logistics coordinator reviews the requests, combines deliveries when possible, and confirms which items are available before trucks are loaded.\nManagers report that the new process has reduced unnecessary trips and made supply planning more predictable. Some crews initially found the deadline inconvenient, but most agreed that receiving more accurate delivery information helped them plan their work.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped delivering tools to job sites.",
+      "B": "Independent crew requests were always efficient.",
+      "C": "A centralized request process improved job-site supply deliveries.",
+      "D": "Crews now purchase all materials themselves."
+    },
+    "correct": "C",
+    "explanation": "The passage focuses on how a centralized delivery request process reduced unnecessary trips and improved supply planning."
+  },
+  {
+    "id": "RC9-020",
+    "prompt": "Passage 5\nA large construction company recently reviewed how tools and materials are delivered to job sites. Previously, each crew requested supplies independently. This sometimes resulted in multiple deliveries to the same site in one day, while other crews waited for items that were not available.\nThe company created a centralized delivery request process. Crew leaders now submit requests by noon for the following workday. A logistics coordinator reviews the requests, combines deliveries when possible, and confirms which items are available before trucks are loaded.\nManagers report that the new process has reduced unnecessary trips and made supply planning more predictable. Some crews initially found the deadline inconvenient, but most agreed that receiving more accurate delivery information helped them plan their work.\n\nWhat problem occurred under the previous process?",
+    "choices": {
+      "A": "Multiple deliveries sometimes went to the same site in one day.",
+      "B": "Trucks were not used for deliveries.",
+      "C": "Crew leaders were not allowed to request supplies.",
+      "D": "All materials arrived before they were needed."
+    },
+    "correct": "A",
+    "explanation": "Under the old system, independent requests sometimes caused multiple deliveries to the same site in one day."
+  },
+  {
+    "id": "RC9-021",
+    "prompt": "Passage 5\nA large construction company recently reviewed how tools and materials are delivered to job sites. Previously, each crew requested supplies independently. This sometimes resulted in multiple deliveries to the same site in one day, while other crews waited for items that were not available.\nThe company created a centralized delivery request process. Crew leaders now submit requests by noon for the following workday. A logistics coordinator reviews the requests, combines deliveries when possible, and confirms which items are available before trucks are loaded.\nManagers report that the new process has reduced unnecessary trips and made supply planning more predictable. Some crews initially found the deadline inconvenient, but most agreed that receiving more accurate delivery information helped them plan their work.\n\nWhen must crew leaders submit requests?",
+    "choices": {
+      "A": "By noon for the following workday",
+      "B": "After trucks are loaded",
+      "C": "Only at the end of each month",
+      "D": "During emergency inspections only"
+    },
+    "correct": "A",
+    "explanation": "Crew leaders must submit requests by noon for the following workday."
+  },
+  {
+    "id": "RC9-022",
+    "prompt": "Passage 5\nA large construction company recently reviewed how tools and materials are delivered to job sites. Previously, each crew requested supplies independently. This sometimes resulted in multiple deliveries to the same site in one day, while other crews waited for items that were not available.\nThe company created a centralized delivery request process. Crew leaders now submit requests by noon for the following workday. A logistics coordinator reviews the requests, combines deliveries when possible, and confirms which items are available before trucks are loaded.\nManagers report that the new process has reduced unnecessary trips and made supply planning more predictable. Some crews initially found the deadline inconvenient, but most agreed that receiving more accurate delivery information helped them plan their work.\n\nWhat does the logistics coordinator do?",
+    "choices": {
+      "A": "Reviews requests and combines deliveries when possible",
+      "B": "Replaces all crew leaders",
+      "C": "Performs payroll reviews",
+      "D": "Cancels all job-site work"
+    },
+    "correct": "A",
+    "explanation": "The logistics coordinator reviews requests, combines deliveries when possible, and confirms item availability."
+  },
+  {
+    "id": "RC9-023",
+    "prompt": "Passage 5\nA large construction company recently reviewed how tools and materials are delivered to job sites. Previously, each crew requested supplies independently. This sometimes resulted in multiple deliveries to the same site in one day, while other crews waited for items that were not available.\nThe company created a centralized delivery request process. Crew leaders now submit requests by noon for the following workday. A logistics coordinator reviews the requests, combines deliveries when possible, and confirms which items are available before trucks are loaded.\nManagers report that the new process has reduced unnecessary trips and made supply planning more predictable. Some crews initially found the deadline inconvenient, but most agreed that receiving more accurate delivery information helped them plan their work.\n\nThe word “predictable” most nearly means:",
+    "choices": {
+      "A": "Easier to plan for",
+      "B": "More confusing",
+      "C": "Completely hidden",
+      "D": "Less organized"
+    },
+    "correct": "A",
+    "explanation": "In context, “predictable” means easier to plan for. The new process made supply planning more reliable."
+  },
+  {
+    "id": "RC9-024",
+    "prompt": "Passage 6\nMany companies use energy audits to evaluate how buildings use electricity, heating, cooling, and water. During an audit, specialists may inspect lighting, heating systems, insulation, windows, equipment, and operating schedules.\nThe purpose of an energy audit is to identify where resources are being wasted and where improvements may save money. For example, an audit may find that older lighting uses more electricity than newer fixtures or that heating is running in areas that are rarely occupied.\nNot every recommendation requires major construction. Some improvements may involve adjusting schedules, repairing leaks, sealing gaps, or replacing outdated equipment. Organizations often use audit results to decide which changes are most practical and cost-effective.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Energy audits help organizations identify waste and practical improvements.",
+      "B": "Energy audits are used only to inspect employee performance.",
+      "C": "Buildings do not require heating or cooling.",
+      "D": "Specialists avoid reviewing equipment during audits."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that energy audits identify waste and help organizations choose practical, cost-effective improvements."
+  },
+  {
+    "id": "RC9-025",
+    "prompt": "Passage 6\nMany companies use energy audits to evaluate how buildings use electricity, heating, cooling, and water. During an audit, specialists may inspect lighting, heating systems, insulation, windows, equipment, and operating schedules.\nThe purpose of an energy audit is to identify where resources are being wasted and where improvements may save money. For example, an audit may find that older lighting uses more electricity than newer fixtures or that heating is running in areas that are rarely occupied.\nNot every recommendation requires major construction. Some improvements may involve adjusting schedules, repairing leaks, sealing gaps, or replacing outdated equipment. Organizations often use audit results to decide which changes are most practical and cost-effective.\n\nWhat may specialists inspect during an energy audit?",
+    "choices": {
+      "A": "Lighting and heating systems",
+      "B": "Employee uniforms",
+      "C": "Customer order forms",
+      "D": "Parking tickets"
+    },
+    "correct": "A",
+    "explanation": "Lighting and heating systems are specifically listed as items specialists may inspect."
+  },
+  {
+    "id": "RC9-026",
+    "prompt": "Passage 6\nMany companies use energy audits to evaluate how buildings use electricity, heating, cooling, and water. During an audit, specialists may inspect lighting, heating systems, insulation, windows, equipment, and operating schedules.\nThe purpose of an energy audit is to identify where resources are being wasted and where improvements may save money. For example, an audit may find that older lighting uses more electricity than newer fixtures or that heating is running in areas that are rarely occupied.\nNot every recommendation requires major construction. Some improvements may involve adjusting schedules, repairing leaks, sealing gaps, or replacing outdated equipment. Organizations often use audit results to decide which changes are most practical and cost-effective.\n\nWhat is one purpose of an energy audit?",
+    "choices": {
+      "A": "To increase waste",
+      "B": "To identify where improvements may save money",
+      "C": "To eliminate all building use",
+      "D": "To prevent equipment replacement"
+    },
+    "correct": "B",
+    "explanation": "One purpose of an energy audit is to identify improvements that may save money."
+  },
+  {
+    "id": "RC9-027",
+    "prompt": "Passage 6\nMany companies use energy audits to evaluate how buildings use electricity, heating, cooling, and water. During an audit, specialists may inspect lighting, heating systems, insulation, windows, equipment, and operating schedules.\nThe purpose of an energy audit is to identify where resources are being wasted and where improvements may save money. For example, an audit may find that older lighting uses more electricity than newer fixtures or that heating is running in areas that are rarely occupied.\nNot every recommendation requires major construction. Some improvements may involve adjusting schedules, repairing leaks, sealing gaps, or replacing outdated equipment. Organizations often use audit results to decide which changes are most practical and cost-effective.\n\nWhich improvement may result from an audit?",
+    "choices": {
+      "A": "Adjusting schedules or sealing gaps",
+      "B": "Increasing leaks",
+      "C": "Removing all insulation",
+      "D": "Heating empty areas more often"
+    },
+    "correct": "A",
+    "explanation": "The passage lists adjusting schedules, repairing leaks, sealing gaps, and replacing outdated equipment as possible improvements."
+  },
+  {
+    "id": "RC9-028",
+    "prompt": "Passage 6\nMany companies use energy audits to evaluate how buildings use electricity, heating, cooling, and water. During an audit, specialists may inspect lighting, heating systems, insulation, windows, equipment, and operating schedules.\nThe purpose of an energy audit is to identify where resources are being wasted and where improvements may save money. For example, an audit may find that older lighting uses more electricity than newer fixtures or that heating is running in areas that are rarely occupied.\nNot every recommendation requires major construction. Some improvements may involve adjusting schedules, repairing leaks, sealing gaps, or replacing outdated equipment. Organizations often use audit results to decide which changes are most practical and cost-effective.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Energy audits can lead to both small and larger efficiency changes.",
+      "B": "Every audit recommendation requires major construction.",
+      "C": "Older equipment is always more efficient.",
+      "D": "Organizations should ignore operating schedules."
+    },
+    "correct": "A",
+    "explanation": "The passage notes that not all recommendations require major construction, so audits can lead to both small and larger changes."
+  },
+  {
+    "id": "RC9-029",
+    "prompt": "Passage 7\nMany communities maintain public information signs in parks, transit centers, and municipal buildings. These signs may provide directions, safety reminders, event notices, maps, or instructions for using public services.\nClear signs can reduce confusion and help visitors find what they need without asking staff for assistance. However, signs must be placed where people can see them and written in language that is easy to understand. A sign with too much information or unclear wording may be ignored.\nLocal agencies often review public signs when services change, buildings are renovated, or visitors report confusion. Updating signs can be a simple way to improve public access to information.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How public information signs help people when they are clear and well placed",
+      "B": "Why communities should remove all public signs",
+      "C": "How parks are built",
+      "D": "Why visitors should avoid municipal buildings"
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on the usefulness of public signs when they are clear, visible, and updated."
+  },
+  {
+    "id": "RC9-030",
+    "prompt": "Passage 7\nMany communities maintain public information signs in parks, transit centers, and municipal buildings. These signs may provide directions, safety reminders, event notices, maps, or instructions for using public services.\nClear signs can reduce confusion and help visitors find what they need without asking staff for assistance. However, signs must be placed where people can see them and written in language that is easy to understand. A sign with too much information or unclear wording may be ignored.\nLocal agencies often review public signs when services change, buildings are renovated, or visitors report confusion. Updating signs can be a simple way to improve public access to information.\n\nWhat may public information signs provide?",
+    "choices": {
+      "A": "Safety reminders and directions",
+      "B": "Private medical records",
+      "C": "Employee pay rates",
+      "D": "Factory production totals"
+    },
+    "correct": "A",
+    "explanation": "Safety reminders and directions are specifically mentioned as information signs may provide."
+  },
+  {
+    "id": "RC9-031",
+    "prompt": "Passage 7\nMany communities maintain public information signs in parks, transit centers, and municipal buildings. These signs may provide directions, safety reminders, event notices, maps, or instructions for using public services.\nClear signs can reduce confusion and help visitors find what they need without asking staff for assistance. However, signs must be placed where people can see them and written in language that is easy to understand. A sign with too much information or unclear wording may be ignored.\nLocal agencies often review public signs when services change, buildings are renovated, or visitors report confusion. Updating signs can be a simple way to improve public access to information.\n\nWhy might a sign be ignored?",
+    "choices": {
+      "A": "It has too much information or unclear wording.",
+      "B": "It is placed near a public service.",
+      "C": "It gives directions.",
+      "D": "It uses simple language."
+    },
+    "correct": "A",
+    "explanation": "A sign may be ignored if it has too much information or unclear wording."
+  },
+  {
+    "id": "RC9-032",
+    "prompt": "Passage 7\nMany communities maintain public information signs in parks, transit centers, and municipal buildings. These signs may provide directions, safety reminders, event notices, maps, or instructions for using public services.\nClear signs can reduce confusion and help visitors find what they need without asking staff for assistance. However, signs must be placed where people can see them and written in language that is easy to understand. A sign with too much information or unclear wording may be ignored.\nLocal agencies often review public signs when services change, buildings are renovated, or visitors report confusion. Updating signs can be a simple way to improve public access to information.\n\nWhen might local agencies review public signs?",
+    "choices": {
+      "A": "When services change or visitors report confusion",
+      "B": "Only when parks close permanently",
+      "C": "After all signs are removed",
+      "D": "When no one uses public buildings"
+    },
+    "correct": "A",
+    "explanation": "Local agencies may review signs when services change, buildings are renovated, or visitors report confusion."
+  },
+  {
+    "id": "RC9-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short reading exercises to its weekly math sessions. Instructors made the change after noticing that some students could solve calculations correctly but struggled when math problems were written as workplace word problems.\nThe new exercises ask students to identify important information, ignore unnecessary details, and determine what a question is asking before calculating. Instructors also model how to reread a problem and underline key numbers or conditions.\nEarly classroom results suggest that students are becoming more confident with word problems. Program staff plan to continue the exercises and compare quiz results over the next several months.\n\nWhy did the program add reading exercises to math sessions?",
+    "choices": {
+      "A": "Some students struggled with workplace word problems.",
+      "B": "Students no longer needed math instruction.",
+      "C": "Instructors wanted to remove all calculations.",
+      "D": "Weekly math sessions were being canceled."
+    },
+    "correct": "A",
+    "explanation": "The program added reading exercises because some students could calculate but struggled with workplace word problems."
+  },
+  {
+    "id": "RC9-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short reading exercises to its weekly math sessions. Instructors made the change after noticing that some students could solve calculations correctly but struggled when math problems were written as workplace word problems.\nThe new exercises ask students to identify important information, ignore unnecessary details, and determine what a question is asking before calculating. Instructors also model how to reread a problem and underline key numbers or conditions.\nEarly classroom results suggest that students are becoming more confident with word problems. Program staff plan to continue the exercises and compare quiz results over the next several months.\n\nWhat do the exercises ask students to do?",
+    "choices": {
+      "A": "Memorize every word in the problem",
+      "B": "Identify important information and ignore unnecessary details",
+      "C": "Avoid rereading the problem",
+      "D": "Calculate before reading the question"
+    },
+    "correct": "B",
+    "explanation": "The exercises ask students to identify important information, ignore unnecessary details, and determine what the question is asking."
+  },
+  {
+    "id": "RC9-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short reading exercises to its weekly math sessions. Instructors made the change after noticing that some students could solve calculations correctly but struggled when math problems were written as workplace word problems.\nThe new exercises ask students to identify important information, ignore unnecessary details, and determine what a question is asking before calculating. Instructors also model how to reread a problem and underline key numbers or conditions.\nEarly classroom results suggest that students are becoming more confident with word problems. Program staff plan to continue the exercises and compare quiz results over the next several months.\n\nWhat early result is mentioned?",
+    "choices": {
+      "A": "Students are becoming more confident with word problems.",
+      "B": "Students stopped taking quizzes.",
+      "C": "Instructors removed all reading tasks.",
+      "D": "Word problems became unrelated to math."
+    },
+    "correct": "A",
+    "explanation": "Early results suggest students are becoming more confident with word problems."
+  },
+  {
+    "id": "RC9-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently added short reading exercises to its weekly math sessions. Instructors made the change after noticing that some students could solve calculations correctly but struggled when math problems were written as workplace word problems.\nThe new exercises ask students to identify important information, ignore unnecessary details, and determine what a question is asking before calculating. Instructors also model how to reread a problem and underline key numbers or conditions.\nEarly classroom results suggest that students are becoming more confident with word problems. Program staff plan to continue the exercises and compare quiz results over the next several months.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Reading skills can help students solve math word problems.",
+      "B": "Math word problems require no reading.",
+      "C": "Underlining key information prevents students from calculating.",
+      "D": "Instructors should avoid explaining problem-solving strategies."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that reading strategies, such as identifying key information and rereading, can help students solve math word problems."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC14-001",
+    "prompt": "Passage 1\nA regional service company recently changed how it handles customer equipment drop-offs. Previously, customers filled out a paper form at the front counter and left the equipment with a receptionist. If the form was incomplete, technicians sometimes had to call the customer before beginning the repair.\nThe company now uses a digital intake form on a tablet. Customers select the equipment type, describe the problem, provide contact information, and choose whether they want an estimate before repair work begins. The system checks that required fields are completed before the request can be submitted.\nManagers report that technicians now receive clearer information at the start of each repair. The front counter staff also spend less time correcting incomplete forms.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped repairing customer equipment.",
+      "B": "Customers now repair their own equipment at the front counter.",
+      "C": "A digital intake form improved the equipment drop-off process.",
+      "D": "Technicians no longer communicate with customers."
+    },
+    "correct": "C",
+    "explanation": "The passage focuses on how the digital intake form improved equipment drop-offs by requiring clearer information before repair work begins."
+  },
+  {
+    "id": "RC14-002",
+    "prompt": "Passage 1\nA regional service company recently changed how it handles customer equipment drop-offs. Previously, customers filled out a paper form at the front counter and left the equipment with a receptionist. If the form was incomplete, technicians sometimes had to call the customer before beginning the repair.\nThe company now uses a digital intake form on a tablet. Customers select the equipment type, describe the problem, provide contact information, and choose whether they want an estimate before repair work begins. The system checks that required fields are completed before the request can be submitted.\nManagers report that technicians now receive clearer information at the start of each repair. The front counter staff also spend less time correcting incomplete forms.\n\nWhat problem occurred with the old paper forms?",
+    "choices": {
+      "A": "They were completed only by technicians.",
+      "B": "They were sometimes incomplete.",
+      "C": "They were automatically checked by a computer.",
+      "D": "They prevented customers from leaving equipment."
+    },
+    "correct": "B",
+    "explanation": "The old paper forms were sometimes incomplete, which forced technicians to call customers before starting repairs."
+  },
+  {
+    "id": "RC14-003",
+    "prompt": "Passage 1\nA regional service company recently changed how it handles customer equipment drop-offs. Previously, customers filled out a paper form at the front counter and left the equipment with a receptionist. If the form was incomplete, technicians sometimes had to call the customer before beginning the repair.\nThe company now uses a digital intake form on a tablet. Customers select the equipment type, describe the problem, provide contact information, and choose whether they want an estimate before repair work begins. The system checks that required fields are completed before the request can be submitted.\nManagers report that technicians now receive clearer information at the start of each repair. The front counter staff also spend less time correcting incomplete forms.\n\nWhat can customers choose on the digital intake form?",
+    "choices": {
+      "A": "Whether they want an estimate before repair work begins",
+      "B": "Which technician will receive a promotion",
+      "C": "How many repairs the company should accept each month",
+      "D": "Whether front counter staff should stop working"
+    },
+    "correct": "A",
+    "explanation": "Customers can choose whether they want an estimate before repair work begins."
+  },
+  {
+    "id": "RC14-004",
+    "prompt": "Passage 1\nA regional service company recently changed how it handles customer equipment drop-offs. Previously, customers filled out a paper form at the front counter and left the equipment with a receptionist. If the form was incomplete, technicians sometimes had to call the customer before beginning the repair.\nThe company now uses a digital intake form on a tablet. Customers select the equipment type, describe the problem, provide contact information, and choose whether they want an estimate before repair work begins. The system checks that required fields are completed before the request can be submitted.\nManagers report that technicians now receive clearer information at the start of each repair. The front counter staff also spend less time correcting incomplete forms.\n\nHow does the system help prevent incomplete requests?",
+    "choices": {
+      "A": "It prints all forms without checking them.",
+      "B": "It sends every request directly to customers.",
+      "C": "It checks that required fields are completed.",
+      "D": "It removes contact information from the form."
+    },
+    "correct": "C",
+    "explanation": "The system checks that required fields are completed before the request can be submitted."
+  },
+  {
+    "id": "RC14-005",
+    "prompt": "Passage 1\nA regional service company recently changed how it handles customer equipment drop-offs. Previously, customers filled out a paper form at the front counter and left the equipment with a receptionist. If the form was incomplete, technicians sometimes had to call the customer before beginning the repair.\nThe company now uses a digital intake form on a tablet. Customers select the equipment type, describe the problem, provide contact information, and choose whether they want an estimate before repair work begins. The system checks that required fields are completed before the request can be submitted.\nManagers report that technicians now receive clearer information at the start of each repair. The front counter staff also spend less time correcting incomplete forms.\n\nThe word “submitted” most nearly means:",
+    "choices": {
+      "A": "Ignored",
+      "B": "Measured",
+      "C": "Sent in for review or processing",
+      "D": "Repaired by hand"
+    },
+    "correct": "C",
+    "explanation": "In context, “submitted” means sent in for review or processing through the digital form."
+  },
+  {
+    "id": "RC14-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning September 3, employees must report damaged extension cords to the tool room before using them again. Damaged cords should be tagged and placed in the marked inspection bin.\nThis procedure was created after supervisors found several cords with cracked insulation still being used in work areas. The goal is to remove unsafe cords from service until they can be inspected and either repaired or replaced.\nEmployees should not attempt temporary repairs unless they have been specifically authorized to do so.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new procedure for damaged extension cords",
+      "B": "To require employees to repair all cords themselves",
+      "C": "To cancel use of the tool room",
+      "D": "To introduce a new employee schedule"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the procedure for reporting and handling damaged extension cords."
+  },
+  {
+    "id": "RC14-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning September 3, employees must report damaged extension cords to the tool room before using them again. Damaged cords should be tagged and placed in the marked inspection bin.\nThis procedure was created after supervisors found several cords with cracked insulation still being used in work areas. The goal is to remove unsafe cords from service until they can be inspected and either repaired or replaced.\nEmployees should not attempt temporary repairs unless they have been specifically authorized to do so.\n\nWhere should damaged cords be placed?",
+    "choices": {
+      "A": "In the employee breakroom",
+      "B": "In the marked inspection bin",
+      "C": "In customer vehicles",
+      "D": "In the office supply cabinet"
+    },
+    "correct": "B",
+    "explanation": "Damaged cords should be tagged and placed in the marked inspection bin."
+  },
+  {
+    "id": "RC14-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning September 3, employees must report damaged extension cords to the tool room before using them again. Damaged cords should be tagged and placed in the marked inspection bin.\nThis procedure was created after supervisors found several cords with cracked insulation still being used in work areas. The goal is to remove unsafe cords from service until they can be inspected and either repaired or replaced.\nEmployees should not attempt temporary repairs unless they have been specifically authorized to do so.\n\nWhy was the procedure created?",
+    "choices": {
+      "A": "Employees requested longer cords.",
+      "B": "The tool room stopped accepting equipment.",
+      "C": "Several cords with cracked insulation were still being used.",
+      "D": "Extension cords were no longer needed."
+    },
+    "correct": "C",
+    "explanation": "The procedure was created because supervisors found cracked cords still being used in work areas."
+  },
+  {
+    "id": "RC14-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning September 3, employees must report damaged extension cords to the tool room before using them again. Damaged cords should be tagged and placed in the marked inspection bin.\nThis procedure was created after supervisors found several cords with cracked insulation still being used in work areas. The goal is to remove unsafe cords from service until they can be inspected and either repaired or replaced.\nEmployees should not attempt temporary repairs unless they have been specifically authorized to do so.\n\nWhat should employees avoid unless authorized?",
+    "choices": {
+      "A": "Reporting damaged cords",
+      "B": "Placing cords in the inspection bin",
+      "C": "Tagging unsafe cords",
+      "D": "Attempting temporary repairs"
+    },
+    "correct": "D",
+    "explanation": "Employees should not attempt temporary repairs unless specifically authorized."
+  },
+  {
+    "id": "RC14-010",
+    "prompt": "Passage 3\nMany businesses use delivery windows to manage customer expectations. A delivery window gives customers a range of time when a shipment or service visit is expected to arrive. For example, a customer may be told that a delivery will arrive between 10:00 a.m. and noon.\nDelivery windows are useful because exact arrival times can be difficult to promise. Traffic, weather, earlier appointments, loading delays, or route changes may affect a driver’s schedule. A window gives the company some flexibility while still providing customers with planning information.\nHowever, delivery windows must be realistic. If a company regularly misses its promised windows, customers may lose confidence. Companies often review travel times and past delivery data to create more accurate estimates.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Delivery windows are unnecessary when companies have drivers.",
+      "B": "Delivery windows help manage expectations but must be realistic.",
+      "C": "Customers should never be told when deliveries may arrive.",
+      "D": "Exact arrival times are always easy to promise."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that delivery windows help customers plan, but they must be realistic to maintain confidence."
+  },
+  {
+    "id": "RC14-011",
+    "prompt": "Passage 3\nMany businesses use delivery windows to manage customer expectations. A delivery window gives customers a range of time when a shipment or service visit is expected to arrive. For example, a customer may be told that a delivery will arrive between 10:00 a.m. and noon.\nDelivery windows are useful because exact arrival times can be difficult to promise. Traffic, weather, earlier appointments, loading delays, or route changes may affect a driver’s schedule. A window gives the company some flexibility while still providing customers with planning information.\nHowever, delivery windows must be realistic. If a company regularly misses its promised windows, customers may lose confidence. Companies often review travel times and past delivery data to create more accurate estimates.\n\nWhat is a delivery window?",
+    "choices": {
+      "A": "A repair tool used by drivers",
+      "B": "A range of time when a delivery or service visit is expected",
+      "C": "A type of warehouse door",
+      "D": "A customer payment method"
+    },
+    "correct": "B",
+    "explanation": "A delivery window is a range of time when a delivery or service visit is expected."
+  },
+  {
+    "id": "RC14-012",
+    "prompt": "Passage 3\nMany businesses use delivery windows to manage customer expectations. A delivery window gives customers a range of time when a shipment or service visit is expected to arrive. For example, a customer may be told that a delivery will arrive between 10:00 a.m. and noon.\nDelivery windows are useful because exact arrival times can be difficult to promise. Traffic, weather, earlier appointments, loading delays, or route changes may affect a driver’s schedule. A window gives the company some flexibility while still providing customers with planning information.\nHowever, delivery windows must be realistic. If a company regularly misses its promised windows, customers may lose confidence. Companies often review travel times and past delivery data to create more accurate estimates.\n\nWhich factor may affect a driver’s schedule?",
+    "choices": {
+      "A": "Employee shoe size",
+      "B": "Traffic or weather",
+      "C": "Customer favorite color",
+      "D": "Office furniture style"
+    },
+    "correct": "B",
+    "explanation": "Traffic and weather are specifically mentioned as factors that may affect a driver’s schedule."
+  },
+  {
+    "id": "RC14-013",
+    "prompt": "Passage 3\nMany businesses use delivery windows to manage customer expectations. A delivery window gives customers a range of time when a shipment or service visit is expected to arrive. For example, a customer may be told that a delivery will arrive between 10:00 a.m. and noon.\nDelivery windows are useful because exact arrival times can be difficult to promise. Traffic, weather, earlier appointments, loading delays, or route changes may affect a driver’s schedule. A window gives the company some flexibility while still providing customers with planning information.\nHowever, delivery windows must be realistic. If a company regularly misses its promised windows, customers may lose confidence. Companies often review travel times and past delivery data to create more accurate estimates.\n\nWhat may happen if a company regularly misses promised delivery windows?",
+    "choices": {
+      "A": "Customers may lose confidence.",
+      "B": "Traffic will disappear.",
+      "C": "Drivers will no longer need schedules.",
+      "D": "Deliveries will become easier to predict."
+    },
+    "correct": "A",
+    "explanation": "If a company regularly misses promised windows, customers may lose confidence."
+  },
+  {
+    "id": "RC14-014",
+    "prompt": "Passage 3\nMany businesses use delivery windows to manage customer expectations. A delivery window gives customers a range of time when a shipment or service visit is expected to arrive. For example, a customer may be told that a delivery will arrive between 10:00 a.m. and noon.\nDelivery windows are useful because exact arrival times can be difficult to promise. Traffic, weather, earlier appointments, loading delays, or route changes may affect a driver’s schedule. A window gives the company some flexibility while still providing customers with planning information.\nHowever, delivery windows must be realistic. If a company regularly misses its promised windows, customers may lose confidence. Companies often review travel times and past delivery data to create more accurate estimates.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Companies can improve delivery estimates by reviewing past data.",
+      "B": "Delivery windows should always be ignored.",
+      "C": "Customers prefer no planning information.",
+      "D": "Route changes never affect delivery times."
+    },
+    "correct": "A",
+    "explanation": "The passage says companies review travel times and past delivery data to create more accurate estimates."
+  },
+  {
+    "id": "RC14-015",
+    "prompt": "Passage 4\nBefore automatic fire sprinkler systems became common in large buildings, fires often spread more quickly before firefighters arrived. Building occupants had to rely heavily on manual alarms, escape routes, and outside emergency response.\nAutomatic sprinkler systems changed fire protection by responding directly to heat from a fire. When a sprinkler head is activated, water is released in the affected area. This can slow the spread of fire, reduce damage, and give occupants more time to evacuate.\nSprinkler systems still require regular inspection and maintenance. Pipes, valves, water pressure, and sprinkler heads must be checked to make sure the system is ready to operate when needed.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Fire sprinklers made escape routes unnecessary.",
+      "B": "Firefighters no longer respond to building fires.",
+      "C": "Automatic sprinkler systems improved fire protection but require maintenance.",
+      "D": "Sprinkler systems are used only outdoors."
+    },
+    "correct": "C",
+    "explanation": "The passage explains that sprinkler systems improve fire protection but still require inspections and maintenance."
+  },
+  {
+    "id": "RC14-016",
+    "prompt": "Passage 4\nBefore automatic fire sprinkler systems became common in large buildings, fires often spread more quickly before firefighters arrived. Building occupants had to rely heavily on manual alarms, escape routes, and outside emergency response.\nAutomatic sprinkler systems changed fire protection by responding directly to heat from a fire. When a sprinkler head is activated, water is released in the affected area. This can slow the spread of fire, reduce damage, and give occupants more time to evacuate.\nSprinkler systems still require regular inspection and maintenance. Pipes, valves, water pressure, and sprinkler heads must be checked to make sure the system is ready to operate when needed.\n\nWhat activates an automatic sprinkler head?",
+    "choices": {
+      "A": "A customer request",
+      "B": "Heat from a fire",
+      "C": "A delivery schedule",
+      "D": "A traffic signal"
+    },
+    "correct": "B",
+    "explanation": "Automatic sprinkler heads respond to heat from a fire."
+  },
+  {
+    "id": "RC14-017",
+    "prompt": "Passage 4\nBefore automatic fire sprinkler systems became common in large buildings, fires often spread more quickly before firefighters arrived. Building occupants had to rely heavily on manual alarms, escape routes, and outside emergency response.\nAutomatic sprinkler systems changed fire protection by responding directly to heat from a fire. When a sprinkler head is activated, water is released in the affected area. This can slow the spread of fire, reduce damage, and give occupants more time to evacuate.\nSprinkler systems still require regular inspection and maintenance. Pipes, valves, water pressure, and sprinkler heads must be checked to make sure the system is ready to operate when needed.\n\nWhat can sprinklers help do?",
+    "choices": {
+      "A": "Slow the spread of fire and reduce damage",
+      "B": "Prevent all building inspections",
+      "C": "Remove the need for evacuation plans",
+      "D": "Stop all emergencies from occurring"
+    },
+    "correct": "A",
+    "explanation": "Sprinklers can slow fire spread, reduce damage, and give occupants more time to evacuate."
+  },
+  {
+    "id": "RC14-018",
+    "prompt": "Passage 4\nBefore automatic fire sprinkler systems became common in large buildings, fires often spread more quickly before firefighters arrived. Building occupants had to rely heavily on manual alarms, escape routes, and outside emergency response.\nAutomatic sprinkler systems changed fire protection by responding directly to heat from a fire. When a sprinkler head is activated, water is released in the affected area. This can slow the spread of fire, reduce damage, and give occupants more time to evacuate.\nSprinkler systems still require regular inspection and maintenance. Pipes, valves, water pressure, and sprinkler heads must be checked to make sure the system is ready to operate when needed.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It gives a personal story about firefighting.",
+      "B": "It lists instructions for building a sprinkler head.",
+      "C": "It explains an earlier risk, a protective system, and maintenance needs.",
+      "D": "It compares fire protection with road construction."
+    },
+    "correct": "C",
+    "explanation": "The passage first explains the earlier fire risk, then how sprinklers help, and finally the maintenance needed."
+  },
+  {
+    "id": "RC14-019",
+    "prompt": "Passage 5\nA manufacturing company recently introduced a daily production board near the entrance to each work area. The board shows the day’s production target, current progress, safety reminders, and any equipment or staffing notes that may affect work.\nBefore the boards were introduced, employees often received updates from supervisors at different times. This sometimes led to confusion when a target changed or when one shift did not receive the same information as another.\nSupervisors now update the boards at the beginning of each shift. Employees say the boards make it easier to understand priorities before work begins. Managers also use the boards during short team meetings to review progress and address problems.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company removed all supervisor communication.",
+      "B": "Daily production boards improved communication about work priorities.",
+      "C": "Employees no longer need safety reminders.",
+      "D": "Production targets are no longer used."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how daily production boards improve communication about targets, progress, safety, and work priorities."
+  },
+  {
+    "id": "RC14-020",
+    "prompt": "Passage 5\nA manufacturing company recently introduced a daily production board near the entrance to each work area. The board shows the day’s production target, current progress, safety reminders, and any equipment or staffing notes that may affect work.\nBefore the boards were introduced, employees often received updates from supervisors at different times. This sometimes led to confusion when a target changed or when one shift did not receive the same information as another.\nSupervisors now update the boards at the beginning of each shift. Employees say the boards make it easier to understand priorities before work begins. Managers also use the boards during short team meetings to review progress and address problems.\n\nWhat information is shown on the production board?",
+    "choices": {
+      "A": "Customer home addresses",
+      "B": "The day’s production target and current progress",
+      "C": "Employee medical records",
+      "D": "Company tax forms"
+    },
+    "correct": "B",
+    "explanation": "The board shows the day’s production target, current progress, safety reminders, and work notes."
+  },
+  {
+    "id": "RC14-021",
+    "prompt": "Passage 5\nA manufacturing company recently introduced a daily production board near the entrance to each work area. The board shows the day’s production target, current progress, safety reminders, and any equipment or staffing notes that may affect work.\nBefore the boards were introduced, employees often received updates from supervisors at different times. This sometimes led to confusion when a target changed or when one shift did not receive the same information as another.\nSupervisors now update the boards at the beginning of each shift. Employees say the boards make it easier to understand priorities before work begins. Managers also use the boards during short team meetings to review progress and address problems.\n\nWhat problem existed before the boards were introduced?",
+    "choices": {
+      "A": "Employees received updates at different times.",
+      "B": "Supervisors never changed production targets.",
+      "C": "All shifts received too much identical information.",
+      "D": "Work areas had no entrances."
+    },
+    "correct": "A",
+    "explanation": "Before the boards, employees often received updates at different times, which sometimes caused confusion."
+  },
+  {
+    "id": "RC14-022",
+    "prompt": "Passage 5\nA manufacturing company recently introduced a daily production board near the entrance to each work area. The board shows the day’s production target, current progress, safety reminders, and any equipment or staffing notes that may affect work.\nBefore the boards were introduced, employees often received updates from supervisors at different times. This sometimes led to confusion when a target changed or when one shift did not receive the same information as another.\nSupervisors now update the boards at the beginning of each shift. Employees say the boards make it easier to understand priorities before work begins. Managers also use the boards during short team meetings to review progress and address problems.\n\nWhen do supervisors update the boards?",
+    "choices": {
+      "A": "At the beginning of each shift",
+      "B": "Only once per year",
+      "C": "After customers approve them",
+      "D": "Before the building is constructed"
+    },
+    "correct": "A",
+    "explanation": "Supervisors update the boards at the beginning of each shift."
+  },
+  {
+    "id": "RC14-023",
+    "prompt": "Passage 5\nA manufacturing company recently introduced a daily production board near the entrance to each work area. The board shows the day’s production target, current progress, safety reminders, and any equipment or staffing notes that may affect work.\nBefore the boards were introduced, employees often received updates from supervisors at different times. This sometimes led to confusion when a target changed or when one shift did not receive the same information as another.\nSupervisors now update the boards at the beginning of each shift. Employees say the boards make it easier to understand priorities before work begins. Managers also use the boards during short team meetings to review progress and address problems.\n\nThe word “priorities” most nearly means:",
+    "choices": {
+      "A": "Tasks or goals that are most important",
+      "B": "Items that should be ignored",
+      "C": "Problems that cannot be solved",
+      "D": "Locations outside the workplace"
+    },
+    "correct": "A",
+    "explanation": "In context, “priorities” means the most important tasks or goals employees should focus on."
+  },
+  {
+    "id": "RC14-024",
+    "prompt": "Passage 6\nMany organizations use inventory labels with both words and symbols. A label might include a product name, number, arrow, color code, or simple image that shows where an item belongs. Combining text with visual cues can help employees locate and return materials more quickly.\nVisual cues are especially useful in busy areas where employees may not have time to read long descriptions. For example, a color-coded label on a storage bin can help workers quickly match parts to the correct location.\nStill, visual labels must be used consistently. If the same color or symbol means different things in different areas, employees may become confused. A good labeling system uses simple, repeated patterns that workers can learn and apply easily.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Inventory labels are useful only when they use no words.",
+      "B": "Labels with text and visual cues can improve organization when used consistently.",
+      "C": "Color codes always create confusion.",
+      "D": "Storage bins should not include labels."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that labels combining words and symbols can help organization, but they must be used consistently."
+  },
+  {
+    "id": "RC14-025",
+    "prompt": "Passage 6\nMany organizations use inventory labels with both words and symbols. A label might include a product name, number, arrow, color code, or simple image that shows where an item belongs. Combining text with visual cues can help employees locate and return materials more quickly.\nVisual cues are especially useful in busy areas where employees may not have time to read long descriptions. For example, a color-coded label on a storage bin can help workers quickly match parts to the correct location.\nStill, visual labels must be used consistently. If the same color or symbol means different things in different areas, employees may become confused. A good labeling system uses simple, repeated patterns that workers can learn and apply easily.\n\nWhat may an inventory label include?",
+    "choices": {
+      "A": "Product name, number, arrow, color code, or simple image",
+      "B": "Employee home addresses",
+      "C": "Weekly weather forecasts only",
+      "D": "Customer complaints about prices"
+    },
+    "correct": "A",
+    "explanation": "The passage lists product names, numbers, arrows, color codes, and images as possible label elements."
+  },
+  {
+    "id": "RC14-026",
+    "prompt": "Passage 6\nMany organizations use inventory labels with both words and symbols. A label might include a product name, number, arrow, color code, or simple image that shows where an item belongs. Combining text with visual cues can help employees locate and return materials more quickly.\nVisual cues are especially useful in busy areas where employees may not have time to read long descriptions. For example, a color-coded label on a storage bin can help workers quickly match parts to the correct location.\nStill, visual labels must be used consistently. If the same color or symbol means different things in different areas, employees may become confused. A good labeling system uses simple, repeated patterns that workers can learn and apply easily.\n\nWhy are visual cues useful in busy areas?",
+    "choices": {
+      "A": "They make every label harder to understand.",
+      "B": "They prevent workers from returning materials.",
+      "C": "Employees may not have time to read long descriptions.",
+      "D": "They replace the need for storage areas."
+    },
+    "correct": "C",
+    "explanation": "Visual cues help in busy areas because employees may not have time to read long descriptions."
+  },
+  {
+    "id": "RC14-027",
+    "prompt": "Passage 6\nMany organizations use inventory labels with both words and symbols. A label might include a product name, number, arrow, color code, or simple image that shows where an item belongs. Combining text with visual cues can help employees locate and return materials more quickly.\nVisual cues are especially useful in busy areas where employees may not have time to read long descriptions. For example, a color-coded label on a storage bin can help workers quickly match parts to the correct location.\nStill, visual labels must be used consistently. If the same color or symbol means different things in different areas, employees may become confused. A good labeling system uses simple, repeated patterns that workers can learn and apply easily.\n\nWhat can happen if the same color means different things in different areas?",
+    "choices": {
+      "A": "Employees may become confused.",
+      "B": "Materials will always be easier to find.",
+      "C": "Labels will become unnecessary.",
+      "D": "Inventory records will update automatically."
+    },
+    "correct": "A",
+    "explanation": "If the same color or symbol means different things in different areas, employees may become confused."
+  },
+  {
+    "id": "RC14-028",
+    "prompt": "Passage 6\nMany organizations use inventory labels with both words and symbols. A label might include a product name, number, arrow, color code, or simple image that shows where an item belongs. Combining text with visual cues can help employees locate and return materials more quickly.\nVisual cues are especially useful in busy areas where employees may not have time to read long descriptions. For example, a color-coded label on a storage bin can help workers quickly match parts to the correct location.\nStill, visual labels must be used consistently. If the same color or symbol means different things in different areas, employees may become confused. A good labeling system uses simple, repeated patterns that workers can learn and apply easily.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A labeling system works best when its patterns are simple and consistent.",
+      "B": "Symbols should change meaning from one area to another.",
+      "C": "Long descriptions are always faster than visual cues.",
+      "D": "Labels are unrelated to workplace organization."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that labeling systems work best when patterns are simple and consistent."
+  },
+  {
+    "id": "RC14-029",
+    "prompt": "Passage 7\nMany cities operate public tree maintenance programs. City crews may inspect trees near streets, sidewalks, parks, and public buildings. They look for broken limbs, disease, root damage, or branches that interfere with signs, lights, or power lines.\nTree maintenance can improve safety and protect public infrastructure. A weak limb over a sidewalk may fall during a storm, while roots can sometimes damage pavement or underground utilities. Regular inspections help crews identify problems before they become more serious.\nCities must often balance tree preservation with safety concerns. A healthy tree may be trimmed rather than removed, while a severely damaged tree may need to be replaced. Decisions are usually based on condition, location, and risk.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How cities maintain public trees to manage safety and infrastructure concerns",
+      "B": "Why cities should remove every tree near a sidewalk",
+      "C": "How private homeowners sell trees",
+      "D": "Why public buildings do not need inspections"
+    },
+    "correct": "A",
+    "explanation": "The passage explains how cities inspect and maintain public trees while balancing safety and preservation."
+  },
+  {
+    "id": "RC14-030",
+    "prompt": "Passage 7\nMany cities operate public tree maintenance programs. City crews may inspect trees near streets, sidewalks, parks, and public buildings. They look for broken limbs, disease, root damage, or branches that interfere with signs, lights, or power lines.\nTree maintenance can improve safety and protect public infrastructure. A weak limb over a sidewalk may fall during a storm, while roots can sometimes damage pavement or underground utilities. Regular inspections help crews identify problems before they become more serious.\nCities must often balance tree preservation with safety concerns. A healthy tree may be trimmed rather than removed, while a severely damaged tree may need to be replaced. Decisions are usually based on condition, location, and risk.\n\nWhat do city crews look for during tree inspections?",
+    "choices": {
+      "A": "Broken limbs, disease, root damage, or interfering branches",
+      "B": "Store price changes",
+      "C": "Employee training schedules",
+      "D": "Customer delivery requests"
+    },
+    "correct": "A",
+    "explanation": "Crews inspect for broken limbs, disease, root damage, and branches interfering with signs, lights, or power lines."
+  },
+  {
+    "id": "RC14-031",
+    "prompt": "Passage 7\nMany cities operate public tree maintenance programs. City crews may inspect trees near streets, sidewalks, parks, and public buildings. They look for broken limbs, disease, root damage, or branches that interfere with signs, lights, or power lines.\nTree maintenance can improve safety and protect public infrastructure. A weak limb over a sidewalk may fall during a storm, while roots can sometimes damage pavement or underground utilities. Regular inspections help crews identify problems before they become more serious.\nCities must often balance tree preservation with safety concerns. A healthy tree may be trimmed rather than removed, while a severely damaged tree may need to be replaced. Decisions are usually based on condition, location, and risk.\n\nWhy might a weak limb over a sidewalk be a concern?",
+    "choices": {
+      "A": "It may fall during a storm.",
+      "B": "It improves underground utilities.",
+      "C": "It prevents all sidewalk use permanently.",
+      "D": "It makes signs easier to read."
+    },
+    "correct": "A",
+    "explanation": "A weak limb over a sidewalk may fall during a storm, creating a safety concern."
+  },
+  {
+    "id": "RC14-032",
+    "prompt": "Passage 7\nMany cities operate public tree maintenance programs. City crews may inspect trees near streets, sidewalks, parks, and public buildings. They look for broken limbs, disease, root damage, or branches that interfere with signs, lights, or power lines.\nTree maintenance can improve safety and protect public infrastructure. A weak limb over a sidewalk may fall during a storm, while roots can sometimes damage pavement or underground utilities. Regular inspections help crews identify problems before they become more serious.\nCities must often balance tree preservation with safety concerns. A healthy tree may be trimmed rather than removed, while a severely damaged tree may need to be replaced. Decisions are usually based on condition, location, and risk.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "City tree decisions depend on both safety and tree condition.",
+      "B": "Healthy trees must always be removed.",
+      "C": "Tree inspections are unrelated to public safety.",
+      "D": "Roots can never affect pavement."
+    },
+    "correct": "A",
+    "explanation": "The passage says decisions are based on condition, location, and risk, showing that both safety and tree condition matter."
+  },
+  {
+    "id": "RC14-033",
+    "prompt": "Passage 8\nAn apprenticeship readiness program recently added peer study groups to its evening schedule. Program staff noticed that some students studied alone but became discouraged when they could not solve difficult practice questions.\nThe study groups meet once a week after class. Students compare approaches, explain steps to one another, and review mistakes from practice assignments. An instructor is available nearby but allows students to work through most questions together before stepping in.\nProgram staff believe the groups help students build confidence and learn from different problem-solving methods. Students also report that the groups make exam preparation feel less isolating.\n\nWhy did the program add peer study groups?",
+    "choices": {
+      "A": "Some students became discouraged while studying alone.",
+      "B": "Students no longer needed practice questions.",
+      "C": "Instructors wanted to cancel evening classes.",
+      "D": "The program stopped preparing students for exams."
+    },
+    "correct": "A",
+    "explanation": "The program added peer study groups because some students became discouraged when studying difficult practice questions alone."
+  },
+  {
+    "id": "RC14-034",
+    "prompt": "Passage 8\nAn apprenticeship readiness program recently added peer study groups to its evening schedule. Program staff noticed that some students studied alone but became discouraged when they could not solve difficult practice questions.\nThe study groups meet once a week after class. Students compare approaches, explain steps to one another, and review mistakes from practice assignments. An instructor is available nearby but allows students to work through most questions together before stepping in.\nProgram staff believe the groups help students build confidence and learn from different problem-solving methods. Students also report that the groups make exam preparation feel less isolating.\n\nWhat do students do in the study groups?",
+    "choices": {
+      "A": "Compare approaches and review mistakes",
+      "B": "Avoid discussing practice assignments",
+      "C": "Complete customer invoices",
+      "D": "Replace all classroom instruction"
+    },
+    "correct": "A",
+    "explanation": "Students compare approaches, explain steps, and review mistakes from practice assignments."
+  },
+  {
+    "id": "RC14-035",
+    "prompt": "Passage 8\nAn apprenticeship readiness program recently added peer study groups to its evening schedule. Program staff noticed that some students studied alone but became discouraged when they could not solve difficult practice questions.\nThe study groups meet once a week after class. Students compare approaches, explain steps to one another, and review mistakes from practice assignments. An instructor is available nearby but allows students to work through most questions together before stepping in.\nProgram staff believe the groups help students build confidence and learn from different problem-solving methods. Students also report that the groups make exam preparation feel less isolating.\n\nWhat does the instructor do during study groups?",
+    "choices": {
+      "A": "Leaves the building immediately",
+      "B": "Allows students to work together before stepping in",
+      "C": "Prevents students from asking questions",
+      "D": "Gives students unrelated assignments only"
+    },
+    "correct": "B",
+    "explanation": "The instructor stays nearby but lets students work through most questions together before stepping in."
+  },
+  {
+    "id": "RC14-036",
+    "prompt": "Passage 8\nAn apprenticeship readiness program recently added peer study groups to its evening schedule. Program staff noticed that some students studied alone but became discouraged when they could not solve difficult practice questions.\nThe study groups meet once a week after class. Students compare approaches, explain steps to one another, and review mistakes from practice assignments. An instructor is available nearby but allows students to work through most questions together before stepping in.\nProgram staff believe the groups help students build confidence and learn from different problem-solving methods. Students also report that the groups make exam preparation feel less isolating.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Peer study can help students feel more confident and less isolated.",
+      "B": "Students learn best when they never explain steps.",
+      "C": "Practice mistakes should not be reviewed.",
+      "D": "Study groups prevent students from preparing for exams."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that peer study groups can build confidence and make exam preparation feel less isolating."
+  }
+]

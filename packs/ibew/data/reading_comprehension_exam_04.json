@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC4-001",
+    "prompt": "Passage 1\nA manufacturing company recently introduced a centralized equipment-monitoring system. Previously, individual departments tracked machine performance separately, making it difficult for managers to compare information across the facility.\nThe new system collects operating data from machines throughout the plant and stores it in a single database. Supervisors can review production rates, operating hours, and maintenance records from one location. Managers believe this approach improves decision-making because information is easier to access and analyze.\nSince the system was installed, maintenance teams have been able to identify equipment issues earlier than before. Company leaders expect these improvements to reduce downtime and increase overall productivity.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company reduced the number of machines in operation.",
+      "B": "A centralized monitoring system improved equipment management.",
+      "C": "Maintenance records are no longer necessary.",
+      "D": "Production rates declined after the new system was installed."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how a centralized equipment-monitoring system improved the way the company tracks, reviews, and manages machine information."
+  },
+  {
+    "id": "RC4-002",
+    "prompt": "Passage 1\nA manufacturing company recently introduced a centralized equipment-monitoring system. Previously, individual departments tracked machine performance separately, making it difficult for managers to compare information across the facility.\nThe new system collects operating data from machines throughout the plant and stores it in a single database. Supervisors can review production rates, operating hours, and maintenance records from one location. Managers believe this approach improves decision-making because information is easier to access and analyze.\nSince the system was installed, maintenance teams have been able to identify equipment issues earlier than before. Company leaders expect these improvements to reduce downtime and increase overall productivity.\n\nWhat challenge existed before the new system?",
+    "choices": {
+      "A": "Machines could not be repaired.",
+      "B": "Departments tracked information separately.",
+      "C": "Production data was unavailable.",
+      "D": "Maintenance teams lacked training."
+    },
+    "correct": "B",
+    "explanation": "Before the new system, individual departments tracked machine performance separately, which made it harder for managers to compare information across the facility."
+  },
+  {
+    "id": "RC4-003",
+    "prompt": "Passage 1\nA manufacturing company recently introduced a centralized equipment-monitoring system. Previously, individual departments tracked machine performance separately, making it difficult for managers to compare information across the facility.\nThe new system collects operating data from machines throughout the plant and stores it in a single database. Supervisors can review production rates, operating hours, and maintenance records from one location. Managers believe this approach improves decision-making because information is easier to access and analyze.\nSince the system was installed, maintenance teams have been able to identify equipment issues earlier than before. Company leaders expect these improvements to reduce downtime and increase overall productivity.\n\nWhat type of information can supervisors review?",
+    "choices": {
+      "A": "Customer vacation schedules",
+      "B": "Product advertising plans",
+      "C": "Production rates and maintenance records",
+      "D": "Building construction permits"
+    },
+    "correct": "C",
+    "explanation": "The passage states that supervisors can review production rates, operating hours, and maintenance records from one location."
+  },
+  {
+    "id": "RC4-004",
+    "prompt": "Passage 1\nA manufacturing company recently introduced a centralized equipment-monitoring system. Previously, individual departments tracked machine performance separately, making it difficult for managers to compare information across the facility.\nThe new system collects operating data from machines throughout the plant and stores it in a single database. Supervisors can review production rates, operating hours, and maintenance records from one location. Managers believe this approach improves decision-making because information is easier to access and analyze.\nSince the system was installed, maintenance teams have been able to identify equipment issues earlier than before. Company leaders expect these improvements to reduce downtime and increase overall productivity.\n\nWhat benefit has already been observed?",
+    "choices": {
+      "A": "Earlier identification of equipment issues",
+      "B": "Reduced staffing requirements",
+      "C": "Elimination of maintenance work",
+      "D": "Increased utility costs"
+    },
+    "correct": "A",
+    "explanation": "The passage says maintenance teams have been able to identify equipment issues earlier since the new system was installed."
+  },
+  {
+    "id": "RC4-005",
+    "prompt": "Passage 1\nA manufacturing company recently introduced a centralized equipment-monitoring system. Previously, individual departments tracked machine performance separately, making it difficult for managers to compare information across the facility.\nThe new system collects operating data from machines throughout the plant and stores it in a single database. Supervisors can review production rates, operating hours, and maintenance records from one location. Managers believe this approach improves decision-making because information is easier to access and analyze.\nSince the system was installed, maintenance teams have been able to identify equipment issues earlier than before. Company leaders expect these improvements to reduce downtime and increase overall productivity.\n\nThe word “centralized” most nearly means:",
+    "choices": {
+      "A": "Located in one place",
+      "B": "Difficult to understand",
+      "C": "Recently replaced",
+      "D": "Operating automatically"
+    },
+    "correct": "A",
+    "explanation": "In context, “centralized” means information is stored and accessed from one main place rather than being separated across departments."
+  },
+  {
+    "id": "RC4-006",
+    "prompt": "Passage 2\nNOTICE\nEffective November 1, employees must use the updated visitor sign-in procedure. Visitors will be required to present identification and receive a temporary badge before entering work areas.\nThe revised procedure is intended to improve security and provide more accurate records of building access. Employees who expect visitors should notify reception staff in advance whenever possible.\nQuestions regarding the procedure should be directed to the Security Department.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new visitor sign-in procedure",
+      "B": "To introduce new employee benefits",
+      "C": "To advertise security services",
+      "D": "To report annual company results"
+    },
+    "correct": "A",
+    "explanation": "The notice announces an updated visitor sign-in procedure that begins on November 1."
+  },
+  {
+    "id": "RC4-007",
+    "prompt": "Passage 2\nNOTICE\nEffective November 1, employees must use the updated visitor sign-in procedure. Visitors will be required to present identification and receive a temporary badge before entering work areas.\nThe revised procedure is intended to improve security and provide more accurate records of building access. Employees who expect visitors should notify reception staff in advance whenever possible.\nQuestions regarding the procedure should be directed to the Security Department.\n\nWhat must visitors present?",
+    "choices": {
+      "A": "A purchase order",
+      "B": "Identification",
+      "C": "A maintenance request",
+      "D": "A parking permit"
+    },
+    "correct": "B",
+    "explanation": "The notice states that visitors must present identification before receiving a temporary badge."
+  },
+  {
+    "id": "RC4-008",
+    "prompt": "Passage 2\nNOTICE\nEffective November 1, employees must use the updated visitor sign-in procedure. Visitors will be required to present identification and receive a temporary badge before entering work areas.\nThe revised procedure is intended to improve security and provide more accurate records of building access. Employees who expect visitors should notify reception staff in advance whenever possible.\nQuestions regarding the procedure should be directed to the Security Department.\n\nWhy was the procedure revised?",
+    "choices": {
+      "A": "To reduce security",
+      "B": "To improve security and access records",
+      "C": "To shorten business hours",
+      "D": "To eliminate visitor badges"
+    },
+    "correct": "B",
+    "explanation": "The revised procedure is intended to improve security and provide more accurate records of building access."
+  },
+  {
+    "id": "RC4-009",
+    "prompt": "Passage 2\nNOTICE\nEffective November 1, employees must use the updated visitor sign-in procedure. Visitors will be required to present identification and receive a temporary badge before entering work areas.\nThe revised procedure is intended to improve security and provide more accurate records of building access. Employees who expect visitors should notify reception staff in advance whenever possible.\nQuestions regarding the procedure should be directed to the Security Department.\n\nWho should employees contact with questions?",
+    "choices": {
+      "A": "Reception staff",
+      "B": "Human Resources",
+      "C": "The Security Department",
+      "D": "Maintenance supervisors"
+    },
+    "correct": "C",
+    "explanation": "The notice says questions about the procedure should be directed to the Security Department."
+  },
+  {
+    "id": "RC4-010",
+    "prompt": "Passage 3\nMany organizations use cloud-based software to store and share information. Unlike traditional systems that rely entirely on local computers, cloud-based systems allow users to access files through internet-connected devices.\nSupporters argue that cloud-based systems improve collaboration because employees can access current information from different locations. Updates made by one user can often be viewed immediately by others.\nHowever, organizations must also consider issues such as data security and internet reliability. For this reason, many companies evaluate both the advantages and risks before selecting a cloud-based solution.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Cloud-based software offers benefits and challenges.",
+      "B": "Local computers are no longer used.",
+      "C": "Internet access is unnecessary for business.",
+      "D": "Companies avoid sharing information."
+    },
+    "correct": "A",
+    "explanation": "The passage explains both the advantages of cloud-based software, such as collaboration, and the challenges, such as security and internet reliability."
+  },
+  {
+    "id": "RC4-011",
+    "prompt": "Passage 3\nMany organizations use cloud-based software to store and share information. Unlike traditional systems that rely entirely on local computers, cloud-based systems allow users to access files through internet-connected devices.\nSupporters argue that cloud-based systems improve collaboration because employees can access current information from different locations. Updates made by one user can often be viewed immediately by others.\nHowever, organizations must also consider issues such as data security and internet reliability. For this reason, many companies evaluate both the advantages and risks before selecting a cloud-based solution.\n\nWhat advantage of cloud-based systems is mentioned?",
+    "choices": {
+      "A": "They eliminate all technology costs.",
+      "B": "They improve collaboration.",
+      "C": "They require no internet connection.",
+      "D": "They prevent all security concerns."
+    },
+    "correct": "B",
+    "explanation": "The passage specifically states that cloud-based systems can improve collaboration."
+  },
+  {
+    "id": "RC4-012",
+    "prompt": "Passage 3\nMany organizations use cloud-based software to store and share information. Unlike traditional systems that rely entirely on local computers, cloud-based systems allow users to access files through internet-connected devices.\nSupporters argue that cloud-based systems improve collaboration because employees can access current information from different locations. Updates made by one user can often be viewed immediately by others.\nHowever, organizations must also consider issues such as data security and internet reliability. For this reason, many companies evaluate both the advantages and risks before selecting a cloud-based solution.\n\nWhy can collaboration improve?",
+    "choices": {
+      "A": "Employees can access current information from different locations.",
+      "B": "Files are printed automatically.",
+      "C": "Users no longer need computers.",
+      "D": "Internet service becomes unnecessary."
+    },
+    "correct": "A",
+    "explanation": "Collaboration can improve because employees can access current information from different locations."
+  },
+  {
+    "id": "RC4-013",
+    "prompt": "Passage 3\nMany organizations use cloud-based software to store and share information. Unlike traditional systems that rely entirely on local computers, cloud-based systems allow users to access files through internet-connected devices.\nSupporters argue that cloud-based systems improve collaboration because employees can access current information from different locations. Updates made by one user can often be viewed immediately by others.\nHowever, organizations must also consider issues such as data security and internet reliability. For this reason, many companies evaluate both the advantages and risks before selecting a cloud-based solution.\n\nWhat concern is specifically mentioned?",
+    "choices": {
+      "A": "Building maintenance",
+      "B": "Employee scheduling",
+      "C": "Data security",
+      "D": "Fuel costs"
+    },
+    "correct": "C",
+    "explanation": "Data security is specifically mentioned as an issue organizations must consider."
+  },
+  {
+    "id": "RC4-014",
+    "prompt": "Passage 3\nMany organizations use cloud-based software to store and share information. Unlike traditional systems that rely entirely on local computers, cloud-based systems allow users to access files through internet-connected devices.\nSupporters argue that cloud-based systems improve collaboration because employees can access current information from different locations. Updates made by one user can often be viewed immediately by others.\nHowever, organizations must also consider issues such as data security and internet reliability. For this reason, many companies evaluate both the advantages and risks before selecting a cloud-based solution.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Organizations should consider both benefits and risks when adopting technology.",
+      "B": "Cloud systems eliminate all business challenges.",
+      "C": "Local storage is prohibited.",
+      "D": "Collaboration is unimportant."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that companies should weigh both advantages and risks before choosing a cloud-based solution."
+  },
+  {
+    "id": "RC4-015",
+    "prompt": "Passage 4\nIn the early twentieth century, improvements in road construction contributed to major changes in transportation. Many roads that had once been difficult to travel became more reliable and easier to maintain.\nAs road networks expanded, businesses gained access to broader markets. Products could be transported more efficiently between regions, helping support economic growth. Communities also benefited from improved access to goods and services.\nToday, road transportation remains an important part of commerce. Modern construction techniques continue to improve durability, safety, and efficiency.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Road improvements helped transform transportation and commerce.",
+      "B": "Road construction ended in the twentieth century.",
+      "C": "Businesses stopped transporting products.",
+      "D": "Communities opposed road development."
+    },
+    "correct": "A",
+    "explanation": "The passage describes how road improvements changed transportation, helped businesses reach broader markets, and supported commerce."
+  },
+  {
+    "id": "RC4-016",
+    "prompt": "Passage 4\nIn the early twentieth century, improvements in road construction contributed to major changes in transportation. Many roads that had once been difficult to travel became more reliable and easier to maintain.\nAs road networks expanded, businesses gained access to broader markets. Products could be transported more efficiently between regions, helping support economic growth. Communities also benefited from improved access to goods and services.\nToday, road transportation remains an important part of commerce. Modern construction techniques continue to improve durability, safety, and efficiency.\n\nWhat changed as road networks expanded?",
+    "choices": {
+      "A": "Businesses gained access to broader markets.",
+      "B": "Communities became isolated.",
+      "C": "Transportation became less efficient.",
+      "D": "Product movement decreased."
+    },
+    "correct": "A",
+    "explanation": "The passage states that as road networks expanded, businesses gained access to broader markets."
+  },
+  {
+    "id": "RC4-017",
+    "prompt": "Passage 4\nIn the early twentieth century, improvements in road construction contributed to major changes in transportation. Many roads that had once been difficult to travel became more reliable and easier to maintain.\nAs road networks expanded, businesses gained access to broader markets. Products could be transported more efficiently between regions, helping support economic growth. Communities also benefited from improved access to goods and services.\nToday, road transportation remains an important part of commerce. Modern construction techniques continue to improve durability, safety, and efficiency.\n\nWhat benefit for communities is mentioned?",
+    "choices": {
+      "A": "Reduced communication",
+      "B": "Improved access to goods and services",
+      "C": "Elimination of transportation costs",
+      "D": "Fewer road connections"
+    },
+    "correct": "B",
+    "explanation": "Communities benefited from improved access to goods and services."
+  },
+  {
+    "id": "RC4-018",
+    "prompt": "Passage 4\nIn the early twentieth century, improvements in road construction contributed to major changes in transportation. Many roads that had once been difficult to travel became more reliable and easier to maintain.\nAs road networks expanded, businesses gained access to broader markets. Products could be transported more efficiently between regions, helping support economic growth. Communities also benefited from improved access to goods and services.\nToday, road transportation remains an important part of commerce. Modern construction techniques continue to improve durability, safety, and efficiency.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "Chronological development from past to present",
+      "B": "Comparison of two companies",
+      "C": "Instructions for road construction",
+      "D": "Debate between opposing viewpoints"
+    },
+    "correct": "A",
+    "explanation": "The passage begins with road improvements in the early twentieth century, explains later effects, and ends with modern road transportation."
+  },
+  {
+    "id": "RC4-019",
+    "prompt": "Passage 5\nA large retail company recently introduced electronic shelf labels in several stores. Traditionally, employees changed paper price tags by hand whenever product prices were updated. This process required significant time and occasionally led to pricing errors when labels were not replaced promptly.\nElectronic shelf labels receive pricing information directly from the store's central computer system. When a price changes, the label updates automatically. Managers report that the new system has improved pricing accuracy and reduced the amount of time employees spend updating displays.\nThe company is monitoring results closely before deciding whether to expand the technology to additional locations.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Electronic shelf labels improved store pricing operations.",
+      "B": "Paper labels are required by law.",
+      "C": "Product prices no longer change.",
+      "D": "Retail stores are reducing inventory."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on electronic shelf labels and how they improved pricing accuracy and store operations."
+  },
+  {
+    "id": "RC4-020",
+    "prompt": "Passage 5\nA large retail company recently introduced electronic shelf labels in several stores. Traditionally, employees changed paper price tags by hand whenever product prices were updated. This process required significant time and occasionally led to pricing errors when labels were not replaced promptly.\nElectronic shelf labels receive pricing information directly from the store's central computer system. When a price changes, the label updates automatically. Managers report that the new system has improved pricing accuracy and reduced the amount of time employees spend updating displays.\nThe company is monitoring results closely before deciding whether to expand the technology to additional locations.\n\nWhat challenge existed with paper price tags?",
+    "choices": {
+      "A": "Products could not be sold.",
+      "B": "Labels sometimes were not updated promptly.",
+      "C": "Customers could not read prices.",
+      "D": "Computers were unavailable."
+    },
+    "correct": "B",
+    "explanation": "The passage says paper labels occasionally caused pricing errors when they were not replaced promptly."
+  },
+  {
+    "id": "RC4-021",
+    "prompt": "Passage 5\nA large retail company recently introduced electronic shelf labels in several stores. Traditionally, employees changed paper price tags by hand whenever product prices were updated. This process required significant time and occasionally led to pricing errors when labels were not replaced promptly.\nElectronic shelf labels receive pricing information directly from the store's central computer system. When a price changes, the label updates automatically. Managers report that the new system has improved pricing accuracy and reduced the amount of time employees spend updating displays.\nThe company is monitoring results closely before deciding whether to expand the technology to additional locations.\n\nHow do electronic shelf labels receive information?",
+    "choices": {
+      "A": "Through handwritten updates",
+      "B": "Through customer surveys",
+      "C": "From the store's central computer system",
+      "D": "From delivery drivers"
+    },
+    "correct": "C",
+    "explanation": "Electronic shelf labels receive pricing information directly from the store’s central computer system."
+  },
+  {
+    "id": "RC4-022",
+    "prompt": "Passage 5\nA large retail company recently introduced electronic shelf labels in several stores. Traditionally, employees changed paper price tags by hand whenever product prices were updated. This process required significant time and occasionally led to pricing errors when labels were not replaced promptly.\nElectronic shelf labels receive pricing information directly from the store's central computer system. When a price changes, the label updates automatically. Managers report that the new system has improved pricing accuracy and reduced the amount of time employees spend updating displays.\nThe company is monitoring results closely before deciding whether to expand the technology to additional locations.\n\nWhat benefit has the company observed?",
+    "choices": {
+      "A": "Increased pricing errors",
+      "B": "Reduced product selection",
+      "C": "Improved pricing accuracy",
+      "D": "Longer update times"
+    },
+    "correct": "C",
+    "explanation": "Managers report that the new system improved pricing accuracy."
+  },
+  {
+    "id": "RC4-023",
+    "prompt": "Passage 5\nA large retail company recently introduced electronic shelf labels in several stores. Traditionally, employees changed paper price tags by hand whenever product prices were updated. This process required significant time and occasionally led to pricing errors when labels were not replaced promptly.\nElectronic shelf labels receive pricing information directly from the store's central computer system. When a price changes, the label updates automatically. Managers report that the new system has improved pricing accuracy and reduced the amount of time employees spend updating displays.\nThe company is monitoring results closely before deciding whether to expand the technology to additional locations.\n\nThe word “promptly” most nearly means:",
+    "choices": {
+      "A": "Quickly",
+      "B": "Incorrectly",
+      "C": "Permanently",
+      "D": "Carefully"
+    },
+    "correct": "A",
+    "explanation": "In context, “promptly” means quickly or without delay. The trap is choosing “carefully,” which may sound reasonable but does not match the timing clue."
+  },
+  {
+    "id": "RC4-024",
+    "prompt": "Passage 6\nMany companies provide professional development opportunities for employees. These programs may include workshops, online courses, mentoring relationships, and technical training.\nOrganizations often support professional development because employees can gain new skills and improve existing ones. Workers who continue learning may be better prepared to take on additional responsibilities and adapt to changing workplace requirements.\nAlthough training requires time and resources, many employers view it as an investment that benefits both employees and the organization.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Professional development can benefit employees and organizations.",
+      "B": "Training should occur only once during a career.",
+      "C": "Employers avoid skill development programs.",
+      "D": "Workplace requirements never change."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that professional development helps employees gain skills and helps organizations by preparing workers for changing needs."
+  },
+  {
+    "id": "RC4-025",
+    "prompt": "Passage 6\nMany companies provide professional development opportunities for employees. These programs may include workshops, online courses, mentoring relationships, and technical training.\nOrganizations often support professional development because employees can gain new skills and improve existing ones. Workers who continue learning may be better prepared to take on additional responsibilities and adapt to changing workplace requirements.\nAlthough training requires time and resources, many employers view it as an investment that benefits both employees and the organization.\n\nWhich activity is mentioned as a professional development opportunity?",
+    "choices": {
+      "A": "Road construction",
+      "B": "Online courses",
+      "C": "Product shipping",
+      "D": "Building inspections"
+    },
+    "correct": "B",
+    "explanation": "Online courses are specifically listed as one type of professional development opportunity."
+  },
+  {
+    "id": "RC4-026",
+    "prompt": "Passage 6\nMany companies provide professional development opportunities for employees. These programs may include workshops, online courses, mentoring relationships, and technical training.\nOrganizations often support professional development because employees can gain new skills and improve existing ones. Workers who continue learning may be better prepared to take on additional responsibilities and adapt to changing workplace requirements.\nAlthough training requires time and resources, many employers view it as an investment that benefits both employees and the organization.\n\nWhy do organizations support professional development?",
+    "choices": {
+      "A": "To reduce employee skills",
+      "B": "To help employees gain and improve skills",
+      "C": "To eliminate training requirements",
+      "D": "To shorten work schedules"
+    },
+    "correct": "B",
+    "explanation": "Organizations support professional development because employees can gain new skills and improve existing ones."
+  },
+  {
+    "id": "RC4-027",
+    "prompt": "Passage 6\nMany companies provide professional development opportunities for employees. These programs may include workshops, online courses, mentoring relationships, and technical training.\nOrganizations often support professional development because employees can gain new skills and improve existing ones. Workers who continue learning may be better prepared to take on additional responsibilities and adapt to changing workplace requirements.\nAlthough training requires time and resources, many employers view it as an investment that benefits both employees and the organization.\n\nAccording to the passage, employees who continue learning may:",
+    "choices": {
+      "A": "Be better prepared for additional responsibilities",
+      "B": "Avoid all workplace changes",
+      "C": "Require less communication",
+      "D": "Eliminate organizational costs"
+    },
+    "correct": "A",
+    "explanation": "The passage says workers who continue learning may be better prepared to take on additional responsibilities."
+  },
+  {
+    "id": "RC4-028",
+    "prompt": "Passage 6\nMany companies provide professional development opportunities for employees. These programs may include workshops, online courses, mentoring relationships, and technical training.\nOrganizations often support professional development because employees can gain new skills and improve existing ones. Workers who continue learning may be better prepared to take on additional responsibilities and adapt to changing workplace requirements.\nAlthough training requires time and resources, many employers view it as an investment that benefits both employees and the organization.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Learning can help employees adapt to workplace changes.",
+      "B": "Professional development has no measurable value.",
+      "C": "Employees rarely benefit from training.",
+      "D": "Organizations discourage advancement."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that continued learning can help employees adapt to changing workplace requirements."
+  },
+  {
+    "id": "RC4-029",
+    "prompt": "Passage 7\nMany cities have adopted programs that replace older streetlights with energy-efficient LED lighting. Compared with traditional lighting systems, LED lights typically use less electricity and have longer operating lives.\nCity officials often cite lower energy costs as one advantage of LED technology. Maintenance expenses may also decline because the lights require replacement less frequently. Some communities report improved visibility as an additional benefit.\nAlthough installation costs can be substantial, many municipalities expect long-term savings that offset the initial investment.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Why cities are eliminating streetlights",
+      "B": "The advantages and costs of LED streetlight programs",
+      "C": "The history of electrical generation",
+      "D": "How roads are constructed"
+    },
+    "correct": "B",
+    "explanation": "The passage discusses the benefits of LED streetlights, such as lower energy and maintenance costs, while also noting installation costs."
+  },
+  {
+    "id": "RC4-030",
+    "prompt": "Passage 7\nMany cities have adopted programs that replace older streetlights with energy-efficient LED lighting. Compared with traditional lighting systems, LED lights typically use less electricity and have longer operating lives.\nCity officials often cite lower energy costs as one advantage of LED technology. Maintenance expenses may also decline because the lights require replacement less frequently. Some communities report improved visibility as an additional benefit.\nAlthough installation costs can be substantial, many municipalities expect long-term savings that offset the initial investment.\n\nWhat advantage of LED lights is specifically mentioned?",
+    "choices": {
+      "A": "Increased electricity usage",
+      "B": "Longer operating life",
+      "C": "Higher maintenance costs",
+      "D": "Reduced visibility"
+    },
+    "correct": "B",
+    "explanation": "The passage specifically says LED lights typically have longer operating lives."
+  },
+  {
+    "id": "RC4-031",
+    "prompt": "Passage 7\nMany cities have adopted programs that replace older streetlights with energy-efficient LED lighting. Compared with traditional lighting systems, LED lights typically use less electricity and have longer operating lives.\nCity officials often cite lower energy costs as one advantage of LED technology. Maintenance expenses may also decline because the lights require replacement less frequently. Some communities report improved visibility as an additional benefit.\nAlthough installation costs can be substantial, many municipalities expect long-term savings that offset the initial investment.\n\nWhy might maintenance expenses decline?",
+    "choices": {
+      "A": "Fewer lights are installed",
+      "B": "LED lights require replacement less frequently",
+      "C": "Electricity becomes free",
+      "D": "Streets become shorter"
+    },
+    "correct": "B",
+    "explanation": "Maintenance expenses may decline because LED lights require replacement less frequently."
+  },
+  {
+    "id": "RC4-032",
+    "prompt": "Passage 7\nMany cities have adopted programs that replace older streetlights with energy-efficient LED lighting. Compared with traditional lighting systems, LED lights typically use less electricity and have longer operating lives.\nCity officials often cite lower energy costs as one advantage of LED technology. Maintenance expenses may also decline because the lights require replacement less frequently. Some communities report improved visibility as an additional benefit.\nAlthough installation costs can be substantial, many municipalities expect long-term savings that offset the initial investment.\n\nWhat concern is mentioned regarding LED projects?",
+    "choices": {
+      "A": "Installation costs can be substantial.",
+      "B": "Visibility always decreases.",
+      "C": "Electricity production stops.",
+      "D": "Maintenance becomes impossible."
+    },
+    "correct": "A",
+    "explanation": "The passage notes that installation costs can be substantial, although long-term savings may offset them."
+  },
+  {
+    "id": "RC4-033",
+    "prompt": "Passage 8\nA municipal transit agency recently analyzed bus ridership data to better understand travel patterns. The study examined passenger counts, route usage, and travel times across different parts of the city.\nResearchers found that some routes experienced consistently high demand, while others carried relatively few passengers. The agency also identified locations where delays occurred frequently.\nBased on the findings, transit officials proposed adjustments to schedules and route configurations. They believe the changes may improve service reliability and better match available resources to rider demand.\n\nWhat was the purpose of the ridership study?",
+    "choices": {
+      "A": "To evaluate travel patterns and service usage",
+      "B": "To reduce the number of buses immediately",
+      "C": "To increase ticket prices",
+      "D": "To redesign city streets"
+    },
+    "correct": "A",
+    "explanation": "The study examined passenger counts, route usage, and travel times to understand travel patterns and service usage."
+  },
+  {
+    "id": "RC4-034",
+    "prompt": "Passage 8\nA municipal transit agency recently analyzed bus ridership data to better understand travel patterns. The study examined passenger counts, route usage, and travel times across different parts of the city.\nResearchers found that some routes experienced consistently high demand, while others carried relatively few passengers. The agency also identified locations where delays occurred frequently.\nBased on the findings, transit officials proposed adjustments to schedules and route configurations. They believe the changes may improve service reliability and better match available resources to rider demand.\n\nWhat did researchers discover about some routes?",
+    "choices": {
+      "A": "They had consistently high demand.",
+      "B": "They operated without passengers.",
+      "C": "They were permanently closed.",
+      "D": "They eliminated delays."
+    },
+    "correct": "A",
+    "explanation": "Researchers found that some routes experienced consistently high demand."
+  },
+  {
+    "id": "RC4-035",
+    "prompt": "Passage 8\nA municipal transit agency recently analyzed bus ridership data to better understand travel patterns. The study examined passenger counts, route usage, and travel times across different parts of the city.\nResearchers found that some routes experienced consistently high demand, while others carried relatively few passengers. The agency also identified locations where delays occurred frequently.\nBased on the findings, transit officials proposed adjustments to schedules and route configurations. They believe the changes may improve service reliability and better match available resources to rider demand.\n\nWhat action did officials propose?",
+    "choices": {
+      "A": "Eliminating all routes",
+      "B": "Adjusting schedules and route configurations",
+      "C": "Reducing data collection",
+      "D": "Closing transit stations"
+    },
+    "correct": "B",
+    "explanation": "Transit officials proposed adjustments to schedules and route configurations based on the study findings."
+  },
+  {
+    "id": "RC4-036",
+    "prompt": "Passage 8\nA municipal transit agency recently analyzed bus ridership data to better understand travel patterns. The study examined passenger counts, route usage, and travel times across different parts of the city.\nResearchers found that some routes experienced consistently high demand, while others carried relatively few passengers. The agency also identified locations where delays occurred frequently.\nBased on the findings, transit officials proposed adjustments to schedules and route configurations. They believe the changes may improve service reliability and better match available resources to rider demand.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Data analysis can help improve transportation planning.",
+      "B": "All bus routes have identical ridership levels.",
+      "C": "Travel delays cannot be studied.",
+      "D": "Transit agencies avoid operational changes."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that ridership and delay data can guide schedule and route changes, supporting better transportation planning."
+  }
+]

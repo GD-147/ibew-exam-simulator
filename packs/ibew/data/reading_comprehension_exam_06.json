@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC6-001",
+    "prompt": "Passage 1\nA regional delivery company recently changed the way it schedules vehicle maintenance. In the past, trucks were usually serviced only after drivers reported problems or after a vehicle failed an inspection. This approach sometimes caused unexpected downtime and delayed deliveries.\nThe company now uses a mileage-based maintenance schedule. Each vehicle is serviced after reaching specific mileage points, even if no obvious problem has been reported. Maintenance staff check brakes, tires, fluids, lights, and other parts that affect safe operation.\nManagers report that the new schedule has reduced emergency repairs and improved delivery reliability. Although the program requires more planning, company leaders believe it helps prevent larger problems and keeps vehicles on the road longer.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "A delivery company improved vehicle reliability through scheduled maintenance.",
+      "B": "The company stopped using delivery trucks.",
+      "C": "Drivers now repair all vehicles themselves.",
+      "D": "Vehicle inspections are no longer required."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how the delivery company improved vehicle reliability by using a mileage-based maintenance schedule instead of waiting for problems to occur."
+  },
+  {
+    "id": "RC6-002",
+    "prompt": "Passage 1\nA regional delivery company recently changed the way it schedules vehicle maintenance. In the past, trucks were usually serviced only after drivers reported problems or after a vehicle failed an inspection. This approach sometimes caused unexpected downtime and delayed deliveries.\nThe company now uses a mileage-based maintenance schedule. Each vehicle is serviced after reaching specific mileage points, even if no obvious problem has been reported. Maintenance staff check brakes, tires, fluids, lights, and other parts that affect safe operation.\nManagers report that the new schedule has reduced emergency repairs and improved delivery reliability. Although the program requires more planning, company leaders believe it helps prevent larger problems and keeps vehicles on the road longer.\n\nWhat problem occurred under the previous maintenance approach?",
+    "choices": {
+      "A": "Vehicles were serviced too often.",
+      "B": "Drivers refused to report problems.",
+      "C": "Unexpected downtime sometimes delayed deliveries.",
+      "D": "Trucks were replaced after every trip."
+    },
+    "correct": "C",
+    "explanation": "The old approach sometimes caused unexpected downtime, which delayed deliveries."
+  },
+  {
+    "id": "RC6-003",
+    "prompt": "Passage 1\nA regional delivery company recently changed the way it schedules vehicle maintenance. In the past, trucks were usually serviced only after drivers reported problems or after a vehicle failed an inspection. This approach sometimes caused unexpected downtime and delayed deliveries.\nThe company now uses a mileage-based maintenance schedule. Each vehicle is serviced after reaching specific mileage points, even if no obvious problem has been reported. Maintenance staff check brakes, tires, fluids, lights, and other parts that affect safe operation.\nManagers report that the new schedule has reduced emergency repairs and improved delivery reliability. Although the program requires more planning, company leaders believe it helps prevent larger problems and keeps vehicles on the road longer.\n\nWhen are vehicles serviced under the new schedule?",
+    "choices": {
+      "A": "Only after they fail an inspection",
+      "B": "After reaching specific mileage points",
+      "C": "Only when drivers request it",
+      "D": "At the end of each workday"
+    },
+    "correct": "B",
+    "explanation": "Under the new schedule, each vehicle is serviced after reaching specific mileage points."
+  },
+  {
+    "id": "RC6-004",
+    "prompt": "Passage 1\nA regional delivery company recently changed the way it schedules vehicle maintenance. In the past, trucks were usually serviced only after drivers reported problems or after a vehicle failed an inspection. This approach sometimes caused unexpected downtime and delayed deliveries.\nThe company now uses a mileage-based maintenance schedule. Each vehicle is serviced after reaching specific mileage points, even if no obvious problem has been reported. Maintenance staff check brakes, tires, fluids, lights, and other parts that affect safe operation.\nManagers report that the new schedule has reduced emergency repairs and improved delivery reliability. Although the program requires more planning, company leaders believe it helps prevent larger problems and keeps vehicles on the road longer.\n\nWhich vehicle parts are specifically mentioned as being checked?",
+    "choices": {
+      "A": "Seats and radios",
+      "B": "Brakes, tires, fluids, and lights",
+      "C": "Door handles and mirrors only",
+      "D": "Cargo labels and invoices"
+    },
+    "correct": "B",
+    "explanation": "The passage specifically says maintenance staff check brakes, tires, fluids, lights, and other safety-related parts."
+  },
+  {
+    "id": "RC6-005",
+    "prompt": "Passage 1\nA regional delivery company recently changed the way it schedules vehicle maintenance. In the past, trucks were usually serviced only after drivers reported problems or after a vehicle failed an inspection. This approach sometimes caused unexpected downtime and delayed deliveries.\nThe company now uses a mileage-based maintenance schedule. Each vehicle is serviced after reaching specific mileage points, even if no obvious problem has been reported. Maintenance staff check brakes, tires, fluids, lights, and other parts that affect safe operation.\nManagers report that the new schedule has reduced emergency repairs and improved delivery reliability. Although the program requires more planning, company leaders believe it helps prevent larger problems and keeps vehicles on the road longer.\n\nThe word “reliability” most nearly means:",
+    "choices": {
+      "A": "Dependability",
+      "B": "Expense",
+      "C": "Speed",
+      "D": "Appearance"
+    },
+    "correct": "A",
+    "explanation": "In context, “reliability” means dependability. The company wants vehicles to operate consistently without unexpected problems."
+  },
+  {
+    "id": "RC6-006",
+    "prompt": "Passage 2\nEMAIL\nSubject: Updated Tool Checkout Procedure\nBeginning Monday, all shared tools must be checked out using the electronic tool-tracking station located near the supply room. Employees will scan their ID badge, select the tool they are removing, and return the tool using the same station at the end of use.\nThe updated procedure is intended to reduce lost tools and help supervisors identify when equipment needs repair or replacement. Under the previous sign-out sheet system, some entries were incomplete or difficult to read.\nPlease direct any questions to your department supervisor.\n\nWhat is the primary purpose of the email?",
+    "choices": {
+      "A": "To announce an updated tool checkout procedure",
+      "B": "To explain how to order office supplies",
+      "C": "To report a change in employee schedules",
+      "D": "To advertise new tool brands"
+    },
+    "correct": "A",
+    "explanation": "The email announces the updated tool checkout procedure using the electronic tool-tracking station."
+  },
+  {
+    "id": "RC6-007",
+    "prompt": "Passage 2\nEMAIL\nSubject: Updated Tool Checkout Procedure\nBeginning Monday, all shared tools must be checked out using the electronic tool-tracking station located near the supply room. Employees will scan their ID badge, select the tool they are removing, and return the tool using the same station at the end of use.\nThe updated procedure is intended to reduce lost tools and help supervisors identify when equipment needs repair or replacement. Under the previous sign-out sheet system, some entries were incomplete or difficult to read.\nPlease direct any questions to your department supervisor.\n\nWhat must employees scan when checking out a tool?",
+    "choices": {
+      "A": "A purchase receipt",
+      "B": "Their ID badge",
+      "C": "A repair invoice",
+      "D": "A shipping label"
+    },
+    "correct": "B",
+    "explanation": "Employees must scan their ID badge when checking out a shared tool."
+  },
+  {
+    "id": "RC6-008",
+    "prompt": "Passage 2\nEMAIL\nSubject: Updated Tool Checkout Procedure\nBeginning Monday, all shared tools must be checked out using the electronic tool-tracking station located near the supply room. Employees will scan their ID badge, select the tool they are removing, and return the tool using the same station at the end of use.\nThe updated procedure is intended to reduce lost tools and help supervisors identify when equipment needs repair or replacement. Under the previous sign-out sheet system, some entries were incomplete or difficult to read.\nPlease direct any questions to your department supervisor.\n\nWhy was the procedure updated?",
+    "choices": {
+      "A": "To reduce lost tools and track equipment condition",
+      "B": "To eliminate all shared tools",
+      "C": "To increase paperwork",
+      "D": "To prevent supervisors from viewing records"
+    },
+    "correct": "A",
+    "explanation": "The updated procedure is intended to reduce lost tools and help supervisors identify tools needing repair or replacement."
+  },
+  {
+    "id": "RC6-009",
+    "prompt": "Passage 2\nEMAIL\nSubject: Updated Tool Checkout Procedure\nBeginning Monday, all shared tools must be checked out using the electronic tool-tracking station located near the supply room. Employees will scan their ID badge, select the tool they are removing, and return the tool using the same station at the end of use.\nThe updated procedure is intended to reduce lost tools and help supervisors identify when equipment needs repair or replacement. Under the previous sign-out sheet system, some entries were incomplete or difficult to read.\nPlease direct any questions to your department supervisor.\n\nWhat problem existed with the previous sign-out sheet system?",
+    "choices": {
+      "A": "It required electronic badges.",
+      "B": "Some entries were incomplete or difficult to read.",
+      "C": "Tools could not be returned.",
+      "D": "Employees were unable to find the supply room."
+    },
+    "correct": "B",
+    "explanation": "The previous sign-out sheet sometimes had entries that were incomplete or difficult to read."
+  },
+  {
+    "id": "RC6-010",
+    "prompt": "Passage 3\nMany workplaces use incident reports to document accidents, near misses, or unsafe conditions. These reports usually include the date, location, people involved, description of what happened, and any immediate actions taken.\nIncident reports are not used only to assign blame. In many organizations, their main purpose is to identify patterns and prevent similar problems in the future. For example, if several reports describe slips in the same hallway, managers may investigate flooring conditions, lighting, or cleaning schedules.\nAccurate reporting is important because incomplete information can make it harder to understand the cause of a problem. Employees are often encouraged to report issues promptly, even when no injury occurred.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Incident reports help workplaces document and prevent safety problems.",
+      "B": "Incident reports are used only when serious injuries occur.",
+      "C": "Employees should avoid reporting unsafe conditions.",
+      "D": "Reports are mainly written to punish workers."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that incident reports document workplace problems and help organizations prevent similar issues in the future."
+  },
+  {
+    "id": "RC6-011",
+    "prompt": "Passage 3\nMany workplaces use incident reports to document accidents, near misses, or unsafe conditions. These reports usually include the date, location, people involved, description of what happened, and any immediate actions taken.\nIncident reports are not used only to assign blame. In many organizations, their main purpose is to identify patterns and prevent similar problems in the future. For example, if several reports describe slips in the same hallway, managers may investigate flooring conditions, lighting, or cleaning schedules.\nAccurate reporting is important because incomplete information can make it harder to understand the cause of a problem. Employees are often encouraged to report issues promptly, even when no injury occurred.\n\nWhat information is usually included in an incident report?",
+    "choices": {
+      "A": "Vacation balances and payroll records",
+      "B": "Date, location, people involved, and description of what happened",
+      "C": "Customer orders and shipping costs",
+      "D": "Marketing plans and sales goals"
+    },
+    "correct": "B",
+    "explanation": "Incident reports usually include the date, location, people involved, a description of what happened, and immediate actions taken."
+  },
+  {
+    "id": "RC6-012",
+    "prompt": "Passage 3\nMany workplaces use incident reports to document accidents, near misses, or unsafe conditions. These reports usually include the date, location, people involved, description of what happened, and any immediate actions taken.\nIncident reports are not used only to assign blame. In many organizations, their main purpose is to identify patterns and prevent similar problems in the future. For example, if several reports describe slips in the same hallway, managers may investigate flooring conditions, lighting, or cleaning schedules.\nAccurate reporting is important because incomplete information can make it harder to understand the cause of a problem. Employees are often encouraged to report issues promptly, even when no injury occurred.\n\nAccording to the passage, what is a main purpose of incident reports?",
+    "choices": {
+      "A": "To identify patterns and prevent similar problems",
+      "B": "To replace safety training",
+      "C": "To increase workplace accidents",
+      "D": "To remove employees from all duties"
+    },
+    "correct": "A",
+    "explanation": "The passage states that incident reports are often used to identify patterns and prevent similar problems."
+  },
+  {
+    "id": "RC6-013",
+    "prompt": "Passage 3\nMany workplaces use incident reports to document accidents, near misses, or unsafe conditions. These reports usually include the date, location, people involved, description of what happened, and any immediate actions taken.\nIncident reports are not used only to assign blame. In many organizations, their main purpose is to identify patterns and prevent similar problems in the future. For example, if several reports describe slips in the same hallway, managers may investigate flooring conditions, lighting, or cleaning schedules.\nAccurate reporting is important because incomplete information can make it harder to understand the cause of a problem. Employees are often encouraged to report issues promptly, even when no injury occurred.\n\nWhy is accurate reporting important?",
+    "choices": {
+      "A": "It makes reports shorter.",
+      "B": "It helps people understand the cause of a problem.",
+      "C": "It eliminates the need for supervisors.",
+      "D": "It prevents all future injuries automatically."
+    },
+    "correct": "B",
+    "explanation": "Accurate reporting matters because incomplete information can make it harder to understand the cause of a problem."
+  },
+  {
+    "id": "RC6-014",
+    "prompt": "Passage 3\nMany workplaces use incident reports to document accidents, near misses, or unsafe conditions. These reports usually include the date, location, people involved, description of what happened, and any immediate actions taken.\nIncident reports are not used only to assign blame. In many organizations, their main purpose is to identify patterns and prevent similar problems in the future. For example, if several reports describe slips in the same hallway, managers may investigate flooring conditions, lighting, or cleaning schedules.\nAccurate reporting is important because incomplete information can make it harder to understand the cause of a problem. Employees are often encouraged to report issues promptly, even when no injury occurred.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Near misses can provide useful safety information.",
+      "B": "Reports should be delayed until an injury occurs.",
+      "C": "Unsafe conditions are usually not worth recording.",
+      "D": "Incident reports are unrelated to prevention."
+    },
+    "correct": "A",
+    "explanation": "The passage says employees are encouraged to report issues even when no injury occurred, which supports the idea that near misses can provide useful safety information."
+  },
+  {
+    "id": "RC6-015",
+    "prompt": "Passage 4\nBefore modern refrigeration became widely available, many communities depended on ice harvesting to keep food cool. During winter, workers cut blocks of ice from frozen lakes and rivers. The blocks were stored in insulated buildings and later delivered to homes and businesses.\nIce harvesting required careful timing and physical labor. If winter temperatures were too warm, the ice might not become thick enough to cut safely. If storage conditions were poor, the ice could melt before it was needed.\nAs mechanical refrigeration became more reliable, dependence on harvested ice declined. Refrigerators and refrigerated storage systems allowed food to be kept cool without relying on seasonal ice supplies. This change improved food storage and helped businesses operate more consistently throughout the year.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Mechanical refrigeration replaced dependence on harvested ice.",
+      "B": "Ice harvesting is the most common method of cooling food today.",
+      "C": "Frozen lakes are no longer found in cold regions.",
+      "D": "Food storage became less reliable after refrigeration developed."
+    },
+    "correct": "A",
+    "explanation": "The passage describes how mechanical refrigeration replaced the older practice of harvesting ice for food cooling."
+  },
+  {
+    "id": "RC6-016",
+    "prompt": "Passage 4\nBefore modern refrigeration became widely available, many communities depended on ice harvesting to keep food cool. During winter, workers cut blocks of ice from frozen lakes and rivers. The blocks were stored in insulated buildings and later delivered to homes and businesses.\nIce harvesting required careful timing and physical labor. If winter temperatures were too warm, the ice might not become thick enough to cut safely. If storage conditions were poor, the ice could melt before it was needed.\nAs mechanical refrigeration became more reliable, dependence on harvested ice declined. Refrigerators and refrigerated storage systems allowed food to be kept cool without relying on seasonal ice supplies. This change improved food storage and helped businesses operate more consistently throughout the year.\n\nHow was ice collected before modern refrigeration?",
+    "choices": {
+      "A": "It was manufactured in grocery stores.",
+      "B": "Workers cut blocks from frozen lakes and rivers.",
+      "C": "It was imported from desert regions.",
+      "D": "Customers made it at home using electric freezers."
+    },
+    "correct": "B",
+    "explanation": "Before modern refrigeration, workers cut blocks of ice from frozen lakes and rivers."
+  },
+  {
+    "id": "RC6-017",
+    "prompt": "Passage 4\nBefore modern refrigeration became widely available, many communities depended on ice harvesting to keep food cool. During winter, workers cut blocks of ice from frozen lakes and rivers. The blocks were stored in insulated buildings and later delivered to homes and businesses.\nIce harvesting required careful timing and physical labor. If winter temperatures were too warm, the ice might not become thick enough to cut safely. If storage conditions were poor, the ice could melt before it was needed.\nAs mechanical refrigeration became more reliable, dependence on harvested ice declined. Refrigerators and refrigerated storage systems allowed food to be kept cool without relying on seasonal ice supplies. This change improved food storage and helped businesses operate more consistently throughout the year.\n\nWhat could happen if winter temperatures were too warm?",
+    "choices": {
+      "A": "Ice might not become thick enough to cut safely.",
+      "B": "Refrigerators would stop working.",
+      "C": "Storage buildings would become larger.",
+      "D": "Food would no longer require cooling."
+    },
+    "correct": "A",
+    "explanation": "The passage states that warm winter temperatures could prevent ice from becoming thick enough to cut safely."
+  },
+  {
+    "id": "RC6-018",
+    "prompt": "Passage 4\nBefore modern refrigeration became widely available, many communities depended on ice harvesting to keep food cool. During winter, workers cut blocks of ice from frozen lakes and rivers. The blocks were stored in insulated buildings and later delivered to homes and businesses.\nIce harvesting required careful timing and physical labor. If winter temperatures were too warm, the ice might not become thick enough to cut safely. If storage conditions were poor, the ice could melt before it was needed.\nAs mechanical refrigeration became more reliable, dependence on harvested ice declined. Refrigerators and refrigerated storage systems allowed food to be kept cool without relying on seasonal ice supplies. This change improved food storage and helped businesses operate more consistently throughout the year.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an older method, its challenges, and the later change that replaced it.",
+      "B": "It lists instructions for repairing refrigerators.",
+      "C": "It compares two unrelated industries.",
+      "D": "It presents an argument against food storage."
+    },
+    "correct": "A",
+    "explanation": "The passage first explains the older method of ice harvesting, then discusses its challenges, and finally explains how refrigeration replaced it."
+  },
+  {
+    "id": "RC6-019",
+    "prompt": "Passage 5\nA community college recently expanded its evening course schedule for adult students. Many students who enroll in the college work full-time during the day, making traditional daytime classes difficult to attend.\nThe new schedule includes evening sections of math, technical writing, computer skills, and basic science courses. College administrators hope the change will help more students complete required classes without reducing their work hours.\nThe college also surveyed students about additional barriers to enrollment. Many students identified transportation, childcare, and unpredictable work schedules as common challenges. Administrators stated that the evening course expansion is one step toward making education more accessible, but they will continue reviewing other ways to support adult learners.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The college expanded evening courses to better support adult students.",
+      "B": "Adult students are no longer allowed to attend daytime classes.",
+      "C": "The college eliminated technical courses.",
+      "D": "Most students prefer to stop working while attending school."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on the college expanding evening courses to help adult students who work during the day complete required classes."
+  },
+  {
+    "id": "RC6-020",
+    "prompt": "Passage 5\nA community college recently expanded its evening course schedule for adult students. Many students who enroll in the college work full-time during the day, making traditional daytime classes difficult to attend.\nThe new schedule includes evening sections of math, technical writing, computer skills, and basic science courses. College administrators hope the change will help more students complete required classes without reducing their work hours.\nThe college also surveyed students about additional barriers to enrollment. Many students identified transportation, childcare, and unpredictable work schedules as common challenges. Administrators stated that the evening course expansion is one step toward making education more accessible, but they will continue reviewing other ways to support adult learners.\n\nWhy are daytime classes difficult for many students described in the passage?",
+    "choices": {
+      "A": "They are held too far from campus.",
+      "B": "Many students work full-time during the day.",
+      "C": "They require advanced science knowledge.",
+      "D": "Many students dislike classroom learning."
+    },
+    "correct": "B",
+    "explanation": "Daytime classes are difficult for many students because they work full-time during the day."
+  },
+  {
+    "id": "RC6-021",
+    "prompt": "Passage 5\nA community college recently expanded its evening course schedule for adult students. Many students who enroll in the college work full-time during the day, making traditional daytime classes difficult to attend.\nThe new schedule includes evening sections of math, technical writing, computer skills, and basic science courses. College administrators hope the change will help more students complete required classes without reducing their work hours.\nThe college also surveyed students about additional barriers to enrollment. Many students identified transportation, childcare, and unpredictable work schedules as common challenges. Administrators stated that the evening course expansion is one step toward making education more accessible, but they will continue reviewing other ways to support adult learners.\n\nWhich course area is specifically mentioned as part of the evening schedule?",
+    "choices": {
+      "A": "Culinary arts",
+      "B": "Technical writing",
+      "C": "Foreign language literature",
+      "D": "Theater performance"
+    },
+    "correct": "B",
+    "explanation": "Technical writing is specifically listed as one of the evening course areas."
+  },
+  {
+    "id": "RC6-022",
+    "prompt": "Passage 5\nA community college recently expanded its evening course schedule for adult students. Many students who enroll in the college work full-time during the day, making traditional daytime classes difficult to attend.\nThe new schedule includes evening sections of math, technical writing, computer skills, and basic science courses. College administrators hope the change will help more students complete required classes without reducing their work hours.\nThe college also surveyed students about additional barriers to enrollment. Many students identified transportation, childcare, and unpredictable work schedules as common challenges. Administrators stated that the evening course expansion is one step toward making education more accessible, but they will continue reviewing other ways to support adult learners.\n\nWhat additional barrier did students identify?",
+    "choices": {
+      "A": "Unpredictable work schedules",
+      "B": "Too many parking spaces",
+      "C": "Lack of course textbooks",
+      "D": "Excessive classroom size"
+    },
+    "correct": "A",
+    "explanation": "Students identified transportation, childcare, and unpredictable work schedules as barriers to enrollment."
+  },
+  {
+    "id": "RC6-023",
+    "prompt": "Passage 5\nA community college recently expanded its evening course schedule for adult students. Many students who enroll in the college work full-time during the day, making traditional daytime classes difficult to attend.\nThe new schedule includes evening sections of math, technical writing, computer skills, and basic science courses. College administrators hope the change will help more students complete required classes without reducing their work hours.\nThe college also surveyed students about additional barriers to enrollment. Many students identified transportation, childcare, and unpredictable work schedules as common challenges. Administrators stated that the evening course expansion is one step toward making education more accessible, but they will continue reviewing other ways to support adult learners.\n\nThe word “accessible” most nearly means:",
+    "choices": {
+      "A": "Easier to reach or use",
+      "B": "More expensive",
+      "C": "Harder to understand",
+      "D": "Limited to experts"
+    },
+    "correct": "A",
+    "explanation": "In context, “accessible” means easier to reach or use. The college wants education to be easier for adult learners to attend."
+  },
+  {
+    "id": "RC6-024",
+    "prompt": "Passage 6\nMany companies use quality-control checks to make sure products meet required standards before they are shipped. These checks may include visual inspections, measurements, performance tests, or reviews of production records.\nQuality-control procedures help identify defects before products reach customers. If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate whether other products are affected.\nAlthough quality checks take time, companies often view them as essential because they reduce returns, protect customer trust, and prevent small production problems from becoming larger ones.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Quality-control checks help companies catch problems before products reach customers.",
+      "B": "Products should always be shipped without inspection.",
+      "C": "Customer returns are unrelated to product quality.",
+      "D": "Quality-control procedures are used only after products are sold."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that quality-control checks help companies identify defects before products are shipped to customers."
+  },
+  {
+    "id": "RC6-025",
+    "prompt": "Passage 6\nMany companies use quality-control checks to make sure products meet required standards before they are shipped. These checks may include visual inspections, measurements, performance tests, or reviews of production records.\nQuality-control procedures help identify defects before products reach customers. If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate whether other products are affected.\nAlthough quality checks take time, companies often view them as essential because they reduce returns, protect customer trust, and prevent small production problems from becoming larger ones.\n\nWhich quality-control method is specifically mentioned?",
+    "choices": {
+      "A": "Employee interviews",
+      "B": "Visual inspections",
+      "C": "Advertising reviews",
+      "D": "Customer billing"
+    },
+    "correct": "B",
+    "explanation": "Visual inspections are specifically listed as one type of quality-control check."
+  },
+  {
+    "id": "RC6-026",
+    "prompt": "Passage 6\nMany companies use quality-control checks to make sure products meet required standards before they are shipped. These checks may include visual inspections, measurements, performance tests, or reviews of production records.\nQuality-control procedures help identify defects before products reach customers. If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate whether other products are affected.\nAlthough quality checks take time, companies often view them as essential because they reduce returns, protect customer trust, and prevent small production problems from becoming larger ones.\n\nWhat may employees do if a problem is found?",
+    "choices": {
+      "A": "Ignore the problem and ship the item.",
+      "B": "Remove the item from the shipment.",
+      "C": "Stop all future production permanently.",
+      "D": "Cancel customer service."
+    },
+    "correct": "B",
+    "explanation": "If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate other affected products."
+  },
+  {
+    "id": "RC6-027",
+    "prompt": "Passage 6\nMany companies use quality-control checks to make sure products meet required standards before they are shipped. These checks may include visual inspections, measurements, performance tests, or reviews of production records.\nQuality-control procedures help identify defects before products reach customers. If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate whether other products are affected.\nAlthough quality checks take time, companies often view them as essential because they reduce returns, protect customer trust, and prevent small production problems from becoming larger ones.\n\nWhy do companies view quality checks as essential?",
+    "choices": {
+      "A": "They can reduce returns and protect customer trust.",
+      "B": "They eliminate the need for production records.",
+      "C": "They increase the number of defective products.",
+      "D": "They prevent customers from ordering products."
+    },
+    "correct": "A",
+    "explanation": "Companies view quality checks as essential because they reduce returns, protect customer trust, and prevent small problems from becoming larger ones."
+  },
+  {
+    "id": "RC6-028",
+    "prompt": "Passage 6\nMany companies use quality-control checks to make sure products meet required standards before they are shipped. These checks may include visual inspections, measurements, performance tests, or reviews of production records.\nQuality-control procedures help identify defects before products reach customers. If a problem is found, employees may remove the item from the shipment, correct the issue, or investigate whether other products are affected.\nAlthough quality checks take time, companies often view them as essential because they reduce returns, protect customer trust, and prevent small production problems from becoming larger ones.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Checking products before shipment can prevent larger business problems.",
+      "B": "Quality-control checks are useful only for visual defects.",
+      "C": "Customers prefer receiving defective products quickly.",
+      "D": "Production records are never reviewed."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that identifying defects before shipment can prevent larger problems for the business."
+  },
+  {
+    "id": "RC6-029",
+    "prompt": "Passage 7\nMany communities operate public alert systems to notify residents about urgent situations. These systems may send messages by text, email, phone call, radio announcement, or outdoor siren.\nPublic alert systems are used for situations such as severe weather, road closures, missing-person alerts, or emergency instructions. The goal is to provide timely information so residents can take appropriate action.\nFor alerts to be effective, messages must be clear and sent quickly. Residents may also need to keep contact information updated or sign up for local notification services. Emergency officials often encourage people to become familiar with the alert options available in their area before an emergency occurs.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public alert systems provide urgent information to residents.",
+      "B": "Communities use alerts only for entertainment events.",
+      "C": "Emergency officials discourage residents from receiving alerts.",
+      "D": "Outdoor sirens have replaced all other communication methods."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how public alert systems notify residents about urgent situations and help them take action."
+  },
+  {
+    "id": "RC6-030",
+    "prompt": "Passage 7\nMany communities operate public alert systems to notify residents about urgent situations. These systems may send messages by text, email, phone call, radio announcement, or outdoor siren.\nPublic alert systems are used for situations such as severe weather, road closures, missing-person alerts, or emergency instructions. The goal is to provide timely information so residents can take appropriate action.\nFor alerts to be effective, messages must be clear and sent quickly. Residents may also need to keep contact information updated or sign up for local notification services. Emergency officials often encourage people to become familiar with the alert options available in their area before an emergency occurs.\n\nWhich method may be used to send public alerts?",
+    "choices": {
+      "A": "Text message",
+      "B": "Product label",
+      "C": "Work order",
+      "D": "Purchase receipt"
+    },
+    "correct": "A",
+    "explanation": "Text message is specifically listed as one possible way public alerts may be sent."
+  },
+  {
+    "id": "RC6-031",
+    "prompt": "Passage 7\nMany communities operate public alert systems to notify residents about urgent situations. These systems may send messages by text, email, phone call, radio announcement, or outdoor siren.\nPublic alert systems are used for situations such as severe weather, road closures, missing-person alerts, or emergency instructions. The goal is to provide timely information so residents can take appropriate action.\nFor alerts to be effective, messages must be clear and sent quickly. Residents may also need to keep contact information updated or sign up for local notification services. Emergency officials often encourage people to become familiar with the alert options available in their area before an emergency occurs.\n\nWhat is the goal of public alert systems?",
+    "choices": {
+      "A": "To provide timely information so residents can take action",
+      "B": "To reduce all community communication",
+      "C": "To replace emergency officials",
+      "D": "To prevent residents from learning about road closures"
+    },
+    "correct": "A",
+    "explanation": "The goal of public alert systems is to provide timely information so residents can take appropriate action."
+  },
+  {
+    "id": "RC6-032",
+    "prompt": "Passage 7\nMany communities operate public alert systems to notify residents about urgent situations. These systems may send messages by text, email, phone call, radio announcement, or outdoor siren.\nPublic alert systems are used for situations such as severe weather, road closures, missing-person alerts, or emergency instructions. The goal is to provide timely information so residents can take appropriate action.\nFor alerts to be effective, messages must be clear and sent quickly. Residents may also need to keep contact information updated or sign up for local notification services. Emergency officials often encourage people to become familiar with the alert options available in their area before an emergency occurs.\n\nWhat may residents need to do for alerts to be effective?",
+    "choices": {
+      "A": "Keep contact information updated",
+      "B": "Ignore local notification services",
+      "C": "Wait until after emergencies to learn alert options",
+      "D": "Turn off all communication devices"
+    },
+    "correct": "A",
+    "explanation": "The passage says residents may need to keep contact information updated or sign up for local notification services."
+  },
+  {
+    "id": "RC6-033",
+    "prompt": "Passage 8\nA regional grocery chain recently studied checkout wait times in several stores. Managers collected data on customer volume, staffing levels, register use, and the average length of checkout lines.\nThe study found that wait times increased most sharply during early evening hours, when many customers stopped at the store after work. Managers also found that some registers were open during slower periods but understaffed during peak times.\nIn response, the company adjusted employee schedules and added more cashier coverage during the busiest hours. Store leaders expect the changes to reduce wait times and improve customer satisfaction.\n\nWhat was the purpose of the study?",
+    "choices": {
+      "A": "To examine checkout wait times and related factors",
+      "B": "To redesign grocery store signs",
+      "C": "To compare food prices with competitors",
+      "D": "To reduce store hours immediately"
+    },
+    "correct": "A",
+    "explanation": "The study examined checkout wait times along with related factors such as customer volume, staffing levels, register use, and line length."
+  },
+  {
+    "id": "RC6-034",
+    "prompt": "Passage 8\nA regional grocery chain recently studied checkout wait times in several stores. Managers collected data on customer volume, staffing levels, register use, and the average length of checkout lines.\nThe study found that wait times increased most sharply during early evening hours, when many customers stopped at the store after work. Managers also found that some registers were open during slower periods but understaffed during peak times.\nIn response, the company adjusted employee schedules and added more cashier coverage during the busiest hours. Store leaders expect the changes to reduce wait times and improve customer satisfaction.\n\nWhen did wait times increase most sharply?",
+    "choices": {
+      "A": "Late at night",
+      "B": "Early evening hours",
+      "C": "Early morning hours",
+      "D": "During store closing only"
+    },
+    "correct": "B",
+    "explanation": "The study found that wait times increased most sharply during early evening hours."
+  },
+  {
+    "id": "RC6-035",
+    "prompt": "Passage 8\nA regional grocery chain recently studied checkout wait times in several stores. Managers collected data on customer volume, staffing levels, register use, and the average length of checkout lines.\nThe study found that wait times increased most sharply during early evening hours, when many customers stopped at the store after work. Managers also found that some registers were open during slower periods but understaffed during peak times.\nIn response, the company adjusted employee schedules and added more cashier coverage during the busiest hours. Store leaders expect the changes to reduce wait times and improve customer satisfaction.\n\nWhat action did the company take in response to the study?",
+    "choices": {
+      "A": "It adjusted employee schedules and added cashier coverage.",
+      "B": "It removed all checkout registers.",
+      "C": "It stopped collecting customer data.",
+      "D": "It shortened all employee shifts."
+    },
+    "correct": "A",
+    "explanation": "In response to the findings, the company adjusted employee schedules and added more cashier coverage during the busiest hours."
+  },
+  {
+    "id": "RC6-036",
+    "prompt": "Passage 8\nA regional grocery chain recently studied checkout wait times in several stores. Managers collected data on customer volume, staffing levels, register use, and the average length of checkout lines.\nThe study found that wait times increased most sharply during early evening hours, when many customers stopped at the store after work. Managers also found that some registers were open during slower periods but understaffed during peak times.\nIn response, the company adjusted employee schedules and added more cashier coverage during the busiest hours. Store leaders expect the changes to reduce wait times and improve customer satisfaction.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Staffing levels can affect customer wait times.",
+      "B": "Checkout lines are unrelated to customer volume.",
+      "C": "Grocery stores cannot use data to improve operations.",
+      "D": "Peak shopping periods require fewer cashiers."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that understaffing during peak times contributed to longer lines, so staffing levels can affect customer wait times."
+  }
+]

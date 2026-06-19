@@ -20,7 +20,29 @@
       "choices": 4,
       "examFiles": [
         "algebra_functions_exam_01.json",
-        "algebra_functions_exam_02.json"
+        "algebra_functions_exam_02.json",
+        "algebra_functions_exam_03.json",
+        "algebra_functions_exam_04.json",
+        "algebra_functions_exam_05.json",
+        "algebra_functions_exam_06.json",
+        "algebra_functions_exam_07.json",
+        "algebra_functions_exam_08.json",
+        "algebra_functions_exam_09.json",
+        "algebra_functions_exam_10.json",
+        "algebra_functions_exam_11.json",
+        "algebra_functions_exam_12.json",
+        "algebra_functions_exam_13.json",
+        "algebra_functions_exam_14.json",
+        "algebra_functions_exam_15.json",
+        "algebra_functions_exam_16.json",
+        "algebra_functions_exam_17.json",
+        "algebra_functions_exam_18.json",
+        "algebra_functions_exam_19.json",
+        "algebra_functions_exam_20.json",
+        "algebra_functions_exam_21.json",
+        "algebra_functions_exam_22.json",
+        "algebra_functions_exam_23.json",
+        "algebra_functions_exam_24.json"
       ]
     },
     {
@@ -32,7 +54,29 @@
       "choices": 4,
       "examFiles": [
         "reading_comprehension_exam_01.json",
-        "reading_comprehension_exam_02.json"
+        "reading_comprehension_exam_02.json",
+        "reading_comprehension_exam_03.json",
+        "reading_comprehension_exam_04.json",
+        "reading_comprehension_exam_05.json",
+        "reading_comprehension_exam_06.json",
+        "reading_comprehension_exam_07.json",
+        "reading_comprehension_exam_08.json",
+        "reading_comprehension_exam_09.json",
+        "reading_comprehension_exam_10.json",
+        "reading_comprehension_exam_11.json",
+        "reading_comprehension_exam_12.json",
+        "reading_comprehension_exam_13.json",
+        "reading_comprehension_exam_14.json",
+        "reading_comprehension_exam_15.json",
+        "reading_comprehension_exam_16.json",
+        "reading_comprehension_exam_17.json",
+        "reading_comprehension_exam_18.json",
+        "reading_comprehension_exam_19.json",
+        "reading_comprehension_exam_20.json",
+        "reading_comprehension_exam_21.json",
+        "reading_comprehension_exam_22.json",
+        "reading_comprehension_exam_23.json",
+        "reading_comprehension_exam_24.json"
       ]
     }
   ],
@@ -52,6 +96,182 @@
     {
       "label": "Reading Comprehension Practice Exam 2",
       "file": "reading_comprehension_exam_02.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 3",
+      "file": "algebra_functions_exam_03.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 3",
+      "file": "reading_comprehension_exam_03.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 4",
+      "file": "algebra_functions_exam_04.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 4",
+      "file": "reading_comprehension_exam_04.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 5",
+      "file": "algebra_functions_exam_05.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 5",
+      "file": "reading_comprehension_exam_05.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 6",
+      "file": "algebra_functions_exam_06.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 6",
+      "file": "reading_comprehension_exam_06.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 7",
+      "file": "algebra_functions_exam_07.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 7",
+      "file": "reading_comprehension_exam_07.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 8",
+      "file": "algebra_functions_exam_08.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 8",
+      "file": "reading_comprehension_exam_08.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 9",
+      "file": "algebra_functions_exam_09.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 9",
+      "file": "reading_comprehension_exam_09.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 10",
+      "file": "algebra_functions_exam_10.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 10",
+      "file": "reading_comprehension_exam_10.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 11",
+      "file": "algebra_functions_exam_11.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 11",
+      "file": "reading_comprehension_exam_11.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 12",
+      "file": "algebra_functions_exam_12.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 12",
+      "file": "reading_comprehension_exam_12.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 13",
+      "file": "algebra_functions_exam_13.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 13",
+      "file": "reading_comprehension_exam_13.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 14",
+      "file": "algebra_functions_exam_14.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 14",
+      "file": "reading_comprehension_exam_14.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 15",
+      "file": "algebra_functions_exam_15.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 15",
+      "file": "reading_comprehension_exam_15.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 16",
+      "file": "algebra_functions_exam_16.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 16",
+      "file": "reading_comprehension_exam_16.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 17",
+      "file": "algebra_functions_exam_17.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 17",
+      "file": "reading_comprehension_exam_17.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 18",
+      "file": "algebra_functions_exam_18.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 18",
+      "file": "reading_comprehension_exam_18.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 19",
+      "file": "algebra_functions_exam_19.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 19",
+      "file": "reading_comprehension_exam_19.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 20",
+      "file": "algebra_functions_exam_20.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 20",
+      "file": "reading_comprehension_exam_20.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 21",
+      "file": "algebra_functions_exam_21.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 21",
+      "file": "reading_comprehension_exam_21.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 22",
+      "file": "algebra_functions_exam_22.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 22",
+      "file": "reading_comprehension_exam_22.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 23",
+      "file": "algebra_functions_exam_23.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 23",
+      "file": "reading_comprehension_exam_23.pdf"
+    },
+    {
+      "label": "Algebra and Functions Practice Exam 24",
+      "file": "algebra_functions_exam_24.pdf"
+    },
+    {
+      "label": "Reading Comprehension Practice Exam 24",
+      "file": "reading_comprehension_exam_24.pdf"
     }
   ]
 }

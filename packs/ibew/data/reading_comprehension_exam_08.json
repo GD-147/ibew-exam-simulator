@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC8-001",
+    "prompt": "Passage 1\nA regional supply company recently changed how it organizes replacement parts in its main storage room. Previously, parts were grouped mostly by supplier name. This made sense to the purchasing department, but it often slowed down employees who needed to find parts quickly for repair jobs.\nAfter reviewing usage records, managers reorganized the storage room by part type and frequency of use. Commonly used items were moved closer to the service counter, while less frequently used parts were placed in clearly labeled secondary storage areas.\nSupervisors report that employees now spend less time searching for parts. The company also plans to review the layout every six months to make sure the storage system continues to match actual work needs.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped buying replacement parts.",
+      "B": "A storage-room reorganization helped employees locate parts more efficiently.",
+      "C": "Suppliers now decide where parts are stored.",
+      "D": "Employees no longer need replacement parts for repairs."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how reorganizing the storage room by part type and usage helped employees find parts more efficiently. The other choices describe actions not stated in the passage."
+  },
+  {
+    "id": "RC8-002",
+    "prompt": "Passage 1\nA regional supply company recently changed how it organizes replacement parts in its main storage room. Previously, parts were grouped mostly by supplier name. This made sense to the purchasing department, but it often slowed down employees who needed to find parts quickly for repair jobs.\nAfter reviewing usage records, managers reorganized the storage room by part type and frequency of use. Commonly used items were moved closer to the service counter, while less frequently used parts were placed in clearly labeled secondary storage areas.\nSupervisors report that employees now spend less time searching for parts. The company also plans to review the layout every six months to make sure the storage system continues to match actual work needs.\n\nWhy did the previous storage system slow employees down?",
+    "choices": {
+      "A": "Parts were stored outdoors.",
+      "B": "Employees were not allowed in the storage room.",
+      "C": "Parts were grouped mostly by supplier name rather than work use.",
+      "D": "The company had no labels on any parts."
+    },
+    "correct": "C",
+    "explanation": "The old system grouped parts by supplier name, which helped purchasing but slowed employees who needed parts for repair work."
+  },
+  {
+    "id": "RC8-003",
+    "prompt": "Passage 1\nA regional supply company recently changed how it organizes replacement parts in its main storage room. Previously, parts were grouped mostly by supplier name. This made sense to the purchasing department, but it often slowed down employees who needed to find parts quickly for repair jobs.\nAfter reviewing usage records, managers reorganized the storage room by part type and frequency of use. Commonly used items were moved closer to the service counter, while less frequently used parts were placed in clearly labeled secondary storage areas.\nSupervisors report that employees now spend less time searching for parts. The company also plans to review the layout every six months to make sure the storage system continues to match actual work needs.\n\nWhere were commonly used items moved?",
+    "choices": {
+      "A": "Into locked offices",
+      "B": "Closer to the service counter",
+      "C": "Outside the building",
+      "D": "Into supplier delivery trucks"
+    },
+    "correct": "B",
+    "explanation": "The passage says commonly used items were moved closer to the service counter."
+  },
+  {
+    "id": "RC8-004",
+    "prompt": "Passage 1\nA regional supply company recently changed how it organizes replacement parts in its main storage room. Previously, parts were grouped mostly by supplier name. This made sense to the purchasing department, but it often slowed down employees who needed to find parts quickly for repair jobs.\nAfter reviewing usage records, managers reorganized the storage room by part type and frequency of use. Commonly used items were moved closer to the service counter, while less frequently used parts were placed in clearly labeled secondary storage areas.\nSupervisors report that employees now spend less time searching for parts. The company also plans to review the layout every six months to make sure the storage system continues to match actual work needs.\n\nWhat does the company plan to do every six months?",
+    "choices": {
+      "A": "Replace all storage shelves",
+      "B": "Stop reviewing usage records",
+      "C": "Review the layout to match work needs",
+      "D": "Change suppliers automatically"
+    },
+    "correct": "C",
+    "explanation": "The company plans to review the layout every six months to make sure it still matches actual work needs."
+  },
+  {
+    "id": "RC8-005",
+    "prompt": "Passage 1\nA regional supply company recently changed how it organizes replacement parts in its main storage room. Previously, parts were grouped mostly by supplier name. This made sense to the purchasing department, but it often slowed down employees who needed to find parts quickly for repair jobs.\nAfter reviewing usage records, managers reorganized the storage room by part type and frequency of use. Commonly used items were moved closer to the service counter, while less frequently used parts were placed in clearly labeled secondary storage areas.\nSupervisors report that employees now spend less time searching for parts. The company also plans to review the layout every six months to make sure the storage system continues to match actual work needs.\n\nThe phrase “frequency of use” most nearly means:",
+    "choices": {
+      "A": "How often something is used",
+      "B": "How expensive something is",
+      "C": "How recently something was purchased",
+      "D": "How difficult something is to repair"
+    },
+    "correct": "A",
+    "explanation": "“Frequency of use” means how often something is used. The clue is that commonly used parts were moved closer to the service counter."
+  },
+  {
+    "id": "RC8-006",
+    "prompt": "Passage 2\nMEMO\nTo: All Production Employees\nSubject: Updated Breakroom Cleaning Procedure\nBeginning March 4, employees using the breakroom must place food waste in the marked containers and wipe tables after use. Cleaning supplies will be available near the sink.\nThe updated procedure was created after several employees reported spills, food scraps, and overflowing trash containers at the end of shifts. While the cleaning crew will continue to perform regular deep cleaning, employees are expected to help keep the shared space usable throughout the workday.\nSupervisors will review the procedure during team meetings this week.\n\nWhat is the purpose of the memo?",
+    "choices": {
+      "A": "To announce a new production schedule",
+      "B": "To explain an updated breakroom cleaning procedure",
+      "C": "To cancel employee break periods",
+      "D": "To introduce new cafeteria prices"
+    },
+    "correct": "B",
+    "explanation": "The memo announces and explains the updated breakroom cleaning procedure for production employees."
+  },
+  {
+    "id": "RC8-007",
+    "prompt": "Passage 2\nMEMO\nTo: All Production Employees\nSubject: Updated Breakroom Cleaning Procedure\nBeginning March 4, employees using the breakroom must place food waste in the marked containers and wipe tables after use. Cleaning supplies will be available near the sink.\nThe updated procedure was created after several employees reported spills, food scraps, and overflowing trash containers at the end of shifts. While the cleaning crew will continue to perform regular deep cleaning, employees are expected to help keep the shared space usable throughout the workday.\nSupervisors will review the procedure during team meetings this week.\n\nWhat are employees expected to do after using tables?",
+    "choices": {
+      "A": "Move them to storage",
+      "B": "Report them to maintenance",
+      "C": "Wipe them after use",
+      "D": "Cover them with paper forms"
+    },
+    "correct": "C",
+    "explanation": "The memo says employees must wipe tables after use."
+  },
+  {
+    "id": "RC8-008",
+    "prompt": "Passage 2\nMEMO\nTo: All Production Employees\nSubject: Updated Breakroom Cleaning Procedure\nBeginning March 4, employees using the breakroom must place food waste in the marked containers and wipe tables after use. Cleaning supplies will be available near the sink.\nThe updated procedure was created after several employees reported spills, food scraps, and overflowing trash containers at the end of shifts. While the cleaning crew will continue to perform regular deep cleaning, employees are expected to help keep the shared space usable throughout the workday.\nSupervisors will review the procedure during team meetings this week.\n\nWhy was the updated procedure created?",
+    "choices": {
+      "A": "Employees requested longer lunch periods.",
+      "B": "The cleaning crew stopped working.",
+      "C": "The breakroom was being converted into office space.",
+      "D": "Several employees reported spills, food scraps, and overflowing trash."
+    },
+    "correct": "D",
+    "explanation": "The procedure was created after reports of spills, food scraps, and overflowing trash containers."
+  },
+  {
+    "id": "RC8-009",
+    "prompt": "Passage 2\nMEMO\nTo: All Production Employees\nSubject: Updated Breakroom Cleaning Procedure\nBeginning March 4, employees using the breakroom must place food waste in the marked containers and wipe tables after use. Cleaning supplies will be available near the sink.\nThe updated procedure was created after several employees reported spills, food scraps, and overflowing trash containers at the end of shifts. While the cleaning crew will continue to perform regular deep cleaning, employees are expected to help keep the shared space usable throughout the workday.\nSupervisors will review the procedure during team meetings this week.\n\nWhat will supervisors do this week?",
+    "choices": {
+      "A": "Remove all cleaning supplies",
+      "B": "Review the procedure during team meetings",
+      "C": "Close the breakroom permanently",
+      "D": "Replace the sink"
+    },
+    "correct": "B",
+    "explanation": "The memo states that supervisors will review the procedure during team meetings this week."
+  },
+  {
+    "id": "RC8-010",
+    "prompt": "Passage 3\nMany companies use onboarding programs to help new employees begin work successfully. An onboarding program may include paperwork, introductions to coworkers, safety training, job-shadowing, and explanations of company policies.\nA strong onboarding process can help new employees understand expectations early. It can also reduce confusion by showing workers where to find information and whom to contact when questions arise. Without clear guidance, new employees may take longer to become comfortable and productive.\nOnboarding is not limited to the first day of work. Some organizations continue the process over several weeks or months, especially for jobs that involve multiple systems, safety procedures, or specialized tasks.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "New employees should learn everything without assistance.",
+      "B": "Onboarding programs help new employees understand their roles and become productive.",
+      "C": "Company policies are useful only for managers.",
+      "D": "Job-shadowing should replace all safety training."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how onboarding helps new employees understand expectations, reduce confusion, and become productive."
+  },
+  {
+    "id": "RC8-011",
+    "prompt": "Passage 3\nMany companies use onboarding programs to help new employees begin work successfully. An onboarding program may include paperwork, introductions to coworkers, safety training, job-shadowing, and explanations of company policies.\nA strong onboarding process can help new employees understand expectations early. It can also reduce confusion by showing workers where to find information and whom to contact when questions arise. Without clear guidance, new employees may take longer to become comfortable and productive.\nOnboarding is not limited to the first day of work. Some organizations continue the process over several weeks or months, especially for jobs that involve multiple systems, safety procedures, or specialized tasks.\n\nWhich activity may be part of onboarding?",
+    "choices": {
+      "A": "Road construction",
+      "B": "Job-shadowing",
+      "C": "Product advertising",
+      "D": "Customer billing only"
+    },
+    "correct": "B",
+    "explanation": "Job-shadowing is specifically listed as one possible part of an onboarding program."
+  },
+  {
+    "id": "RC8-012",
+    "prompt": "Passage 3\nMany companies use onboarding programs to help new employees begin work successfully. An onboarding program may include paperwork, introductions to coworkers, safety training, job-shadowing, and explanations of company policies.\nA strong onboarding process can help new employees understand expectations early. It can also reduce confusion by showing workers where to find information and whom to contact when questions arise. Without clear guidance, new employees may take longer to become comfortable and productive.\nOnboarding is not limited to the first day of work. Some organizations continue the process over several weeks or months, especially for jobs that involve multiple systems, safety procedures, or specialized tasks.\n\nHow can onboarding reduce confusion?",
+    "choices": {
+      "A": "By removing all company policies",
+      "B": "By delaying employee training",
+      "C": "By showing workers where to find information and whom to contact",
+      "D": "By requiring employees to avoid questions"
+    },
+    "correct": "C",
+    "explanation": "Onboarding can reduce confusion by showing workers where to find information and whom to contact with questions."
+  },
+  {
+    "id": "RC8-013",
+    "prompt": "Passage 3\nMany companies use onboarding programs to help new employees begin work successfully. An onboarding program may include paperwork, introductions to coworkers, safety training, job-shadowing, and explanations of company policies.\nA strong onboarding process can help new employees understand expectations early. It can also reduce confusion by showing workers where to find information and whom to contact when questions arise. Without clear guidance, new employees may take longer to become comfortable and productive.\nOnboarding is not limited to the first day of work. Some organizations continue the process over several weeks or months, especially for jobs that involve multiple systems, safety procedures, or specialized tasks.\n\nAccording to the passage, onboarding may continue over several weeks or months when jobs involve:",
+    "choices": {
+      "A": "Only one simple task",
+      "B": "No safety procedures",
+      "C": "No company systems",
+      "D": "Multiple systems, safety procedures, or specialized tasks"
+    },
+    "correct": "D",
+    "explanation": "The passage states that onboarding may continue longer for jobs involving multiple systems, safety procedures, or specialized tasks."
+  },
+  {
+    "id": "RC8-014",
+    "prompt": "Passage 3\nMany companies use onboarding programs to help new employees begin work successfully. An onboarding program may include paperwork, introductions to coworkers, safety training, job-shadowing, and explanations of company policies.\nA strong onboarding process can help new employees understand expectations early. It can also reduce confusion by showing workers where to find information and whom to contact when questions arise. Without clear guidance, new employees may take longer to become comfortable and productive.\nOnboarding is not limited to the first day of work. Some organizations continue the process over several weeks or months, especially for jobs that involve multiple systems, safety procedures, or specialized tasks.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "New employees may benefit from structured guidance beyond their first day.",
+      "B": "Onboarding is unnecessary for jobs with safety procedures.",
+      "C": "Employees become productive faster when information is unclear.",
+      "D": "Organizations should avoid explaining expectations."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that structured guidance can help new employees beyond the first day of work."
+  },
+  {
+    "id": "RC8-015",
+    "prompt": "Passage 4\nBefore electronic timekeeping systems became common, many workplaces used paper time cards. Employees recorded their arrival and departure times by writing them down or stamping a card in a mechanical clock. Payroll staff later reviewed the cards and calculated hours worked.\nElectronic timekeeping systems changed this process by allowing employees to clock in and out using badges, computers, or mobile devices. These systems can reduce calculation errors and make payroll information available more quickly. They may also help supervisors identify attendance patterns.\nHowever, electronic systems still require clear procedures. Employees need to know when to clock in, how to report missed punches, and whom to contact if there is a system problem.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Paper time cards are more advanced than electronic systems.",
+      "B": "Payroll staff no longer review any records.",
+      "C": "Electronic timekeeping improved payroll tracking but still requires clear procedures.",
+      "D": "Employees should not record work hours."
+    },
+    "correct": "C",
+    "explanation": "The passage explains that electronic timekeeping improves payroll tracking but still needs clear procedures for employees."
+  },
+  {
+    "id": "RC8-016",
+    "prompt": "Passage 4\nBefore electronic timekeeping systems became common, many workplaces used paper time cards. Employees recorded their arrival and departure times by writing them down or stamping a card in a mechanical clock. Payroll staff later reviewed the cards and calculated hours worked.\nElectronic timekeeping systems changed this process by allowing employees to clock in and out using badges, computers, or mobile devices. These systems can reduce calculation errors and make payroll information available more quickly. They may also help supervisors identify attendance patterns.\nHowever, electronic systems still require clear procedures. Employees need to know when to clock in, how to report missed punches, and whom to contact if there is a system problem.\n\nHow did employees record time before electronic systems?",
+    "choices": {
+      "A": "By sending text messages to customers",
+      "B": "By writing times down or stamping a paper card",
+      "C": "By calling suppliers",
+      "D": "By entering hours into inventory records"
+    },
+    "correct": "B",
+    "explanation": "Before electronic systems, employees recorded time by writing it down or stamping a paper time card."
+  },
+  {
+    "id": "RC8-017",
+    "prompt": "Passage 4\nBefore electronic timekeeping systems became common, many workplaces used paper time cards. Employees recorded their arrival and departure times by writing them down or stamping a card in a mechanical clock. Payroll staff later reviewed the cards and calculated hours worked.\nElectronic timekeeping systems changed this process by allowing employees to clock in and out using badges, computers, or mobile devices. These systems can reduce calculation errors and make payroll information available more quickly. They may also help supervisors identify attendance patterns.\nHowever, electronic systems still require clear procedures. Employees need to know when to clock in, how to report missed punches, and whom to contact if there is a system problem.\n\nWhat is one benefit of electronic timekeeping systems?",
+    "choices": {
+      "A": "They eliminate the need for attendance rules.",
+      "B": "They make all payroll questions disappear.",
+      "C": "They prevent employees from missing work.",
+      "D": "They can reduce calculation errors."
+    },
+    "correct": "D",
+    "explanation": "The passage specifically states that electronic systems can reduce calculation errors."
+  },
+  {
+    "id": "RC8-018",
+    "prompt": "Passage 4\nBefore electronic timekeeping systems became common, many workplaces used paper time cards. Employees recorded their arrival and departure times by writing them down or stamping a card in a mechanical clock. Payroll staff later reviewed the cards and calculated hours worked.\nElectronic timekeeping systems changed this process by allowing employees to clock in and out using badges, computers, or mobile devices. These systems can reduce calculation errors and make payroll information available more quickly. They may also help supervisors identify attendance patterns.\nHowever, electronic systems still require clear procedures. Employees need to know when to clock in, how to report missed punches, and whom to contact if there is a system problem.\n\nWhy are clear procedures still needed?",
+    "choices": {
+      "A": "Employees need to know how to handle clock-in issues and missed punches.",
+      "B": "Paper time cards are no longer available anywhere.",
+      "C": "Supervisors no longer track attendance.",
+      "D": "Electronic systems cannot record work hours."
+    },
+    "correct": "A",
+    "explanation": "Employees still need procedures for when to clock in, how to report missed punches, and whom to contact about system problems."
+  },
+  {
+    "id": "RC8-019",
+    "prompt": "Passage 5\nA small manufacturing company recently began cross-training employees in several production areas. Before the program, many employees were trained for only one main task. When someone was absent, supervisors sometimes had difficulty finding another worker who could cover the position.\nCross-training allows employees to learn additional tasks outside their usual assignment. The company began with short training sessions led by experienced workers. Employees practiced under supervision before being approved to work independently in a second area.\nManagers believe the program will improve scheduling flexibility and reduce delays caused by absences. Some employees also said the training helped them better understand how their work connects to the rest of the production process.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Employees should perform only one task during their careers.",
+      "B": "The company reduced training to save time.",
+      "C": "Cross-training helped the company improve flexibility and employee understanding.",
+      "D": "Supervisors stopped assigning production work."
+    },
+    "correct": "C",
+    "explanation": "The passage explains how cross-training improves scheduling flexibility and helps employees understand the production process better."
+  },
+  {
+    "id": "RC8-020",
+    "prompt": "Passage 5\nA small manufacturing company recently began cross-training employees in several production areas. Before the program, many employees were trained for only one main task. When someone was absent, supervisors sometimes had difficulty finding another worker who could cover the position.\nCross-training allows employees to learn additional tasks outside their usual assignment. The company began with short training sessions led by experienced workers. Employees practiced under supervision before being approved to work independently in a second area.\nManagers believe the program will improve scheduling flexibility and reduce delays caused by absences. Some employees also said the training helped them better understand how their work connects to the rest of the production process.\n\nWhat problem existed before cross-training?",
+    "choices": {
+      "A": "Supervisors sometimes had difficulty covering positions when employees were absent.",
+      "B": "Employees were trained in too many areas.",
+      "C": "Production areas were permanently closed.",
+      "D": "Workers refused to learn their main tasks."
+    },
+    "correct": "A",
+    "explanation": "Before cross-training, supervisors sometimes had trouble finding someone to cover a position when an employee was absent."
+  },
+  {
+    "id": "RC8-021",
+    "prompt": "Passage 5\nA small manufacturing company recently began cross-training employees in several production areas. Before the program, many employees were trained for only one main task. When someone was absent, supervisors sometimes had difficulty finding another worker who could cover the position.\nCross-training allows employees to learn additional tasks outside their usual assignment. The company began with short training sessions led by experienced workers. Employees practiced under supervision before being approved to work independently in a second area.\nManagers believe the program will improve scheduling flexibility and reduce delays caused by absences. Some employees also said the training helped them better understand how their work connects to the rest of the production process.\n\nWho led the short training sessions?",
+    "choices": {
+      "A": "Customers",
+      "B": "New employees only",
+      "C": "Payroll staff",
+      "D": "Experienced workers"
+    },
+    "correct": "D",
+    "explanation": "The training sessions were led by experienced workers."
+  },
+  {
+    "id": "RC8-022",
+    "prompt": "Passage 5\nA small manufacturing company recently began cross-training employees in several production areas. Before the program, many employees were trained for only one main task. When someone was absent, supervisors sometimes had difficulty finding another worker who could cover the position.\nCross-training allows employees to learn additional tasks outside their usual assignment. The company began with short training sessions led by experienced workers. Employees practiced under supervision before being approved to work independently in a second area.\nManagers believe the program will improve scheduling flexibility and reduce delays caused by absences. Some employees also said the training helped them better understand how their work connects to the rest of the production process.\n\nWhat had to happen before employees could work independently in a second area?",
+    "choices": {
+      "A": "They had to practice under supervision.",
+      "B": "They had to change departments permanently.",
+      "C": "They had to stop doing their original job.",
+      "D": "They had to write the company budget."
+    },
+    "correct": "A",
+    "explanation": "Employees practiced under supervision before being approved to work independently in another area."
+  },
+  {
+    "id": "RC8-023",
+    "prompt": "Passage 5\nA small manufacturing company recently began cross-training employees in several production areas. Before the program, many employees were trained for only one main task. When someone was absent, supervisors sometimes had difficulty finding another worker who could cover the position.\nCross-training allows employees to learn additional tasks outside their usual assignment. The company began with short training sessions led by experienced workers. Employees practiced under supervision before being approved to work independently in a second area.\nManagers believe the program will improve scheduling flexibility and reduce delays caused by absences. Some employees also said the training helped them better understand how their work connects to the rest of the production process.\n\nThe word “flexibility” most nearly means:",
+    "choices": {
+      "A": "Ability to adapt or adjust",
+      "B": "Requirement to stop work",
+      "C": "Lack of planning",
+      "D": "Increase in confusion"
+    },
+    "correct": "A",
+    "explanation": "In context, “flexibility” means the ability to adapt or adjust, especially when scheduling workers."
+  },
+  {
+    "id": "RC8-024",
+    "prompt": "Passage 6\nMany public buildings use automatic doors to improve access for visitors. These doors can be especially helpful for people carrying packages, pushing carts, using wheelchairs, or entering with young children.\nAutomatic doors rely on sensors that detect movement or presence near the entrance. When the system works properly, the door opens without the visitor needing to pull a handle. This can make entry easier and reduce crowding near busy entrances.\nLike other building systems, automatic doors require maintenance. Sensors may need adjustment, tracks must be kept clear, and mechanical parts may require inspection. Regular checks help ensure the doors operate safely and consistently.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Why automatic doors should be removed from public buildings",
+      "B": "How automatic doors improve access and require maintenance",
+      "C": "Why visitors should avoid busy entrances",
+      "D": "How carts are manufactured"
+    },
+    "correct": "B",
+    "explanation": "The passage describes how automatic doors improve access and explains why they need regular maintenance."
+  },
+  {
+    "id": "RC8-025",
+    "prompt": "Passage 6\nMany public buildings use automatic doors to improve access for visitors. These doors can be especially helpful for people carrying packages, pushing carts, using wheelchairs, or entering with young children.\nAutomatic doors rely on sensors that detect movement or presence near the entrance. When the system works properly, the door opens without the visitor needing to pull a handle. This can make entry easier and reduce crowding near busy entrances.\nLike other building systems, automatic doors require maintenance. Sensors may need adjustment, tracks must be kept clear, and mechanical parts may require inspection. Regular checks help ensure the doors operate safely and consistently.\n\nWho may especially benefit from automatic doors?",
+    "choices": {
+      "A": "People carrying packages or using wheelchairs",
+      "B": "People repairing roadways",
+      "C": "Employees writing payroll checks",
+      "D": "Workers replacing roof materials"
+    },
+    "correct": "A",
+    "explanation": "The passage says automatic doors can help people carrying packages, pushing carts, using wheelchairs, or entering with young children."
+  },
+  {
+    "id": "RC8-026",
+    "prompt": "Passage 6\nMany public buildings use automatic doors to improve access for visitors. These doors can be especially helpful for people carrying packages, pushing carts, using wheelchairs, or entering with young children.\nAutomatic doors rely on sensors that detect movement or presence near the entrance. When the system works properly, the door opens without the visitor needing to pull a handle. This can make entry easier and reduce crowding near busy entrances.\nLike other building systems, automatic doors require maintenance. Sensors may need adjustment, tracks must be kept clear, and mechanical parts may require inspection. Regular checks help ensure the doors operate safely and consistently.\n\nHow do automatic doors know when to open?",
+    "choices": {
+      "A": "A visitor must enter a password.",
+      "B": "A security guard must unlock them each time.",
+      "C": "Sensors detect movement or presence near the entrance.",
+      "D": "The doors open only at scheduled times."
+    },
+    "correct": "C",
+    "explanation": "Automatic doors rely on sensors that detect movement or presence near the entrance."
+  },
+  {
+    "id": "RC8-027",
+    "prompt": "Passage 6\nMany public buildings use automatic doors to improve access for visitors. These doors can be especially helpful for people carrying packages, pushing carts, using wheelchairs, or entering with young children.\nAutomatic doors rely on sensors that detect movement or presence near the entrance. When the system works properly, the door opens without the visitor needing to pull a handle. This can make entry easier and reduce crowding near busy entrances.\nLike other building systems, automatic doors require maintenance. Sensors may need adjustment, tracks must be kept clear, and mechanical parts may require inspection. Regular checks help ensure the doors operate safely and consistently.\n\nWhy are regular checks important?",
+    "choices": {
+      "A": "They help ensure doors operate safely and consistently.",
+      "B": "They prevent all visitors from entering.",
+      "C": "They eliminate the need for sensors.",
+      "D": "They make entrances more crowded."
+    },
+    "correct": "A",
+    "explanation": "Regular checks help ensure that automatic doors operate safely and consistently."
+  },
+  {
+    "id": "RC8-028",
+    "prompt": "Passage 6\nMany public buildings use automatic doors to improve access for visitors. These doors can be especially helpful for people carrying packages, pushing carts, using wheelchairs, or entering with young children.\nAutomatic doors rely on sensors that detect movement or presence near the entrance. When the system works properly, the door opens without the visitor needing to pull a handle. This can make entry easier and reduce crowding near busy entrances.\nLike other building systems, automatic doors require maintenance. Sensors may need adjustment, tracks must be kept clear, and mechanical parts may require inspection. Regular checks help ensure the doors operate safely and consistently.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Automatic doors are useful only when no one enters the building.",
+      "B": "Automatic doors can improve convenience, but they must be maintained.",
+      "C": "Automatic doors never require inspection.",
+      "D": "Sensors are unrelated to door operation."
+    },
+    "correct": "B",
+    "explanation": "The passage supports the conclusion that automatic doors are convenient but require maintenance to work properly."
+  },
+  {
+    "id": "RC8-029",
+    "prompt": "Passage 7\nMany cities operate snow removal programs during winter weather. Crews may spread salt or sand, plow major roads, clear public parking areas, and respond to hazardous conditions. The order in which streets are cleared often depends on traffic volume, emergency access needs, and available equipment.\nMain roads and routes near hospitals, fire stations, and police stations are usually given high priority. Residential streets may be cleared later, especially during storms that continue for several hours. This does not mean those streets are ignored; rather, crews must focus first on areas that affect the greatest number of people or are essential for emergency response.\nCity officials often remind residents to move parked vehicles when possible so plows can clear streets more effectively.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Snow removal programs prioritize streets based on safety and access needs.",
+      "B": "Residential streets are never cleared after snowstorms.",
+      "C": "Cities remove snow only from parking lots.",
+      "D": "Salt and sand are no longer used in winter."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how snow removal programs prioritize roads based on traffic, safety, emergency access, and available equipment."
+  },
+  {
+    "id": "RC8-030",
+    "prompt": "Passage 7\nMany cities operate snow removal programs during winter weather. Crews may spread salt or sand, plow major roads, clear public parking areas, and respond to hazardous conditions. The order in which streets are cleared often depends on traffic volume, emergency access needs, and available equipment.\nMain roads and routes near hospitals, fire stations, and police stations are usually given high priority. Residential streets may be cleared later, especially during storms that continue for several hours. This does not mean those streets are ignored; rather, crews must focus first on areas that affect the greatest number of people or are essential for emergency response.\nCity officials often remind residents to move parked vehicles when possible so plows can clear streets more effectively.\n\nWhich area is usually given high priority?",
+    "choices": {
+      "A": "Roads near hospitals and emergency services",
+      "B": "Private driveways only",
+      "C": "Streets with the fewest residents",
+      "D": "Areas with no traffic"
+    },
+    "correct": "A",
+    "explanation": "Main roads and routes near hospitals, fire stations, and police stations are usually given high priority."
+  },
+  {
+    "id": "RC8-031",
+    "prompt": "Passage 7\nMany cities operate snow removal programs during winter weather. Crews may spread salt or sand, plow major roads, clear public parking areas, and respond to hazardous conditions. The order in which streets are cleared often depends on traffic volume, emergency access needs, and available equipment.\nMain roads and routes near hospitals, fire stations, and police stations are usually given high priority. Residential streets may be cleared later, especially during storms that continue for several hours. This does not mean those streets are ignored; rather, crews must focus first on areas that affect the greatest number of people or are essential for emergency response.\nCity officials often remind residents to move parked vehicles when possible so plows can clear streets more effectively.\n\nWhy may residential streets be cleared later?",
+    "choices": {
+      "A": "They are always warmer than main roads.",
+      "B": "Residents are responsible for plowing all public streets.",
+      "C": "Crews must first focus on higher-priority areas.",
+      "D": "Snow cannot collect on residential roads."
+    },
+    "correct": "C",
+    "explanation": "Residential streets may be cleared later because crews must first focus on areas that affect more people or emergency response."
+  },
+  {
+    "id": "RC8-032",
+    "prompt": "Passage 7\nMany cities operate snow removal programs during winter weather. Crews may spread salt or sand, plow major roads, clear public parking areas, and respond to hazardous conditions. The order in which streets are cleared often depends on traffic volume, emergency access needs, and available equipment.\nMain roads and routes near hospitals, fire stations, and police stations are usually given high priority. Residential streets may be cleared later, especially during storms that continue for several hours. This does not mean those streets are ignored; rather, crews must focus first on areas that affect the greatest number of people or are essential for emergency response.\nCity officials often remind residents to move parked vehicles when possible so plows can clear streets more effectively.\n\nWhat do officials often ask residents to do?",
+    "choices": {
+      "A": "Move parked vehicles when possible",
+      "B": "Add more snow to the street",
+      "C": "Block plows from entering neighborhoods",
+      "D": "Avoid using public information notices"
+    },
+    "correct": "A",
+    "explanation": "City officials often remind residents to move parked vehicles when possible so plows can clear streets more effectively."
+  },
+  {
+    "id": "RC8-033",
+    "prompt": "Passage 8\nA regional employer recently reviewed its apprenticeship application workshops. These workshops help applicants understand the application process, gather required documents, and practice basic reading and math skills.\nStaff found that applicants who attended a workshop were more likely to submit complete applications. Many participants said the workshop helped them understand deadlines and avoid missing required forms. However, staff also noticed that some applicants still struggled with providing accurate contact information.\nIn response, the employer revised the workshop checklist to include a separate step for confirming phone numbers, email addresses, and mailing addresses. Staff believe this small change may reduce delays in communicating with applicants.\n\nWhat is the main purpose of the workshops?",
+    "choices": {
+      "A": "To replace apprenticeship training",
+      "B": "To help applicants understand the application process and prepare materials",
+      "C": "To guarantee every applicant a job",
+      "D": "To teach advanced college-level science"
+    },
+    "correct": "B",
+    "explanation": "The workshops help applicants understand the process, gather documents, and practice basic reading and math skills."
+  },
+  {
+    "id": "RC8-034",
+    "prompt": "Passage 8\nA regional employer recently reviewed its apprenticeship application workshops. These workshops help applicants understand the application process, gather required documents, and practice basic reading and math skills.\nStaff found that applicants who attended a workshop were more likely to submit complete applications. Many participants said the workshop helped them understand deadlines and avoid missing required forms. However, staff also noticed that some applicants still struggled with providing accurate contact information.\nIn response, the employer revised the workshop checklist to include a separate step for confirming phone numbers, email addresses, and mailing addresses. Staff believe this small change may reduce delays in communicating with applicants.\n\nWhat were workshop attendees more likely to do?",
+    "choices": {
+      "A": "Submit complete applications",
+      "B": "Miss every deadline",
+      "C": "Avoid reading and math practice",
+      "D": "Refuse to provide documents"
+    },
+    "correct": "A",
+    "explanation": "Staff found that applicants who attended a workshop were more likely to submit complete applications."
+  },
+  {
+    "id": "RC8-035",
+    "prompt": "Passage 8\nA regional employer recently reviewed its apprenticeship application workshops. These workshops help applicants understand the application process, gather required documents, and practice basic reading and math skills.\nStaff found that applicants who attended a workshop were more likely to submit complete applications. Many participants said the workshop helped them understand deadlines and avoid missing required forms. However, staff also noticed that some applicants still struggled with providing accurate contact information.\nIn response, the employer revised the workshop checklist to include a separate step for confirming phone numbers, email addresses, and mailing addresses. Staff believe this small change may reduce delays in communicating with applicants.\n\nWhat problem did some applicants still have?",
+    "choices": {
+      "A": "They submitted applications too early.",
+      "B": "They were unable to attend interviews because of weather.",
+      "C": "They struggled with providing accurate contact information.",
+      "D": "They completed too many forms."
+    },
+    "correct": "C",
+    "explanation": "Some applicants still struggled with providing accurate contact information."
+  },
+  {
+    "id": "RC8-036",
+    "prompt": "Passage 8\nA regional employer recently reviewed its apprenticeship application workshops. These workshops help applicants understand the application process, gather required documents, and practice basic reading and math skills.\nStaff found that applicants who attended a workshop were more likely to submit complete applications. Many participants said the workshop helped them understand deadlines and avoid missing required forms. However, staff also noticed that some applicants still struggled with providing accurate contact information.\nIn response, the employer revised the workshop checklist to include a separate step for confirming phone numbers, email addresses, and mailing addresses. Staff believe this small change may reduce delays in communicating with applicants.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Small checklist changes may help reduce communication delays.",
+      "B": "Application workshops make documents unnecessary.",
+      "C": "Deadlines are not important in application processes.",
+      "D": "Applicants should avoid confirming contact information."
+    },
+    "correct": "A",
+    "explanation": "The revised checklist adds a step for confirming contact information, which may reduce delays in communication."
+  }
+]

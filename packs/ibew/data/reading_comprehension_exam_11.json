@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC11-001",
+    "prompt": "Passage 1\nA regional equipment rental company recently changed how it tracks returned tools. Previously, employees checked tools back in by writing the tool name and return date on a paper sheet. If a tool was damaged or missing accessories, that information was sometimes written in the margin or reported verbally to a supervisor.\nThe company introduced a digital return checklist for each tool category. When a tool is returned, employees select the tool type, confirm that required accessories are present, and record any visible damage. The system then updates the tool’s availability status.\nManagers report that the new process has reduced confusion about which tools are ready to rent again. It also helps the maintenance team identify damaged items before they are assigned to another customer.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped renting tools to customers.",
+      "B": "A digital return checklist improved tracking of returned tools.",
+      "C": "Employees now repair all damaged tools immediately.",
+      "D": "Paper return sheets were used only for accessories."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how a digital return checklist improved how returned tools are checked, tracked, and made available for rental again."
+  },
+  {
+    "id": "RC11-002",
+    "prompt": "Passage 1\nA regional equipment rental company recently changed how it tracks returned tools. Previously, employees checked tools back in by writing the tool name and return date on a paper sheet. If a tool was damaged or missing accessories, that information was sometimes written in the margin or reported verbally to a supervisor.\nThe company introduced a digital return checklist for each tool category. When a tool is returned, employees select the tool type, confirm that required accessories are present, and record any visible damage. The system then updates the tool’s availability status.\nManagers report that the new process has reduced confusion about which tools are ready to rent again. It also helps the maintenance team identify damaged items before they are assigned to another customer.\n\nWhat problem sometimes occurred under the old process?",
+    "choices": {
+      "A": "Damaged tools were always discarded.",
+      "B": "Customers filled out all return records.",
+      "C": "Damage or missing accessories were sometimes reported informally.",
+      "D": "Tools were never returned after rental."
+    },
+    "correct": "C",
+    "explanation": "Under the old process, damage or missing accessories were sometimes written in the margin or reported verbally, which made the information less consistent."
+  },
+  {
+    "id": "RC11-003",
+    "prompt": "Passage 1\nA regional equipment rental company recently changed how it tracks returned tools. Previously, employees checked tools back in by writing the tool name and return date on a paper sheet. If a tool was damaged or missing accessories, that information was sometimes written in the margin or reported verbally to a supervisor.\nThe company introduced a digital return checklist for each tool category. When a tool is returned, employees select the tool type, confirm that required accessories are present, and record any visible damage. The system then updates the tool’s availability status.\nManagers report that the new process has reduced confusion about which tools are ready to rent again. It also helps the maintenance team identify damaged items before they are assigned to another customer.\n\nWhat do employees confirm when using the digital checklist?",
+    "choices": {
+      "A": "That customers paid by cash",
+      "B": "That required accessories are present",
+      "C": "That the rental building is open",
+      "D": "That supervisors approved vacation time"
+    },
+    "correct": "B",
+    "explanation": "Employees confirm that required accessories are present when using the digital checklist."
+  },
+  {
+    "id": "RC11-004",
+    "prompt": "Passage 1\nA regional equipment rental company recently changed how it tracks returned tools. Previously, employees checked tools back in by writing the tool name and return date on a paper sheet. If a tool was damaged or missing accessories, that information was sometimes written in the margin or reported verbally to a supervisor.\nThe company introduced a digital return checklist for each tool category. When a tool is returned, employees select the tool type, confirm that required accessories are present, and record any visible damage. The system then updates the tool’s availability status.\nManagers report that the new process has reduced confusion about which tools are ready to rent again. It also helps the maintenance team identify damaged items before they are assigned to another customer.\n\nWhat does the system update after a tool is returned?",
+    "choices": {
+      "A": "The customer’s home address",
+      "B": "The employee’s work schedule",
+      "C": "The tool’s availability status",
+      "D": "The company’s advertising plan"
+    },
+    "correct": "C",
+    "explanation": "After a return is recorded, the system updates the tool’s availability status."
+  },
+  {
+    "id": "RC11-005",
+    "prompt": "Passage 1\nA regional equipment rental company recently changed how it tracks returned tools. Previously, employees checked tools back in by writing the tool name and return date on a paper sheet. If a tool was damaged or missing accessories, that information was sometimes written in the margin or reported verbally to a supervisor.\nThe company introduced a digital return checklist for each tool category. When a tool is returned, employees select the tool type, confirm that required accessories are present, and record any visible damage. The system then updates the tool’s availability status.\nManagers report that the new process has reduced confusion about which tools are ready to rent again. It also helps the maintenance team identify damaged items before they are assigned to another customer.\n\nThe word “availability” most nearly means:",
+    "choices": {
+      "A": "Repair cost",
+      "B": "Condition of being ready for use",
+      "C": "Difficulty level",
+      "D": "Length of ownership"
+    },
+    "correct": "B",
+    "explanation": "In context, “availability” means whether the tool is ready and able to be rented again."
+  },
+  {
+    "id": "RC11-006",
+    "prompt": "Passage 2\nMEMO\nTo: All Service Department Employees\nSubject: Updated Customer Callback Procedure\nBeginning June 10, service employees must record customer callback requests in the shared service log. Each entry should include the customer’s name, phone number, reason for the call, and the employee assigned to respond.\nThe change was made because callback requests were previously recorded in several different places, including notebooks, email messages, and individual phone notes. This made it difficult for supervisors to confirm whether every customer had received a response.\nEmployees should check the shared log at the start and end of each shift.\n\nWhat is the purpose of the memo?",
+    "choices": {
+      "A": "To announce a new customer callback procedure",
+      "B": "To cancel customer phone service",
+      "C": "To introduce a new employee uniform",
+      "D": "To explain billing rates"
+    },
+    "correct": "A",
+    "explanation": "The memo announces the updated customer callback procedure and explains how employees should record requests."
+  },
+  {
+    "id": "RC11-007",
+    "prompt": "Passage 2\nMEMO\nTo: All Service Department Employees\nSubject: Updated Customer Callback Procedure\nBeginning June 10, service employees must record customer callback requests in the shared service log. Each entry should include the customer’s name, phone number, reason for the call, and the employee assigned to respond.\nThe change was made because callback requests were previously recorded in several different places, including notebooks, email messages, and individual phone notes. This made it difficult for supervisors to confirm whether every customer had received a response.\nEmployees should check the shared log at the start and end of each shift.\n\nWhat information should each callback entry include?",
+    "choices": {
+      "A": "Customer name, phone number, reason for the call, and assigned employee",
+      "B": "Employee break times and parking locations",
+      "C": "Product prices and sales tax rates",
+      "D": "Building repair costs and inspection dates"
+    },
+    "correct": "A",
+    "explanation": "Each entry should include the customer’s name, phone number, reason for the call, and assigned employee."
+  },
+  {
+    "id": "RC11-008",
+    "prompt": "Passage 2\nMEMO\nTo: All Service Department Employees\nSubject: Updated Customer Callback Procedure\nBeginning June 10, service employees must record customer callback requests in the shared service log. Each entry should include the customer’s name, phone number, reason for the call, and the employee assigned to respond.\nThe change was made because callback requests were previously recorded in several different places, including notebooks, email messages, and individual phone notes. This made it difficult for supervisors to confirm whether every customer had received a response.\nEmployees should check the shared log at the start and end of each shift.\n\nWhy was the procedure changed?",
+    "choices": {
+      "A": "Customers no longer wanted responses.",
+      "B": "Callback requests were recorded in too many different places.",
+      "C": "Supervisors wanted fewer records.",
+      "D": "Phone service was permanently removed."
+    },
+    "correct": "B",
+    "explanation": "The procedure changed because callback requests were being recorded in several different places, making tracking difficult."
+  },
+  {
+    "id": "RC11-009",
+    "prompt": "Passage 2\nMEMO\nTo: All Service Department Employees\nSubject: Updated Customer Callback Procedure\nBeginning June 10, service employees must record customer callback requests in the shared service log. Each entry should include the customer’s name, phone number, reason for the call, and the employee assigned to respond.\nThe change was made because callback requests were previously recorded in several different places, including notebooks, email messages, and individual phone notes. This made it difficult for supervisors to confirm whether every customer had received a response.\nEmployees should check the shared log at the start and end of each shift.\n\nWhen should employees check the shared log?",
+    "choices": {
+      "A": "Once per year",
+      "B": "Only after a customer complains",
+      "C": "At the start and end of each shift",
+      "D": "Before entering the parking lot"
+    },
+    "correct": "C",
+    "explanation": "Employees are told to check the shared log at the start and end of each shift."
+  },
+  {
+    "id": "RC11-010",
+    "prompt": "Passage 3\nMany warehouses use cycle counting to monitor inventory accuracy. Instead of counting every item in the warehouse at one time, employees count selected groups of items on a regular schedule. Over time, this allows the company to check inventory records without stopping normal operations for a full physical count.\nCycle counting can help identify problems such as misplaced items, incorrect quantities, or recording errors. If a certain product category repeatedly shows differences between the system record and the actual shelf count, managers may review receiving, picking, or stocking procedures.\nThe method works best when counts are performed carefully and results are investigated. Simply recording differences without looking for causes may not improve inventory accuracy.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Warehouses should never count inventory.",
+      "B": "Cycle counting helps warehouses monitor inventory accuracy without stopping operations.",
+      "C": "Full physical counts are required every day.",
+      "D": "Inventory records are always correct."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how cycle counting lets warehouses check inventory accuracy regularly without stopping normal operations."
+  },
+  {
+    "id": "RC11-011",
+    "prompt": "Passage 3\nMany warehouses use cycle counting to monitor inventory accuracy. Instead of counting every item in the warehouse at one time, employees count selected groups of items on a regular schedule. Over time, this allows the company to check inventory records without stopping normal operations for a full physical count.\nCycle counting can help identify problems such as misplaced items, incorrect quantities, or recording errors. If a certain product category repeatedly shows differences between the system record and the actual shelf count, managers may review receiving, picking, or stocking procedures.\nThe method works best when counts are performed carefully and results are investigated. Simply recording differences without looking for causes may not improve inventory accuracy.\n\nHow is cycle counting different from counting every item at once?",
+    "choices": {
+      "A": "It counts selected groups of items on a regular schedule.",
+      "B": "It avoids checking inventory records.",
+      "C": "It requires customers to count warehouse items.",
+      "D": "It counts only damaged products."
+    },
+    "correct": "A",
+    "explanation": "Cycle counting involves counting selected groups of items on a regular schedule instead of counting everything at once."
+  },
+  {
+    "id": "RC11-012",
+    "prompt": "Passage 3\nMany warehouses use cycle counting to monitor inventory accuracy. Instead of counting every item in the warehouse at one time, employees count selected groups of items on a regular schedule. Over time, this allows the company to check inventory records without stopping normal operations for a full physical count.\nCycle counting can help identify problems such as misplaced items, incorrect quantities, or recording errors. If a certain product category repeatedly shows differences between the system record and the actual shelf count, managers may review receiving, picking, or stocking procedures.\nThe method works best when counts are performed carefully and results are investigated. Simply recording differences without looking for causes may not improve inventory accuracy.\n\nWhich problem can cycle counting help identify?",
+    "choices": {
+      "A": "Employee lunch preferences",
+      "B": "Misplaced items",
+      "C": "Parking shortages",
+      "D": "Customer advertising requests"
+    },
+    "correct": "B",
+    "explanation": "The passage specifically states that cycle counting can help identify misplaced items, incorrect quantities, and recording errors."
+  },
+  {
+    "id": "RC11-013",
+    "prompt": "Passage 3\nMany warehouses use cycle counting to monitor inventory accuracy. Instead of counting every item in the warehouse at one time, employees count selected groups of items on a regular schedule. Over time, this allows the company to check inventory records without stopping normal operations for a full physical count.\nCycle counting can help identify problems such as misplaced items, incorrect quantities, or recording errors. If a certain product category repeatedly shows differences between the system record and the actual shelf count, managers may review receiving, picking, or stocking procedures.\nThe method works best when counts are performed carefully and results are investigated. Simply recording differences without looking for causes may not improve inventory accuracy.\n\nWhat might managers review if repeated inventory differences appear?",
+    "choices": {
+      "A": "Receiving, picking, or stocking procedures",
+      "B": "Employee vacation photos",
+      "C": "Weather reports",
+      "D": "Customer seating charts"
+    },
+    "correct": "A",
+    "explanation": "If differences repeat, managers may review receiving, picking, or stocking procedures to find the cause."
+  },
+  {
+    "id": "RC11-014",
+    "prompt": "Passage 3\nMany warehouses use cycle counting to monitor inventory accuracy. Instead of counting every item in the warehouse at one time, employees count selected groups of items on a regular schedule. Over time, this allows the company to check inventory records without stopping normal operations for a full physical count.\nCycle counting can help identify problems such as misplaced items, incorrect quantities, or recording errors. If a certain product category repeatedly shows differences between the system record and the actual shelf count, managers may review receiving, picking, or stocking procedures.\nThe method works best when counts are performed carefully and results are investigated. Simply recording differences without looking for causes may not improve inventory accuracy.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Inventory counts are useful only when errors are ignored.",
+      "B": "Cycle counting is most useful when differences are investigated.",
+      "C": "Warehouses should stop normal operations every time an item is counted.",
+      "D": "Recording errors cannot affect inventory accuracy."
+    },
+    "correct": "B",
+    "explanation": "The passage says cycle counting works best when differences are investigated, not merely recorded."
+  },
+  {
+    "id": "RC11-015",
+    "prompt": "Passage 4\nBefore modern traffic signals became common, busy intersections were often controlled by police officers or simple signs. As automobile traffic increased, this approach became harder to manage. Drivers sometimes had difficulty knowing when to proceed, especially when traffic came from several directions.\nTraffic signals helped create a more orderly system for controlling intersections. By assigning right-of-way through red, yellow, and green lights, signals reduced confusion and helped traffic move more predictably. Later improvements included pedestrian signals, turn arrows, and timing systems that could be adjusted for traffic conditions.\nToday, traffic signals remain an important part of road safety. Engineers continue to review signal timing and intersection design to improve safety and reduce delays.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Traffic signals helped make intersections safer and more orderly.",
+      "B": "Police officers no longer work near roads.",
+      "C": "Automobiles are no longer used in cities.",
+      "D": "Pedestrian signals caused traffic systems to fail."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how traffic signals made intersections more orderly and continue to support road safety."
+  },
+  {
+    "id": "RC11-016",
+    "prompt": "Passage 4\nBefore modern traffic signals became common, busy intersections were often controlled by police officers or simple signs. As automobile traffic increased, this approach became harder to manage. Drivers sometimes had difficulty knowing when to proceed, especially when traffic came from several directions.\nTraffic signals helped create a more orderly system for controlling intersections. By assigning right-of-way through red, yellow, and green lights, signals reduced confusion and helped traffic move more predictably. Later improvements included pedestrian signals, turn arrows, and timing systems that could be adjusted for traffic conditions.\nToday, traffic signals remain an important part of road safety. Engineers continue to review signal timing and intersection design to improve safety and reduce delays.\n\nWhat made older intersection control methods harder to manage?",
+    "choices": {
+      "A": "A decrease in road use",
+      "B": "Increased automobile traffic",
+      "C": "A lack of road signs anywhere",
+      "D": "The removal of all intersections"
+    },
+    "correct": "B",
+    "explanation": "Older methods became harder to manage as automobile traffic increased."
+  },
+  {
+    "id": "RC11-017",
+    "prompt": "Passage 4\nBefore modern traffic signals became common, busy intersections were often controlled by police officers or simple signs. As automobile traffic increased, this approach became harder to manage. Drivers sometimes had difficulty knowing when to proceed, especially when traffic came from several directions.\nTraffic signals helped create a more orderly system for controlling intersections. By assigning right-of-way through red, yellow, and green lights, signals reduced confusion and helped traffic move more predictably. Later improvements included pedestrian signals, turn arrows, and timing systems that could be adjusted for traffic conditions.\nToday, traffic signals remain an important part of road safety. Engineers continue to review signal timing and intersection design to improve safety and reduce delays.\n\nHow do traffic signals assign right-of-way?",
+    "choices": {
+      "A": "Through customer requests",
+      "B": "Through red, yellow, and green lights",
+      "C": "Through handwritten letters",
+      "D": "Through vehicle repair records"
+    },
+    "correct": "B",
+    "explanation": "Traffic signals assign right-of-way through red, yellow, and green lights."
+  },
+  {
+    "id": "RC11-018",
+    "prompt": "Passage 4\nBefore modern traffic signals became common, busy intersections were often controlled by police officers or simple signs. As automobile traffic increased, this approach became harder to manage. Drivers sometimes had difficulty knowing when to proceed, especially when traffic came from several directions.\nTraffic signals helped create a more orderly system for controlling intersections. By assigning right-of-way through red, yellow, and green lights, signals reduced confusion and helped traffic move more predictably. Later improvements included pedestrian signals, turn arrows, and timing systems that could be adjusted for traffic conditions.\nToday, traffic signals remain an important part of road safety. Engineers continue to review signal timing and intersection design to improve safety and reduce delays.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It compares two unrelated machines.",
+      "B": "It explains an earlier problem, a solution, and later improvements.",
+      "C": "It lists instructions for driving a truck.",
+      "D": "It argues against road safety planning."
+    },
+    "correct": "B",
+    "explanation": "The passage presents an earlier problem, explains traffic signals as the solution, and then describes later improvements."
+  },
+  {
+    "id": "RC11-019",
+    "prompt": "Passage 5\nA regional packaging company recently began using moisture-resistant labels on shipments that may be exposed to damp conditions. Previously, standard paper labels were used on all shipments. During rainy weather or humid storage conditions, some labels became difficult to read, which occasionally delayed sorting and delivery.\nThe new labels are designed to remain readable even when exposed to moisture. Shipping employees tested the labels on several product lines before the company expanded their use. Managers found that the labels were especially helpful for outdoor deliveries and warehouse areas where temperature changes caused condensation.\nAlthough the new labels cost more than standard paper labels, company leaders believe the added expense is justified if it reduces delivery problems and customer complaints.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped using labels on shipments.",
+      "B": "Moisture-resistant labels helped reduce problems caused by unreadable shipping labels.",
+      "C": "Customers now sort all packages themselves.",
+      "D": "Standard paper labels work best in every condition."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how moisture-resistant labels reduce problems caused by labels becoming unreadable in damp conditions."
+  },
+  {
+    "id": "RC11-020",
+    "prompt": "Passage 5\nA regional packaging company recently began using moisture-resistant labels on shipments that may be exposed to damp conditions. Previously, standard paper labels were used on all shipments. During rainy weather or humid storage conditions, some labels became difficult to read, which occasionally delayed sorting and delivery.\nThe new labels are designed to remain readable even when exposed to moisture. Shipping employees tested the labels on several product lines before the company expanded their use. Managers found that the labels were especially helpful for outdoor deliveries and warehouse areas where temperature changes caused condensation.\nAlthough the new labels cost more than standard paper labels, company leaders believe the added expense is justified if it reduces delivery problems and customer complaints.\n\nWhat problem occurred with standard paper labels?",
+    "choices": {
+      "A": "They sometimes became difficult to read in damp conditions.",
+      "B": "They were too large for boxes.",
+      "C": "They included too much customer information.",
+      "D": "They were never used during rainy weather."
+    },
+    "correct": "A",
+    "explanation": "Standard paper labels sometimes became hard to read during rainy weather or humid storage conditions."
+  },
+  {
+    "id": "RC11-021",
+    "prompt": "Passage 5\nA regional packaging company recently began using moisture-resistant labels on shipments that may be exposed to damp conditions. Previously, standard paper labels were used on all shipments. During rainy weather or humid storage conditions, some labels became difficult to read, which occasionally delayed sorting and delivery.\nThe new labels are designed to remain readable even when exposed to moisture. Shipping employees tested the labels on several product lines before the company expanded their use. Managers found that the labels were especially helpful for outdoor deliveries and warehouse areas where temperature changes caused condensation.\nAlthough the new labels cost more than standard paper labels, company leaders believe the added expense is justified if it reduces delivery problems and customer complaints.\n\nWhere were the new labels especially helpful?",
+    "choices": {
+      "A": "In employee breakrooms",
+      "B": "In outdoor deliveries and areas with condensation",
+      "C": "In payroll offices",
+      "D": "In customer parking spaces"
+    },
+    "correct": "B",
+    "explanation": "The labels were especially helpful for outdoor deliveries and warehouse areas where condensation occurred."
+  },
+  {
+    "id": "RC11-022",
+    "prompt": "Passage 5\nA regional packaging company recently began using moisture-resistant labels on shipments that may be exposed to damp conditions. Previously, standard paper labels were used on all shipments. During rainy weather or humid storage conditions, some labels became difficult to read, which occasionally delayed sorting and delivery.\nThe new labels are designed to remain readable even when exposed to moisture. Shipping employees tested the labels on several product lines before the company expanded their use. Managers found that the labels were especially helpful for outdoor deliveries and warehouse areas where temperature changes caused condensation.\nAlthough the new labels cost more than standard paper labels, company leaders believe the added expense is justified if it reduces delivery problems and customer complaints.\n\nWhy do company leaders believe the added expense is justified?",
+    "choices": {
+      "A": "The labels may reduce delivery problems and customer complaints.",
+      "B": "The labels eliminate the need for shipping employees.",
+      "C": "The labels prevent all weather changes.",
+      "D": "The labels make sorting unnecessary."
+    },
+    "correct": "A",
+    "explanation": "Leaders believe the higher cost is justified because the labels may reduce delivery problems and customer complaints."
+  },
+  {
+    "id": "RC11-023",
+    "prompt": "Passage 5\nA regional packaging company recently began using moisture-resistant labels on shipments that may be exposed to damp conditions. Previously, standard paper labels were used on all shipments. During rainy weather or humid storage conditions, some labels became difficult to read, which occasionally delayed sorting and delivery.\nThe new labels are designed to remain readable even when exposed to moisture. Shipping employees tested the labels on several product lines before the company expanded their use. Managers found that the labels were especially helpful for outdoor deliveries and warehouse areas where temperature changes caused condensation.\nAlthough the new labels cost more than standard paper labels, company leaders believe the added expense is justified if it reduces delivery problems and customer complaints.\n\nThe word “justified” most nearly means:",
+    "choices": {
+      "A": "Difficult to read",
+      "B": "Shown to be reasonable",
+      "C": "Completely hidden",
+      "D": "Delayed without cause"
+    },
+    "correct": "B",
+    "explanation": "In context, “justified” means shown to be reasonable or worth the added expense."
+  },
+  {
+    "id": "RC11-024",
+    "prompt": "Passage 6\nMany organizations use document version control to avoid confusion when several people work on the same file. Version control helps users identify the most current document and track changes made over time.\nWithout version control, employees may accidentally use outdated instructions, duplicate someone else’s work, or send customers incorrect information. A clear system may include file names with dates, revision numbers, approval notes, or a shared location where current documents are stored.\nVersion control works best when everyone follows the same rules. If some employees save separate copies in personal folders while others use the shared system, confusion can continue.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Document version control helps prevent confusion when files are updated or shared.",
+      "B": "Employees should keep all documents in personal folders.",
+      "C": "Customers should write company documents.",
+      "D": "Revision numbers make files impossible to use."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that version control helps employees identify current documents and avoid confusion when files change."
+  },
+  {
+    "id": "RC11-025",
+    "prompt": "Passage 6\nMany organizations use document version control to avoid confusion when several people work on the same file. Version control helps users identify the most current document and track changes made over time.\nWithout version control, employees may accidentally use outdated instructions, duplicate someone else’s work, or send customers incorrect information. A clear system may include file names with dates, revision numbers, approval notes, or a shared location where current documents are stored.\nVersion control works best when everyone follows the same rules. If some employees save separate copies in personal folders while others use the shared system, confusion can continue.\n\nWhat can happen without version control?",
+    "choices": {
+      "A": "Employees may use outdated instructions.",
+      "B": "All files automatically update.",
+      "C": "Customers receive fewer documents.",
+      "D": "Approval notes disappear from every file."
+    },
+    "correct": "A",
+    "explanation": "Without version control, employees may use outdated instructions, duplicate work, or send incorrect information."
+  },
+  {
+    "id": "RC11-026",
+    "prompt": "Passage 6\nMany organizations use document version control to avoid confusion when several people work on the same file. Version control helps users identify the most current document and track changes made over time.\nWithout version control, employees may accidentally use outdated instructions, duplicate someone else’s work, or send customers incorrect information. A clear system may include file names with dates, revision numbers, approval notes, or a shared location where current documents are stored.\nVersion control works best when everyone follows the same rules. If some employees save separate copies in personal folders while others use the shared system, confusion can continue.\n\nWhich item may be part of a clear version-control system?",
+    "choices": {
+      "A": "Revision numbers",
+      "B": "Employee lunch menus",
+      "C": "Delivery vehicle mileage",
+      "D": "Weather alerts"
+    },
+    "correct": "A",
+    "explanation": "Revision numbers are listed as one possible part of a clear version-control system."
+  },
+  {
+    "id": "RC11-027",
+    "prompt": "Passage 6\nMany organizations use document version control to avoid confusion when several people work on the same file. Version control helps users identify the most current document and track changes made over time.\nWithout version control, employees may accidentally use outdated instructions, duplicate someone else’s work, or send customers incorrect information. A clear system may include file names with dates, revision numbers, approval notes, or a shared location where current documents are stored.\nVersion control works best when everyone follows the same rules. If some employees save separate copies in personal folders while others use the shared system, confusion can continue.\n\nWhy must everyone follow the same version-control rules?",
+    "choices": {
+      "A": "Otherwise, confusion can continue.",
+      "B": "Otherwise, documents become shorter.",
+      "C": "Otherwise, customers write all revisions.",
+      "D": "Otherwise, computers cannot print files."
+    },
+    "correct": "A",
+    "explanation": "The passage states that if some employees do not follow the shared system, confusion can continue."
+  },
+  {
+    "id": "RC11-028",
+    "prompt": "Passage 6\nMany organizations use document version control to avoid confusion when several people work on the same file. Version control helps users identify the most current document and track changes made over time.\nWithout version control, employees may accidentally use outdated instructions, duplicate someone else’s work, or send customers incorrect information. A clear system may include file names with dates, revision numbers, approval notes, or a shared location where current documents are stored.\nVersion control works best when everyone follows the same rules. If some employees save separate copies in personal folders while others use the shared system, confusion can continue.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Shared document systems are useful only if employees use them consistently.",
+      "B": "Version control prevents every workplace error.",
+      "C": "Separate personal copies always reduce confusion.",
+      "D": "Outdated instructions are usually safer than current ones."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that shared systems work only when employees use them consistently."
+  },
+  {
+    "id": "RC11-029",
+    "prompt": "Passage 7\nMany communities use public noise ordinances to manage sound levels in residential and commercial areas. These rules may limit loud construction work, amplified music, vehicle noise, or other activities during certain hours.\nThe purpose of a noise ordinance is to balance different needs. Businesses and residents may need to complete work, hold events, or receive deliveries, but nearby people also need reasonable quiet, especially during nighttime hours. Clear rules help reduce disputes by setting expectations for when loud activities are allowed.\nEnforcement often depends on complaints, sound measurements, and local procedures. Communities may review ordinances when growth, new businesses, or repeated complaints show that existing rules need adjustment.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How communities use noise ordinances to balance activity and quiet",
+      "B": "Why all construction work should be banned",
+      "C": "How vehicles are manufactured",
+      "D": "Why businesses should ignore local rules"
+    },
+    "correct": "A",
+    "explanation": "The passage explains how noise ordinances balance the needs of businesses, residents, and public quiet."
+  },
+  {
+    "id": "RC11-030",
+    "prompt": "Passage 7\nMany communities use public noise ordinances to manage sound levels in residential and commercial areas. These rules may limit loud construction work, amplified music, vehicle noise, or other activities during certain hours.\nThe purpose of a noise ordinance is to balance different needs. Businesses and residents may need to complete work, hold events, or receive deliveries, but nearby people also need reasonable quiet, especially during nighttime hours. Clear rules help reduce disputes by setting expectations for when loud activities are allowed.\nEnforcement often depends on complaints, sound measurements, and local procedures. Communities may review ordinances when growth, new businesses, or repeated complaints show that existing rules need adjustment.\n\nWhat may a noise ordinance limit?",
+    "choices": {
+      "A": "Loud construction work or amplified music",
+      "B": "Public water treatment",
+      "C": "Employee training records",
+      "D": "Grocery store prices"
+    },
+    "correct": "A",
+    "explanation": "Noise ordinances may limit loud construction work, amplified music, vehicle noise, and similar activities."
+  },
+  {
+    "id": "RC11-031",
+    "prompt": "Passage 7\nMany communities use public noise ordinances to manage sound levels in residential and commercial areas. These rules may limit loud construction work, amplified music, vehicle noise, or other activities during certain hours.\nThe purpose of a noise ordinance is to balance different needs. Businesses and residents may need to complete work, hold events, or receive deliveries, but nearby people also need reasonable quiet, especially during nighttime hours. Clear rules help reduce disputes by setting expectations for when loud activities are allowed.\nEnforcement often depends on complaints, sound measurements, and local procedures. Communities may review ordinances when growth, new businesses, or repeated complaints show that existing rules need adjustment.\n\nWhy do clear noise rules help reduce disputes?",
+    "choices": {
+      "A": "They set expectations for when loud activities are allowed.",
+      "B": "They prevent all businesses from operating.",
+      "C": "They remove the need for local procedures.",
+      "D": "They make nighttime hours louder."
+    },
+    "correct": "A",
+    "explanation": "Clear rules reduce disputes by setting expectations for when loud activities are allowed."
+  },
+  {
+    "id": "RC11-032",
+    "prompt": "Passage 7\nMany communities use public noise ordinances to manage sound levels in residential and commercial areas. These rules may limit loud construction work, amplified music, vehicle noise, or other activities during certain hours.\nThe purpose of a noise ordinance is to balance different needs. Businesses and residents may need to complete work, hold events, or receive deliveries, but nearby people also need reasonable quiet, especially during nighttime hours. Clear rules help reduce disputes by setting expectations for when loud activities are allowed.\nEnforcement often depends on complaints, sound measurements, and local procedures. Communities may review ordinances when growth, new businesses, or repeated complaints show that existing rules need adjustment.\n\nWhen may communities review noise ordinances?",
+    "choices": {
+      "A": "When growth, new businesses, or repeated complaints suggest changes are needed",
+      "B": "Only when no one reports noise",
+      "C": "After all commercial areas are closed",
+      "D": "Before any sound is produced anywhere"
+    },
+    "correct": "A",
+    "explanation": "Communities may review ordinances when growth, new businesses, or repeated complaints show that changes may be needed."
+  },
+  {
+    "id": "RC11-033",
+    "prompt": "Passage 8\nA technical training center recently studied why some students did not complete its evening certification course. The course was designed for adults who were preparing for entry-level technical jobs while continuing to work during the day.\nStaff reviewed attendance records and surveyed students who withdrew. The most common reasons were schedule conflicts, transportation issues, and difficulty keeping up with weekly assignments. Several students said they understood the material during class but fell behind when they missed one or two sessions.\nIn response, the center added a weekly review period and created a system for students to request missed handouts and practice problems. Staff hope these changes will help students recover more quickly after absences.\n\nWhat was the purpose of the study?",
+    "choices": {
+      "A": "To find out why some students did not complete the evening certification course",
+      "B": "To replace all evening courses with daytime classes",
+      "C": "To remove technical training from the center",
+      "D": "To measure employee parking use"
+    },
+    "correct": "A",
+    "explanation": "The study was conducted to learn why some students did not complete the evening certification course."
+  },
+  {
+    "id": "RC11-034",
+    "prompt": "Passage 8\nA technical training center recently studied why some students did not complete its evening certification course. The course was designed for adults who were preparing for entry-level technical jobs while continuing to work during the day.\nStaff reviewed attendance records and surveyed students who withdrew. The most common reasons were schedule conflicts, transportation issues, and difficulty keeping up with weekly assignments. Several students said they understood the material during class but fell behind when they missed one or two sessions.\nIn response, the center added a weekly review period and created a system for students to request missed handouts and practice problems. Staff hope these changes will help students recover more quickly after absences.\n\nWhich reason for withdrawal was commonly reported?",
+    "choices": {
+      "A": "Schedule conflicts",
+      "B": "Too many instructors",
+      "C": "Lack of classroom lighting",
+      "D": "Excessive course advertising"
+    },
+    "correct": "A",
+    "explanation": "Schedule conflicts were one of the most common reasons students withdrew."
+  },
+  {
+    "id": "RC11-035",
+    "prompt": "Passage 8\nA technical training center recently studied why some students did not complete its evening certification course. The course was designed for adults who were preparing for entry-level technical jobs while continuing to work during the day.\nStaff reviewed attendance records and surveyed students who withdrew. The most common reasons were schedule conflicts, transportation issues, and difficulty keeping up with weekly assignments. Several students said they understood the material during class but fell behind when they missed one or two sessions.\nIn response, the center added a weekly review period and created a system for students to request missed handouts and practice problems. Staff hope these changes will help students recover more quickly after absences.\n\nWhat problem did some students describe after missing sessions?",
+    "choices": {
+      "A": "They fell behind even if they understood the material during class.",
+      "B": "They finished the course faster.",
+      "C": "They no longer needed assignments.",
+      "D": "They became instructors immediately."
+    },
+    "correct": "A",
+    "explanation": "Several students said they understood the material during class but fell behind after missing sessions."
+  },
+  {
+    "id": "RC11-036",
+    "prompt": "Passage 8\nA technical training center recently studied why some students did not complete its evening certification course. The course was designed for adults who were preparing for entry-level technical jobs while continuing to work during the day.\nStaff reviewed attendance records and surveyed students who withdrew. The most common reasons were schedule conflicts, transportation issues, and difficulty keeping up with weekly assignments. Several students said they understood the material during class but fell behind when they missed one or two sessions.\nIn response, the center added a weekly review period and created a system for students to request missed handouts and practice problems. Staff hope these changes will help students recover more quickly after absences.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Support after absences may help adult students stay on track.",
+      "B": "Students who miss class never need review materials.",
+      "C": "Evening courses are designed only for people who do not work.",
+      "D": "Transportation issues cannot affect course completion."
+    },
+    "correct": "A",
+    "explanation": "The added review period and missed-material system support the idea that help after absences may keep adult students on track."
+  }
+]

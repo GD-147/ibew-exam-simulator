@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC3-001",
+    "prompt": "Passage 1\nA food distribution company recently upgraded its fleet management system. Previously, dispatchers communicated with drivers primarily through phone calls and paper schedules. While the system worked, it often made it difficult to respond quickly to traffic delays, route changes, or unexpected customer requests.\nThe new system uses GPS technology and mobile communication devices installed in delivery vehicles. Dispatchers can monitor vehicle locations in real time and send updated instructions directly to drivers. Managers report that delivery schedules have become more reliable and that fuel usage has decreased due to more efficient route planning.\nThe company also uses the data collected by the system to evaluate delivery patterns and identify opportunities for improvement. Although implementing the system required training and investment, company leaders believe the long-term benefits outweigh the costs.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company plans to reduce the number of drivers.",
+      "B": "A fleet management upgrade improved delivery operations.",
+      "C": "Paper schedules are more effective than GPS systems.",
+      "D": "Fuel prices have increased significantly."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the company's new fleet management system improved delivery operations through GPS tracking, communication tools, and data analysis."
+  },
+  {
+    "id": "RC3-002",
+    "prompt": "Passage 1\nA food distribution company recently upgraded its fleet management system. Previously, dispatchers communicated with drivers primarily through phone calls and paper schedules. While the system worked, it often made it difficult to respond quickly to traffic delays, route changes, or unexpected customer requests.\nThe new system uses GPS technology and mobile communication devices installed in delivery vehicles. Dispatchers can monitor vehicle locations in real time and send updated instructions directly to drivers. Managers report that delivery schedules have become more reliable and that fuel usage has decreased due to more efficient route planning.\nThe company also uses the data collected by the system to evaluate delivery patterns and identify opportunities for improvement. Although implementing the system required training and investment, company leaders believe the long-term benefits outweigh the costs.\n\nWhat challenge existed with the previous system?",
+    "choices": {
+      "A": "Vehicles could not be repaired.",
+      "B": "Drivers lacked delivery addresses.",
+      "C": "It was difficult to respond quickly to changing conditions.",
+      "D": "Customers refused deliveries."
+    },
+    "correct": "C",
+    "explanation": "The previous system made it difficult to respond quickly to traffic delays, route changes, and unexpected customer requests."
+  },
+  {
+    "id": "RC3-003",
+    "prompt": "Passage 1\nA food distribution company recently upgraded its fleet management system. Previously, dispatchers communicated with drivers primarily through phone calls and paper schedules. While the system worked, it often made it difficult to respond quickly to traffic delays, route changes, or unexpected customer requests.\nThe new system uses GPS technology and mobile communication devices installed in delivery vehicles. Dispatchers can monitor vehicle locations in real time and send updated instructions directly to drivers. Managers report that delivery schedules have become more reliable and that fuel usage has decreased due to more efficient route planning.\nThe company also uses the data collected by the system to evaluate delivery patterns and identify opportunities for improvement. Although implementing the system required training and investment, company leaders believe the long-term benefits outweigh the costs.\n\nWhat technology allows dispatchers to monitor vehicle locations?",
+    "choices": {
+      "A": "Barcode scanners",
+      "B": "GPS technology",
+      "C": "Security cameras",
+      "D": "Warehouse sensors"
+    },
+    "correct": "B",
+    "explanation": "The passage states that GPS technology allows dispatchers to monitor vehicle locations in real time."
+  },
+  {
+    "id": "RC3-004",
+    "prompt": "Passage 1\nA food distribution company recently upgraded its fleet management system. Previously, dispatchers communicated with drivers primarily through phone calls and paper schedules. While the system worked, it often made it difficult to respond quickly to traffic delays, route changes, or unexpected customer requests.\nThe new system uses GPS technology and mobile communication devices installed in delivery vehicles. Dispatchers can monitor vehicle locations in real time and send updated instructions directly to drivers. Managers report that delivery schedules have become more reliable and that fuel usage has decreased due to more efficient route planning.\nThe company also uses the data collected by the system to evaluate delivery patterns and identify opportunities for improvement. Although implementing the system required training and investment, company leaders believe the long-term benefits outweigh the costs.\n\nAccording to the passage, what benefit resulted from improved route planning?",
+    "choices": {
+      "A": "Increased paperwork",
+      "B": "Reduced fuel usage",
+      "C": "Longer delivery times",
+      "D": "Fewer customer orders"
+    },
+    "correct": "B",
+    "explanation": "Managers reported that fuel usage decreased because routes could be planned more efficiently."
+  },
+  {
+    "id": "RC3-005",
+    "prompt": "Passage 1\nA food distribution company recently upgraded its fleet management system. Previously, dispatchers communicated with drivers primarily through phone calls and paper schedules. While the system worked, it often made it difficult to respond quickly to traffic delays, route changes, or unexpected customer requests.\nThe new system uses GPS technology and mobile communication devices installed in delivery vehicles. Dispatchers can monitor vehicle locations in real time and send updated instructions directly to drivers. Managers report that delivery schedules have become more reliable and that fuel usage has decreased due to more efficient route planning.\nThe company also uses the data collected by the system to evaluate delivery patterns and identify opportunities for improvement. Although implementing the system required training and investment, company leaders believe the long-term benefits outweigh the costs.\n\nThe word “implementing” most nearly means:",
+    "choices": {
+      "A": "Ignoring",
+      "B": "Replacing",
+      "C": "Putting into use",
+      "D": "Measuring"
+    },
+    "correct": "C",
+    "explanation": "In context, \"implementing\" means putting the new system into use. The company trained employees before using it."
+  },
+  {
+    "id": "RC3-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 3, the employee training center will operate under a revised reservation system. Employees wishing to use training rooms must reserve space through the online scheduling portal.\nThe change is intended to improve room utilization and reduce scheduling conflicts. Under the previous system, reservations were sometimes recorded in multiple locations, leading to confusion about room availability.\nTraining center staff will provide assistance during the transition period. Employees are encouraged to review the online reservation guide before scheduling their first session.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new reservation process",
+      "B": "To close the training center",
+      "C": "To reduce employee training",
+      "D": "To introduce new instructors"
+    },
+    "correct": "A",
+    "explanation": "The notice informs employees about a new online reservation system for training rooms."
+  },
+  {
+    "id": "RC3-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 3, the employee training center will operate under a revised reservation system. Employees wishing to use training rooms must reserve space through the online scheduling portal.\nThe change is intended to improve room utilization and reduce scheduling conflicts. Under the previous system, reservations were sometimes recorded in multiple locations, leading to confusion about room availability.\nTraining center staff will provide assistance during the transition period. Employees are encouraged to review the online reservation guide before scheduling their first session.\n\nWhy was the change made?",
+    "choices": {
+      "A": "To increase scheduling conflicts",
+      "B": "To improve room utilization",
+      "C": "To reduce training opportunities",
+      "D": "To eliminate reservations"
+    },
+    "correct": "B",
+    "explanation": "The change was introduced to improve room utilization and reduce scheduling conflicts."
+  },
+  {
+    "id": "RC3-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 3, the employee training center will operate under a revised reservation system. Employees wishing to use training rooms must reserve space through the online scheduling portal.\nThe change is intended to improve room utilization and reduce scheduling conflicts. Under the previous system, reservations were sometimes recorded in multiple locations, leading to confusion about room availability.\nTraining center staff will provide assistance during the transition period. Employees are encouraged to review the online reservation guide before scheduling their first session.\n\nWhat problem occurred under the previous system?",
+    "choices": {
+      "A": "Rooms were too small",
+      "B": "Employees refused training",
+      "C": "Reservations were sometimes recorded in multiple locations",
+      "D": "Online access was unavailable"
+    },
+    "correct": "C",
+    "explanation": "The notice explains that reservations were sometimes recorded in multiple places, causing confusion."
+  },
+  {
+    "id": "RC3-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 3, the employee training center will operate under a revised reservation system. Employees wishing to use training rooms must reserve space through the online scheduling portal.\nThe change is intended to improve room utilization and reduce scheduling conflicts. Under the previous system, reservations were sometimes recorded in multiple locations, leading to confusion about room availability.\nTraining center staff will provide assistance during the transition period. Employees are encouraged to review the online reservation guide before scheduling their first session.\n\nWhat are employees encouraged to review?",
+    "choices": {
+      "A": "Annual budgets",
+      "B": "Building blueprints",
+      "C": "The online reservation guide",
+      "D": "Safety inspection reports"
+    },
+    "correct": "C",
+    "explanation": "Employees are encouraged to review the online reservation guide before using the new system."
+  },
+  {
+    "id": "RC3-010",
+    "prompt": "Passage 3\nMany manufacturing facilities use conveyor systems to move materials between production areas. Conveyors can transport products efficiently and reduce the need for manual handling. As a result, production processes often become more consistent and predictable.\nHowever, conveyor systems require regular inspection and maintenance. Worn components, damaged belts, or alignment problems can affect performance and lead to unexpected downtime. For this reason, maintenance teams frequently monitor system condition and address issues before they become serious.\nAdvances in sensor technology now allow some facilities to track conveyor performance automatically. These systems can alert maintenance personnel when certain operating conditions fall outside normal ranges.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Conveyor systems are no longer used in manufacturing.",
+      "B": "Conveyor systems improve efficiency but require maintenance.",
+      "C": "Sensors have replaced maintenance workers.",
+      "D": "Production processes depend entirely on manual labor."
+    },
+    "correct": "B",
+    "explanation": "The passage explains both the advantages of conveyor systems and the need for regular maintenance and monitoring."
+  },
+  {
+    "id": "RC3-011",
+    "prompt": "Passage 3\nMany manufacturing facilities use conveyor systems to move materials between production areas. Conveyors can transport products efficiently and reduce the need for manual handling. As a result, production processes often become more consistent and predictable.\nHowever, conveyor systems require regular inspection and maintenance. Worn components, damaged belts, or alignment problems can affect performance and lead to unexpected downtime. For this reason, maintenance teams frequently monitor system condition and address issues before they become serious.\nAdvances in sensor technology now allow some facilities to track conveyor performance automatically. These systems can alert maintenance personnel when certain operating conditions fall outside normal ranges.\n\nWhat benefit of conveyor systems is mentioned?",
+    "choices": {
+      "A": "They eliminate maintenance costs.",
+      "B": "They transport materials efficiently.",
+      "C": "They reduce product demand.",
+      "D": "They increase manual handling."
+    },
+    "correct": "B",
+    "explanation": "A specific benefit mentioned is the efficient transportation of materials between production areas."
+  },
+  {
+    "id": "RC3-012",
+    "prompt": "Passage 3\nMany manufacturing facilities use conveyor systems to move materials between production areas. Conveyors can transport products efficiently and reduce the need for manual handling. As a result, production processes often become more consistent and predictable.\nHowever, conveyor systems require regular inspection and maintenance. Worn components, damaged belts, or alignment problems can affect performance and lead to unexpected downtime. For this reason, maintenance teams frequently monitor system condition and address issues before they become serious.\nAdvances in sensor technology now allow some facilities to track conveyor performance automatically. These systems can alert maintenance personnel when certain operating conditions fall outside normal ranges.\n\nWhy are conveyor systems inspected regularly?",
+    "choices": {
+      "A": "To increase labor requirements",
+      "B": "To identify and address problems before serious failures occur",
+      "C": "To reduce production capacity",
+      "D": "To eliminate sensor technology"
+    },
+    "correct": "B",
+    "explanation": "Regular inspections help identify worn parts and other issues before they lead to major failures or downtime."
+  },
+  {
+    "id": "RC3-013",
+    "prompt": "Passage 3\nMany manufacturing facilities use conveyor systems to move materials between production areas. Conveyors can transport products efficiently and reduce the need for manual handling. As a result, production processes often become more consistent and predictable.\nHowever, conveyor systems require regular inspection and maintenance. Worn components, damaged belts, or alignment problems can affect performance and lead to unexpected downtime. For this reason, maintenance teams frequently monitor system condition and address issues before they become serious.\nAdvances in sensor technology now allow some facilities to track conveyor performance automatically. These systems can alert maintenance personnel when certain operating conditions fall outside normal ranges.\n\nWhat can modern sensor systems do?",
+    "choices": {
+      "A": "Replace conveyor belts",
+      "B": "Monitor operating conditions automatically",
+      "C": "Increase shipping costs",
+      "D": "Eliminate maintenance schedules"
+    },
+    "correct": "B",
+    "explanation": "Modern sensors can automatically monitor conveyor performance and alert maintenance personnel when conditions change."
+  },
+  {
+    "id": "RC3-014",
+    "prompt": "Passage 3\nMany manufacturing facilities use conveyor systems to move materials between production areas. Conveyors can transport products efficiently and reduce the need for manual handling. As a result, production processes often become more consistent and predictable.\nHowever, conveyor systems require regular inspection and maintenance. Worn components, damaged belts, or alignment problems can affect performance and lead to unexpected downtime. For this reason, maintenance teams frequently monitor system condition and address issues before they become serious.\nAdvances in sensor technology now allow some facilities to track conveyor performance automatically. These systems can alert maintenance personnel when certain operating conditions fall outside normal ranges.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Preventive monitoring can help reduce unexpected downtime.",
+      "B": "Conveyor systems never fail.",
+      "C": "Manufacturing facilities avoid automation.",
+      "D": "Sensors are useful only during emergencies."
+    },
+    "correct": "A",
+    "explanation": "The passage suggests that monitoring equipment conditions can help prevent unexpected shutdowns."
+  },
+  {
+    "id": "RC3-015",
+    "prompt": "Passage 4\nDuring the nineteenth century, improvements in communication technology changed the way information traveled between cities and regions. Before these developments, messages often required physical transportation by horse, ship, or other means, resulting in significant delays.\nThe introduction of telegraph systems allowed information to be transmitted over long distances much more quickly. Businesses could communicate with suppliers and customers more efficiently, while newspapers gained faster access to important events.\nOver time, additional technologies further accelerated communication. Nevertheless, the telegraph represented an important step in the development of modern communication networks.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Newspapers no longer use communication technology.",
+      "B": "The telegraph played an important role in improving long-distance communication.",
+      "C": "Businesses opposed technological change.",
+      "D": "Ships became unnecessary after the nineteenth century."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on the telegraph's role in improving communication across long distances."
+  },
+  {
+    "id": "RC3-016",
+    "prompt": "Passage 4\nDuring the nineteenth century, improvements in communication technology changed the way information traveled between cities and regions. Before these developments, messages often required physical transportation by horse, ship, or other means, resulting in significant delays.\nThe introduction of telegraph systems allowed information to be transmitted over long distances much more quickly. Businesses could communicate with suppliers and customers more efficiently, while newspapers gained faster access to important events.\nOver time, additional technologies further accelerated communication. Nevertheless, the telegraph represented an important step in the development of modern communication networks.\n\nBefore telegraph systems, how were many messages delivered?",
+    "choices": {
+      "A": "Through satellites",
+      "B": "Through wireless networks",
+      "C": "By physical transportation",
+      "D": "Through television broadcasts"
+    },
+    "correct": "C",
+    "explanation": "Before telegraph systems, messages generally had to be physically transported from place to place."
+  },
+  {
+    "id": "RC3-017",
+    "prompt": "Passage 4\nDuring the nineteenth century, improvements in communication technology changed the way information traveled between cities and regions. Before these developments, messages often required physical transportation by horse, ship, or other means, resulting in significant delays.\nThe introduction of telegraph systems allowed information to be transmitted over long distances much more quickly. Businesses could communicate with suppliers and customers more efficiently, while newspapers gained faster access to important events.\nOver time, additional technologies further accelerated communication. Nevertheless, the telegraph represented an important step in the development of modern communication networks.\n\nHow did businesses benefit from telegraph systems?",
+    "choices": {
+      "A": "They could communicate more efficiently.",
+      "B": "They eliminated suppliers.",
+      "C": "They reduced production capacity.",
+      "D": "They stopped using written records."
+    },
+    "correct": "A",
+    "explanation": "Businesses benefited because they could communicate more quickly and efficiently with suppliers and customers."
+  },
+  {
+    "id": "RC3-018",
+    "prompt": "Passage 4\nDuring the nineteenth century, improvements in communication technology changed the way information traveled between cities and regions. Before these developments, messages often required physical transportation by horse, ship, or other means, resulting in significant delays.\nThe introduction of telegraph systems allowed information to be transmitted over long distances much more quickly. Businesses could communicate with suppliers and customers more efficiently, while newspapers gained faster access to important events.\nOver time, additional technologies further accelerated communication. Nevertheless, the telegraph represented an important step in the development of modern communication networks.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "Comparison of two unrelated industries",
+      "B": "Chronological development of communication methods",
+      "C": "Step-by-step instructions",
+      "D": "Problem without solution"
+    },
+    "correct": "B",
+    "explanation": "The passage moves through time, describing communication before the telegraph, the telegraph itself, and later developments."
+  },
+  {
+    "id": "RC3-019",
+    "prompt": "Passage 5\nA regional airport recently installed automated baggage-handling equipment to improve efficiency. Under the previous process, much of the sorting work was completed manually. During busy travel periods, this sometimes led to delays and increased the possibility of routing errors.\nThe new system uses barcode scanners and computerized tracking software to direct luggage to the correct loading areas. Airport officials report that baggage processing times have improved and that misplaced luggage incidents have decreased.\nThe airport continues to monitor system performance and provide training for employees who work with the equipment. Officials expect additional improvements as operators gain more experience with the technology.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The airport reduced the number of flights.",
+      "B": "Automated baggage equipment improved airport operations.",
+      "C": "Manual sorting is more accurate than automated systems.",
+      "D": "Airports no longer use baggage handlers."
+    },
+    "correct": "B",
+    "explanation": "The passage describes how automated baggage-handling equipment improved sorting accuracy and processing efficiency."
+  },
+  {
+    "id": "RC3-020",
+    "prompt": "Passage 5\nA regional airport recently installed automated baggage-handling equipment to improve efficiency. Under the previous process, much of the sorting work was completed manually. During busy travel periods, this sometimes led to delays and increased the possibility of routing errors.\nThe new system uses barcode scanners and computerized tracking software to direct luggage to the correct loading areas. Airport officials report that baggage processing times have improved and that misplaced luggage incidents have decreased.\nThe airport continues to monitor system performance and provide training for employees who work with the equipment. Officials expect additional improvements as operators gain more experience with the technology.\n\nWhat challenge existed under the previous process?",
+    "choices": {
+      "A": "Excessive runway capacity",
+      "B": "Routing errors and delays",
+      "C": "Lack of passengers",
+      "D": "Limited baggage storage"
+    },
+    "correct": "B",
+    "explanation": "Manual sorting sometimes resulted in delays and routing errors, especially during busy travel periods."
+  },
+  {
+    "id": "RC3-021",
+    "prompt": "Passage 5\nA regional airport recently installed automated baggage-handling equipment to improve efficiency. Under the previous process, much of the sorting work was completed manually. During busy travel periods, this sometimes led to delays and increased the possibility of routing errors.\nThe new system uses barcode scanners and computerized tracking software to direct luggage to the correct loading areas. Airport officials report that baggage processing times have improved and that misplaced luggage incidents have decreased.\nThe airport continues to monitor system performance and provide training for employees who work with the equipment. Officials expect additional improvements as operators gain more experience with the technology.\n\nWhat technology directs luggage to the proper loading areas?",
+    "choices": {
+      "A": "Security cameras",
+      "B": "Barcode scanners and tracking software",
+      "C": "Fuel monitoring systems",
+      "D": "Weather sensors"
+    },
+    "correct": "B",
+    "explanation": "Barcode scanners and computerized tracking software direct luggage to the correct loading areas."
+  },
+  {
+    "id": "RC3-022",
+    "prompt": "Passage 5\nA regional airport recently installed automated baggage-handling equipment to improve efficiency. Under the previous process, much of the sorting work was completed manually. During busy travel periods, this sometimes led to delays and increased the possibility of routing errors.\nThe new system uses barcode scanners and computerized tracking software to direct luggage to the correct loading areas. Airport officials report that baggage processing times have improved and that misplaced luggage incidents have decreased.\nThe airport continues to monitor system performance and provide training for employees who work with the equipment. Officials expect additional improvements as operators gain more experience with the technology.\n\nAccording to the passage, what result has been reported?",
+    "choices": {
+      "A": "Increased misplaced luggage incidents",
+      "B": "Reduced baggage processing efficiency",
+      "C": "Improved processing times",
+      "D": "Fewer passenger flights"
+    },
+    "correct": "C",
+    "explanation": "Airport officials report improved baggage processing times since the new system was installed."
+  },
+  {
+    "id": "RC3-023",
+    "prompt": "Passage 5\nA regional airport recently installed automated baggage-handling equipment to improve efficiency. Under the previous process, much of the sorting work was completed manually. During busy travel periods, this sometimes led to delays and increased the possibility of routing errors.\nThe new system uses barcode scanners and computerized tracking software to direct luggage to the correct loading areas. Airport officials report that baggage processing times have improved and that misplaced luggage incidents have decreased.\nThe airport continues to monitor system performance and provide training for employees who work with the equipment. Officials expect additional improvements as operators gain more experience with the technology.\n\nThe word “incidents” most nearly means:",
+    "choices": {
+      "A": "Occurrences",
+      "B": "Instructions",
+      "C": "Locations",
+      "D": "Expenses"
+    },
+    "correct": "A",
+    "explanation": "In context, \"incidents\" refers to occurrences or events involving misplaced luggage."
+  },
+  {
+    "id": "RC3-024",
+    "prompt": "Passage 6\nMany organizations conduct emergency response drills to prepare employees for unexpected situations. These drills may simulate events such as severe weather, power outages, or building evacuations.\nDuring a drill, participants practice procedures that would be used during an actual emergency. Supervisors observe performance and identify areas where improvements may be needed. Afterward, organizations often review results and update procedures if necessary.\nAlthough drills require time and planning, many safety professionals believe they improve preparedness and help employees respond more effectively during real emergencies.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Emergency drills help organizations prepare for unexpected situations.",
+      "B": "Emergencies can always be prevented.",
+      "C": "Employees dislike all safety programs.",
+      "D": "Building evacuations are no longer necessary."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that emergency drills help prepare employees and organizations for unexpected situations."
+  },
+  {
+    "id": "RC3-025",
+    "prompt": "Passage 6\nMany organizations conduct emergency response drills to prepare employees for unexpected situations. These drills may simulate events such as severe weather, power outages, or building evacuations.\nDuring a drill, participants practice procedures that would be used during an actual emergency. Supervisors observe performance and identify areas where improvements may be needed. Afterward, organizations often review results and update procedures if necessary.\nAlthough drills require time and planning, many safety professionals believe they improve preparedness and help employees respond more effectively during real emergencies.\n\nWhat may be simulated during a drill?",
+    "choices": {
+      "A": "Product launches",
+      "B": "Severe weather events",
+      "C": "Annual financial reviews",
+      "D": "Marketing campaigns"
+    },
+    "correct": "B",
+    "explanation": "Severe weather is specifically listed as one of the situations that may be simulated during a drill."
+  },
+  {
+    "id": "RC3-026",
+    "prompt": "Passage 6\nMany organizations conduct emergency response drills to prepare employees for unexpected situations. These drills may simulate events such as severe weather, power outages, or building evacuations.\nDuring a drill, participants practice procedures that would be used during an actual emergency. Supervisors observe performance and identify areas where improvements may be needed. Afterward, organizations often review results and update procedures if necessary.\nAlthough drills require time and planning, many safety professionals believe they improve preparedness and help employees respond more effectively during real emergencies.\n\nWhy do supervisors observe drills?",
+    "choices": {
+      "A": "To identify areas needing improvement",
+      "B": "To reduce staffing levels",
+      "C": "To eliminate emergency procedures",
+      "D": "To evaluate customer satisfaction"
+    },
+    "correct": "A",
+    "explanation": "Supervisors observe drills to identify weaknesses and determine where improvements are needed."
+  },
+  {
+    "id": "RC3-027",
+    "prompt": "Passage 6\nMany organizations conduct emergency response drills to prepare employees for unexpected situations. These drills may simulate events such as severe weather, power outages, or building evacuations.\nDuring a drill, participants practice procedures that would be used during an actual emergency. Supervisors observe performance and identify areas where improvements may be needed. Afterward, organizations often review results and update procedures if necessary.\nAlthough drills require time and planning, many safety professionals believe they improve preparedness and help employees respond more effectively during real emergencies.\n\nWhat often happens after a drill?",
+    "choices": {
+      "A": "Procedures are reviewed and updated.",
+      "B": "Employees are reassigned immediately.",
+      "C": "Emergency plans are eliminated.",
+      "D": "Facilities are permanently closed."
+    },
+    "correct": "A",
+    "explanation": "After drills, organizations often review the results and update procedures when necessary."
+  },
+  {
+    "id": "RC3-028",
+    "prompt": "Passage 6\nMany organizations conduct emergency response drills to prepare employees for unexpected situations. These drills may simulate events such as severe weather, power outages, or building evacuations.\nDuring a drill, participants practice procedures that would be used during an actual emergency. Supervisors observe performance and identify areas where improvements may be needed. Afterward, organizations often review results and update procedures if necessary.\nAlthough drills require time and planning, many safety professionals believe they improve preparedness and help employees respond more effectively during real emergencies.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Practice can improve emergency response performance.",
+      "B": "Real emergencies occur frequently during drills.",
+      "C": "Emergency procedures never change.",
+      "D": "Preparedness programs increase workplace risks."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that practicing emergency procedures can improve real-world performance."
+  },
+  {
+    "id": "RC3-029",
+    "prompt": "Passage 7\nMany communities have invested in public walking trails as part of broader recreation and transportation plans. These trails may connect parks, neighborhoods, schools, and business districts.\nSupporters argue that walking trails provide several benefits. They create opportunities for physical activity, offer alternative transportation routes, and encourage outdoor recreation. Some communities also report increased use of nearby businesses when trails attract visitors.\nPlanning a trail system often requires coordination among local governments, property owners, and community organizations. Long-term maintenance is also an important consideration when new trails are developed.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "The history of road construction",
+      "B": "The benefits and planning considerations of public walking trails",
+      "C": "Why communities oppose recreation projects",
+      "D": "The operation of public transportation systems"
+    },
+    "correct": "B",
+    "explanation": "The passage discusses both the benefits of public walking trails and the planning considerations involved in developing them."
+  },
+  {
+    "id": "RC3-030",
+    "prompt": "Passage 7\nMany communities have invested in public walking trails as part of broader recreation and transportation plans. These trails may connect parks, neighborhoods, schools, and business districts.\nSupporters argue that walking trails provide several benefits. They create opportunities for physical activity, offer alternative transportation routes, and encourage outdoor recreation. Some communities also report increased use of nearby businesses when trails attract visitors.\nPlanning a trail system often requires coordination among local governments, property owners, and community organizations. Long-term maintenance is also an important consideration when new trails are developed.\n\nWhat benefit of walking trails is specifically mentioned?",
+    "choices": {
+      "A": "Reduced utility costs",
+      "B": "Physical activity opportunities",
+      "C": "Increased industrial production",
+      "D": "Elimination of traffic signals"
+    },
+    "correct": "B",
+    "explanation": "One benefit specifically mentioned is that trails provide opportunities for physical activity."
+  },
+  {
+    "id": "RC3-031",
+    "prompt": "Passage 7\nMany communities have invested in public walking trails as part of broader recreation and transportation plans. These trails may connect parks, neighborhoods, schools, and business districts.\nSupporters argue that walking trails provide several benefits. They create opportunities for physical activity, offer alternative transportation routes, and encourage outdoor recreation. Some communities also report increased use of nearby businesses when trails attract visitors.\nPlanning a trail system often requires coordination among local governments, property owners, and community organizations. Long-term maintenance is also an important consideration when new trails are developed.\n\nWhat may be connected by walking trails?",
+    "choices": {
+      "A": "Parks and neighborhoods",
+      "B": "Airports only",
+      "C": "Manufacturing plants only",
+      "D": "Utility substations only"
+    },
+    "correct": "A",
+    "explanation": "The passage states that trails may connect parks, neighborhoods, schools, and business districts."
+  },
+  {
+    "id": "RC3-032",
+    "prompt": "Passage 7\nMany communities have invested in public walking trails as part of broader recreation and transportation plans. These trails may connect parks, neighborhoods, schools, and business districts.\nSupporters argue that walking trails provide several benefits. They create opportunities for physical activity, offer alternative transportation routes, and encourage outdoor recreation. Some communities also report increased use of nearby businesses when trails attract visitors.\nPlanning a trail system often requires coordination among local governments, property owners, and community organizations. Long-term maintenance is also an important consideration when new trails are developed.\n\nWhat is identified as an important long-term consideration?",
+    "choices": {
+      "A": "Weather forecasting",
+      "B": "Marketing expenses",
+      "C": "Trail maintenance",
+      "D": "School enrollment"
+    },
+    "correct": "C",
+    "explanation": "Long-term maintenance is identified as an important factor when planning trail systems."
+  },
+  {
+    "id": "RC3-033",
+    "prompt": "Passage 8\nA city utility department recently evaluated water meter data from residential neighborhoods. The goal was to better understand usage patterns and identify opportunities to improve system efficiency.\nAnalysts discovered that water consumption varied significantly between neighborhoods. In some areas, unusually high usage suggested the possibility of leaks or equipment problems. The department conducted follow-up inspections and identified several issues that required repair.\nBased on the findings, officials developed plans to improve monitoring practices and replace aging equipment. They expect these efforts to improve efficiency and reduce unnecessary water loss.\n\nWhat was the purpose of the utility department's evaluation?",
+    "choices": {
+      "A": "To determine property values",
+      "B": "To understand water usage patterns and improve efficiency",
+      "C": "To redesign neighborhoods",
+      "D": "To increase water consumption"
+    },
+    "correct": "B",
+    "explanation": "The utility department reviewed water meter data to understand usage patterns and improve efficiency."
+  },
+  {
+    "id": "RC3-034",
+    "prompt": "Passage 8\nA city utility department recently evaluated water meter data from residential neighborhoods. The goal was to better understand usage patterns and identify opportunities to improve system efficiency.\nAnalysts discovered that water consumption varied significantly between neighborhoods. In some areas, unusually high usage suggested the possibility of leaks or equipment problems. The department conducted follow-up inspections and identified several issues that required repair.\nBased on the findings, officials developed plans to improve monitoring practices and replace aging equipment. They expect these efforts to improve efficiency and reduce unnecessary water loss.\n\nWhat suggested possible leaks or equipment problems?",
+    "choices": {
+      "A": "Low water consumption",
+      "B": "Stable consumption patterns",
+      "C": "Unusually high water usage",
+      "D": "Increased rainfall"
+    },
+    "correct": "C",
+    "explanation": "Analysts found that unusually high water usage could indicate leaks or equipment problems."
+  },
+  {
+    "id": "RC3-035",
+    "prompt": "Passage 8\nA city utility department recently evaluated water meter data from residential neighborhoods. The goal was to better understand usage patterns and identify opportunities to improve system efficiency.\nAnalysts discovered that water consumption varied significantly between neighborhoods. In some areas, unusually high usage suggested the possibility of leaks or equipment problems. The department conducted follow-up inspections and identified several issues that required repair.\nBased on the findings, officials developed plans to improve monitoring practices and replace aging equipment. They expect these efforts to improve efficiency and reduce unnecessary water loss.\n\nWhat action was taken after the data review?",
+    "choices": {
+      "A": "Follow-up inspections",
+      "B": "Elimination of water meters",
+      "C": "Closure of neighborhoods",
+      "D": "Reduction of repair programs"
+    },
+    "correct": "A",
+    "explanation": "Follow-up inspections were conducted after the data analysis identified potential issues."
+  },
+  {
+    "id": "RC3-036",
+    "prompt": "Passage 8\nA city utility department recently evaluated water meter data from residential neighborhoods. The goal was to better understand usage patterns and identify opportunities to improve system efficiency.\nAnalysts discovered that water consumption varied significantly between neighborhoods. In some areas, unusually high usage suggested the possibility of leaks or equipment problems. The department conducted follow-up inspections and identified several issues that required repair.\nBased on the findings, officials developed plans to improve monitoring practices and replace aging equipment. They expect these efforts to improve efficiency and reduce unnecessary water loss.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Monitoring data can help identify system inefficiencies.",
+      "B": "Water systems never require repairs.",
+      "C": "Neighborhoods use identical amounts of water.",
+      "D": "Equipment replacement always increases water loss."
+    },
+    "correct": "A",
+    "explanation": "The passage demonstrates that reviewing monitoring data can help identify inefficiencies and guide repairs."
+  }
+]

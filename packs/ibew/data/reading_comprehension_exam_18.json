@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC18-001",
+    "prompt": "Passage 1\nA regional warehouse recently changed how it handles orders that are missing items. Previously, employees placed incomplete orders on a separate shelf and left a handwritten note explaining what was missing. During busy periods, some notes were unclear, and supervisors had difficulty knowing which orders needed immediate attention.\nThe warehouse now uses an exception report in its order system. When an employee discovers that an item is missing, the employee enters the order number, missing item, quantity needed, and reason the item is unavailable. Supervisors review the report throughout the day and decide whether to substitute an approved item, wait for restock, or contact the customer.\nManagers report that the new system has made incomplete orders easier to track. It has also reduced the number of orders that remain unresolved at the end of the day.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The warehouse stopped filling customer orders.",
+      "B": "A new exception report improved how incomplete orders are tracked.",
+      "C": "Customers now write all warehouse notes.",
+      "D": "Supervisors no longer review missing items."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how the exception report helped the warehouse track missing items and resolve incomplete orders more efficiently."
+  },
+  {
+    "id": "RC18-002",
+    "prompt": "Passage 1\nA regional warehouse recently changed how it handles orders that are missing items. Previously, employees placed incomplete orders on a separate shelf and left a handwritten note explaining what was missing. During busy periods, some notes were unclear, and supervisors had difficulty knowing which orders needed immediate attention.\nThe warehouse now uses an exception report in its order system. When an employee discovers that an item is missing, the employee enters the order number, missing item, quantity needed, and reason the item is unavailable. Supervisors review the report throughout the day and decide whether to substitute an approved item, wait for restock, or contact the customer.\nManagers report that the new system has made incomplete orders easier to track. It has also reduced the number of orders that remain unresolved at the end of the day.\n\nWhat problem occurred with the old handwritten-note process?",
+    "choices": {
+      "A": "Some notes were unclear during busy periods.",
+      "B": "Employees could not find the separate shelf.",
+      "C": "Customers refused to accept complete orders.",
+      "D": "Supervisors reviewed orders too quickly."
+    },
+    "correct": "A",
+    "explanation": "The old process caused problems because handwritten notes were sometimes unclear during busy periods."
+  },
+  {
+    "id": "RC18-003",
+    "prompt": "Passage 1\nA regional warehouse recently changed how it handles orders that are missing items. Previously, employees placed incomplete orders on a separate shelf and left a handwritten note explaining what was missing. During busy periods, some notes were unclear, and supervisors had difficulty knowing which orders needed immediate attention.\nThe warehouse now uses an exception report in its order system. When an employee discovers that an item is missing, the employee enters the order number, missing item, quantity needed, and reason the item is unavailable. Supervisors review the report throughout the day and decide whether to substitute an approved item, wait for restock, or contact the customer.\nManagers report that the new system has made incomplete orders easier to track. It has also reduced the number of orders that remain unresolved at the end of the day.\n\nWhat information does the employee enter into the exception report?",
+    "choices": {
+      "A": "Employee break time and parking location",
+      "B": "Order number, missing item, quantity needed, and reason unavailable",
+      "C": "Customer advertising preferences",
+      "D": "Supplier lunch schedules"
+    },
+    "correct": "B",
+    "explanation": "Employees enter the order number, missing item, quantity needed, and reason the item is unavailable."
+  },
+  {
+    "id": "RC18-004",
+    "prompt": "Passage 1\nA regional warehouse recently changed how it handles orders that are missing items. Previously, employees placed incomplete orders on a separate shelf and left a handwritten note explaining what was missing. During busy periods, some notes were unclear, and supervisors had difficulty knowing which orders needed immediate attention.\nThe warehouse now uses an exception report in its order system. When an employee discovers that an item is missing, the employee enters the order number, missing item, quantity needed, and reason the item is unavailable. Supervisors review the report throughout the day and decide whether to substitute an approved item, wait for restock, or contact the customer.\nManagers report that the new system has made incomplete orders easier to track. It has also reduced the number of orders that remain unresolved at the end of the day.\n\nWhat can supervisors decide after reviewing the report?",
+    "choices": {
+      "A": "Whether to substitute an approved item, wait for restock, or contact the customer",
+      "B": "Whether to close the warehouse permanently",
+      "C": "Whether to remove all order numbers",
+      "D": "Whether to stop checking incomplete orders"
+    },
+    "correct": "A",
+    "explanation": "Supervisors use the report to decide whether to substitute an approved item, wait for restock, or contact the customer."
+  },
+  {
+    "id": "RC18-005",
+    "prompt": "Passage 1\nA regional warehouse recently changed how it handles orders that are missing items. Previously, employees placed incomplete orders on a separate shelf and left a handwritten note explaining what was missing. During busy periods, some notes were unclear, and supervisors had difficulty knowing which orders needed immediate attention.\nThe warehouse now uses an exception report in its order system. When an employee discovers that an item is missing, the employee enters the order number, missing item, quantity needed, and reason the item is unavailable. Supervisors review the report throughout the day and decide whether to substitute an approved item, wait for restock, or contact the customer.\nManagers report that the new system has made incomplete orders easier to track. It has also reduced the number of orders that remain unresolved at the end of the day.\n\nThe word “unresolved” most nearly means:",
+    "choices": {
+      "A": "Finished",
+      "B": "Not yet settled or completed",
+      "C": "Repaired",
+      "D": "Counted twice"
+    },
+    "correct": "B",
+    "explanation": "In context, “unresolved” means not yet settled or completed by the end of the day."
+  },
+  {
+    "id": "RC18-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 3, employees using the shared conference rooms must return chairs, markers, and presentation cables to their proper locations after each meeting. Rooms should also be cleared of papers, cups, and food containers.\nThe updated procedure was created after several meetings were delayed because rooms were left unprepared for the next group. The goal is to keep shared spaces ready for use throughout the day.\nEmployees should report missing equipment to Office Services rather than moving supplies from another conference room.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To explain a new procedure for shared conference rooms",
+      "B": "To cancel all workplace meetings",
+      "C": "To replace conference rooms with offices",
+      "D": "To introduce a new payroll form"
+    },
+    "correct": "A",
+    "explanation": "The notice explains the new procedure for keeping shared conference rooms ready after meetings."
+  },
+  {
+    "id": "RC18-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 3, employees using the shared conference rooms must return chairs, markers, and presentation cables to their proper locations after each meeting. Rooms should also be cleared of papers, cups, and food containers.\nThe updated procedure was created after several meetings were delayed because rooms were left unprepared for the next group. The goal is to keep shared spaces ready for use throughout the day.\nEmployees should report missing equipment to Office Services rather than moving supplies from another conference room.\n\nWhat should employees return after each meeting?",
+    "choices": {
+      "A": "Chairs, markers, and presentation cables",
+      "B": "Customer orders and invoices",
+      "C": "Parking passes and vehicle keys",
+      "D": "Safety shoes and hard hats"
+    },
+    "correct": "A",
+    "explanation": "Employees must return chairs, markers, and presentation cables to their proper locations."
+  },
+  {
+    "id": "RC18-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 3, employees using the shared conference rooms must return chairs, markers, and presentation cables to their proper locations after each meeting. Rooms should also be cleared of papers, cups, and food containers.\nThe updated procedure was created after several meetings were delayed because rooms were left unprepared for the next group. The goal is to keep shared spaces ready for use throughout the day.\nEmployees should report missing equipment to Office Services rather than moving supplies from another conference room.\n\nWhy was the procedure created?",
+    "choices": {
+      "A": "Meetings were delayed when rooms were left unprepared.",
+      "B": "Employees stopped using conference rooms.",
+      "C": "Office Services removed all presentation equipment.",
+      "D": "Meetings became unnecessary."
+    },
+    "correct": "A",
+    "explanation": "The procedure was created because meetings were delayed when rooms were left unprepared."
+  },
+  {
+    "id": "RC18-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning February 3, employees using the shared conference rooms must return chairs, markers, and presentation cables to their proper locations after each meeting. Rooms should also be cleared of papers, cups, and food containers.\nThe updated procedure was created after several meetings were delayed because rooms were left unprepared for the next group. The goal is to keep shared spaces ready for use throughout the day.\nEmployees should report missing equipment to Office Services rather than moving supplies from another conference room.\n\nWhat should employees do if equipment is missing?",
+    "choices": {
+      "A": "Move supplies from another conference room.",
+      "B": "Cancel the next meeting automatically.",
+      "C": "Report the missing equipment to Office Services.",
+      "D": "Leave food containers in the room."
+    },
+    "correct": "C",
+    "explanation": "Employees should report missing equipment to Office Services instead of taking supplies from another room."
+  },
+  {
+    "id": "RC18-010",
+    "prompt": "Passage 3\nMany companies use customer service scripts to help employees handle common questions. A script may include a greeting, basic questions to ask, required information to provide, and steps for forwarding a call to another department.\nScripts can improve consistency because customers receive the same basic information no matter which employee answers. They can also help new employees learn the correct process. However, scripts should not make employees sound mechanical or prevent them from listening carefully.\nA useful script gives structure but still allows employees to respond to the customer’s actual concern. For example, if a customer is confused about a bill, the employee should follow the required steps while also explaining the information in a clear and respectful way.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Customer service scripts provide structure but should still allow careful listening.",
+      "B": "Scripts should replace all employee judgment.",
+      "C": "Customers should receive different basic information each time.",
+      "D": "New employees should avoid using scripts."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that scripts can help structure customer service calls, but employees must still listen and respond to the actual concern."
+  },
+  {
+    "id": "RC18-011",
+    "prompt": "Passage 3\nMany companies use customer service scripts to help employees handle common questions. A script may include a greeting, basic questions to ask, required information to provide, and steps for forwarding a call to another department.\nScripts can improve consistency because customers receive the same basic information no matter which employee answers. They can also help new employees learn the correct process. However, scripts should not make employees sound mechanical or prevent them from listening carefully.\nA useful script gives structure but still allows employees to respond to the customer’s actual concern. For example, if a customer is confused about a bill, the employee should follow the required steps while also explaining the information in a clear and respectful way.\n\nWhat may a customer service script include?",
+    "choices": {
+      "A": "A greeting and basic questions to ask",
+      "B": "Employee vacation photos",
+      "C": "Warehouse floor markings",
+      "D": "Weather warnings only"
+    },
+    "correct": "A",
+    "explanation": "A script may include a greeting, basic questions, required information, and forwarding steps."
+  },
+  {
+    "id": "RC18-012",
+    "prompt": "Passage 3\nMany companies use customer service scripts to help employees handle common questions. A script may include a greeting, basic questions to ask, required information to provide, and steps for forwarding a call to another department.\nScripts can improve consistency because customers receive the same basic information no matter which employee answers. They can also help new employees learn the correct process. However, scripts should not make employees sound mechanical or prevent them from listening carefully.\nA useful script gives structure but still allows employees to respond to the customer’s actual concern. For example, if a customer is confused about a bill, the employee should follow the required steps while also explaining the information in a clear and respectful way.\n\nHow can scripts help new employees?",
+    "choices": {
+      "A": "By teaching them the correct process",
+      "B": "By preventing them from speaking to customers",
+      "C": "By removing all training needs",
+      "D": "By making customer concerns unnecessary"
+    },
+    "correct": "A",
+    "explanation": "Scripts can help new employees learn the correct process for handling common questions."
+  },
+  {
+    "id": "RC18-013",
+    "prompt": "Passage 3\nMany companies use customer service scripts to help employees handle common questions. A script may include a greeting, basic questions to ask, required information to provide, and steps for forwarding a call to another department.\nScripts can improve consistency because customers receive the same basic information no matter which employee answers. They can also help new employees learn the correct process. However, scripts should not make employees sound mechanical or prevent them from listening carefully.\nA useful script gives structure but still allows employees to respond to the customer’s actual concern. For example, if a customer is confused about a bill, the employee should follow the required steps while also explaining the information in a clear and respectful way.\n\nWhat is one possible problem with scripts?",
+    "choices": {
+      "A": "They may make employees sound mechanical if used poorly.",
+      "B": "They always make customers more confused.",
+      "C": "They eliminate all required information.",
+      "D": "They prevent any department from receiving calls."
+    },
+    "correct": "A",
+    "explanation": "The passage warns that scripts can make employees sound mechanical if they are not used thoughtfully."
+  },
+  {
+    "id": "RC18-014",
+    "prompt": "Passage 3\nMany companies use customer service scripts to help employees handle common questions. A script may include a greeting, basic questions to ask, required information to provide, and steps for forwarding a call to another department.\nScripts can improve consistency because customers receive the same basic information no matter which employee answers. They can also help new employees learn the correct process. However, scripts should not make employees sound mechanical or prevent them from listening carefully.\nA useful script gives structure but still allows employees to respond to the customer’s actual concern. For example, if a customer is confused about a bill, the employee should follow the required steps while also explaining the information in a clear and respectful way.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A good script supports communication without replacing attention to the customer.",
+      "B": "Employees should read scripts without listening.",
+      "C": "Customer concerns should be ignored when scripts exist.",
+      "D": "Scripts are useful only if they sound unnatural."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that a good script helps communication without replacing careful attention to the customer."
+  },
+  {
+    "id": "RC18-015",
+    "prompt": "Passage 4\nBefore large-scale public clocks and standardized time displays became common, people often relied on local clocks that were not always synchronized. In a small town, this might create little difficulty. But as railroads, factories, and public transportation systems grew, differences in timekeeping created confusion.\nMore consistent public timekeeping helped people coordinate schedules. Train departures, factory shifts, school openings, and public meetings became easier to organize when people could rely on the same time reference. Public clocks in stations, town centers, and workplaces gave people a shared source of information.\nToday, digital clocks, phones, and computer networks provide time automatically in many places. Even so, the purpose remains similar: helping people coordinate activities accurately.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Public timekeeping helped people coordinate schedules more accurately.",
+      "B": "Local clocks were always perfectly synchronized.",
+      "C": "Railroads made timekeeping unnecessary.",
+      "D": "Digital clocks are used only in factories."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how consistent public timekeeping helped people coordinate schedules."
+  },
+  {
+    "id": "RC18-016",
+    "prompt": "Passage 4\nBefore large-scale public clocks and standardized time displays became common, people often relied on local clocks that were not always synchronized. In a small town, this might create little difficulty. But as railroads, factories, and public transportation systems grew, differences in timekeeping created confusion.\nMore consistent public timekeeping helped people coordinate schedules. Train departures, factory shifts, school openings, and public meetings became easier to organize when people could rely on the same time reference. Public clocks in stations, town centers, and workplaces gave people a shared source of information.\nToday, digital clocks, phones, and computer networks provide time automatically in many places. Even so, the purpose remains similar: helping people coordinate activities accurately.\n\nWhy did inconsistent local clocks become a problem?",
+    "choices": {
+      "A": "Larger systems like railroads and factories needed coordinated schedules.",
+      "B": "People stopped attending public meetings.",
+      "C": "Schools no longer opened at set times.",
+      "D": "Public clocks were used only for decoration."
+    },
+    "correct": "A",
+    "explanation": "Railroads, factories, and transportation systems made consistent schedules more important."
+  },
+  {
+    "id": "RC18-017",
+    "prompt": "Passage 4\nBefore large-scale public clocks and standardized time displays became common, people often relied on local clocks that were not always synchronized. In a small town, this might create little difficulty. But as railroads, factories, and public transportation systems grew, differences in timekeeping created confusion.\nMore consistent public timekeeping helped people coordinate schedules. Train departures, factory shifts, school openings, and public meetings became easier to organize when people could rely on the same time reference. Public clocks in stations, town centers, and workplaces gave people a shared source of information.\nToday, digital clocks, phones, and computer networks provide time automatically in many places. Even so, the purpose remains similar: helping people coordinate activities accurately.\n\nWhere were public clocks often found?",
+    "choices": {
+      "A": "Stations, town centers, and workplaces",
+      "B": "Private toolboxes only",
+      "C": "Delivery packages",
+      "D": "Underground pipes"
+    },
+    "correct": "A",
+    "explanation": "Public clocks were found in stations, town centers, and workplaces."
+  },
+  {
+    "id": "RC18-018",
+    "prompt": "Passage 4\nBefore large-scale public clocks and standardized time displays became common, people often relied on local clocks that were not always synchronized. In a small town, this might create little difficulty. But as railroads, factories, and public transportation systems grew, differences in timekeeping created confusion.\nMore consistent public timekeeping helped people coordinate schedules. Train departures, factory shifts, school openings, and public meetings became easier to organize when people could rely on the same time reference. Public clocks in stations, town centers, and workplaces gave people a shared source of information.\nToday, digital clocks, phones, and computer networks provide time automatically in many places. Even so, the purpose remains similar: helping people coordinate activities accurately.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an earlier problem, a solution, and a modern form of the same purpose.",
+      "B": "It gives instructions for repairing clocks.",
+      "C": "It compares timekeeping with food storage.",
+      "D": "It argues that schedules should be avoided."
+    },
+    "correct": "A",
+    "explanation": "The passage explains the earlier problem of inconsistent clocks, the solution of shared timekeeping, and modern tools with the same purpose."
+  },
+  {
+    "id": "RC18-019",
+    "prompt": "Passage 5\nA regional maintenance contractor recently introduced photo documentation for completed repair work. Previously, technicians wrote notes describing the repair and marked the job complete. In some cases, customers later asked what had been done or whether a certain part had been replaced.\nUnder the new process, technicians take photos before and after the repair when practical. The photos are attached to the service record along with written notes. Supervisors can review the record before billing, and customers can receive a clearer explanation of the completed work.\nThe company says photo documentation does not replace technician notes. Instead, it adds visual evidence that can support the written record and reduce misunderstandings.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Technicians no longer write repair notes.",
+      "B": "Photo documentation adds visual support to repair records.",
+      "C": "Customers now complete repairs themselves.",
+      "D": "Billing is no longer reviewed by supervisors."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that photos support written repair records and help reduce misunderstandings."
+  },
+  {
+    "id": "RC18-020",
+    "prompt": "Passage 5\nA regional maintenance contractor recently introduced photo documentation for completed repair work. Previously, technicians wrote notes describing the repair and marked the job complete. In some cases, customers later asked what had been done or whether a certain part had been replaced.\nUnder the new process, technicians take photos before and after the repair when practical. The photos are attached to the service record along with written notes. Supervisors can review the record before billing, and customers can receive a clearer explanation of the completed work.\nThe company says photo documentation does not replace technician notes. Instead, it adds visual evidence that can support the written record and reduce misunderstandings.\n\nWhat did customers sometimes ask under the old process?",
+    "choices": {
+      "A": "What had been done or whether a part had been replaced",
+      "B": "Why technicians took too many photos",
+      "C": "Whether written notes should be removed",
+      "D": "Why repairs were never marked complete"
+    },
+    "correct": "A",
+    "explanation": "Customers sometimes asked what had been done or whether a part had been replaced."
+  },
+  {
+    "id": "RC18-021",
+    "prompt": "Passage 5\nA regional maintenance contractor recently introduced photo documentation for completed repair work. Previously, technicians wrote notes describing the repair and marked the job complete. In some cases, customers later asked what had been done or whether a certain part had been replaced.\nUnder the new process, technicians take photos before and after the repair when practical. The photos are attached to the service record along with written notes. Supervisors can review the record before billing, and customers can receive a clearer explanation of the completed work.\nThe company says photo documentation does not replace technician notes. Instead, it adds visual evidence that can support the written record and reduce misunderstandings.\n\nWhen do technicians take photos under the new process?",
+    "choices": {
+      "A": "Before and after the repair when practical",
+      "B": "Only before arriving at the customer location",
+      "C": "Once per year",
+      "D": "Only after billing is complete"
+    },
+    "correct": "A",
+    "explanation": "Technicians take before-and-after photos when practical."
+  },
+  {
+    "id": "RC18-022",
+    "prompt": "Passage 5\nA regional maintenance contractor recently introduced photo documentation for completed repair work. Previously, technicians wrote notes describing the repair and marked the job complete. In some cases, customers later asked what had been done or whether a certain part had been replaced.\nUnder the new process, technicians take photos before and after the repair when practical. The photos are attached to the service record along with written notes. Supervisors can review the record before billing, and customers can receive a clearer explanation of the completed work.\nThe company says photo documentation does not replace technician notes. Instead, it adds visual evidence that can support the written record and reduce misunderstandings.\n\nHow does the company describe photo documentation?",
+    "choices": {
+      "A": "As a replacement for all technician notes",
+      "B": "As visual evidence that supports the written record",
+      "C": "As a way to avoid service records",
+      "D": "As a method for delaying repairs"
+    },
+    "correct": "B",
+    "explanation": "The company says photo documentation adds visual evidence that supports the written record."
+  },
+  {
+    "id": "RC18-023",
+    "prompt": "Passage 5\nA regional maintenance contractor recently introduced photo documentation for completed repair work. Previously, technicians wrote notes describing the repair and marked the job complete. In some cases, customers later asked what had been done or whether a certain part had been replaced.\nUnder the new process, technicians take photos before and after the repair when practical. The photos are attached to the service record along with written notes. Supervisors can review the record before billing, and customers can receive a clearer explanation of the completed work.\nThe company says photo documentation does not replace technician notes. Instead, it adds visual evidence that can support the written record and reduce misunderstandings.\n\nThe word “documentation” most nearly means:",
+    "choices": {
+      "A": "A record or evidence of something",
+      "B": "A tool used for cutting",
+      "C": "A customer complaint",
+      "D": "A type of payment"
+    },
+    "correct": "A",
+    "explanation": "In context, “documentation” means a record or evidence of completed repair work."
+  },
+  {
+    "id": "RC18-024",
+    "prompt": "Passage 6\nMany workplaces use designated walkways to separate pedestrians from equipment traffic. These walkways may be marked with painted lines, signs, barriers, or floor tape. The goal is to make movement through the workplace more predictable and safer.\nDesignated walkways are especially important in areas where forklifts, carts, or delivery vehicles operate. If pedestrians take shortcuts through equipment zones, drivers may have less time to react. Clear walkways help both pedestrians and equipment operators know where to expect movement.\nHowever, walkway markings must remain visible and unobstructed. Materials, trash bins, or parked equipment can reduce the effectiveness of a marked path. Supervisors often include walkway checks during routine safety inspections.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Designated walkways improve safety when they are clear and visible.",
+      "B": "Pedestrians should always walk through equipment zones.",
+      "C": "Floor markings are useful only when covered.",
+      "D": "Forklifts are unrelated to workplace movement."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that designated walkways improve safety when markings stay visible and paths remain clear."
+  },
+  {
+    "id": "RC18-025",
+    "prompt": "Passage 6\nMany workplaces use designated walkways to separate pedestrians from equipment traffic. These walkways may be marked with painted lines, signs, barriers, or floor tape. The goal is to make movement through the workplace more predictable and safer.\nDesignated walkways are especially important in areas where forklifts, carts, or delivery vehicles operate. If pedestrians take shortcuts through equipment zones, drivers may have less time to react. Clear walkways help both pedestrians and equipment operators know where to expect movement.\nHowever, walkway markings must remain visible and unobstructed. Materials, trash bins, or parked equipment can reduce the effectiveness of a marked path. Supervisors often include walkway checks during routine safety inspections.\n\nHow may designated walkways be marked?",
+    "choices": {
+      "A": "With painted lines, signs, barriers, or floor tape",
+      "B": "With customer receipts only",
+      "C": "With employee pay records",
+      "D": "With weather forecasts"
+    },
+    "correct": "A",
+    "explanation": "Walkways may be marked with painted lines, signs, barriers, or floor tape."
+  },
+  {
+    "id": "RC18-026",
+    "prompt": "Passage 6\nMany workplaces use designated walkways to separate pedestrians from equipment traffic. These walkways may be marked with painted lines, signs, barriers, or floor tape. The goal is to make movement through the workplace more predictable and safer.\nDesignated walkways are especially important in areas where forklifts, carts, or delivery vehicles operate. If pedestrians take shortcuts through equipment zones, drivers may have less time to react. Clear walkways help both pedestrians and equipment operators know where to expect movement.\nHowever, walkway markings must remain visible and unobstructed. Materials, trash bins, or parked equipment can reduce the effectiveness of a marked path. Supervisors often include walkway checks during routine safety inspections.\n\nWhy are walkways important near forklifts or carts?",
+    "choices": {
+      "A": "Drivers may need clear expectations about pedestrian movement.",
+      "B": "Forklifts cannot move near painted lines.",
+      "C": "Pedestrians should be hidden from drivers.",
+      "D": "Equipment traffic always stops automatically."
+    },
+    "correct": "A",
+    "explanation": "Clear walkways help both pedestrians and drivers know where to expect movement."
+  },
+  {
+    "id": "RC18-027",
+    "prompt": "Passage 6\nMany workplaces use designated walkways to separate pedestrians from equipment traffic. These walkways may be marked with painted lines, signs, barriers, or floor tape. The goal is to make movement through the workplace more predictable and safer.\nDesignated walkways are especially important in areas where forklifts, carts, or delivery vehicles operate. If pedestrians take shortcuts through equipment zones, drivers may have less time to react. Clear walkways help both pedestrians and equipment operators know where to expect movement.\nHowever, walkway markings must remain visible and unobstructed. Materials, trash bins, or parked equipment can reduce the effectiveness of a marked path. Supervisors often include walkway checks during routine safety inspections.\n\nWhat can reduce the effectiveness of a marked walkway?",
+    "choices": {
+      "A": "Materials, trash bins, or parked equipment blocking it",
+      "B": "Clear floor tape",
+      "C": "Visible signs",
+      "D": "Routine safety inspections"
+    },
+    "correct": "A",
+    "explanation": "Materials, trash bins, or parked equipment can block the path and reduce its effectiveness."
+  },
+  {
+    "id": "RC18-028",
+    "prompt": "Passage 6\nMany workplaces use designated walkways to separate pedestrians from equipment traffic. These walkways may be marked with painted lines, signs, barriers, or floor tape. The goal is to make movement through the workplace more predictable and safer.\nDesignated walkways are especially important in areas where forklifts, carts, or delivery vehicles operate. If pedestrians take shortcuts through equipment zones, drivers may have less time to react. Clear walkways help both pedestrians and equipment operators know where to expect movement.\nHowever, walkway markings must remain visible and unobstructed. Materials, trash bins, or parked equipment can reduce the effectiveness of a marked path. Supervisors often include walkway checks during routine safety inspections.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Walkway systems require both clear markings and regular attention.",
+      "B": "Once a walkway is painted, it never needs inspection.",
+      "C": "Obstructed walkways are safer than open ones.",
+      "D": "Pedestrians should ignore designated paths."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that walkways require visible markings and regular checks to remain useful."
+  },
+  {
+    "id": "RC18-029",
+    "prompt": "Passage 7\nMany communities provide public recycling drop-off centers for residents who do not have curbside recycling or who need to dispose of larger amounts of recyclable materials. These centers may accept cardboard, paper, metal cans, glass bottles, and certain plastics.\nClear sorting rules are important because recycling centers can be affected by contamination. Contamination occurs when non-recyclable items or dirty materials are mixed with acceptable recyclables. Too much contamination can slow processing or cause loads to be rejected.\nPublic signs and staff guidance help residents use the centers correctly. Some centers also publish lists of accepted materials online so residents can check before they arrive.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Recycling drop-off centers help residents recycle, but sorting rules must be followed.",
+      "B": "Recycling centers accept all household trash.",
+      "C": "Residents should mix dirty materials with recyclables.",
+      "D": "Curbside recycling is required in every community."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how recycling drop-off centers work and why residents must follow sorting rules."
+  },
+  {
+    "id": "RC18-030",
+    "prompt": "Passage 7\nMany communities provide public recycling drop-off centers for residents who do not have curbside recycling or who need to dispose of larger amounts of recyclable materials. These centers may accept cardboard, paper, metal cans, glass bottles, and certain plastics.\nClear sorting rules are important because recycling centers can be affected by contamination. Contamination occurs when non-recyclable items or dirty materials are mixed with acceptable recyclables. Too much contamination can slow processing or cause loads to be rejected.\nPublic signs and staff guidance help residents use the centers correctly. Some centers also publish lists of accepted materials online so residents can check before they arrive.\n\nWhich material may be accepted at a recycling drop-off center?",
+    "choices": {
+      "A": "Cardboard",
+      "B": "Food waste",
+      "C": "Broken furniture",
+      "D": "Used motor oil"
+    },
+    "correct": "A",
+    "explanation": "Cardboard is specifically listed as a material that may be accepted."
+  },
+  {
+    "id": "RC18-031",
+    "prompt": "Passage 7\nMany communities provide public recycling drop-off centers for residents who do not have curbside recycling or who need to dispose of larger amounts of recyclable materials. These centers may accept cardboard, paper, metal cans, glass bottles, and certain plastics.\nClear sorting rules are important because recycling centers can be affected by contamination. Contamination occurs when non-recyclable items or dirty materials are mixed with acceptable recyclables. Too much contamination can slow processing or cause loads to be rejected.\nPublic signs and staff guidance help residents use the centers correctly. Some centers also publish lists of accepted materials online so residents can check before they arrive.\n\nWhat does “contamination” mean in the passage?",
+    "choices": {
+      "A": "Mixing non-recyclable or dirty materials with acceptable recyclables",
+      "B": "Separating cardboard from glass",
+      "C": "Publishing accepted-material lists online",
+      "D": "Driving to a drop-off center"
+    },
+    "correct": "A",
+    "explanation": "The passage defines contamination as non-recyclable or dirty materials being mixed with acceptable recyclables."
+  },
+  {
+    "id": "RC18-032",
+    "prompt": "Passage 7\nMany communities provide public recycling drop-off centers for residents who do not have curbside recycling or who need to dispose of larger amounts of recyclable materials. These centers may accept cardboard, paper, metal cans, glass bottles, and certain plastics.\nClear sorting rules are important because recycling centers can be affected by contamination. Contamination occurs when non-recyclable items or dirty materials are mixed with acceptable recyclables. Too much contamination can slow processing or cause loads to be rejected.\nPublic signs and staff guidance help residents use the centers correctly. Some centers also publish lists of accepted materials online so residents can check before they arrive.\n\nWhy might residents check accepted-material lists before arriving?",
+    "choices": {
+      "A": "To know which materials the center accepts",
+      "B": "To avoid recycling correctly",
+      "C": "To replace public signs",
+      "D": "To find employee work schedules"
+    },
+    "correct": "A",
+    "explanation": "Residents may check lists before arriving so they know what the center accepts."
+  },
+  {
+    "id": "RC18-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently began using short progress conferences with students. Each conference lasts about ten minutes and gives the instructor and student time to review attendance, quiz results, completed assignments, and study habits.\nThe program added the conferences after instructors noticed that some students were unsure whether they were improving. A student might attend regularly but continue making the same quiz errors, or a student might improve in math while falling behind in reading.\nDuring each conference, the instructor helps the student identify one strength and one area to work on before the next meeting. Program leaders believe this approach helps students make adjustments before problems become too large.\n\nWhat is the purpose of the progress conferences?",
+    "choices": {
+      "A": "To review student progress and identify next steps",
+      "B": "To replace all classroom lessons",
+      "C": "To remove quizzes from the program",
+      "D": "To stop students from discussing study habits"
+    },
+    "correct": "A",
+    "explanation": "The conferences are used to review progress and help students identify what to work on next."
+  },
+  {
+    "id": "RC18-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently began using short progress conferences with students. Each conference lasts about ten minutes and gives the instructor and student time to review attendance, quiz results, completed assignments, and study habits.\nThe program added the conferences after instructors noticed that some students were unsure whether they were improving. A student might attend regularly but continue making the same quiz errors, or a student might improve in math while falling behind in reading.\nDuring each conference, the instructor helps the student identify one strength and one area to work on before the next meeting. Program leaders believe this approach helps students make adjustments before problems become too large.\n\nWhat information is reviewed during a conference?",
+    "choices": {
+      "A": "Attendance, quiz results, assignments, and study habits",
+      "B": "Customer invoices and repair records",
+      "C": "Building maintenance schedules",
+      "D": "Employee payroll reports"
+    },
+    "correct": "A",
+    "explanation": "Each conference reviews attendance, quiz results, completed assignments, and study habits."
+  },
+  {
+    "id": "RC18-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently began using short progress conferences with students. Each conference lasts about ten minutes and gives the instructor and student time to review attendance, quiz results, completed assignments, and study habits.\nThe program added the conferences after instructors noticed that some students were unsure whether they were improving. A student might attend regularly but continue making the same quiz errors, or a student might improve in math while falling behind in reading.\nDuring each conference, the instructor helps the student identify one strength and one area to work on before the next meeting. Program leaders believe this approach helps students make adjustments before problems become too large.\n\nWhy did the program add the conferences?",
+    "choices": {
+      "A": "Some students were unsure whether they were improving.",
+      "B": "Students no longer attended class.",
+      "C": "Instructors stopped reviewing assignments.",
+      "D": "Reading and math were removed from the course."
+    },
+    "correct": "A",
+    "explanation": "The program added conferences because some students were unsure whether they were improving."
+  },
+  {
+    "id": "RC18-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently began using short progress conferences with students. Each conference lasts about ten minutes and gives the instructor and student time to review attendance, quiz results, completed assignments, and study habits.\nThe program added the conferences after instructors noticed that some students were unsure whether they were improving. A student might attend regularly but continue making the same quiz errors, or a student might improve in math while falling behind in reading.\nDuring each conference, the instructor helps the student identify one strength and one area to work on before the next meeting. Program leaders believe this approach helps students make adjustments before problems become too large.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Regular progress checks can help students adjust before problems grow.",
+      "B": "Students should wait until the end of a course to notice problems.",
+      "C": "Conferences are useful only for students with perfect quiz scores.",
+      "D": "Study habits are unrelated to exam preparation."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that regular progress checks help students make adjustments before problems become larger."
+  }
+]

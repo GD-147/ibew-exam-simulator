@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC5-001",
+    "prompt": "Passage 1\nA regional warehouse recently introduced a new system for tracking incoming deliveries. In the past, receiving clerks recorded shipments on paper forms and later entered the information into a computer. This process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly.\nThe new system allows clerks to scan delivery documents as soon as shipments arrive. Information is automatically uploaded to the warehouse database, where supervisors can review delivery times, quantities, and supplier information. Managers report that records are now available more quickly and that fewer corrections are needed.\nThe warehouse also uses the data to identify suppliers that frequently deliver late or send incomplete orders. By reviewing this information, managers can address recurring problems and improve planning.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The warehouse stopped accepting incoming deliveries.",
+      "B": "A new tracking system improved delivery recordkeeping.",
+      "C": "Receiving clerks no longer check shipments.",
+      "D": "Suppliers now control the warehouse database."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the warehouse improved delivery recordkeeping by replacing paper forms with a scanning system that uploads information directly to a database."
+  },
+  {
+    "id": "RC5-002",
+    "prompt": "Passage 1\nA regional warehouse recently introduced a new system for tracking incoming deliveries. In the past, receiving clerks recorded shipments on paper forms and later entered the information into a computer. This process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly.\nThe new system allows clerks to scan delivery documents as soon as shipments arrive. Information is automatically uploaded to the warehouse database, where supervisors can review delivery times, quantities, and supplier information. Managers report that records are now available more quickly and that fewer corrections are needed.\nThe warehouse also uses the data to identify suppliers that frequently deliver late or send incomplete orders. By reviewing this information, managers can address recurring problems and improve planning.\n\nWhat problem occurred with the previous process?",
+    "choices": {
+      "A": "Shipments arrived too early.",
+      "B": "Paperwork could be incomplete, misplaced, or entered incorrectly.",
+      "C": "Supervisors refused to review delivery records.",
+      "D": "Suppliers stopped sending delivery documents."
+    },
+    "correct": "B",
+    "explanation": "The old process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly."
+  },
+  {
+    "id": "RC5-003",
+    "prompt": "Passage 1\nA regional warehouse recently introduced a new system for tracking incoming deliveries. In the past, receiving clerks recorded shipments on paper forms and later entered the information into a computer. This process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly.\nThe new system allows clerks to scan delivery documents as soon as shipments arrive. Information is automatically uploaded to the warehouse database, where supervisors can review delivery times, quantities, and supplier information. Managers report that records are now available more quickly and that fewer corrections are needed.\nThe warehouse also uses the data to identify suppliers that frequently deliver late or send incomplete orders. By reviewing this information, managers can address recurring problems and improve planning.\n\nWhat happens when clerks scan delivery documents?",
+    "choices": {
+      "A": "Information is automatically uploaded to the warehouse database.",
+      "B": "Shipments are returned to suppliers.",
+      "C": "Paper records are mailed to customers.",
+      "D": "Delivery trucks are assigned new routes."
+    },
+    "correct": "A",
+    "explanation": "The passage states that when clerks scan delivery documents, the information is automatically uploaded to the warehouse database."
+  },
+  {
+    "id": "RC5-004",
+    "prompt": "Passage 1\nA regional warehouse recently introduced a new system for tracking incoming deliveries. In the past, receiving clerks recorded shipments on paper forms and later entered the information into a computer. This process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly.\nThe new system allows clerks to scan delivery documents as soon as shipments arrive. Information is automatically uploaded to the warehouse database, where supervisors can review delivery times, quantities, and supplier information. Managers report that records are now available more quickly and that fewer corrections are needed.\nThe warehouse also uses the data to identify suppliers that frequently deliver late or send incomplete orders. By reviewing this information, managers can address recurring problems and improve planning.\n\nWhat can managers identify by reviewing the data?",
+    "choices": {
+      "A": "Employees who need vacation time",
+      "B": "Suppliers that frequently deliver late or send incomplete orders",
+      "C": "Products that should be advertised",
+      "D": "Customers who visit the warehouse"
+    },
+    "correct": "B",
+    "explanation": "Managers can use the data to identify suppliers that often deliver late or send incomplete orders."
+  },
+  {
+    "id": "RC5-005",
+    "prompt": "Passage 1\nA regional warehouse recently introduced a new system for tracking incoming deliveries. In the past, receiving clerks recorded shipments on paper forms and later entered the information into a computer. This process sometimes caused delays because paperwork could be incomplete, misplaced, or entered incorrectly.\nThe new system allows clerks to scan delivery documents as soon as shipments arrive. Information is automatically uploaded to the warehouse database, where supervisors can review delivery times, quantities, and supplier information. Managers report that records are now available more quickly and that fewer corrections are needed.\nThe warehouse also uses the data to identify suppliers that frequently deliver late or send incomplete orders. By reviewing this information, managers can address recurring problems and improve planning.\n\nThe word “recurring” most nearly means:",
+    "choices": {
+      "A": "Repeating",
+      "B": "Hidden",
+      "C": "Expensive",
+      "D": "Temporary"
+    },
+    "correct": "A",
+    "explanation": "In context, “recurring” means happening repeatedly. The passage refers to problems that happen more than once and need to be addressed."
+  },
+  {
+    "id": "RC5-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, all employees must complete the updated safety orientation before using the new loading dock equipment. The orientation includes a brief classroom review and a supervised equipment demonstration.\nThe updated orientation was created after supervisors observed that some employees were unfamiliar with the new controls. The goal is to ensure that all workers understand proper operating procedures before working independently.\nEmployees should schedule their orientation through the training office. Supervisors will verify completion before assigning employees to loading dock duties.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a required safety orientation",
+      "B": "To advertise a new warehouse position",
+      "C": "To explain payroll changes",
+      "D": "To cancel loading dock operations"
+    },
+    "correct": "A",
+    "explanation": "The notice announces that employees must complete an updated safety orientation before using the new loading dock equipment."
+  },
+  {
+    "id": "RC5-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, all employees must complete the updated safety orientation before using the new loading dock equipment. The orientation includes a brief classroom review and a supervised equipment demonstration.\nThe updated orientation was created after supervisors observed that some employees were unfamiliar with the new controls. The goal is to ensure that all workers understand proper operating procedures before working independently.\nEmployees should schedule their orientation through the training office. Supervisors will verify completion before assigning employees to loading dock duties.\n\nWhat does the orientation include?",
+    "choices": {
+      "A": "A written sales report",
+      "B": "A classroom review and supervised equipment demonstration",
+      "C": "A customer service interview",
+      "D": "A warehouse inventory count"
+    },
+    "correct": "B",
+    "explanation": "The notice states that the orientation includes a brief classroom review and a supervised equipment demonstration."
+  },
+  {
+    "id": "RC5-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, all employees must complete the updated safety orientation before using the new loading dock equipment. The orientation includes a brief classroom review and a supervised equipment demonstration.\nThe updated orientation was created after supervisors observed that some employees were unfamiliar with the new controls. The goal is to ensure that all workers understand proper operating procedures before working independently.\nEmployees should schedule their orientation through the training office. Supervisors will verify completion before assigning employees to loading dock duties.\n\nWhy was the updated orientation created?",
+    "choices": {
+      "A": "Some employees were unfamiliar with the new controls.",
+      "B": "The loading dock equipment was removed.",
+      "C": "Customers requested faster deliveries.",
+      "D": "Employees wanted longer break periods."
+    },
+    "correct": "A",
+    "explanation": "The updated orientation was created because supervisors observed that some employees were unfamiliar with the new controls."
+  },
+  {
+    "id": "RC5-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, all employees must complete the updated safety orientation before using the new loading dock equipment. The orientation includes a brief classroom review and a supervised equipment demonstration.\nThe updated orientation was created after supervisors observed that some employees were unfamiliar with the new controls. The goal is to ensure that all workers understand proper operating procedures before working independently.\nEmployees should schedule their orientation through the training office. Supervisors will verify completion before assigning employees to loading dock duties.\n\nWho will verify that employees completed the orientation?",
+    "choices": {
+      "A": "Customers",
+      "B": "Suppliers",
+      "C": "Supervisors",
+      "D": "Delivery drivers"
+    },
+    "correct": "C",
+    "explanation": "Supervisors will verify completion before assigning employees to loading dock duties."
+  },
+  {
+    "id": "RC5-010",
+    "prompt": "Passage 3\nMany businesses use inventory forecasts to estimate future product demand. A forecast may be based on past sales, seasonal patterns, customer orders, and current market conditions. Although forecasts are not always exact, they can help companies make better decisions about purchasing and production.\nIf a company orders too much inventory, it may spend money storing products that do not sell quickly. If it orders too little, it may run out of popular items and disappoint customers. A useful forecast helps businesses balance these risks.\nManagers often review forecasts regularly and adjust them when new information becomes available. This process allows companies to respond more effectively to changing conditions.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Inventory forecasts help businesses plan for future demand.",
+      "B": "Companies should avoid using past sales information.",
+      "C": "Forecasts are always completely accurate.",
+      "D": "Customers prefer businesses with no inventory."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how inventory forecasts help businesses estimate future product demand and make better purchasing and production decisions."
+  },
+  {
+    "id": "RC5-011",
+    "prompt": "Passage 3\nMany businesses use inventory forecasts to estimate future product demand. A forecast may be based on past sales, seasonal patterns, customer orders, and current market conditions. Although forecasts are not always exact, they can help companies make better decisions about purchasing and production.\nIf a company orders too much inventory, it may spend money storing products that do not sell quickly. If it orders too little, it may run out of popular items and disappoint customers. A useful forecast helps businesses balance these risks.\nManagers often review forecasts regularly and adjust them when new information becomes available. This process allows companies to respond more effectively to changing conditions.\n\nWhat information may be used in an inventory forecast?",
+    "choices": {
+      "A": "Employee birthdays",
+      "B": "Past sales and seasonal patterns",
+      "C": "Building inspection dates",
+      "D": "Parking assignments"
+    },
+    "correct": "B",
+    "explanation": "The passage lists past sales, seasonal patterns, customer orders, and current market conditions as possible sources for forecasts."
+  },
+  {
+    "id": "RC5-012",
+    "prompt": "Passage 3\nMany businesses use inventory forecasts to estimate future product demand. A forecast may be based on past sales, seasonal patterns, customer orders, and current market conditions. Although forecasts are not always exact, they can help companies make better decisions about purchasing and production.\nIf a company orders too much inventory, it may spend money storing products that do not sell quickly. If it orders too little, it may run out of popular items and disappoint customers. A useful forecast helps businesses balance these risks.\nManagers often review forecasts regularly and adjust them when new information becomes available. This process allows companies to respond more effectively to changing conditions.\n\nWhat may happen if a company orders too little inventory?",
+    "choices": {
+      "A": "It may run out of popular items.",
+      "B": "It may reduce customer interest.",
+      "C": "It may eliminate the need for storage.",
+      "D": "It may stop using forecasts."
+    },
+    "correct": "A",
+    "explanation": "If a company orders too little inventory, it may run out of popular items and disappoint customers."
+  },
+  {
+    "id": "RC5-013",
+    "prompt": "Passage 3\nMany businesses use inventory forecasts to estimate future product demand. A forecast may be based on past sales, seasonal patterns, customer orders, and current market conditions. Although forecasts are not always exact, they can help companies make better decisions about purchasing and production.\nIf a company orders too much inventory, it may spend money storing products that do not sell quickly. If it orders too little, it may run out of popular items and disappoint customers. A useful forecast helps businesses balance these risks.\nManagers often review forecasts regularly and adjust them when new information becomes available. This process allows companies to respond more effectively to changing conditions.\n\nWhy do managers review forecasts regularly?",
+    "choices": {
+      "A": "To avoid making any changes",
+      "B": "To adjust them when new information becomes available",
+      "C": "To replace all customer orders",
+      "D": "To increase storage costs"
+    },
+    "correct": "B",
+    "explanation": "Managers review forecasts regularly so they can adjust them when new information becomes available."
+  },
+  {
+    "id": "RC5-014",
+    "prompt": "Passage 3\nMany businesses use inventory forecasts to estimate future product demand. A forecast may be based on past sales, seasonal patterns, customer orders, and current market conditions. Although forecasts are not always exact, they can help companies make better decisions about purchasing and production.\nIf a company orders too much inventory, it may spend money storing products that do not sell quickly. If it orders too little, it may run out of popular items and disappoint customers. A useful forecast helps businesses balance these risks.\nManagers often review forecasts regularly and adjust them when new information becomes available. This process allows companies to respond more effectively to changing conditions.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Forecasting can help companies balance cost and customer demand.",
+      "B": "Inventory decisions do not affect customers.",
+      "C": "Businesses should always order the largest possible amount.",
+      "D": "Forecasts are useful only after products are sold."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that forecasting helps companies avoid ordering too much or too little, balancing storage costs with customer demand."
+  },
+  {
+    "id": "RC5-015",
+    "prompt": "Passage 4\nThe development of public water treatment systems greatly improved health and daily life in many communities. Before these systems were common, people often relied on wells, rivers, or other local sources that could become contaminated. Unsafe water could spread disease and make communities more vulnerable to illness.\nWater treatment systems use several steps to remove harmful materials and reduce health risks. These steps may include filtering, settling, and disinfecting the water before it reaches homes and businesses.\nToday, public water treatment remains an essential service. Engineers and utility workers continue to monitor systems, test water quality, and maintain equipment to keep water supplies reliable.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Public water treatment systems improved community health and reliability.",
+      "B": "Communities no longer need water testing.",
+      "C": "Wells are always safer than treated water.",
+      "D": "Water treatment systems are used only in factories."
+    },
+    "correct": "A",
+    "explanation": "The passage describes how public water treatment systems reduced health risks and continue to help keep water supplies reliable."
+  },
+  {
+    "id": "RC5-016",
+    "prompt": "Passage 4\nThe development of public water treatment systems greatly improved health and daily life in many communities. Before these systems were common, people often relied on wells, rivers, or other local sources that could become contaminated. Unsafe water could spread disease and make communities more vulnerable to illness.\nWater treatment systems use several steps to remove harmful materials and reduce health risks. These steps may include filtering, settling, and disinfecting the water before it reaches homes and businesses.\nToday, public water treatment remains an essential service. Engineers and utility workers continue to monitor systems, test water quality, and maintain equipment to keep water supplies reliable.\n\nWhat risk existed before public water treatment systems were common?",
+    "choices": {
+      "A": "Water sources could become contaminated.",
+      "B": "Water was always disinfected.",
+      "C": "Homes received too much treated water.",
+      "D": "Engineers avoided water testing."
+    },
+    "correct": "A",
+    "explanation": "Before public treatment systems were common, local water sources such as wells and rivers could become contaminated."
+  },
+  {
+    "id": "RC5-017",
+    "prompt": "Passage 4\nThe development of public water treatment systems greatly improved health and daily life in many communities. Before these systems were common, people often relied on wells, rivers, or other local sources that could become contaminated. Unsafe water could spread disease and make communities more vulnerable to illness.\nWater treatment systems use several steps to remove harmful materials and reduce health risks. These steps may include filtering, settling, and disinfecting the water before it reaches homes and businesses.\nToday, public water treatment remains an essential service. Engineers and utility workers continue to monitor systems, test water quality, and maintain equipment to keep water supplies reliable.\n\nWhich step may be used in water treatment?",
+    "choices": {
+      "A": "Painting",
+      "B": "Filtering",
+      "C": "Packaging",
+      "D": "Shipping"
+    },
+    "correct": "B",
+    "explanation": "Filtering is specifically listed as one step that may be used in water treatment."
+  },
+  {
+    "id": "RC5-018",
+    "prompt": "Passage 4\nThe development of public water treatment systems greatly improved health and daily life in many communities. Before these systems were common, people often relied on wells, rivers, or other local sources that could become contaminated. Unsafe water could spread disease and make communities more vulnerable to illness.\nWater treatment systems use several steps to remove harmful materials and reduce health risks. These steps may include filtering, settling, and disinfecting the water before it reaches homes and businesses.\nToday, public water treatment remains an essential service. Engineers and utility workers continue to monitor systems, test water quality, and maintain equipment to keep water supplies reliable.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "Problem, solution, and continuing importance",
+      "B": "Comparison of two unrelated jobs",
+      "C": "Instructions for repairing a water pump",
+      "D": "List of customer complaints"
+    },
+    "correct": "A",
+    "explanation": "The passage first explains the problem of unsafe water, then describes water treatment as a solution, and finally explains its continuing importance today."
+  },
+  {
+    "id": "RC5-019",
+    "prompt": "Passage 5\nA company that repairs industrial equipment recently introduced a customer service portal. Before the portal was launched, customers usually called the service desk to request repairs, ask about job status, or submit equipment information. During busy periods, callers sometimes waited longer than expected.\nThe new portal allows customers to submit service requests online, upload photos of equipment problems, and check the status of existing jobs. Service managers report that the portal has reduced call volume and helped technicians receive clearer information before arriving at a job site.\nThe company continues to offer phone support for customers who prefer it, but leaders expect online usage to grow as customers become more comfortable with the system.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The company stopped repairing industrial equipment.",
+      "B": "A customer service portal improved repair-request handling.",
+      "C": "Customers are no longer allowed to call the service desk.",
+      "D": "Technicians now complete all repairs remotely."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the customer service portal improved the way repair requests are submitted, tracked, and handled."
+  },
+  {
+    "id": "RC5-020",
+    "prompt": "Passage 5\nA company that repairs industrial equipment recently introduced a customer service portal. Before the portal was launched, customers usually called the service desk to request repairs, ask about job status, or submit equipment information. During busy periods, callers sometimes waited longer than expected.\nThe new portal allows customers to submit service requests online, upload photos of equipment problems, and check the status of existing jobs. Service managers report that the portal has reduced call volume and helped technicians receive clearer information before arriving at a job site.\nThe company continues to offer phone support for customers who prefer it, but leaders expect online usage to grow as customers become more comfortable with the system.\n\nWhat problem sometimes occurred before the portal was launched?",
+    "choices": {
+      "A": "Customers could not describe equipment problems.",
+      "B": "Callers sometimes waited longer than expected.",
+      "C": "Technicians refused job assignments.",
+      "D": "Equipment photos were required for every repair."
+    },
+    "correct": "B",
+    "explanation": "Before the portal, callers sometimes waited longer than expected during busy periods."
+  },
+  {
+    "id": "RC5-021",
+    "prompt": "Passage 5\nA company that repairs industrial equipment recently introduced a customer service portal. Before the portal was launched, customers usually called the service desk to request repairs, ask about job status, or submit equipment information. During busy periods, callers sometimes waited longer than expected.\nThe new portal allows customers to submit service requests online, upload photos of equipment problems, and check the status of existing jobs. Service managers report that the portal has reduced call volume and helped technicians receive clearer information before arriving at a job site.\nThe company continues to offer phone support for customers who prefer it, but leaders expect online usage to grow as customers become more comfortable with the system.\n\nWhat can customers do through the portal?",
+    "choices": {
+      "A": "Submit service requests and upload photos",
+      "B": "Approve employee schedules",
+      "C": "Purchase replacement vehicles",
+      "D": "Close the service department"
+    },
+    "correct": "A",
+    "explanation": "Customers can use the portal to submit service requests online and upload photos of equipment problems."
+  },
+  {
+    "id": "RC5-022",
+    "prompt": "Passage 5\nA company that repairs industrial equipment recently introduced a customer service portal. Before the portal was launched, customers usually called the service desk to request repairs, ask about job status, or submit equipment information. During busy periods, callers sometimes waited longer than expected.\nThe new portal allows customers to submit service requests online, upload photos of equipment problems, and check the status of existing jobs. Service managers report that the portal has reduced call volume and helped technicians receive clearer information before arriving at a job site.\nThe company continues to offer phone support for customers who prefer it, but leaders expect online usage to grow as customers become more comfortable with the system.\n\nHow has the portal helped technicians?",
+    "choices": {
+      "A": "It has eliminated all travel to job sites.",
+      "B": "It has helped them receive clearer information before arriving.",
+      "C": "It has reduced the need for repair tools.",
+      "D": "It has prevented customers from asking questions."
+    },
+    "correct": "B",
+    "explanation": "The portal helps technicians receive clearer information before arriving at a job site."
+  },
+  {
+    "id": "RC5-023",
+    "prompt": "Passage 5\nA company that repairs industrial equipment recently introduced a customer service portal. Before the portal was launched, customers usually called the service desk to request repairs, ask about job status, or submit equipment information. During busy periods, callers sometimes waited longer than expected.\nThe new portal allows customers to submit service requests online, upload photos of equipment problems, and check the status of existing jobs. Service managers report that the portal has reduced call volume and helped technicians receive clearer information before arriving at a job site.\nThe company continues to offer phone support for customers who prefer it, but leaders expect online usage to grow as customers become more comfortable with the system.\n\nThe word “launched” most nearly means:",
+    "choices": {
+      "A": "Measured",
+      "B": "Introduced",
+      "C": "Delayed",
+      "D": "Removed"
+    },
+    "correct": "B",
+    "explanation": "In context, “launched” means introduced or started. The passage says the portal was made available to customers."
+  },
+  {
+    "id": "RC5-024",
+    "prompt": "Passage 6\nMany workplaces use checklists to support consistent performance. A checklist may list required steps for opening a facility, inspecting equipment, preparing materials, or closing a work area at the end of a shift.\nChecklists are useful because they reduce reliance on memory. Even experienced workers can forget a step when they are tired, interrupted, or working under time pressure. A clear checklist helps employees confirm that important tasks have been completed.\nHowever, a checklist is only helpful when it is accurate and actually used. Supervisors may review checklists periodically to make sure they still match current procedures.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Checklists can improve consistency when they are accurate and used properly.",
+      "B": "Experienced workers never need written instructions.",
+      "C": "Workplaces should avoid reviewing procedures.",
+      "D": "Checklists are useful only for new employees."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that checklists support consistent performance, but only if they are accurate and actually used."
+  },
+  {
+    "id": "RC5-025",
+    "prompt": "Passage 6\nMany workplaces use checklists to support consistent performance. A checklist may list required steps for opening a facility, inspecting equipment, preparing materials, or closing a work area at the end of a shift.\nChecklists are useful because they reduce reliance on memory. Even experienced workers can forget a step when they are tired, interrupted, or working under time pressure. A clear checklist helps employees confirm that important tasks have been completed.\nHowever, a checklist is only helpful when it is accurate and actually used. Supervisors may review checklists periodically to make sure they still match current procedures.\n\nWhy can checklists be useful?",
+    "choices": {
+      "A": "They reduce reliance on memory.",
+      "B": "They eliminate all workplace errors.",
+      "C": "They replace supervisors.",
+      "D": "They make procedures unnecessary."
+    },
+    "correct": "A",
+    "explanation": "Checklists are useful because they reduce reliance on memory, especially when workers are tired, interrupted, or under pressure."
+  },
+  {
+    "id": "RC5-026",
+    "prompt": "Passage 6\nMany workplaces use checklists to support consistent performance. A checklist may list required steps for opening a facility, inspecting equipment, preparing materials, or closing a work area at the end of a shift.\nChecklists are useful because they reduce reliance on memory. Even experienced workers can forget a step when they are tired, interrupted, or working under time pressure. A clear checklist helps employees confirm that important tasks have been completed.\nHowever, a checklist is only helpful when it is accurate and actually used. Supervisors may review checklists periodically to make sure they still match current procedures.\n\nAccording to the passage, when might even experienced workers forget a step?",
+    "choices": {
+      "A": "When they are tired or interrupted",
+      "B": "When they receive a promotion",
+      "C": "When procedures are updated yearly",
+      "D": "When they work in a quiet area"
+    },
+    "correct": "A",
+    "explanation": "The passage states that even experienced workers can forget a step when they are tired, interrupted, or working under time pressure."
+  },
+  {
+    "id": "RC5-027",
+    "prompt": "Passage 6\nMany workplaces use checklists to support consistent performance. A checklist may list required steps for opening a facility, inspecting equipment, preparing materials, or closing a work area at the end of a shift.\nChecklists are useful because they reduce reliance on memory. Even experienced workers can forget a step when they are tired, interrupted, or working under time pressure. A clear checklist helps employees confirm that important tasks have been completed.\nHowever, a checklist is only helpful when it is accurate and actually used. Supervisors may review checklists periodically to make sure they still match current procedures.\n\nWhy may supervisors review checklists periodically?",
+    "choices": {
+      "A": "To make sure they match current procedures",
+      "B": "To remove all required steps",
+      "C": "To reduce employee training",
+      "D": "To replace equipment inspections"
+    },
+    "correct": "A",
+    "explanation": "Supervisors may review checklists to make sure they still match current procedures."
+  },
+  {
+    "id": "RC5-028",
+    "prompt": "Passage 6\nMany workplaces use checklists to support consistent performance. A checklist may list required steps for opening a facility, inspecting equipment, preparing materials, or closing a work area at the end of a shift.\nChecklists are useful because they reduce reliance on memory. Even experienced workers can forget a step when they are tired, interrupted, or working under time pressure. A clear checklist helps employees confirm that important tasks have been completed.\nHowever, a checklist is only helpful when it is accurate and actually used. Supervisors may review checklists periodically to make sure they still match current procedures.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A checklist is most useful when it reflects real work procedures.",
+      "B": "Checklists should never be changed.",
+      "C": "Memory is always more reliable than written steps.",
+      "D": "Written procedures prevent every workplace problem."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that a checklist works best when it accurately reflects the procedures employees actually need to follow."
+  },
+  {
+    "id": "RC5-029",
+    "prompt": "Passage 7\nMany communities use stormwater drainage systems to manage rainwater runoff. When rain falls on roads, parking lots, and rooftops, the water cannot always soak naturally into the ground. Instead, it flows across hard surfaces and must be directed away from streets and buildings.\nDrainage systems may include gutters, storm drains, pipes, retention ponds, and channels. These systems help reduce flooding and limit damage during heavy rainfall. They also help prevent water from collecting in areas where it could create safety hazards.\nRegular maintenance is important because leaves, trash, and sediment can block drainage pathways. When systems are not maintained, even moderate rain can cause problems.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How stormwater drainage systems manage runoff and prevent problems",
+      "B": "Why communities should remove all paved surfaces",
+      "C": "How rainwater is used to generate electricity",
+      "D": "Why rooftops require frequent replacement"
+    },
+    "correct": "A",
+    "explanation": "The passage explains what stormwater drainage systems do, why they are needed, and how maintenance helps prevent flooding and safety problems."
+  },
+  {
+    "id": "RC5-030",
+    "prompt": "Passage 7\nMany communities use stormwater drainage systems to manage rainwater runoff. When rain falls on roads, parking lots, and rooftops, the water cannot always soak naturally into the ground. Instead, it flows across hard surfaces and must be directed away from streets and buildings.\nDrainage systems may include gutters, storm drains, pipes, retention ponds, and channels. These systems help reduce flooding and limit damage during heavy rainfall. They also help prevent water from collecting in areas where it could create safety hazards.\nRegular maintenance is important because leaves, trash, and sediment can block drainage pathways. When systems are not maintained, even moderate rain can cause problems.\n\nWhy does rainwater flow across roads and parking lots?",
+    "choices": {
+      "A": "Hard surfaces prevent it from soaking naturally into the ground.",
+      "B": "Roads absorb water faster than soil.",
+      "C": "Parking lots are designed to collect drinking water.",
+      "D": "Rainwater cannot move through pipes."
+    },
+    "correct": "A",
+    "explanation": "The passage states that hard surfaces such as roads, parking lots, and rooftops prevent rainwater from soaking naturally into the ground."
+  },
+  {
+    "id": "RC5-031",
+    "prompt": "Passage 7\nMany communities use stormwater drainage systems to manage rainwater runoff. When rain falls on roads, parking lots, and rooftops, the water cannot always soak naturally into the ground. Instead, it flows across hard surfaces and must be directed away from streets and buildings.\nDrainage systems may include gutters, storm drains, pipes, retention ponds, and channels. These systems help reduce flooding and limit damage during heavy rainfall. They also help prevent water from collecting in areas where it could create safety hazards.\nRegular maintenance is important because leaves, trash, and sediment can block drainage pathways. When systems are not maintained, even moderate rain can cause problems.\n\nWhich item may be part of a drainage system?",
+    "choices": {
+      "A": "Office furniture",
+      "B": "Storm drains",
+      "C": "Employee lockers",
+      "D": "Traffic signs"
+    },
+    "correct": "B",
+    "explanation": "Storm drains are specifically listed as one part of a stormwater drainage system."
+  },
+  {
+    "id": "RC5-032",
+    "prompt": "Passage 7\nMany communities use stormwater drainage systems to manage rainwater runoff. When rain falls on roads, parking lots, and rooftops, the water cannot always soak naturally into the ground. Instead, it flows across hard surfaces and must be directed away from streets and buildings.\nDrainage systems may include gutters, storm drains, pipes, retention ponds, and channels. These systems help reduce flooding and limit damage during heavy rainfall. They also help prevent water from collecting in areas where it could create safety hazards.\nRegular maintenance is important because leaves, trash, and sediment can block drainage pathways. When systems are not maintained, even moderate rain can cause problems.\n\nWhy is maintenance important for drainage systems?",
+    "choices": {
+      "A": "Leaves, trash, and sediment can block drainage pathways.",
+      "B": "Rainfall stops drainage systems from working.",
+      "C": "Maintenance increases flooding.",
+      "D": "Drainage systems are useful only in dry weather."
+    },
+    "correct": "A",
+    "explanation": "Maintenance is important because leaves, trash, and sediment can block drainage pathways and cause problems during rain."
+  },
+  {
+    "id": "RC5-033",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its employee suggestion program. The program allows workers to submit ideas for improving safety, reducing waste, or making production more efficient.\nDuring the review, managers found that several employee suggestions had led to useful changes. One team proposed reorganizing frequently used tools closer to workstations, which reduced unnecessary walking time. Another employee suggested clearer labels for storage bins, helping workers locate materials more quickly.\nAfter reviewing the results, company leaders decided to continue the program and provide quarterly updates about suggestions that are adopted. They believe this will encourage more employees to participate.\n\nWhat is the purpose of the employee suggestion program?",
+    "choices": {
+      "A": "To allow workers to submit improvement ideas",
+      "B": "To replace supervisors",
+      "C": "To reduce all employee communication",
+      "D": "To assign overtime schedules"
+    },
+    "correct": "A",
+    "explanation": "The employee suggestion program allows workers to submit ideas for improving safety, reducing waste, or improving efficiency."
+  },
+  {
+    "id": "RC5-034",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its employee suggestion program. The program allows workers to submit ideas for improving safety, reducing waste, or making production more efficient.\nDuring the review, managers found that several employee suggestions had led to useful changes. One team proposed reorganizing frequently used tools closer to workstations, which reduced unnecessary walking time. Another employee suggested clearer labels for storage bins, helping workers locate materials more quickly.\nAfter reviewing the results, company leaders decided to continue the program and provide quarterly updates about suggestions that are adopted. They believe this will encourage more employees to participate.\n\nWhat change reduced unnecessary walking time?",
+    "choices": {
+      "A": "Installing new parking signs",
+      "B": "Reorganizing frequently used tools closer to workstations",
+      "C": "Removing storage bins",
+      "D": "Reducing the number of workstations"
+    },
+    "correct": "B",
+    "explanation": "One team suggested reorganizing frequently used tools closer to workstations, which reduced unnecessary walking time."
+  },
+  {
+    "id": "RC5-035",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its employee suggestion program. The program allows workers to submit ideas for improving safety, reducing waste, or making production more efficient.\nDuring the review, managers found that several employee suggestions had led to useful changes. One team proposed reorganizing frequently used tools closer to workstations, which reduced unnecessary walking time. Another employee suggested clearer labels for storage bins, helping workers locate materials more quickly.\nAfter reviewing the results, company leaders decided to continue the program and provide quarterly updates about suggestions that are adopted. They believe this will encourage more employees to participate.\n\nWhat did company leaders decide to do?",
+    "choices": {
+      "A": "End the suggestion program immediately",
+      "B": "Continue the program and provide quarterly updates",
+      "C": "Require customers to submit suggestions",
+      "D": "Limit ideas to production managers only"
+    },
+    "correct": "B",
+    "explanation": "Company leaders decided to continue the program and provide quarterly updates about adopted suggestions."
+  },
+  {
+    "id": "RC5-036",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its employee suggestion program. The program allows workers to submit ideas for improving safety, reducing waste, or making production more efficient.\nDuring the review, managers found that several employee suggestions had led to useful changes. One team proposed reorganizing frequently used tools closer to workstations, which reduced unnecessary walking time. Another employee suggested clearer labels for storage bins, helping workers locate materials more quickly.\nAfter reviewing the results, company leaders decided to continue the program and provide quarterly updates about suggestions that are adopted. They believe this will encourage more employees to participate.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Employee input can lead to practical workplace improvements.",
+      "B": "Suggestion programs never produce useful changes.",
+      "C": "Workers should not participate in process improvements.",
+      "D": "Clear labels make materials harder to locate."
+    },
+    "correct": "A",
+    "explanation": "The passage gives examples of employee ideas that led to useful changes, showing that employee input can improve workplace processes."
+  }
+]

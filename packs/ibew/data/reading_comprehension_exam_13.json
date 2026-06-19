@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC13-001",
+    "prompt": "Passage 1\nA regional maintenance department recently changed how it handles requests for replacement filters. Previously, employees sent requests by email to a shared inbox. During busy periods, messages could be overlooked or duplicated, causing some filters to be ordered twice while others were not ordered at all.\nThe department introduced a simple online request form. Employees now select the filter type, equipment location, quantity needed, and urgency level. The form sends the information to the maintenance planner, who reviews requests each afternoon and combines orders when possible.\nManagers report that the new process has reduced duplicate orders and made it easier to track which equipment needs replacement filters. Employees also say the form is faster than writing a full email.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The department stopped replacing filters.",
+      "B": "An online request form improved the filter-ordering process.",
+      "C": "Employees now order all equipment without approval.",
+      "D": "Email requests were never used by the department."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the online request form reduced duplicate orders and made filter requests easier to track."
+  },
+  {
+    "id": "RC13-002",
+    "prompt": "Passage 1\nA regional maintenance department recently changed how it handles requests for replacement filters. Previously, employees sent requests by email to a shared inbox. During busy periods, messages could be overlooked or duplicated, causing some filters to be ordered twice while others were not ordered at all.\nThe department introduced a simple online request form. Employees now select the filter type, equipment location, quantity needed, and urgency level. The form sends the information to the maintenance planner, who reviews requests each afternoon and combines orders when possible.\nManagers report that the new process has reduced duplicate orders and made it easier to track which equipment needs replacement filters. Employees also say the form is faster than writing a full email.\n\nWhat problem occurred with the old email system?",
+    "choices": {
+      "A": "Filters were always delivered early.",
+      "B": "Employees could not identify any equipment.",
+      "C": "Messages could be overlooked or duplicated.",
+      "D": "The shared inbox was used only by customers."
+    },
+    "correct": "C",
+    "explanation": "The old email system caused problems because messages could be overlooked or duplicated during busy times."
+  },
+  {
+    "id": "RC13-003",
+    "prompt": "Passage 1\nA regional maintenance department recently changed how it handles requests for replacement filters. Previously, employees sent requests by email to a shared inbox. During busy periods, messages could be overlooked or duplicated, causing some filters to be ordered twice while others were not ordered at all.\nThe department introduced a simple online request form. Employees now select the filter type, equipment location, quantity needed, and urgency level. The form sends the information to the maintenance planner, who reviews requests each afternoon and combines orders when possible.\nManagers report that the new process has reduced duplicate orders and made it easier to track which equipment needs replacement filters. Employees also say the form is faster than writing a full email.\n\nWhat information do employees enter on the online form?",
+    "choices": {
+      "A": "Filter type, equipment location, quantity needed, and urgency level",
+      "B": "Customer account numbers and payment history",
+      "C": "Employee schedules and vacation dates",
+      "D": "Building temperature and parking location"
+    },
+    "correct": "A",
+    "explanation": "The online form asks for filter type, equipment location, quantity needed, and urgency level."
+  },
+  {
+    "id": "RC13-004",
+    "prompt": "Passage 1\nA regional maintenance department recently changed how it handles requests for replacement filters. Previously, employees sent requests by email to a shared inbox. During busy periods, messages could be overlooked or duplicated, causing some filters to be ordered twice while others were not ordered at all.\nThe department introduced a simple online request form. Employees now select the filter type, equipment location, quantity needed, and urgency level. The form sends the information to the maintenance planner, who reviews requests each afternoon and combines orders when possible.\nManagers report that the new process has reduced duplicate orders and made it easier to track which equipment needs replacement filters. Employees also say the form is faster than writing a full email.\n\nWho reviews the filter requests each afternoon?",
+    "choices": {
+      "A": "The customer service desk",
+      "B": "The maintenance planner",
+      "C": "The delivery driver",
+      "D": "The accounting department"
+    },
+    "correct": "B",
+    "explanation": "The maintenance planner reviews requests each afternoon and combines orders when possible."
+  },
+  {
+    "id": "RC13-005",
+    "prompt": "Passage 1\nA regional maintenance department recently changed how it handles requests for replacement filters. Previously, employees sent requests by email to a shared inbox. During busy periods, messages could be overlooked or duplicated, causing some filters to be ordered twice while others were not ordered at all.\nThe department introduced a simple online request form. Employees now select the filter type, equipment location, quantity needed, and urgency level. The form sends the information to the maintenance planner, who reviews requests each afternoon and combines orders when possible.\nManagers report that the new process has reduced duplicate orders and made it easier to track which equipment needs replacement filters. Employees also say the form is faster than writing a full email.\n\nThe word “duplicated” most nearly means:",
+    "choices": {
+      "A": "Delayed",
+      "B": "Repeated",
+      "C": "Approved",
+      "D": "Cancelled"
+    },
+    "correct": "B",
+    "explanation": "In context, “duplicated” means repeated, as when some filters were ordered twice."
+  },
+  {
+    "id": "RC13-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 12, all employees assigned to the loading area must use the updated pallet inspection checklist before moving loaded pallets. The checklist includes pallet condition, load stability, wrapping, and label visibility.\nThe updated checklist was created after supervisors noticed that some damaged pallets were being moved before problems were identified. The goal is to help employees catch issues before pallets are transported across the facility.\nCompleted checklists should be submitted to the shift lead at the end of each shift.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce an updated pallet inspection checklist",
+      "B": "To cancel work in the loading area",
+      "C": "To explain a new employee parking plan",
+      "D": "To introduce new customer invoices"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the updated pallet inspection checklist for employees in the loading area."
+  },
+  {
+    "id": "RC13-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 12, all employees assigned to the loading area must use the updated pallet inspection checklist before moving loaded pallets. The checklist includes pallet condition, load stability, wrapping, and label visibility.\nThe updated checklist was created after supervisors noticed that some damaged pallets were being moved before problems were identified. The goal is to help employees catch issues before pallets are transported across the facility.\nCompleted checklists should be submitted to the shift lead at the end of each shift.\n\nWhich item is included on the checklist?",
+    "choices": {
+      "A": "Employee lunch orders",
+      "B": "Load stability",
+      "C": "Supplier phone numbers",
+      "D": "Office cleaning times"
+    },
+    "correct": "B",
+    "explanation": "Load stability is specifically listed as one checklist item."
+  },
+  {
+    "id": "RC13-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 12, all employees assigned to the loading area must use the updated pallet inspection checklist before moving loaded pallets. The checklist includes pallet condition, load stability, wrapping, and label visibility.\nThe updated checklist was created after supervisors noticed that some damaged pallets were being moved before problems were identified. The goal is to help employees catch issues before pallets are transported across the facility.\nCompleted checklists should be submitted to the shift lead at the end of each shift.\n\nWhy was the updated checklist created?",
+    "choices": {
+      "A": "Some damaged pallets were being moved before problems were identified.",
+      "B": "Employees no longer needed to inspect pallets.",
+      "C": "Labels were removed from all shipments.",
+      "D": "Pallets were no longer used in the facility."
+    },
+    "correct": "A",
+    "explanation": "The checklist was updated because some damaged pallets were moved before problems were identified."
+  },
+  {
+    "id": "RC13-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning August 12, all employees assigned to the loading area must use the updated pallet inspection checklist before moving loaded pallets. The checklist includes pallet condition, load stability, wrapping, and label visibility.\nThe updated checklist was created after supervisors noticed that some damaged pallets were being moved before problems were identified. The goal is to help employees catch issues before pallets are transported across the facility.\nCompleted checklists should be submitted to the shift lead at the end of each shift.\n\nWhen should completed checklists be submitted?",
+    "choices": {
+      "A": "Before employees enter the building",
+      "B": "At the end of each shift",
+      "C": "Once per year",
+      "D": "Only when customers request them"
+    },
+    "correct": "B",
+    "explanation": "Completed checklists should be submitted to the shift lead at the end of each shift."
+  },
+  {
+    "id": "RC13-010",
+    "prompt": "Passage 3\nMany workplaces use maintenance histories to understand how equipment has performed over time. A maintenance history may include repair dates, parts replaced, inspection results, technician notes, and the amount of time equipment was out of service.\nThese records help managers make better decisions. If a machine requires frequent repairs, the company may decide to schedule additional inspections, replace a worn component, or evaluate whether the equipment should eventually be replaced. Without maintenance histories, each repair may seem like an isolated event.\nMaintenance histories are most useful when technicians enter clear and complete notes. A note that simply says “fixed problem” may not help the next technician understand what was wrong or how it was corrected.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Maintenance histories help organizations understand and manage equipment problems.",
+      "B": "Equipment repairs should never be documented.",
+      "C": "Technician notes are useful only when they are vague.",
+      "D": "Machines should be replaced after every repair."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that maintenance histories help managers understand equipment problems and make better repair or replacement decisions."
+  },
+  {
+    "id": "RC13-011",
+    "prompt": "Passage 3\nMany workplaces use maintenance histories to understand how equipment has performed over time. A maintenance history may include repair dates, parts replaced, inspection results, technician notes, and the amount of time equipment was out of service.\nThese records help managers make better decisions. If a machine requires frequent repairs, the company may decide to schedule additional inspections, replace a worn component, or evaluate whether the equipment should eventually be replaced. Without maintenance histories, each repair may seem like an isolated event.\nMaintenance histories are most useful when technicians enter clear and complete notes. A note that simply says “fixed problem” may not help the next technician understand what was wrong or how it was corrected.\n\nWhich information may be included in a maintenance history?",
+    "choices": {
+      "A": "Employee clothing sizes",
+      "B": "Repair dates and parts replaced",
+      "C": "Customer advertising plans",
+      "D": "Company picnic locations"
+    },
+    "correct": "B",
+    "explanation": "Repair dates and parts replaced are specifically listed as possible maintenance-history information."
+  },
+  {
+    "id": "RC13-012",
+    "prompt": "Passage 3\nMany workplaces use maintenance histories to understand how equipment has performed over time. A maintenance history may include repair dates, parts replaced, inspection results, technician notes, and the amount of time equipment was out of service.\nThese records help managers make better decisions. If a machine requires frequent repairs, the company may decide to schedule additional inspections, replace a worn component, or evaluate whether the equipment should eventually be replaced. Without maintenance histories, each repair may seem like an isolated event.\nMaintenance histories are most useful when technicians enter clear and complete notes. A note that simply says “fixed problem” may not help the next technician understand what was wrong or how it was corrected.\n\nWhat might a company do if a machine requires frequent repairs?",
+    "choices": {
+      "A": "Ignore the repair pattern.",
+      "B": "Stop all inspections permanently.",
+      "C": "Schedule additional inspections or consider replacement.",
+      "D": "Remove all technician notes."
+    },
+    "correct": "C",
+    "explanation": "If a machine requires frequent repairs, the company may schedule more inspections, replace worn parts, or consider replacement."
+  },
+  {
+    "id": "RC13-013",
+    "prompt": "Passage 3\nMany workplaces use maintenance histories to understand how equipment has performed over time. A maintenance history may include repair dates, parts replaced, inspection results, technician notes, and the amount of time equipment was out of service.\nThese records help managers make better decisions. If a machine requires frequent repairs, the company may decide to schedule additional inspections, replace a worn component, or evaluate whether the equipment should eventually be replaced. Without maintenance histories, each repair may seem like an isolated event.\nMaintenance histories are most useful when technicians enter clear and complete notes. A note that simply says “fixed problem” may not help the next technician understand what was wrong or how it was corrected.\n\nWhy is the note “fixed problem” weak?",
+    "choices": {
+      "A": "It is too detailed.",
+      "B": "It includes too many dates.",
+      "C": "It helps identify all future issues.",
+      "D": "It does not explain what was wrong or how it was corrected."
+    },
+    "correct": "D",
+    "explanation": "“Fixed problem” is weak because it does not explain what was wrong or how the problem was corrected."
+  },
+  {
+    "id": "RC13-014",
+    "prompt": "Passage 3\nMany workplaces use maintenance histories to understand how equipment has performed over time. A maintenance history may include repair dates, parts replaced, inspection results, technician notes, and the amount of time equipment was out of service.\nThese records help managers make better decisions. If a machine requires frequent repairs, the company may decide to schedule additional inspections, replace a worn component, or evaluate whether the equipment should eventually be replaced. Without maintenance histories, each repair may seem like an isolated event.\nMaintenance histories are most useful when technicians enter clear and complete notes. A note that simply says “fixed problem” may not help the next technician understand what was wrong or how it was corrected.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Complete repair records can help companies see patterns over time.",
+      "B": "Each repair should always be treated as unrelated to past repairs.",
+      "C": "Maintenance histories are useful only for new equipment.",
+      "D": "Technician notes should avoid specific information."
+    },
+    "correct": "A",
+    "explanation": "The passage shows that complete repair records help companies see patterns instead of treating each repair as isolated."
+  },
+  {
+    "id": "RC13-015",
+    "prompt": "Passage 4\nBefore reliable package tracking became common, customers often had limited information after an item was shipped. A company might confirm that a package had left the warehouse, but the customer would not know where it was during transit or when it might arrive.\nModern package tracking systems changed this experience. Carriers scan packages at different points, such as warehouses, sorting centers, and delivery vehicles. These scans create updates that customers and businesses can view online.\nTracking does not prevent every delay, but it improves visibility. Customers can plan for deliveries more easily, and businesses can respond more quickly when a shipment appears to be delayed or misrouted.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Package tracking makes all deliveries arrive early.",
+      "B": "Package tracking improved visibility for customers and businesses.",
+      "C": "Customers should avoid checking delivery updates.",
+      "D": "Warehouses no longer ship packages."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that package tracking gives customers and businesses better information about shipments."
+  },
+  {
+    "id": "RC13-016",
+    "prompt": "Passage 4\nBefore reliable package tracking became common, customers often had limited information after an item was shipped. A company might confirm that a package had left the warehouse, but the customer would not know where it was during transit or when it might arrive.\nModern package tracking systems changed this experience. Carriers scan packages at different points, such as warehouses, sorting centers, and delivery vehicles. These scans create updates that customers and businesses can view online.\nTracking does not prevent every delay, but it improves visibility. Customers can plan for deliveries more easily, and businesses can respond more quickly when a shipment appears to be delayed or misrouted.\n\nWhat information was limited before reliable tracking?",
+    "choices": {
+      "A": "Product color choices",
+      "B": "Customer payment options",
+      "C": "Where a package was during transit or when it might arrive",
+      "D": "Warehouse employee schedules"
+    },
+    "correct": "C",
+    "explanation": "Before reliable tracking, customers often did not know where a package was during transit or when it might arrive."
+  },
+  {
+    "id": "RC13-017",
+    "prompt": "Passage 4\nBefore reliable package tracking became common, customers often had limited information after an item was shipped. A company might confirm that a package had left the warehouse, but the customer would not know where it was during transit or when it might arrive.\nModern package tracking systems changed this experience. Carriers scan packages at different points, such as warehouses, sorting centers, and delivery vehicles. These scans create updates that customers and businesses can view online.\nTracking does not prevent every delay, but it improves visibility. Customers can plan for deliveries more easily, and businesses can respond more quickly when a shipment appears to be delayed or misrouted.\n\nWhat creates tracking updates?",
+    "choices": {
+      "A": "Customer complaints only",
+      "B": "Package scans at different points",
+      "C": "Weather reports",
+      "D": "Printed advertisements"
+    },
+    "correct": "B",
+    "explanation": "Tracking updates are created when carriers scan packages at different points."
+  },
+  {
+    "id": "RC13-018",
+    "prompt": "Passage 4\nBefore reliable package tracking became common, customers often had limited information after an item was shipped. A company might confirm that a package had left the warehouse, but the customer would not know where it was during transit or when it might arrive.\nModern package tracking systems changed this experience. Carriers scan packages at different points, such as warehouses, sorting centers, and delivery vehicles. These scans create updates that customers and businesses can view online.\nTracking does not prevent every delay, but it improves visibility. Customers can plan for deliveries more easily, and businesses can respond more quickly when a shipment appears to be delayed or misrouted.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Tracking improves information even though delays can still happen.",
+      "B": "Tracking prevents every possible shipping delay.",
+      "C": "Package scans make delivery vehicles unnecessary.",
+      "D": "Customers receive less information with modern tracking."
+    },
+    "correct": "A",
+    "explanation": "The passage states that tracking improves visibility but does not prevent every delay."
+  },
+  {
+    "id": "RC13-019",
+    "prompt": "Passage 5\nA technical training program recently added a short workplace reading section to its weekly lessons. Instructors noticed that some students could understand spoken instructions but had difficulty using written directions, especially when directions included several steps.\nThe new section asks students to read short workplace-style texts such as notices, equipment instructions, and training reminders. Students practice identifying the main action required, the deadline, and any conditions that must be met before work begins.\nInstructors believe this practice will help students become more comfortable with written information they may encounter in apprenticeship training or on the job. Early feedback suggests that students appreciate practicing with realistic materials rather than long academic passages.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The program removed all reading instruction.",
+      "B": "Workplace-style reading practice was added to help students use written directions.",
+      "C": "Students now study only long academic passages.",
+      "D": "Spoken instructions are no longer used in training."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on adding workplace-style reading practice to help students use written directions."
+  },
+  {
+    "id": "RC13-020",
+    "prompt": "Passage 5\nA technical training program recently added a short workplace reading section to its weekly lessons. Instructors noticed that some students could understand spoken instructions but had difficulty using written directions, especially when directions included several steps.\nThe new section asks students to read short workplace-style texts such as notices, equipment instructions, and training reminders. Students practice identifying the main action required, the deadline, and any conditions that must be met before work begins.\nInstructors believe this practice will help students become more comfortable with written information they may encounter in apprenticeship training or on the job. Early feedback suggests that students appreciate practicing with realistic materials rather than long academic passages.\n\nWhat difficulty did instructors notice?",
+    "choices": {
+      "A": "Students refused to listen during class.",
+      "B": "Students could not complete any calculations.",
+      "C": "Students had trouble using written directions with several steps.",
+      "D": "Students did not want realistic materials."
+    },
+    "correct": "C",
+    "explanation": "Instructors noticed that some students had trouble using written directions when those directions included several steps."
+  },
+  {
+    "id": "RC13-021",
+    "prompt": "Passage 5\nA technical training program recently added a short workplace reading section to its weekly lessons. Instructors noticed that some students could understand spoken instructions but had difficulty using written directions, especially when directions included several steps.\nThe new section asks students to read short workplace-style texts such as notices, equipment instructions, and training reminders. Students practice identifying the main action required, the deadline, and any conditions that must be met before work begins.\nInstructors believe this practice will help students become more comfortable with written information they may encounter in apprenticeship training or on the job. Early feedback suggests that students appreciate practicing with realistic materials rather than long academic passages.\n\nWhich type of text do students practice reading?",
+    "choices": {
+      "A": "Fiction stories",
+      "B": "Equipment instructions",
+      "C": "Poetry selections",
+      "D": "Political speeches"
+    },
+    "correct": "B",
+    "explanation": "Equipment instructions are specifically listed as one type of workplace-style text students read."
+  },
+  {
+    "id": "RC13-022",
+    "prompt": "Passage 5\nA technical training program recently added a short workplace reading section to its weekly lessons. Instructors noticed that some students could understand spoken instructions but had difficulty using written directions, especially when directions included several steps.\nThe new section asks students to read short workplace-style texts such as notices, equipment instructions, and training reminders. Students practice identifying the main action required, the deadline, and any conditions that must be met before work begins.\nInstructors believe this practice will help students become more comfortable with written information they may encounter in apprenticeship training or on the job. Early feedback suggests that students appreciate practicing with realistic materials rather than long academic passages.\n\nWhat do students practice identifying?",
+    "choices": {
+      "A": "Main action required, deadline, and conditions",
+      "B": "Author biography and literary symbolism",
+      "C": "Sentence length only",
+      "D": "Historical dates unrelated to work"
+    },
+    "correct": "A",
+    "explanation": "Students practice identifying the required action, the deadline, and any conditions that must be met."
+  },
+  {
+    "id": "RC13-023",
+    "prompt": "Passage 5\nA technical training program recently added a short workplace reading section to its weekly lessons. Instructors noticed that some students could understand spoken instructions but had difficulty using written directions, especially when directions included several steps.\nThe new section asks students to read short workplace-style texts such as notices, equipment instructions, and training reminders. Students practice identifying the main action required, the deadline, and any conditions that must be met before work begins.\nInstructors believe this practice will help students become more comfortable with written information they may encounter in apprenticeship training or on the job. Early feedback suggests that students appreciate practicing with realistic materials rather than long academic passages.\n\nThe word “realistic” most nearly means:",
+    "choices": {
+      "A": "Similar to real-life situations",
+      "B": "Impossible to use",
+      "C": "Completely imaginary",
+      "D": "Written only for experts"
+    },
+    "correct": "A",
+    "explanation": "In context, “realistic” means similar to what students may actually encounter in training or on the job."
+  },
+  {
+    "id": "RC13-024",
+    "prompt": "Passage 6\nMany companies use near-miss reporting to improve workplace safety. A near miss is an event that could have caused injury or damage but did not. For example, a tool falling from a shelf without hitting anyone may be considered a near miss.\nReporting near misses helps organizations identify hazards before someone is hurt. If several reports involve items falling from the same shelf area, supervisors may check storage practices, shelf condition, or employee access routes.\nNear-miss reporting works best when employees understand that the goal is prevention, not blame. Workers are more likely to report problems when they believe the information will be used to improve safety.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Near-miss reporting helps workplaces prevent safety problems before injuries occur.",
+      "B": "Near misses should be ignored if no one is hurt.",
+      "C": "Falling tools are the only type of workplace hazard.",
+      "D": "Safety reports are used only to punish employees."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that reporting near misses can help workplaces identify hazards before injuries occur."
+  },
+  {
+    "id": "RC13-025",
+    "prompt": "Passage 6\nMany companies use near-miss reporting to improve workplace safety. A near miss is an event that could have caused injury or damage but did not. For example, a tool falling from a shelf without hitting anyone may be considered a near miss.\nReporting near misses helps organizations identify hazards before someone is hurt. If several reports involve items falling from the same shelf area, supervisors may check storage practices, shelf condition, or employee access routes.\nNear-miss reporting works best when employees understand that the goal is prevention, not blame. Workers are more likely to report problems when they believe the information will be used to improve safety.\n\nWhat is a near miss?",
+    "choices": {
+      "A": "An event that could have caused injury or damage but did not",
+      "B": "A completed repair order",
+      "C": "A scheduled employee break",
+      "D": "A customer service complaint"
+    },
+    "correct": "A",
+    "explanation": "A near miss is defined as an event that could have caused injury or damage but did not."
+  },
+  {
+    "id": "RC13-026",
+    "prompt": "Passage 6\nMany companies use near-miss reporting to improve workplace safety. A near miss is an event that could have caused injury or damage but did not. For example, a tool falling from a shelf without hitting anyone may be considered a near miss.\nReporting near misses helps organizations identify hazards before someone is hurt. If several reports involve items falling from the same shelf area, supervisors may check storage practices, shelf condition, or employee access routes.\nNear-miss reporting works best when employees understand that the goal is prevention, not blame. Workers are more likely to report problems when they believe the information will be used to improve safety.\n\nWhat might supervisors check if several reports involve falling items?",
+    "choices": {
+      "A": "Storage practices, shelf condition, or access routes",
+      "B": "Employee vacation requests",
+      "C": "Customer billing addresses",
+      "D": "Company advertising costs"
+    },
+    "correct": "A",
+    "explanation": "Supervisors may check storage practices, shelf condition, or access routes if falling items are reported several times."
+  },
+  {
+    "id": "RC13-027",
+    "prompt": "Passage 6\nMany companies use near-miss reporting to improve workplace safety. A near miss is an event that could have caused injury or damage but did not. For example, a tool falling from a shelf without hitting anyone may be considered a near miss.\nReporting near misses helps organizations identify hazards before someone is hurt. If several reports involve items falling from the same shelf area, supervisors may check storage practices, shelf condition, or employee access routes.\nNear-miss reporting works best when employees understand that the goal is prevention, not blame. Workers are more likely to report problems when they believe the information will be used to improve safety.\n\nWhy is it important for employees to understand the goal of near-miss reporting?",
+    "choices": {
+      "A": "They are more likely to report problems if they believe the goal is prevention.",
+      "B": "They will stop noticing hazards.",
+      "C": "They will avoid all safety training.",
+      "D": "They will report only completed injuries."
+    },
+    "correct": "A",
+    "explanation": "Employees are more likely to report near misses when they believe the purpose is prevention rather than blame."
+  },
+  {
+    "id": "RC13-028",
+    "prompt": "Passage 6\nMany companies use near-miss reporting to improve workplace safety. A near miss is an event that could have caused injury or damage but did not. For example, a tool falling from a shelf without hitting anyone may be considered a near miss.\nReporting near misses helps organizations identify hazards before someone is hurt. If several reports involve items falling from the same shelf area, supervisors may check storage practices, shelf condition, or employee access routes.\nNear-miss reporting works best when employees understand that the goal is prevention, not blame. Workers are more likely to report problems when they believe the information will be used to improve safety.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Information about events without injuries can still improve safety.",
+      "B": "Near-miss reports are useful only after serious damage.",
+      "C": "Employees should wait for injuries before reporting hazards.",
+      "D": "Prevention is unrelated to safety reporting."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that even events without injury can provide useful safety information."
+  },
+  {
+    "id": "RC13-029",
+    "prompt": "Passage 7\nMany communities use water-use restrictions during periods of drought. These restrictions may limit lawn watering, car washing, or the use of decorative fountains. The exact rules often depend on water supply levels and local conditions.\nThe purpose of restrictions is to reduce unnecessary water use while preserving enough water for essential needs such as drinking, sanitation, firefighting, and basic business operations. Public cooperation is important because small reductions by many users can produce meaningful savings.\nCommunities may adjust restrictions as conditions change. If rainfall improves water supplies, rules may be relaxed. If drought becomes more severe, additional limits may be added.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "How communities use restrictions to manage water during drought",
+      "B": "Why communities should stop monitoring water supplies",
+      "C": "How decorative fountains are manufactured",
+      "D": "Why rainfall has no effect on water rules"
+    },
+    "correct": "A",
+    "explanation": "The passage explains how water-use restrictions help communities manage limited water supplies during drought."
+  },
+  {
+    "id": "RC13-030",
+    "prompt": "Passage 7\nMany communities use water-use restrictions during periods of drought. These restrictions may limit lawn watering, car washing, or the use of decorative fountains. The exact rules often depend on water supply levels and local conditions.\nThe purpose of restrictions is to reduce unnecessary water use while preserving enough water for essential needs such as drinking, sanitation, firefighting, and basic business operations. Public cooperation is important because small reductions by many users can produce meaningful savings.\nCommunities may adjust restrictions as conditions change. If rainfall improves water supplies, rules may be relaxed. If drought becomes more severe, additional limits may be added.\n\nWhich activity may be limited during drought restrictions?",
+    "choices": {
+      "A": "Lawn watering",
+      "B": "Reading public notices",
+      "C": "Paying utility bills",
+      "D": "Repairing sidewalks"
+    },
+    "correct": "A",
+    "explanation": "Lawn watering is specifically mentioned as an activity that may be limited."
+  },
+  {
+    "id": "RC13-031",
+    "prompt": "Passage 7\nMany communities use water-use restrictions during periods of drought. These restrictions may limit lawn watering, car washing, or the use of decorative fountains. The exact rules often depend on water supply levels and local conditions.\nThe purpose of restrictions is to reduce unnecessary water use while preserving enough water for essential needs such as drinking, sanitation, firefighting, and basic business operations. Public cooperation is important because small reductions by many users can produce meaningful savings.\nCommunities may adjust restrictions as conditions change. If rainfall improves water supplies, rules may be relaxed. If drought becomes more severe, additional limits may be added.\n\nWhat is the purpose of water-use restrictions?",
+    "choices": {
+      "A": "To eliminate all business operations",
+      "B": "To preserve water for essential needs",
+      "C": "To increase unnecessary water use",
+      "D": "To prevent rainfall from occurring"
+    },
+    "correct": "B",
+    "explanation": "The purpose is to reduce unnecessary use while preserving water for essential needs."
+  },
+  {
+    "id": "RC13-032",
+    "prompt": "Passage 7\nMany communities use water-use restrictions during periods of drought. These restrictions may limit lawn watering, car washing, or the use of decorative fountains. The exact rules often depend on water supply levels and local conditions.\nThe purpose of restrictions is to reduce unnecessary water use while preserving enough water for essential needs such as drinking, sanitation, firefighting, and basic business operations. Public cooperation is important because small reductions by many users can produce meaningful savings.\nCommunities may adjust restrictions as conditions change. If rainfall improves water supplies, rules may be relaxed. If drought becomes more severe, additional limits may be added.\n\nWhen may restrictions be relaxed?",
+    "choices": {
+      "A": "If rainfall improves water supplies",
+      "B": "If drought becomes more severe",
+      "C": "If residents use more water than usual",
+      "D": "If essential needs disappear"
+    },
+    "correct": "A",
+    "explanation": "Restrictions may be relaxed if rainfall improves water supplies."
+  },
+  {
+    "id": "RC13-033",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its training for new machine operators. The review found that employees usually understood classroom explanations but sometimes felt uncertain when applying the information on the production floor.\nTo address this issue, the company added guided practice sessions after classroom instruction. During these sessions, new operators work beside experienced employees, practice normal startup steps, and ask questions before operating independently.\nSupervisors report that the added practice has helped new operators gain confidence and make fewer early mistakes. The company plans to continue reviewing training results to determine whether additional support is needed.\n\nWhy did the company review its training?",
+    "choices": {
+      "A": "New operators sometimes felt uncertain applying classroom information on the production floor.",
+      "B": "Classroom instruction was never used.",
+      "C": "Experienced employees refused to answer questions.",
+      "D": "Machines were removed from the production floor."
+    },
+    "correct": "A",
+    "explanation": "The company reviewed training because new operators sometimes felt unsure when applying classroom information on the production floor."
+  },
+  {
+    "id": "RC13-034",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its training for new machine operators. The review found that employees usually understood classroom explanations but sometimes felt uncertain when applying the information on the production floor.\nTo address this issue, the company added guided practice sessions after classroom instruction. During these sessions, new operators work beside experienced employees, practice normal startup steps, and ask questions before operating independently.\nSupervisors report that the added practice has helped new operators gain confidence and make fewer early mistakes. The company plans to continue reviewing training results to determine whether additional support is needed.\n\nWhat did the company add after classroom instruction?",
+    "choices": {
+      "A": "Guided practice sessions",
+      "B": "Customer billing meetings",
+      "C": "Longer lunch periods",
+      "D": "Written advertisements"
+    },
+    "correct": "A",
+    "explanation": "The company added guided practice sessions after classroom instruction."
+  },
+  {
+    "id": "RC13-035",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its training for new machine operators. The review found that employees usually understood classroom explanations but sometimes felt uncertain when applying the information on the production floor.\nTo address this issue, the company added guided practice sessions after classroom instruction. During these sessions, new operators work beside experienced employees, practice normal startup steps, and ask questions before operating independently.\nSupervisors report that the added practice has helped new operators gain confidence and make fewer early mistakes. The company plans to continue reviewing training results to determine whether additional support is needed.\n\nWhat happens during the added sessions?",
+    "choices": {
+      "A": "New operators work beside experienced employees and practice startup steps.",
+      "B": "New operators work alone without support.",
+      "C": "Supervisors cancel all safety instruction.",
+      "D": "Employees avoid asking questions."
+    },
+    "correct": "A",
+    "explanation": "During the sessions, new operators work beside experienced employees and practice normal startup steps."
+  },
+  {
+    "id": "RC13-036",
+    "prompt": "Passage 8\nA manufacturing company recently reviewed its training for new machine operators. The review found that employees usually understood classroom explanations but sometimes felt uncertain when applying the information on the production floor.\nTo address this issue, the company added guided practice sessions after classroom instruction. During these sessions, new operators work beside experienced employees, practice normal startup steps, and ask questions before operating independently.\nSupervisors report that the added practice has helped new operators gain confidence and make fewer early mistakes. The company plans to continue reviewing training results to determine whether additional support is needed.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Hands-on practice can help employees apply classroom learning.",
+      "B": "Classroom explanations always prepare workers completely.",
+      "C": "New operators should avoid guided practice.",
+      "D": "Training results should never be reviewed."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that hands-on practice helps employees apply what they learned in the classroom."
+  }
+]

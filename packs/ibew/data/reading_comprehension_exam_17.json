@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC17-001",
+    "prompt": "Passage 1\nA regional facilities department recently changed how it handles requests for room temperature adjustments. Previously, employees called the front desk when a work area felt too warm or too cold. The front desk then passed the message to maintenance staff. During busy periods, some requests were delayed or repeated because there was no single record of the issue.\nThe department introduced an online comfort request form. Employees now enter the room number, the concern, the time the issue was noticed, and whether the problem affects a large area or a single workspace. Maintenance staff review the requests several times a day and check whether multiple reports are coming from the same area.\nManagers say the new process helps identify patterns, such as repeated complaints from one section of the building. It also allows maintenance staff to respond in a more organized way.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Employees should stop reporting temperature problems.",
+      "B": "An online request form improved how temperature concerns are tracked and handled.",
+      "C": "The front desk now repairs heating and cooling equipment.",
+      "D": "Room temperature problems cannot be solved."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how the online comfort request form made temperature concerns easier to record, track, and respond to."
+  },
+  {
+    "id": "RC17-002",
+    "prompt": "Passage 1\nA regional facilities department recently changed how it handles requests for room temperature adjustments. Previously, employees called the front desk when a work area felt too warm or too cold. The front desk then passed the message to maintenance staff. During busy periods, some requests were delayed or repeated because there was no single record of the issue.\nThe department introduced an online comfort request form. Employees now enter the room number, the concern, the time the issue was noticed, and whether the problem affects a large area or a single workspace. Maintenance staff review the requests several times a day and check whether multiple reports are coming from the same area.\nManagers say the new process helps identify patterns, such as repeated complaints from one section of the building. It also allows maintenance staff to respond in a more organized way.\n\nWhat problem existed under the old process?",
+    "choices": {
+      "A": "Maintenance staff received too many written reports.",
+      "B": "Some requests were delayed or repeated because there was no single record.",
+      "C": "Employees were not allowed to call the front desk.",
+      "D": "Temperature concerns were always solved immediately."
+    },
+    "correct": "B",
+    "explanation": "Under the old process, requests could be delayed or repeated because there was no single record of the issue."
+  },
+  {
+    "id": "RC17-003",
+    "prompt": "Passage 1\nA regional facilities department recently changed how it handles requests for room temperature adjustments. Previously, employees called the front desk when a work area felt too warm or too cold. The front desk then passed the message to maintenance staff. During busy periods, some requests were delayed or repeated because there was no single record of the issue.\nThe department introduced an online comfort request form. Employees now enter the room number, the concern, the time the issue was noticed, and whether the problem affects a large area or a single workspace. Maintenance staff review the requests several times a day and check whether multiple reports are coming from the same area.\nManagers say the new process helps identify patterns, such as repeated complaints from one section of the building. It also allows maintenance staff to respond in a more organized way.\n\nWhat information must employees enter on the online form?",
+    "choices": {
+      "A": "Room number, concern, time noticed, and size of affected area",
+      "B": "Employee pay rate and vacation balance",
+      "C": "Customer order number and delivery time",
+      "D": "Parking location and vehicle color"
+    },
+    "correct": "A",
+    "explanation": "Employees enter the room number, concern, time noticed, and whether the issue affects a large area or one workspace."
+  },
+  {
+    "id": "RC17-004",
+    "prompt": "Passage 1\nA regional facilities department recently changed how it handles requests for room temperature adjustments. Previously, employees called the front desk when a work area felt too warm or too cold. The front desk then passed the message to maintenance staff. During busy periods, some requests were delayed or repeated because there was no single record of the issue.\nThe department introduced an online comfort request form. Employees now enter the room number, the concern, the time the issue was noticed, and whether the problem affects a large area or a single workspace. Maintenance staff review the requests several times a day and check whether multiple reports are coming from the same area.\nManagers say the new process helps identify patterns, such as repeated complaints from one section of the building. It also allows maintenance staff to respond in a more organized way.\n\nWhy do maintenance staff check whether multiple reports come from the same area?",
+    "choices": {
+      "A": "To avoid responding to building problems",
+      "B": "To decide which employees should move offices",
+      "C": "To identify patterns in temperature concerns",
+      "D": "To replace the online form with phone calls"
+    },
+    "correct": "C",
+    "explanation": "Maintenance staff compare reports from the same area to identify repeated problems or patterns."
+  },
+  {
+    "id": "RC17-005",
+    "prompt": "Passage 1\nA regional facilities department recently changed how it handles requests for room temperature adjustments. Previously, employees called the front desk when a work area felt too warm or too cold. The front desk then passed the message to maintenance staff. During busy periods, some requests were delayed or repeated because there was no single record of the issue.\nThe department introduced an online comfort request form. Employees now enter the room number, the concern, the time the issue was noticed, and whether the problem affects a large area or a single workspace. Maintenance staff review the requests several times a day and check whether multiple reports are coming from the same area.\nManagers say the new process helps identify patterns, such as repeated complaints from one section of the building. It also allows maintenance staff to respond in a more organized way.\n\nThe word “patterns” most nearly means:",
+    "choices": {
+      "A": "Repeated signs or trends",
+      "B": "Random decorations",
+      "C": "Private messages",
+      "D": "Completed repairs"
+    },
+    "correct": "A",
+    "explanation": "In context, “patterns” means repeated signs or trends, such as repeated complaints from one building section."
+  },
+  {
+    "id": "RC17-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, employees who use the shared print room must clear paper jams only if they have been trained to do so. Employees who are not trained should place an “out of service” sign on the machine and contact Office Support.\nThe updated procedure was created after several printers were damaged when users pulled stuck paper from the wrong area. The purpose is to reduce equipment damage and make sure problems are handled safely.\nOffice Support will offer short printer-care training sessions next week for employees who regularly use the print room.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new printer-use procedure related to paper jams",
+      "B": "To close the shared print room permanently",
+      "C": "To require all employees to repair printers",
+      "D": "To explain changes to office furniture"
+    },
+    "correct": "A",
+    "explanation": "The notice announces a procedure for handling printer paper jams safely and avoiding damage."
+  },
+  {
+    "id": "RC17-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, employees who use the shared print room must clear paper jams only if they have been trained to do so. Employees who are not trained should place an “out of service” sign on the machine and contact Office Support.\nThe updated procedure was created after several printers were damaged when users pulled stuck paper from the wrong area. The purpose is to reduce equipment damage and make sure problems are handled safely.\nOffice Support will offer short printer-care training sessions next week for employees who regularly use the print room.\n\nWhat should untrained employees do if a printer has a paper jam?",
+    "choices": {
+      "A": "Pull the paper from any opening.",
+      "B": "Ignore the printer and continue using it.",
+      "C": "Place an “out of service” sign on the machine and contact Office Support.",
+      "D": "Move the printer to another room."
+    },
+    "correct": "C",
+    "explanation": "Untrained employees should place an “out of service” sign on the printer and contact Office Support."
+  },
+  {
+    "id": "RC17-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, employees who use the shared print room must clear paper jams only if they have been trained to do so. Employees who are not trained should place an “out of service” sign on the machine and contact Office Support.\nThe updated procedure was created after several printers were damaged when users pulled stuck paper from the wrong area. The purpose is to reduce equipment damage and make sure problems are handled safely.\nOffice Support will offer short printer-care training sessions next week for employees who regularly use the print room.\n\nWhy was the procedure updated?",
+    "choices": {
+      "A": "Printers were being damaged when users removed stuck paper incorrectly.",
+      "B": "Employees stopped using paper.",
+      "C": "Office Support no longer worked with printers.",
+      "D": "The print room had too many signs."
+    },
+    "correct": "A",
+    "explanation": "The procedure was created because printers were damaged when users pulled stuck paper from the wrong area."
+  },
+  {
+    "id": "RC17-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning January 8, employees who use the shared print room must clear paper jams only if they have been trained to do so. Employees who are not trained should place an “out of service” sign on the machine and contact Office Support.\nThe updated procedure was created after several printers were damaged when users pulled stuck paper from the wrong area. The purpose is to reduce equipment damage and make sure problems are handled safely.\nOffice Support will offer short printer-care training sessions next week for employees who regularly use the print room.\n\nWho will be offered printer-care training sessions?",
+    "choices": {
+      "A": "Customers who visit the building",
+      "B": "Employees who regularly use the print room",
+      "C": "Delivery drivers only",
+      "D": "Employees who never use printers"
+    },
+    "correct": "B",
+    "explanation": "Office Support will offer training to employees who regularly use the print room."
+  },
+  {
+    "id": "RC17-010",
+    "prompt": "Passage 3\nMany companies use incident trend reviews to improve workplace safety. Instead of looking at each incident separately, managers review reports over a period of time to see whether certain types of problems are happening repeatedly.\nFor example, if several minor hand injuries occur in the same department, the company may review glove use, tool condition, training, or work pace. The goal is to understand why similar incidents continue to happen and what changes may reduce future risk.\nTrend reviews are most useful when reports contain accurate details. If reports simply state that an employee “got hurt,” managers may not have enough information to identify a cause. Clear descriptions help turn individual reports into useful safety information.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Incident trend reviews help companies find repeated safety problems and reduce risk.",
+      "B": "Safety reports should include as little information as possible.",
+      "C": "Managers should examine incidents only one at a time.",
+      "D": "Minor injuries do not need to be reported."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that incident trend reviews help companies identify repeated safety problems and reduce future risk."
+  },
+  {
+    "id": "RC17-011",
+    "prompt": "Passage 3\nMany companies use incident trend reviews to improve workplace safety. Instead of looking at each incident separately, managers review reports over a period of time to see whether certain types of problems are happening repeatedly.\nFor example, if several minor hand injuries occur in the same department, the company may review glove use, tool condition, training, or work pace. The goal is to understand why similar incidents continue to happen and what changes may reduce future risk.\nTrend reviews are most useful when reports contain accurate details. If reports simply state that an employee “got hurt,” managers may not have enough information to identify a cause. Clear descriptions help turn individual reports into useful safety information.\n\nWhat does an incident trend review look for?",
+    "choices": {
+      "A": "Whether employees like their work schedules",
+      "B": "Whether certain types of problems are happening repeatedly",
+      "C": "Whether customers understand invoices",
+      "D": "Whether equipment colors match company signs"
+    },
+    "correct": "B",
+    "explanation": "Trend reviews look for repeated types of problems across reports over time."
+  },
+  {
+    "id": "RC17-012",
+    "prompt": "Passage 3\nMany companies use incident trend reviews to improve workplace safety. Instead of looking at each incident separately, managers review reports over a period of time to see whether certain types of problems are happening repeatedly.\nFor example, if several minor hand injuries occur in the same department, the company may review glove use, tool condition, training, or work pace. The goal is to understand why similar incidents continue to happen and what changes may reduce future risk.\nTrend reviews are most useful when reports contain accurate details. If reports simply state that an employee “got hurt,” managers may not have enough information to identify a cause. Clear descriptions help turn individual reports into useful safety information.\n\nIf several minor hand injuries occur in one department, what might the company review?",
+    "choices": {
+      "A": "Glove use, tool condition, training, or work pace",
+      "B": "Customer delivery routes",
+      "C": "Office decoration plans",
+      "D": "Employee parking spaces"
+    },
+    "correct": "A",
+    "explanation": "The passage specifically says the company may review glove use, tool condition, training, or work pace."
+  },
+  {
+    "id": "RC17-013",
+    "prompt": "Passage 3\nMany companies use incident trend reviews to improve workplace safety. Instead of looking at each incident separately, managers review reports over a period of time to see whether certain types of problems are happening repeatedly.\nFor example, if several minor hand injuries occur in the same department, the company may review glove use, tool condition, training, or work pace. The goal is to understand why similar incidents continue to happen and what changes may reduce future risk.\nTrend reviews are most useful when reports contain accurate details. If reports simply state that an employee “got hurt,” managers may not have enough information to identify a cause. Clear descriptions help turn individual reports into useful safety information.\n\nWhy is the report description “got hurt” weak?",
+    "choices": {
+      "A": "It gives too much technical information.",
+      "B": "It identifies the exact cause.",
+      "C": "It may not provide enough information to identify a cause.",
+      "D": "It explains the trend clearly."
+    },
+    "correct": "C",
+    "explanation": "“Got hurt” is weak because it does not provide enough detail to identify the cause of the incident."
+  },
+  {
+    "id": "RC17-014",
+    "prompt": "Passage 3\nMany companies use incident trend reviews to improve workplace safety. Instead of looking at each incident separately, managers review reports over a period of time to see whether certain types of problems are happening repeatedly.\nFor example, if several minor hand injuries occur in the same department, the company may review glove use, tool condition, training, or work pace. The goal is to understand why similar incidents continue to happen and what changes may reduce future risk.\nTrend reviews are most useful when reports contain accurate details. If reports simply state that an employee “got hurt,” managers may not have enough information to identify a cause. Clear descriptions help turn individual reports into useful safety information.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Accurate incident details can help managers prevent similar problems.",
+      "B": "Trend reviews work best when reports are vague.",
+      "C": "Similar incidents should never be compared.",
+      "D": "Safety information is useful only after serious injuries."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that accurate details help managers find causes and prevent similar incidents."
+  },
+  {
+    "id": "RC17-015",
+    "prompt": "Passage 4\nBefore automatic irrigation timers became common, many public parks relied on workers to turn sprinkler systems on and off manually. This approach required staff time and could lead to uneven watering if schedules were missed or sprinklers were left running too long.\nAutomatic timers changed park maintenance by allowing watering schedules to be set in advance. Parks could water grass, plants, and athletic fields during early morning hours when evaporation was lower and fewer visitors were present. Timers also helped reduce overwatering by shutting systems off after a set period.\nModern irrigation systems may include moisture sensors or weather-based controls. Even with these improvements, workers still inspect sprinkler heads, pipes, and coverage patterns to make sure the system works properly.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Automatic irrigation timers improved watering efficiency but still require inspection.",
+      "B": "Public parks no longer need water.",
+      "C": "Workers should always leave sprinklers running all day.",
+      "D": "Irrigation systems are used only inside buildings."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how automatic irrigation timers improved watering schedules while still requiring inspection."
+  },
+  {
+    "id": "RC17-016",
+    "prompt": "Passage 4\nBefore automatic irrigation timers became common, many public parks relied on workers to turn sprinkler systems on and off manually. This approach required staff time and could lead to uneven watering if schedules were missed or sprinklers were left running too long.\nAutomatic timers changed park maintenance by allowing watering schedules to be set in advance. Parks could water grass, plants, and athletic fields during early morning hours when evaporation was lower and fewer visitors were present. Timers also helped reduce overwatering by shutting systems off after a set period.\nModern irrigation systems may include moisture sensors or weather-based controls. Even with these improvements, workers still inspect sprinkler heads, pipes, and coverage patterns to make sure the system works properly.\n\nWhat was one problem with manual sprinkler operation?",
+    "choices": {
+      "A": "Parks could not grow grass.",
+      "B": "Workers never watered athletic fields.",
+      "C": "Schedules could be missed or sprinklers left running too long.",
+      "D": "Sprinkler systems had no pipes."
+    },
+    "correct": "C",
+    "explanation": "Manual operation could lead to missed schedules or sprinklers running too long."
+  },
+  {
+    "id": "RC17-017",
+    "prompt": "Passage 4\nBefore automatic irrigation timers became common, many public parks relied on workers to turn sprinkler systems on and off manually. This approach required staff time and could lead to uneven watering if schedules were missed or sprinklers were left running too long.\nAutomatic timers changed park maintenance by allowing watering schedules to be set in advance. Parks could water grass, plants, and athletic fields during early morning hours when evaporation was lower and fewer visitors were present. Timers also helped reduce overwatering by shutting systems off after a set period.\nModern irrigation systems may include moisture sensors or weather-based controls. Even with these improvements, workers still inspect sprinkler heads, pipes, and coverage patterns to make sure the system works properly.\n\nWhy might parks water during early morning hours?",
+    "choices": {
+      "A": "Evaporation is lower and fewer visitors are present.",
+      "B": "Sprinklers cannot work later in the day.",
+      "C": "Plants absorb no water after sunrise.",
+      "D": "Workers are not allowed to inspect systems."
+    },
+    "correct": "A",
+    "explanation": "Early morning watering can reduce evaporation and avoid interfering with visitors."
+  },
+  {
+    "id": "RC17-018",
+    "prompt": "Passage 4\nBefore automatic irrigation timers became common, many public parks relied on workers to turn sprinkler systems on and off manually. This approach required staff time and could lead to uneven watering if schedules were missed or sprinklers were left running too long.\nAutomatic timers changed park maintenance by allowing watering schedules to be set in advance. Parks could water grass, plants, and athletic fields during early morning hours when evaporation was lower and fewer visitors were present. Timers also helped reduce overwatering by shutting systems off after a set period.\nModern irrigation systems may include moisture sensors or weather-based controls. Even with these improvements, workers still inspect sprinkler heads, pipes, and coverage patterns to make sure the system works properly.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It lists rules for park visitors.",
+      "B": "It explains an older method, a technological improvement, and current maintenance.",
+      "C": "It compares irrigation systems with public transportation.",
+      "D": "It argues that parks should remove athletic fields."
+    },
+    "correct": "B",
+    "explanation": "The passage explains the older manual method, then the improvement from timers, and finally current maintenance needs."
+  },
+  {
+    "id": "RC17-019",
+    "prompt": "Passage 5\nA regional call center recently revised its training for handling customer complaints. The previous training focused mainly on finding the correct department or policy. While that information was useful, supervisors noticed that some employees sounded rushed or defensive when customers were upset.\nThe revised training teaches employees to listen carefully, confirm the customer’s concern, and explain the next step clearly. Employees practice short role-play conversations in which they must respond calmly before transferring the call or entering a service request.\nSupervisors report that customer follow-up surveys have improved since the training was revised. They believe customers are more satisfied when they feel their concern was understood, even if the problem cannot be solved immediately.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The call center stopped training employees.",
+      "B": "Revised complaint training improved how employees communicate with upset customers.",
+      "C": "Customers are no longer allowed to make complaints.",
+      "D": "Employees now avoid explaining next steps."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how revised training helped call-center employees communicate better with upset customers."
+  },
+  {
+    "id": "RC17-020",
+    "prompt": "Passage 5\nA regional call center recently revised its training for handling customer complaints. The previous training focused mainly on finding the correct department or policy. While that information was useful, supervisors noticed that some employees sounded rushed or defensive when customers were upset.\nThe revised training teaches employees to listen carefully, confirm the customer’s concern, and explain the next step clearly. Employees practice short role-play conversations in which they must respond calmly before transferring the call or entering a service request.\nSupervisors report that customer follow-up surveys have improved since the training was revised. They believe customers are more satisfied when they feel their concern was understood, even if the problem cannot be solved immediately.\n\nWhat did the previous training focus on mainly?",
+    "choices": {
+      "A": "Finding the correct department or policy",
+      "B": "Writing advertising messages",
+      "C": "Repairing customer equipment",
+      "D": "Scheduling employee vacations"
+    },
+    "correct": "A",
+    "explanation": "The previous training mainly focused on finding the correct department or policy."
+  },
+  {
+    "id": "RC17-021",
+    "prompt": "Passage 5\nA regional call center recently revised its training for handling customer complaints. The previous training focused mainly on finding the correct department or policy. While that information was useful, supervisors noticed that some employees sounded rushed or defensive when customers were upset.\nThe revised training teaches employees to listen carefully, confirm the customer’s concern, and explain the next step clearly. Employees practice short role-play conversations in which they must respond calmly before transferring the call or entering a service request.\nSupervisors report that customer follow-up surveys have improved since the training was revised. They believe customers are more satisfied when they feel their concern was understood, even if the problem cannot be solved immediately.\n\nWhat problem did supervisors notice?",
+    "choices": {
+      "A": "Employees sounded rushed or defensive with upset customers.",
+      "B": "Customers never asked questions.",
+      "C": "Employees refused to transfer calls.",
+      "D": "Follow-up surveys were not used."
+    },
+    "correct": "A",
+    "explanation": "Supervisors noticed that some employees sounded rushed or defensive when customers were upset."
+  },
+  {
+    "id": "RC17-022",
+    "prompt": "Passage 5\nA regional call center recently revised its training for handling customer complaints. The previous training focused mainly on finding the correct department or policy. While that information was useful, supervisors noticed that some employees sounded rushed or defensive when customers were upset.\nThe revised training teaches employees to listen carefully, confirm the customer’s concern, and explain the next step clearly. Employees practice short role-play conversations in which they must respond calmly before transferring the call or entering a service request.\nSupervisors report that customer follow-up surveys have improved since the training was revised. They believe customers are more satisfied when they feel their concern was understood, even if the problem cannot be solved immediately.\n\nWhat do employees practice during revised training?",
+    "choices": {
+      "A": "Calmly responding during short role-play conversations",
+      "B": "Avoiding customer concerns",
+      "C": "Ending calls without explanation",
+      "D": "Removing service requests from the system"
+    },
+    "correct": "A",
+    "explanation": "Employees practice calm responses through short role-play conversations."
+  },
+  {
+    "id": "RC17-023",
+    "prompt": "Passage 5\nA regional call center recently revised its training for handling customer complaints. The previous training focused mainly on finding the correct department or policy. While that information was useful, supervisors noticed that some employees sounded rushed or defensive when customers were upset.\nThe revised training teaches employees to listen carefully, confirm the customer’s concern, and explain the next step clearly. Employees practice short role-play conversations in which they must respond calmly before transferring the call or entering a service request.\nSupervisors report that customer follow-up surveys have improved since the training was revised. They believe customers are more satisfied when they feel their concern was understood, even if the problem cannot be solved immediately.\n\nThe word “defensive” most nearly means:",
+    "choices": {
+      "A": "Calm and helpful",
+      "B": "Acting as if being criticized or attacked",
+      "C": "Completely silent",
+      "D": "Easy to understand"
+    },
+    "correct": "B",
+    "explanation": "In context, “defensive” means acting as if being criticized or attacked."
+  },
+  {
+    "id": "RC17-024",
+    "prompt": "Passage 6\nMany workplaces use color-coded tags to show the status of equipment. A green tag may show that equipment is ready for use, while a red tag may show that it should not be used until repaired or inspected. Other colors may identify items waiting for cleaning, testing, or supervisor approval.\nStatus tags help employees make quick decisions. Instead of guessing whether a tool or machine is available, workers can check the tag before using it. This can prevent mistakes, especially in busy areas where several similar items are stored together.\nThe system works only if tags are kept current. If a repaired item still has a red tag or a damaged item keeps a green tag, employees may receive the wrong message. Regular tag checks help keep the system reliable.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Color-coded tags can help identify equipment status when kept current.",
+      "B": "Equipment tags are useful only when they are missing.",
+      "C": "Workers should guess whether equipment is ready.",
+      "D": "Similar tools should never be stored together."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that color-coded tags help identify equipment status, but only if the tags are current."
+  },
+  {
+    "id": "RC17-025",
+    "prompt": "Passage 6\nMany workplaces use color-coded tags to show the status of equipment. A green tag may show that equipment is ready for use, while a red tag may show that it should not be used until repaired or inspected. Other colors may identify items waiting for cleaning, testing, or supervisor approval.\nStatus tags help employees make quick decisions. Instead of guessing whether a tool or machine is available, workers can check the tag before using it. This can prevent mistakes, especially in busy areas where several similar items are stored together.\nThe system works only if tags are kept current. If a repaired item still has a red tag or a damaged item keeps a green tag, employees may receive the wrong message. Regular tag checks help keep the system reliable.\n\nWhat might a red tag show?",
+    "choices": {
+      "A": "Equipment should not be used until repaired or inspected.",
+      "B": "Equipment is ready for immediate use.",
+      "C": "Equipment has been cleaned and approved.",
+      "D": "Equipment belongs to a customer."
+    },
+    "correct": "A",
+    "explanation": "A red tag may show that equipment should not be used until repaired or inspected."
+  },
+  {
+    "id": "RC17-026",
+    "prompt": "Passage 6\nMany workplaces use color-coded tags to show the status of equipment. A green tag may show that equipment is ready for use, while a red tag may show that it should not be used until repaired or inspected. Other colors may identify items waiting for cleaning, testing, or supervisor approval.\nStatus tags help employees make quick decisions. Instead of guessing whether a tool or machine is available, workers can check the tag before using it. This can prevent mistakes, especially in busy areas where several similar items are stored together.\nThe system works only if tags are kept current. If a repaired item still has a red tag or a damaged item keeps a green tag, employees may receive the wrong message. Regular tag checks help keep the system reliable.\n\nHow do status tags help employees?",
+    "choices": {
+      "A": "They make equipment harder to identify.",
+      "B": "They help workers make quick decisions about equipment use.",
+      "C": "They replace all workplace training.",
+      "D": "They prevent supervisors from inspecting tools."
+    },
+    "correct": "B",
+    "explanation": "Status tags help workers quickly decide whether equipment is available for use."
+  },
+  {
+    "id": "RC17-027",
+    "prompt": "Passage 6\nMany workplaces use color-coded tags to show the status of equipment. A green tag may show that equipment is ready for use, while a red tag may show that it should not be used until repaired or inspected. Other colors may identify items waiting for cleaning, testing, or supervisor approval.\nStatus tags help employees make quick decisions. Instead of guessing whether a tool or machine is available, workers can check the tag before using it. This can prevent mistakes, especially in busy areas where several similar items are stored together.\nThe system works only if tags are kept current. If a repaired item still has a red tag or a damaged item keeps a green tag, employees may receive the wrong message. Regular tag checks help keep the system reliable.\n\nWhat can happen if tags are not kept current?",
+    "choices": {
+      "A": "Employees may receive the wrong message about equipment status.",
+      "B": "All equipment becomes safer automatically.",
+      "C": "Similar items disappear from storage.",
+      "D": "Repairs become unnecessary."
+    },
+    "correct": "A",
+    "explanation": "If tags are not current, employees may receive the wrong message about whether equipment is safe or ready."
+  },
+  {
+    "id": "RC17-028",
+    "prompt": "Passage 6\nMany workplaces use color-coded tags to show the status of equipment. A green tag may show that equipment is ready for use, while a red tag may show that it should not be used until repaired or inspected. Other colors may identify items waiting for cleaning, testing, or supervisor approval.\nStatus tags help employees make quick decisions. Instead of guessing whether a tool or machine is available, workers can check the tag before using it. This can prevent mistakes, especially in busy areas where several similar items are stored together.\nThe system works only if tags are kept current. If a repaired item still has a red tag or a damaged item keeps a green tag, employees may receive the wrong message. Regular tag checks help keep the system reliable.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A status-tag system is reliable only when tags accurately match equipment condition.",
+      "B": "Red tags should always stay on repaired equipment.",
+      "C": "Green tags should be used on damaged tools.",
+      "D": "Color-coded tags create no benefit in busy areas."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that tag systems work only when tags match the actual equipment condition."
+  },
+  {
+    "id": "RC17-029",
+    "prompt": "Passage 7\nMany communities maintain public storm shelters in areas where severe weather can occur. These shelters are designed to give residents a safer place to go when conditions become dangerous. They may be located in schools, community centers, or specially built structures.\nClear public information is important because residents need to know where shelters are located, when they are open, and what items they should bring. Some shelters may not allow pets unless they are service animals, and many shelters ask residents to bring medications, identification, and basic personal supplies.\nShelter plans must be reviewed regularly. Contact numbers, building access procedures, and capacity limits can change over time. Keeping information current helps communities respond more effectively during severe weather events.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public storm shelters require clear and current information to help residents use them safely.",
+      "B": "Storm shelters are used only for school events.",
+      "C": "Residents should avoid learning shelter locations.",
+      "D": "Severe weather plans never need review."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that storm shelters are useful only when residents have clear, current information about location, rules, and access."
+  },
+  {
+    "id": "RC17-030",
+    "prompt": "Passage 7\nMany communities maintain public storm shelters in areas where severe weather can occur. These shelters are designed to give residents a safer place to go when conditions become dangerous. They may be located in schools, community centers, or specially built structures.\nClear public information is important because residents need to know where shelters are located, when they are open, and what items they should bring. Some shelters may not allow pets unless they are service animals, and many shelters ask residents to bring medications, identification, and basic personal supplies.\nShelter plans must be reviewed regularly. Contact numbers, building access procedures, and capacity limits can change over time. Keeping information current helps communities respond more effectively during severe weather events.\n\nWhere may public storm shelters be located?",
+    "choices": {
+      "A": "Schools, community centers, or specially built structures",
+      "B": "Private grocery shelves only",
+      "C": "Delivery trucks",
+      "D": "Office filing cabinets"
+    },
+    "correct": "A",
+    "explanation": "Shelters may be located in schools, community centers, or specially built structures."
+  },
+  {
+    "id": "RC17-031",
+    "prompt": "Passage 7\nMany communities maintain public storm shelters in areas where severe weather can occur. These shelters are designed to give residents a safer place to go when conditions become dangerous. They may be located in schools, community centers, or specially built structures.\nClear public information is important because residents need to know where shelters are located, when they are open, and what items they should bring. Some shelters may not allow pets unless they are service animals, and many shelters ask residents to bring medications, identification, and basic personal supplies.\nShelter plans must be reviewed regularly. Contact numbers, building access procedures, and capacity limits can change over time. Keeping information current helps communities respond more effectively during severe weather events.\n\nWhat items may residents be asked to bring?",
+    "choices": {
+      "A": "Medications, identification, and basic personal supplies",
+      "B": "Construction tools and paint",
+      "C": "Office printers and paper",
+      "D": "Store advertising signs"
+    },
+    "correct": "A",
+    "explanation": "Residents may be asked to bring medications, identification, and basic personal supplies."
+  },
+  {
+    "id": "RC17-032",
+    "prompt": "Passage 7\nMany communities maintain public storm shelters in areas where severe weather can occur. These shelters are designed to give residents a safer place to go when conditions become dangerous. They may be located in schools, community centers, or specially built structures.\nClear public information is important because residents need to know where shelters are located, when they are open, and what items they should bring. Some shelters may not allow pets unless they are service animals, and many shelters ask residents to bring medications, identification, and basic personal supplies.\nShelter plans must be reviewed regularly. Contact numbers, building access procedures, and capacity limits can change over time. Keeping information current helps communities respond more effectively during severe weather events.\n\nWhy must shelter plans be reviewed regularly?",
+    "choices": {
+      "A": "Contact numbers, access procedures, and capacity limits can change.",
+      "B": "Shelters never change location or rules.",
+      "C": "Residents always remember every instruction.",
+      "D": "Severe weather cannot affect communities."
+    },
+    "correct": "A",
+    "explanation": "Shelter plans need review because phone numbers, access procedures, and capacity limits can change."
+  },
+  {
+    "id": "RC17-033",
+    "prompt": "Passage 8\nAn adult education center recently added short goal-setting meetings to its apprenticeship entrance-exam course. Instructors noticed that some students attended class regularly but did not know how to organize study time outside class.\nDuring the meetings, students identify one or two specific goals for the week, such as completing a practice set, reviewing missed questions, or reading for twenty minutes each evening. Instructors help students choose goals that are realistic based on work schedules and family responsibilities.\nThe center does not expect every student to study the same way. Instead, the goal-setting meetings are meant to help students create a plan they can actually follow. Early feedback suggests that students feel more in control of their preparation.\n\nWhy did the center add goal-setting meetings?",
+    "choices": {
+      "A": "Some students needed help organizing study time outside class.",
+      "B": "Students stopped attending class regularly.",
+      "C": "Instructors wanted to cancel practice sets.",
+      "D": "The course no longer prepared students for entrance exams."
+    },
+    "correct": "A",
+    "explanation": "The center added goal-setting meetings because some students struggled to organize study time outside class."
+  },
+  {
+    "id": "RC17-034",
+    "prompt": "Passage 8\nAn adult education center recently added short goal-setting meetings to its apprenticeship entrance-exam course. Instructors noticed that some students attended class regularly but did not know how to organize study time outside class.\nDuring the meetings, students identify one or two specific goals for the week, such as completing a practice set, reviewing missed questions, or reading for twenty minutes each evening. Instructors help students choose goals that are realistic based on work schedules and family responsibilities.\nThe center does not expect every student to study the same way. Instead, the goal-setting meetings are meant to help students create a plan they can actually follow. Early feedback suggests that students feel more in control of their preparation.\n\nWhich weekly goal is mentioned in the passage?",
+    "choices": {
+      "A": "Reading for twenty minutes each evening",
+      "B": "Repairing classroom equipment",
+      "C": "Writing company policies",
+      "D": "Avoiding all missed questions"
+    },
+    "correct": "A",
+    "explanation": "Reading for twenty minutes each evening is specifically listed as one possible weekly goal."
+  },
+  {
+    "id": "RC17-035",
+    "prompt": "Passage 8\nAn adult education center recently added short goal-setting meetings to its apprenticeship entrance-exam course. Instructors noticed that some students attended class regularly but did not know how to organize study time outside class.\nDuring the meetings, students identify one or two specific goals for the week, such as completing a practice set, reviewing missed questions, or reading for twenty minutes each evening. Instructors help students choose goals that are realistic based on work schedules and family responsibilities.\nThe center does not expect every student to study the same way. Instead, the goal-setting meetings are meant to help students create a plan they can actually follow. Early feedback suggests that students feel more in control of their preparation.\n\nHow do instructors help students choose goals?",
+    "choices": {
+      "A": "By making every student use the same plan",
+      "B": "By basing goals on realistic schedules and responsibilities",
+      "C": "By removing all outside study",
+      "D": "By assigning only impossible goals"
+    },
+    "correct": "B",
+    "explanation": "Instructors help students choose realistic goals based on work schedules and family responsibilities."
+  },
+  {
+    "id": "RC17-036",
+    "prompt": "Passage 8\nAn adult education center recently added short goal-setting meetings to its apprenticeship entrance-exam course. Instructors noticed that some students attended class regularly but did not know how to organize study time outside class.\nDuring the meetings, students identify one or two specific goals for the week, such as completing a practice set, reviewing missed questions, or reading for twenty minutes each evening. Instructors help students choose goals that are realistic based on work schedules and family responsibilities.\nThe center does not expect every student to study the same way. Instead, the goal-setting meetings are meant to help students create a plan they can actually follow. Early feedback suggests that students feel more in control of their preparation.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Goal-setting can help adult students create study plans they can follow.",
+      "B": "Students must all study in exactly the same way.",
+      "C": "Weekly goals should ignore work and family responsibilities.",
+      "D": "Study planning makes students less prepared."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that goal-setting helps adult students create study plans they can actually follow."
+  }
+]

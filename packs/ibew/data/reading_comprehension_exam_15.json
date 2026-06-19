@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC15-001",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for handling damaged incoming shipments. Previously, receiving employees set damaged boxes aside and wrote a note for a supervisor. During busy periods, some notes were delayed or lacked enough detail for the supervisor to decide what action was needed.\nThe new process requires employees to enter damage reports into a shared tracking system. Each report includes the supplier name, shipment number, type of damage, photos if available, and whether any items appear unusable. Supervisors review the reports throughout the day and decide whether to accept the shipment, request replacement items, or contact the supplier.\nManagers report that the new process has improved communication between receiving staff and supervisors. It has also created clearer records when the company needs to follow up with suppliers.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The warehouse no longer receives shipments.",
+      "B": "A shared tracking system improved how damaged shipments are handled.",
+      "C": "Suppliers now inspect all warehouse shelves.",
+      "D": "Employees stopped reporting damaged boxes."
+    },
+    "correct": "B",
+    "explanation": "The passage focuses on how a shared tracking system improved the reporting and handling of damaged incoming shipments."
+  },
+  {
+    "id": "RC15-002",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for handling damaged incoming shipments. Previously, receiving employees set damaged boxes aside and wrote a note for a supervisor. During busy periods, some notes were delayed or lacked enough detail for the supervisor to decide what action was needed.\nThe new process requires employees to enter damage reports into a shared tracking system. Each report includes the supplier name, shipment number, type of damage, photos if available, and whether any items appear unusable. Supervisors review the reports throughout the day and decide whether to accept the shipment, request replacement items, or contact the supplier.\nManagers report that the new process has improved communication between receiving staff and supervisors. It has also created clearer records when the company needs to follow up with suppliers.\n\nWhat problem occurred with the old process?",
+    "choices": {
+      "A": "Receiving employees always rejected shipments.",
+      "B": "Suppliers refused to provide shipment numbers.",
+      "C": "Notes were sometimes delayed or lacked enough detail.",
+      "D": "Damaged boxes were repaired immediately by customers."
+    },
+    "correct": "C",
+    "explanation": "Under the old process, notes could be delayed or lack enough detail for supervisors to decide what action was needed."
+  },
+  {
+    "id": "RC15-003",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for handling damaged incoming shipments. Previously, receiving employees set damaged boxes aside and wrote a note for a supervisor. During busy periods, some notes were delayed or lacked enough detail for the supervisor to decide what action was needed.\nThe new process requires employees to enter damage reports into a shared tracking system. Each report includes the supplier name, shipment number, type of damage, photos if available, and whether any items appear unusable. Supervisors review the reports throughout the day and decide whether to accept the shipment, request replacement items, or contact the supplier.\nManagers report that the new process has improved communication between receiving staff and supervisors. It has also created clearer records when the company needs to follow up with suppliers.\n\nWhich information is included in each damage report?",
+    "choices": {
+      "A": "Employee vacation time",
+      "B": "Supplier name, shipment number, type of damage, and possible photos",
+      "C": "Customer payment history",
+      "D": "Advertising costs for the warehouse"
+    },
+    "correct": "B",
+    "explanation": "Each report includes supplier name, shipment number, type of damage, and photos if available."
+  },
+  {
+    "id": "RC15-004",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for handling damaged incoming shipments. Previously, receiving employees set damaged boxes aside and wrote a note for a supervisor. During busy periods, some notes were delayed or lacked enough detail for the supervisor to decide what action was needed.\nThe new process requires employees to enter damage reports into a shared tracking system. Each report includes the supplier name, shipment number, type of damage, photos if available, and whether any items appear unusable. Supervisors review the reports throughout the day and decide whether to accept the shipment, request replacement items, or contact the supplier.\nManagers report that the new process has improved communication between receiving staff and supervisors. It has also created clearer records when the company needs to follow up with suppliers.\n\nWhat can supervisors decide after reviewing reports?",
+    "choices": {
+      "A": "Whether to accept the shipment, request replacements, or contact the supplier",
+      "B": "Whether to close the warehouse permanently",
+      "C": "Whether employees should stop using reports",
+      "D": "Whether customers should unload trucks"
+    },
+    "correct": "A",
+    "explanation": "Supervisors use the reports to decide whether to accept the shipment, request replacements, or contact the supplier."
+  },
+  {
+    "id": "RC15-005",
+    "prompt": "Passage 1\nA regional warehouse recently updated its process for handling damaged incoming shipments. Previously, receiving employees set damaged boxes aside and wrote a note for a supervisor. During busy periods, some notes were delayed or lacked enough detail for the supervisor to decide what action was needed.\nThe new process requires employees to enter damage reports into a shared tracking system. Each report includes the supplier name, shipment number, type of damage, photos if available, and whether any items appear unusable. Supervisors review the reports throughout the day and decide whether to accept the shipment, request replacement items, or contact the supplier.\nManagers report that the new process has improved communication between receiving staff and supervisors. It has also created clearer records when the company needs to follow up with suppliers.\n\nThe word “unusable” most nearly means:",
+    "choices": {
+      "A": "Ready for immediate sale",
+      "B": "Unable to be used",
+      "C": "Easy to store",
+      "D": "Recently delivered"
+    },
+    "correct": "B",
+    "explanation": "In context, “unusable” means the item cannot be used because of damage or another problem."
+  },
+  {
+    "id": "RC15-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 14, all employees using the shared battery charging station must write the battery number and start time on the charging log. Batteries should be removed promptly once charging is complete so the station remains available for other users.\nThe updated procedure was created after several employees reported that fully charged batteries were left connected for long periods. This caused delays for workers who needed to charge additional batteries before beginning assigned tasks.\nSupervisors will check the charging log at the end of each shift.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new procedure for using the battery charging station",
+      "B": "To close the charging station",
+      "C": "To explain how to purchase new batteries at home",
+      "D": "To cancel all battery-powered equipment"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the updated procedure for using the shared battery charging station."
+  },
+  {
+    "id": "RC15-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 14, all employees using the shared battery charging station must write the battery number and start time on the charging log. Batteries should be removed promptly once charging is complete so the station remains available for other users.\nThe updated procedure was created after several employees reported that fully charged batteries were left connected for long periods. This caused delays for workers who needed to charge additional batteries before beginning assigned tasks.\nSupervisors will check the charging log at the end of each shift.\n\nWhat must employees write on the charging log?",
+    "choices": {
+      "A": "Their lunch time and parking space",
+      "B": "The battery number and start time",
+      "C": "The supplier address and invoice total",
+      "D": "The weather conditions outside"
+    },
+    "correct": "B",
+    "explanation": "Employees must write the battery number and start time on the charging log."
+  },
+  {
+    "id": "RC15-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 14, all employees using the shared battery charging station must write the battery number and start time on the charging log. Batteries should be removed promptly once charging is complete so the station remains available for other users.\nThe updated procedure was created after several employees reported that fully charged batteries were left connected for long periods. This caused delays for workers who needed to charge additional batteries before beginning assigned tasks.\nSupervisors will check the charging log at the end of each shift.\n\nWhy should batteries be removed promptly after charging?",
+    "choices": {
+      "A": "To make the station available for other users",
+      "B": "To prevent employees from using equipment",
+      "C": "To reduce the number of charging logs",
+      "D": "To move batteries to customer offices"
+    },
+    "correct": "A",
+    "explanation": "Batteries should be removed after charging so the station remains available for other employees."
+  },
+  {
+    "id": "RC15-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning October 14, all employees using the shared battery charging station must write the battery number and start time on the charging log. Batteries should be removed promptly once charging is complete so the station remains available for other users.\nThe updated procedure was created after several employees reported that fully charged batteries were left connected for long periods. This caused delays for workers who needed to charge additional batteries before beginning assigned tasks.\nSupervisors will check the charging log at the end of each shift.\n\nWhat problem led to the updated procedure?",
+    "choices": {
+      "A": "Batteries were never charged.",
+      "B": "Workers stopped using battery-powered tools.",
+      "C": "Fully charged batteries were left connected for long periods.",
+      "D": "Supervisors checked the log too often."
+    },
+    "correct": "C",
+    "explanation": "The procedure was created because fully charged batteries were being left connected for long periods, causing delays."
+  },
+  {
+    "id": "RC15-010",
+    "prompt": "Passage 3\nMany companies use work tickets to organize service tasks. A work ticket may include the customer name, location, problem description, priority level, assigned technician, and notes about completed work.\nWork tickets help employees track what needs to be done and what has already been completed. They also create a record that can be reviewed later if questions arise. For example, if a customer calls to ask why a repair took longer than expected, the ticket may show that a part had to be ordered before the job could continue.\nWork tickets are most helpful when information is entered clearly. A vague description such as “unit broken” may not help the technician prepare. A more useful description explains what the customer observed and when the problem began.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Work tickets help organize service tasks when they contain clear information.",
+      "B": "Work tickets should include as little detail as possible.",
+      "C": "Customers should not be allowed to ask about repairs.",
+      "D": "Technicians should ignore problem descriptions."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that work tickets help organize service tasks, especially when the information is clear and useful."
+  },
+  {
+    "id": "RC15-011",
+    "prompt": "Passage 3\nMany companies use work tickets to organize service tasks. A work ticket may include the customer name, location, problem description, priority level, assigned technician, and notes about completed work.\nWork tickets help employees track what needs to be done and what has already been completed. They also create a record that can be reviewed later if questions arise. For example, if a customer calls to ask why a repair took longer than expected, the ticket may show that a part had to be ordered before the job could continue.\nWork tickets are most helpful when information is entered clearly. A vague description such as “unit broken” may not help the technician prepare. A more useful description explains what the customer observed and when the problem began.\n\nWhich information may be included on a work ticket?",
+    "choices": {
+      "A": "Customer name, location, and problem description",
+      "B": "Employee grocery lists",
+      "C": "Weather reports for the month",
+      "D": "Private medical records"
+    },
+    "correct": "A",
+    "explanation": "Customer name, location, and problem description are specifically listed as possible work-ticket information."
+  },
+  {
+    "id": "RC15-012",
+    "prompt": "Passage 3\nMany companies use work tickets to organize service tasks. A work ticket may include the customer name, location, problem description, priority level, assigned technician, and notes about completed work.\nWork tickets help employees track what needs to be done and what has already been completed. They also create a record that can be reviewed later if questions arise. For example, if a customer calls to ask why a repair took longer than expected, the ticket may show that a part had to be ordered before the job could continue.\nWork tickets are most helpful when information is entered clearly. A vague description such as “unit broken” may not help the technician prepare. A more useful description explains what the customer observed and when the problem began.\n\nHow can a work ticket help if a customer asks why a repair took longer than expected?",
+    "choices": {
+      "A": "It can show details such as whether a part had to be ordered.",
+      "B": "It can cancel the repair automatically.",
+      "C": "It can prevent the customer from calling.",
+      "D": "It can remove the need for service records."
+    },
+    "correct": "A",
+    "explanation": "A work ticket may explain that a repair took longer because a part had to be ordered."
+  },
+  {
+    "id": "RC15-013",
+    "prompt": "Passage 3\nMany companies use work tickets to organize service tasks. A work ticket may include the customer name, location, problem description, priority level, assigned technician, and notes about completed work.\nWork tickets help employees track what needs to be done and what has already been completed. They also create a record that can be reviewed later if questions arise. For example, if a customer calls to ask why a repair took longer than expected, the ticket may show that a part had to be ordered before the job could continue.\nWork tickets are most helpful when information is entered clearly. A vague description such as “unit broken” may not help the technician prepare. A more useful description explains what the customer observed and when the problem began.\n\nWhy is “unit broken” a weak description?",
+    "choices": {
+      "A": "It includes too many dates.",
+      "B": "It is too specific for a technician.",
+      "C": "It does not provide enough useful information.",
+      "D": "It explains exactly when the problem began."
+    },
+    "correct": "C",
+    "explanation": "“Unit broken” is too vague and does not help the technician understand what to prepare for."
+  },
+  {
+    "id": "RC15-014",
+    "prompt": "Passage 3\nMany companies use work tickets to organize service tasks. A work ticket may include the customer name, location, problem description, priority level, assigned technician, and notes about completed work.\nWork tickets help employees track what needs to be done and what has already been completed. They also create a record that can be reviewed later if questions arise. For example, if a customer calls to ask why a repair took longer than expected, the ticket may show that a part had to be ordered before the job could continue.\nWork tickets are most helpful when information is entered clearly. A vague description such as “unit broken” may not help the technician prepare. A more useful description explains what the customer observed and when the problem began.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Clear problem descriptions help technicians prepare for service work.",
+      "B": "Work tickets are useful only after a job is forgotten.",
+      "C": "Priority levels should never be recorded.",
+      "D": "Service records make customer questions harder to answer."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that clear descriptions help technicians prepare before service work begins."
+  },
+  {
+    "id": "RC15-015",
+    "prompt": "Passage 4\nBefore paved sidewalks were common in many towns, pedestrians often walked along dirt paths or the edges of roads. During wet weather, paths could become muddy, uneven, and difficult to use. Pedestrians also had fewer clear spaces separated from wagon or automobile traffic.\nPaved sidewalks improved everyday movement by giving people a more reliable surface for walking. They helped connect homes, schools, stores, and public buildings. Sidewalks also made streets safer by creating a designated area for pedestrians.\nToday, communities continue to maintain sidewalks by repairing cracks, improving curb ramps, and clearing obstacles. These efforts help sidewalks remain useful for people of different ages and abilities.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Paved sidewalks improved pedestrian movement and continue to require maintenance.",
+      "B": "Dirt paths are safer than paved sidewalks.",
+      "C": "Sidewalks are used only during wet weather.",
+      "D": "Communities no longer repair public walkways."
+    },
+    "correct": "A",
+    "explanation": "The passage explains how paved sidewalks improved walking conditions and how communities still maintain them."
+  },
+  {
+    "id": "RC15-016",
+    "prompt": "Passage 4\nBefore paved sidewalks were common in many towns, pedestrians often walked along dirt paths or the edges of roads. During wet weather, paths could become muddy, uneven, and difficult to use. Pedestrians also had fewer clear spaces separated from wagon or automobile traffic.\nPaved sidewalks improved everyday movement by giving people a more reliable surface for walking. They helped connect homes, schools, stores, and public buildings. Sidewalks also made streets safer by creating a designated area for pedestrians.\nToday, communities continue to maintain sidewalks by repairing cracks, improving curb ramps, and clearing obstacles. These efforts help sidewalks remain useful for people of different ages and abilities.\n\nWhat problem occurred with dirt paths during wet weather?",
+    "choices": {
+      "A": "They became brighter.",
+      "B": "They became muddy, uneven, and difficult to use.",
+      "C": "They turned into paved roads.",
+      "D": "They prevented all traffic from moving."
+    },
+    "correct": "B",
+    "explanation": "During wet weather, dirt paths could become muddy, uneven, and hard to use."
+  },
+  {
+    "id": "RC15-017",
+    "prompt": "Passage 4\nBefore paved sidewalks were common in many towns, pedestrians often walked along dirt paths or the edges of roads. During wet weather, paths could become muddy, uneven, and difficult to use. Pedestrians also had fewer clear spaces separated from wagon or automobile traffic.\nPaved sidewalks improved everyday movement by giving people a more reliable surface for walking. They helped connect homes, schools, stores, and public buildings. Sidewalks also made streets safer by creating a designated area for pedestrians.\nToday, communities continue to maintain sidewalks by repairing cracks, improving curb ramps, and clearing obstacles. These efforts help sidewalks remain useful for people of different ages and abilities.\n\nHow did sidewalks improve safety?",
+    "choices": {
+      "A": "By creating a designated area for pedestrians",
+      "B": "By removing schools and stores",
+      "C": "By increasing road obstacles",
+      "D": "By replacing all public buildings"
+    },
+    "correct": "A",
+    "explanation": "Sidewalks improved safety by giving pedestrians a designated area separated from traffic."
+  },
+  {
+    "id": "RC15-018",
+    "prompt": "Passage 4\nBefore paved sidewalks were common in many towns, pedestrians often walked along dirt paths or the edges of roads. During wet weather, paths could become muddy, uneven, and difficult to use. Pedestrians also had fewer clear spaces separated from wagon or automobile traffic.\nPaved sidewalks improved everyday movement by giving people a more reliable surface for walking. They helped connect homes, schools, stores, and public buildings. Sidewalks also made streets safer by creating a designated area for pedestrians.\nToday, communities continue to maintain sidewalks by repairing cracks, improving curb ramps, and clearing obstacles. These efforts help sidewalks remain useful for people of different ages and abilities.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains conditions before sidewalks, the improvement sidewalks provided, and current maintenance.",
+      "B": "It gives instructions for pouring concrete.",
+      "C": "It compares sidewalks with workplace training programs.",
+      "D": "It argues that pedestrians should use roads only."
+    },
+    "correct": "A",
+    "explanation": "The passage moves from conditions before sidewalks to the benefits of sidewalks and then to current maintenance."
+  },
+  {
+    "id": "RC15-019",
+    "prompt": "Passage 5\nA regional manufacturing company recently reviewed the way it trains employees to read product specifications. Product specifications describe requirements such as size, material, finish, packaging, and acceptable tolerances. Employees use these documents to confirm that products are made and packed correctly.\nThe review found that some employees understood the general purpose of specifications but missed small details, such as packaging notes or finish requirements. In response, trainers added short exercises that ask employees to locate specific details in sample specification sheets.\nSupervisors believe the exercises will reduce mistakes caused by overlooked information. They also plan to include more practice with comparing two similar specifications, since small differences can affect production decisions.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Product specifications are no longer used in manufacturing.",
+      "B": "Training exercises were added to help employees read product specifications more accurately.",
+      "C": "Employees now write all product specifications themselves.",
+      "D": "Packaging notes are unrelated to production work."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that training was revised to help employees read specifications more accurately and notice small details."
+  },
+  {
+    "id": "RC15-020",
+    "prompt": "Passage 5\nA regional manufacturing company recently reviewed the way it trains employees to read product specifications. Product specifications describe requirements such as size, material, finish, packaging, and acceptable tolerances. Employees use these documents to confirm that products are made and packed correctly.\nThe review found that some employees understood the general purpose of specifications but missed small details, such as packaging notes or finish requirements. In response, trainers added short exercises that ask employees to locate specific details in sample specification sheets.\nSupervisors believe the exercises will reduce mistakes caused by overlooked information. They also plan to include more practice with comparing two similar specifications, since small differences can affect production decisions.\n\nWhat do product specifications describe?",
+    "choices": {
+      "A": "Employee break schedules",
+      "B": "Size, material, finish, packaging, and acceptable tolerances",
+      "C": "Customer parking rules",
+      "D": "Company social events"
+    },
+    "correct": "B",
+    "explanation": "Specifications may describe size, material, finish, packaging, and acceptable tolerances."
+  },
+  {
+    "id": "RC15-021",
+    "prompt": "Passage 5\nA regional manufacturing company recently reviewed the way it trains employees to read product specifications. Product specifications describe requirements such as size, material, finish, packaging, and acceptable tolerances. Employees use these documents to confirm that products are made and packed correctly.\nThe review found that some employees understood the general purpose of specifications but missed small details, such as packaging notes or finish requirements. In response, trainers added short exercises that ask employees to locate specific details in sample specification sheets.\nSupervisors believe the exercises will reduce mistakes caused by overlooked information. They also plan to include more practice with comparing two similar specifications, since small differences can affect production decisions.\n\nWhat problem did the review identify?",
+    "choices": {
+      "A": "Some employees missed small details in specifications.",
+      "B": "Employees refused to read any documents.",
+      "C": "Specifications contained no useful information.",
+      "D": "Supervisors stopped checking finished products."
+    },
+    "correct": "A",
+    "explanation": "The review found that some employees missed small details such as packaging notes or finish requirements."
+  },
+  {
+    "id": "RC15-022",
+    "prompt": "Passage 5\nA regional manufacturing company recently reviewed the way it trains employees to read product specifications. Product specifications describe requirements such as size, material, finish, packaging, and acceptable tolerances. Employees use these documents to confirm that products are made and packed correctly.\nThe review found that some employees understood the general purpose of specifications but missed small details, such as packaging notes or finish requirements. In response, trainers added short exercises that ask employees to locate specific details in sample specification sheets.\nSupervisors believe the exercises will reduce mistakes caused by overlooked information. They also plan to include more practice with comparing two similar specifications, since small differences can affect production decisions.\n\nWhat do the new exercises ask employees to do?",
+    "choices": {
+      "A": "Locate specific details in sample specification sheets",
+      "B": "Memorize every company policy",
+      "C": "Repair production equipment",
+      "D": "Replace product packaging machines"
+    },
+    "correct": "A",
+    "explanation": "The new exercises ask employees to locate specific details in sample specification sheets."
+  },
+  {
+    "id": "RC15-023",
+    "prompt": "Passage 5\nA regional manufacturing company recently reviewed the way it trains employees to read product specifications. Product specifications describe requirements such as size, material, finish, packaging, and acceptable tolerances. Employees use these documents to confirm that products are made and packed correctly.\nThe review found that some employees understood the general purpose of specifications but missed small details, such as packaging notes or finish requirements. In response, trainers added short exercises that ask employees to locate specific details in sample specification sheets.\nSupervisors believe the exercises will reduce mistakes caused by overlooked information. They also plan to include more practice with comparing two similar specifications, since small differences can affect production decisions.\n\nThe word “tolerances” most nearly means:",
+    "choices": {
+      "A": "Allowed limits or ranges",
+      "B": "Personal opinions",
+      "C": "Finished products only",
+      "D": "Employee assignments"
+    },
+    "correct": "A",
+    "explanation": "In context, “tolerances” means allowed limits or acceptable ranges for a product requirement."
+  },
+  {
+    "id": "RC15-024",
+    "prompt": "Passage 6\nMany organizations use scheduling software to manage meeting rooms, training spaces, and shared equipment. These systems allow employees to reserve resources and check availability before making plans.\nScheduling software can reduce conflicts when many employees need access to the same resource. Instead of relying on informal conversations or paper calendars, employees can see whether a room or piece of equipment is already reserved. Some systems also send reminders before a reservation begins.\nHowever, software works only if users keep information current. If employees reserve a room but do not cancel when plans change, others may think the room is unavailable. Clear rules for making and canceling reservations help the system remain accurate.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Scheduling software can reduce conflicts, but users must keep reservations current.",
+      "B": "Meeting rooms should never be reserved.",
+      "C": "Paper calendars are always more accurate than software.",
+      "D": "Employees should make plans without checking availability."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that scheduling software reduces conflicts but depends on users keeping reservations accurate."
+  },
+  {
+    "id": "RC15-025",
+    "prompt": "Passage 6\nMany organizations use scheduling software to manage meeting rooms, training spaces, and shared equipment. These systems allow employees to reserve resources and check availability before making plans.\nScheduling software can reduce conflicts when many employees need access to the same resource. Instead of relying on informal conversations or paper calendars, employees can see whether a room or piece of equipment is already reserved. Some systems also send reminders before a reservation begins.\nHowever, software works only if users keep information current. If employees reserve a room but do not cancel when plans change, others may think the room is unavailable. Clear rules for making and canceling reservations help the system remain accurate.\n\nWhat can employees check using scheduling software?",
+    "choices": {
+      "A": "Availability of rooms, training spaces, or shared equipment",
+      "B": "Personal medical records",
+      "C": "Product warranty claims",
+      "D": "Weather data from other cities"
+    },
+    "correct": "A",
+    "explanation": "Employees can check availability of meeting rooms, training spaces, and shared equipment."
+  },
+  {
+    "id": "RC15-026",
+    "prompt": "Passage 6\nMany organizations use scheduling software to manage meeting rooms, training spaces, and shared equipment. These systems allow employees to reserve resources and check availability before making plans.\nScheduling software can reduce conflicts when many employees need access to the same resource. Instead of relying on informal conversations or paper calendars, employees can see whether a room or piece of equipment is already reserved. Some systems also send reminders before a reservation begins.\nHowever, software works only if users keep information current. If employees reserve a room but do not cancel when plans change, others may think the room is unavailable. Clear rules for making and canceling reservations help the system remain accurate.\n\nHow can scheduling software reduce conflicts?",
+    "choices": {
+      "A": "By showing whether a resource is already reserved",
+      "B": "By removing all shared equipment",
+      "C": "By preventing employees from meeting",
+      "D": "By hiding room schedules"
+    },
+    "correct": "A",
+    "explanation": "The software reduces conflicts by showing whether a room or equipment is already reserved."
+  },
+  {
+    "id": "RC15-027",
+    "prompt": "Passage 6\nMany organizations use scheduling software to manage meeting rooms, training spaces, and shared equipment. These systems allow employees to reserve resources and check availability before making plans.\nScheduling software can reduce conflicts when many employees need access to the same resource. Instead of relying on informal conversations or paper calendars, employees can see whether a room or piece of equipment is already reserved. Some systems also send reminders before a reservation begins.\nHowever, software works only if users keep information current. If employees reserve a room but do not cancel when plans change, others may think the room is unavailable. Clear rules for making and canceling reservations help the system remain accurate.\n\nWhat can happen if employees do not cancel unused reservations?",
+    "choices": {
+      "A": "Others may think the room is unavailable.",
+      "B": "The room becomes larger.",
+      "C": "The software no longer needs rules.",
+      "D": "All reservations become unnecessary."
+    },
+    "correct": "A",
+    "explanation": "If employees do not cancel unused reservations, others may think the room is unavailable."
+  },
+  {
+    "id": "RC15-028",
+    "prompt": "Passage 6\nMany organizations use scheduling software to manage meeting rooms, training spaces, and shared equipment. These systems allow employees to reserve resources and check availability before making plans.\nScheduling software can reduce conflicts when many employees need access to the same resource. Instead of relying on informal conversations or paper calendars, employees can see whether a room or piece of equipment is already reserved. Some systems also send reminders before a reservation begins.\nHowever, software works only if users keep information current. If employees reserve a room but do not cancel when plans change, others may think the room is unavailable. Clear rules for making and canceling reservations help the system remain accurate.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Reservation systems depend on accurate user behavior.",
+      "B": "Scheduling software works best when employees ignore changes.",
+      "C": "Informal conversations always prevent conflicts.",
+      "D": "Shared resources should not be tracked."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that reservation systems rely on accurate and current user information."
+  },
+  {
+    "id": "RC15-029",
+    "prompt": "Passage 7\nMany communities operate public composting programs to reduce the amount of organic waste sent to landfills. Residents may be allowed to drop off food scraps, leaves, grass clippings, and other approved materials at designated collection sites.\nComposting turns organic materials into a soil-like product that can be used in landscaping, gardening, or erosion control. The process works best when accepted materials are separated from trash, plastic, glass, and other contaminants.\nPublic instructions are important because not all organic items are accepted in every program. Clear signs and guides help residents understand what to include, what to avoid, and how to prepare materials for drop-off.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public composting programs help reduce organic waste and require proper sorting.",
+      "B": "Composting programs accept all types of trash.",
+      "C": "Landfills are used only for garden soil.",
+      "D": "Residents should mix plastic with food scraps."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on composting programs, accepted organic waste, and the need for proper sorting."
+  },
+  {
+    "id": "RC15-030",
+    "prompt": "Passage 7\nMany communities operate public composting programs to reduce the amount of organic waste sent to landfills. Residents may be allowed to drop off food scraps, leaves, grass clippings, and other approved materials at designated collection sites.\nComposting turns organic materials into a soil-like product that can be used in landscaping, gardening, or erosion control. The process works best when accepted materials are separated from trash, plastic, glass, and other contaminants.\nPublic instructions are important because not all organic items are accepted in every program. Clear signs and guides help residents understand what to include, what to avoid, and how to prepare materials for drop-off.\n\nWhich material may be accepted in a composting program?",
+    "choices": {
+      "A": "Food scraps",
+      "B": "Broken glass",
+      "C": "Plastic containers",
+      "D": "Metal tools"
+    },
+    "correct": "A",
+    "explanation": "Food scraps are specifically listed as a material that residents may drop off."
+  },
+  {
+    "id": "RC15-031",
+    "prompt": "Passage 7\nMany communities operate public composting programs to reduce the amount of organic waste sent to landfills. Residents may be allowed to drop off food scraps, leaves, grass clippings, and other approved materials at designated collection sites.\nComposting turns organic materials into a soil-like product that can be used in landscaping, gardening, or erosion control. The process works best when accepted materials are separated from trash, plastic, glass, and other contaminants.\nPublic instructions are important because not all organic items are accepted in every program. Clear signs and guides help residents understand what to include, what to avoid, and how to prepare materials for drop-off.\n\nWhat can composted material be used for?",
+    "choices": {
+      "A": "Landscaping, gardening, or erosion control",
+      "B": "Vehicle repair",
+      "C": "Electrical wiring",
+      "D": "Customer billing"
+    },
+    "correct": "A",
+    "explanation": "Composted material can be used for landscaping, gardening, or erosion control."
+  },
+  {
+    "id": "RC15-032",
+    "prompt": "Passage 7\nMany communities operate public composting programs to reduce the amount of organic waste sent to landfills. Residents may be allowed to drop off food scraps, leaves, grass clippings, and other approved materials at designated collection sites.\nComposting turns organic materials into a soil-like product that can be used in landscaping, gardening, or erosion control. The process works best when accepted materials are separated from trash, plastic, glass, and other contaminants.\nPublic instructions are important because not all organic items are accepted in every program. Clear signs and guides help residents understand what to include, what to avoid, and how to prepare materials for drop-off.\n\nWhy are public instructions important?",
+    "choices": {
+      "A": "Not all organic items are accepted in every program.",
+      "B": "Residents always know every composting rule.",
+      "C": "Instructions make sorting impossible.",
+      "D": "Composting works best with plastic contamination."
+    },
+    "correct": "A",
+    "explanation": "Instructions matter because not every organic item is accepted in every composting program."
+  },
+  {
+    "id": "RC15-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added timed reading drills to help students practice pacing. Instructors noticed that some students answered accurately when given unlimited time but left several questions blank during timed practice exams.\nThe timed drills use short workplace-style passages followed by several questions. Students practice deciding when to reread carefully and when to move on. Instructors remind students that pacing does not mean rushing; it means using time wisely so that easier questions are not missed at the end.\nAfter several weeks, many students reported feeling less anxious about the reading section. Instructors plan to compare future practice-test results to see whether the drills improve completion rates.\n\nWhy were timed reading drills added?",
+    "choices": {
+      "A": "Some students left questions blank during timed practice exams.",
+      "B": "Students no longer needed reading practice.",
+      "C": "Instructors wanted students to avoid workplace-style passages.",
+      "D": "Practice exams were removed from the course."
+    },
+    "correct": "A",
+    "explanation": "Timed reading drills were added because some students left questions blank during timed practice exams."
+  },
+  {
+    "id": "RC15-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added timed reading drills to help students practice pacing. Instructors noticed that some students answered accurately when given unlimited time but left several questions blank during timed practice exams.\nThe timed drills use short workplace-style passages followed by several questions. Students practice deciding when to reread carefully and when to move on. Instructors remind students that pacing does not mean rushing; it means using time wisely so that easier questions are not missed at the end.\nAfter several weeks, many students reported feeling less anxious about the reading section. Instructors plan to compare future practice-test results to see whether the drills improve completion rates.\n\nWhat do students practice during the drills?",
+    "choices": {
+      "A": "Deciding when to reread carefully and when to move on",
+      "B": "Ignoring all passage details",
+      "C": "Writing long essays about each passage",
+      "D": "Avoiding all timed work"
+    },
+    "correct": "A",
+    "explanation": "Students practice deciding when to reread and when to move on."
+  },
+  {
+    "id": "RC15-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added timed reading drills to help students practice pacing. Instructors noticed that some students answered accurately when given unlimited time but left several questions blank during timed practice exams.\nThe timed drills use short workplace-style passages followed by several questions. Students practice deciding when to reread carefully and when to move on. Instructors remind students that pacing does not mean rushing; it means using time wisely so that easier questions are not missed at the end.\nAfter several weeks, many students reported feeling less anxious about the reading section. Instructors plan to compare future practice-test results to see whether the drills improve completion rates.\n\nAccording to the passage, pacing means:",
+    "choices": {
+      "A": "Using time wisely",
+      "B": "Rushing through every question",
+      "C": "Skipping all difficult passages automatically",
+      "D": "Reading without answering questions"
+    },
+    "correct": "A",
+    "explanation": "The passage states that pacing means using time wisely, not rushing."
+  },
+  {
+    "id": "RC15-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added timed reading drills to help students practice pacing. Instructors noticed that some students answered accurately when given unlimited time but left several questions blank during timed practice exams.\nThe timed drills use short workplace-style passages followed by several questions. Students practice deciding when to reread carefully and when to move on. Instructors remind students that pacing does not mean rushing; it means using time wisely so that easier questions are not missed at the end.\nAfter several weeks, many students reported feeling less anxious about the reading section. Instructors plan to compare future practice-test results to see whether the drills improve completion rates.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Timed practice may help students manage anxiety and improve completion.",
+      "B": "Students should spend unlimited time on every question.",
+      "C": "Easier questions should be left blank at the end.",
+      "D": "Timed reading drills prevent students from learning pacing."
+    },
+    "correct": "A",
+    "explanation": "Students reported less anxiety, and instructors plan to check whether the drills improve completion rates."
+  }
+]

@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC20-001",
+    "prompt": "Passage 1\nA regional equipment service company recently updated how it tracks parts placed on backorder. Previously, technicians wrote backordered parts on individual job sheets. This made it difficult for office staff to see all delayed parts in one place or to notify customers when expected repair dates changed.\nThe company now uses a shared backorder list. Each entry includes the customer name, job number, part needed, supplier, expected arrival date, and employee responsible for follow-up. Office staff review the list each morning and contact customers when a delay affects the repair schedule.\nManagers report that the new process has improved communication between technicians, office staff, and customers. It also reduces the chance that a delayed part will be forgotten after the original service visit.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "A shared backorder list improved communication about delayed repair parts.",
+      "B": "The company stopped ordering replacement parts.",
+      "C": "Technicians now contact suppliers only once a year.",
+      "D": "Customers no longer receive repair updates."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how a shared backorder list improved communication about delayed repair parts among technicians, office staff, and customers."
+  },
+  {
+    "id": "RC20-002",
+    "prompt": "Passage 1\nA regional equipment service company recently updated how it tracks parts placed on backorder. Previously, technicians wrote backordered parts on individual job sheets. This made it difficult for office staff to see all delayed parts in one place or to notify customers when expected repair dates changed.\nThe company now uses a shared backorder list. Each entry includes the customer name, job number, part needed, supplier, expected arrival date, and employee responsible for follow-up. Office staff review the list each morning and contact customers when a delay affects the repair schedule.\nManagers report that the new process has improved communication between technicians, office staff, and customers. It also reduces the chance that a delayed part will be forgotten after the original service visit.\n\nWhat problem existed with the old process?",
+    "choices": {
+      "A": "Technicians refused to write job sheets.",
+      "B": "Office staff could not easily see all delayed parts in one place.",
+      "C": "Suppliers delivered all parts early.",
+      "D": "Customers were responsible for tracking backorders."
+    },
+    "correct": "B",
+    "explanation": "The old job-sheet system made it hard for office staff to see all delayed parts in one place."
+  },
+  {
+    "id": "RC20-003",
+    "prompt": "Passage 1\nA regional equipment service company recently updated how it tracks parts placed on backorder. Previously, technicians wrote backordered parts on individual job sheets. This made it difficult for office staff to see all delayed parts in one place or to notify customers when expected repair dates changed.\nThe company now uses a shared backorder list. Each entry includes the customer name, job number, part needed, supplier, expected arrival date, and employee responsible for follow-up. Office staff review the list each morning and contact customers when a delay affects the repair schedule.\nManagers report that the new process has improved communication between technicians, office staff, and customers. It also reduces the chance that a delayed part will be forgotten after the original service visit.\n\nWhat information is included on the shared backorder list?",
+    "choices": {
+      "A": "Customer name, job number, part needed, supplier, expected arrival date, and follow-up employee",
+      "B": "Employee lunch orders and parking locations",
+      "C": "Weather conditions and road closures",
+      "D": "Advertising plans and customer reviews"
+    },
+    "correct": "A",
+    "explanation": "The list includes the customer name, job number, part needed, supplier, expected arrival date, and follow-up employee."
+  },
+  {
+    "id": "RC20-004",
+    "prompt": "Passage 1\nA regional equipment service company recently updated how it tracks parts placed on backorder. Previously, technicians wrote backordered parts on individual job sheets. This made it difficult for office staff to see all delayed parts in one place or to notify customers when expected repair dates changed.\nThe company now uses a shared backorder list. Each entry includes the customer name, job number, part needed, supplier, expected arrival date, and employee responsible for follow-up. Office staff review the list each morning and contact customers when a delay affects the repair schedule.\nManagers report that the new process has improved communication between technicians, office staff, and customers. It also reduces the chance that a delayed part will be forgotten after the original service visit.\n\nWhen do office staff review the list?",
+    "choices": {
+      "A": "At the end of each year",
+      "B": "Only after a customer complains",
+      "C": "Each morning",
+      "D": "Before the company opens a new building"
+    },
+    "correct": "C",
+    "explanation": "Office staff review the shared backorder list each morning."
+  },
+  {
+    "id": "RC20-005",
+    "prompt": "Passage 1\nA regional equipment service company recently updated how it tracks parts placed on backorder. Previously, technicians wrote backordered parts on individual job sheets. This made it difficult for office staff to see all delayed parts in one place or to notify customers when expected repair dates changed.\nThe company now uses a shared backorder list. Each entry includes the customer name, job number, part needed, supplier, expected arrival date, and employee responsible for follow-up. Office staff review the list each morning and contact customers when a delay affects the repair schedule.\nManagers report that the new process has improved communication between technicians, office staff, and customers. It also reduces the chance that a delayed part will be forgotten after the original service visit.\n\nThe word “delayed” most nearly means:",
+    "choices": {
+      "A": "Finished early",
+      "B": "Placed in storage",
+      "C": "Made larger",
+      "D": "Made later or slowed down"
+    },
+    "correct": "D",
+    "explanation": "In context, “delayed” means made later or slowed down, such as when a part changes the repair schedule."
+  },
+  {
+    "id": "RC20-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 22, employees who use the shop air hose reels must return hoses fully to the reel after use. Hoses should not be left stretched across walkways, doorways, or work areas.\nThe updated procedure was created after several near misses were reported involving employees stepping over or around loose hoses. The goal is to reduce tripping hazards and keep work areas clear for people carrying tools or materials.\nSupervisors will review the procedure during shift meetings this week.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new procedure for storing air hoses after use",
+      "B": "To cancel all use of air hose reels",
+      "C": "To explain how to purchase new tools",
+      "D": "To assign employees to new departments"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the procedure requiring employees to return air hoses fully to the reel after use."
+  },
+  {
+    "id": "RC20-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 22, employees who use the shop air hose reels must return hoses fully to the reel after use. Hoses should not be left stretched across walkways, doorways, or work areas.\nThe updated procedure was created after several near misses were reported involving employees stepping over or around loose hoses. The goal is to reduce tripping hazards and keep work areas clear for people carrying tools or materials.\nSupervisors will review the procedure during shift meetings this week.\n\nWhere should hoses not be left?",
+    "choices": {
+      "A": "Across walkways, doorways, or work areas",
+      "B": "On the hose reel after use",
+      "C": "Inside the correct storage area",
+      "D": "Near the supervisor’s office only"
+    },
+    "correct": "A",
+    "explanation": "The notice says hoses should not be left across walkways, doorways, or work areas."
+  },
+  {
+    "id": "RC20-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 22, employees who use the shop air hose reels must return hoses fully to the reel after use. Hoses should not be left stretched across walkways, doorways, or work areas.\nThe updated procedure was created after several near misses were reported involving employees stepping over or around loose hoses. The goal is to reduce tripping hazards and keep work areas clear for people carrying tools or materials.\nSupervisors will review the procedure during shift meetings this week.\n\nWhy was the procedure updated?",
+    "choices": {
+      "A": "Employees requested longer break periods.",
+      "B": "Near misses were reported involving loose hoses.",
+      "C": "The shop removed all tools from work areas.",
+      "D": "Hoses were no longer used in the workplace."
+    },
+    "correct": "B",
+    "explanation": "The procedure was updated because near misses were reported involving loose hoses."
+  },
+  {
+    "id": "RC20-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning April 22, employees who use the shop air hose reels must return hoses fully to the reel after use. Hoses should not be left stretched across walkways, doorways, or work areas.\nThe updated procedure was created after several near misses were reported involving employees stepping over or around loose hoses. The goal is to reduce tripping hazards and keep work areas clear for people carrying tools or materials.\nSupervisors will review the procedure during shift meetings this week.\n\nWhat is the goal of the updated procedure?",
+    "choices": {
+      "A": "To make air hoses harder to find",
+      "B": "To increase time spent moving materials",
+      "C": "To reduce tripping hazards and keep work areas clear",
+      "D": "To replace shift meetings with written tests"
+    },
+    "correct": "C",
+    "explanation": "The goal is to reduce tripping hazards and keep work areas clear."
+  },
+  {
+    "id": "RC20-010",
+    "prompt": "Passage 3\nMany organizations use equipment sign-out sheets to track who is using shared tools or devices. A sign-out sheet may include the employee’s name, equipment number, date, time borrowed, and expected return time.\nThis type of tracking helps prevent confusion when several employees need the same item. If a tool is missing, supervisors can check who last signed it out. If equipment is needed for a scheduled task, employees can also see whether it is already in use.\nHowever, sign-out systems work only when employees use them consistently. If workers borrow equipment without signing it out or forget to record returns, the sheet may provide inaccurate information. Clear expectations and occasional checks help keep the system useful.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Shared equipment should never be tracked.",
+      "B": "Equipment sign-out sheets can reduce confusion when used consistently.",
+      "C": "Employees should borrow tools without recording them.",
+      "D": "Supervisors should avoid checking missing tools."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that sign-out sheets help track shared equipment, but only when employees use them consistently."
+  },
+  {
+    "id": "RC20-011",
+    "prompt": "Passage 3\nMany organizations use equipment sign-out sheets to track who is using shared tools or devices. A sign-out sheet may include the employee’s name, equipment number, date, time borrowed, and expected return time.\nThis type of tracking helps prevent confusion when several employees need the same item. If a tool is missing, supervisors can check who last signed it out. If equipment is needed for a scheduled task, employees can also see whether it is already in use.\nHowever, sign-out systems work only when employees use them consistently. If workers borrow equipment without signing it out or forget to record returns, the sheet may provide inaccurate information. Clear expectations and occasional checks help keep the system useful.\n\nWhat information may appear on an equipment sign-out sheet?",
+    "choices": {
+      "A": "Employee name, equipment number, date, and expected return time",
+      "B": "Customer home address and payment method",
+      "C": "Office decoration choices",
+      "D": "Weather conditions for the week"
+    },
+    "correct": "A",
+    "explanation": "The passage lists employee name, equipment number, date, time borrowed, and expected return time as possible sign-out information."
+  },
+  {
+    "id": "RC20-012",
+    "prompt": "Passage 3\nMany organizations use equipment sign-out sheets to track who is using shared tools or devices. A sign-out sheet may include the employee’s name, equipment number, date, time borrowed, and expected return time.\nThis type of tracking helps prevent confusion when several employees need the same item. If a tool is missing, supervisors can check who last signed it out. If equipment is needed for a scheduled task, employees can also see whether it is already in use.\nHowever, sign-out systems work only when employees use them consistently. If workers borrow equipment without signing it out or forget to record returns, the sheet may provide inaccurate information. Clear expectations and occasional checks help keep the system useful.\n\nHow can a sign-out sheet help if a tool is missing?",
+    "choices": {
+      "A": "It can show who last signed out the tool.",
+      "B": "It can repair the tool automatically.",
+      "C": "It can prevent employees from using tools.",
+      "D": "It can remove the need for shared equipment."
+    },
+    "correct": "A",
+    "explanation": "If a tool is missing, supervisors can check who last signed it out."
+  },
+  {
+    "id": "RC20-013",
+    "prompt": "Passage 3\nMany organizations use equipment sign-out sheets to track who is using shared tools or devices. A sign-out sheet may include the employee’s name, equipment number, date, time borrowed, and expected return time.\nThis type of tracking helps prevent confusion when several employees need the same item. If a tool is missing, supervisors can check who last signed it out. If equipment is needed for a scheduled task, employees can also see whether it is already in use.\nHowever, sign-out systems work only when employees use them consistently. If workers borrow equipment without signing it out or forget to record returns, the sheet may provide inaccurate information. Clear expectations and occasional checks help keep the system useful.\n\nWhat can make a sign-out sheet inaccurate?",
+    "choices": {
+      "A": "Employees using it consistently",
+      "B": "Supervisors checking it occasionally",
+      "C": "Workers borrowing equipment without signing it out",
+      "D": "Employees recording expected return times"
+    },
+    "correct": "C",
+    "explanation": "The sheet becomes inaccurate if workers borrow equipment without signing it out or forget to record returns."
+  },
+  {
+    "id": "RC20-014",
+    "prompt": "Passage 3\nMany organizations use equipment sign-out sheets to track who is using shared tools or devices. A sign-out sheet may include the employee’s name, equipment number, date, time borrowed, and expected return time.\nThis type of tracking helps prevent confusion when several employees need the same item. If a tool is missing, supervisors can check who last signed it out. If equipment is needed for a scheduled task, employees can also see whether it is already in use.\nHowever, sign-out systems work only when employees use them consistently. If workers borrow equipment without signing it out or forget to record returns, the sheet may provide inaccurate information. Clear expectations and occasional checks help keep the system useful.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Tracking systems are useful only when people follow the process.",
+      "B": "Sign-out sheets work best when returns are not recorded.",
+      "C": "Equipment numbers make tracking impossible.",
+      "D": "Missing tools cannot be connected to sign-out records."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that tracking works only when people follow the process."
+  },
+  {
+    "id": "RC20-015",
+    "prompt": "Passage 4\nBefore automatic doors became common in many public buildings, people usually had to pull or push heavy doors to enter. This could be inconvenient for visitors carrying packages, pushing carts, using wheelchairs, or entering with small children.\nAutomatic doors improved access by opening when sensors detected movement or presence near the entrance. This allowed people to enter more easily, especially when their hands were full or when physical effort was difficult. Automatic doors also helped reduce crowding at busy entrances.\nEven with these advantages, automatic doors require maintenance. Sensors, tracks, motors, and safety features must be inspected to make sure the doors open and close properly.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Automatic doors improved access but still require maintenance.",
+      "B": "Public buildings should avoid entrances.",
+      "C": "Heavy doors are always easier to use.",
+      "D": "Sensors are unrelated to automatic doors."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that automatic doors made entry easier but still require maintenance."
+  },
+  {
+    "id": "RC20-016",
+    "prompt": "Passage 4\nBefore automatic doors became common in many public buildings, people usually had to pull or push heavy doors to enter. This could be inconvenient for visitors carrying packages, pushing carts, using wheelchairs, or entering with small children.\nAutomatic doors improved access by opening when sensors detected movement or presence near the entrance. This allowed people to enter more easily, especially when their hands were full or when physical effort was difficult. Automatic doors also helped reduce crowding at busy entrances.\nEven with these advantages, automatic doors require maintenance. Sensors, tracks, motors, and safety features must be inspected to make sure the doors open and close properly.\n\nWho may especially benefit from automatic doors?",
+    "choices": {
+      "A": "Visitors carrying packages, pushing carts, using wheelchairs, or entering with small children",
+      "B": "People repairing underground pipes",
+      "C": "Employees reviewing payroll records",
+      "D": "Drivers reading road signs"
+    },
+    "correct": "A",
+    "explanation": "Visitors carrying packages, pushing carts, using wheelchairs, or entering with small children may especially benefit."
+  },
+  {
+    "id": "RC20-017",
+    "prompt": "Passage 4\nBefore automatic doors became common in many public buildings, people usually had to pull or push heavy doors to enter. This could be inconvenient for visitors carrying packages, pushing carts, using wheelchairs, or entering with small children.\nAutomatic doors improved access by opening when sensors detected movement or presence near the entrance. This allowed people to enter more easily, especially when their hands were full or when physical effort was difficult. Automatic doors also helped reduce crowding at busy entrances.\nEven with these advantages, automatic doors require maintenance. Sensors, tracks, motors, and safety features must be inspected to make sure the doors open and close properly.\n\nHow do automatic doors know when to open?",
+    "choices": {
+      "A": "A visitor must enter a password.",
+      "B": "Sensors detect movement or presence near the entrance.",
+      "C": "A customer calls the building manager.",
+      "D": "The doors open only once each morning."
+    },
+    "correct": "B",
+    "explanation": "Automatic doors open when sensors detect movement or presence near the entrance."
+  },
+  {
+    "id": "RC20-018",
+    "prompt": "Passage 4\nBefore automatic doors became common in many public buildings, people usually had to pull or push heavy doors to enter. This could be inconvenient for visitors carrying packages, pushing carts, using wheelchairs, or entering with small children.\nAutomatic doors improved access by opening when sensors detected movement or presence near the entrance. This allowed people to enter more easily, especially when their hands were full or when physical effort was difficult. Automatic doors also helped reduce crowding at busy entrances.\nEven with these advantages, automatic doors require maintenance. Sensors, tracks, motors, and safety features must be inspected to make sure the doors open and close properly.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an earlier inconvenience, a technology improvement, and maintenance needs.",
+      "B": "It lists instructions for manufacturing carts.",
+      "C": "It compares public buildings with grocery stores.",
+      "D": "It argues that entrances should be blocked."
+    },
+    "correct": "A",
+    "explanation": "The passage moves from the inconvenience of heavy doors to automatic-door improvements and then to maintenance needs."
+  },
+  {
+    "id": "RC20-019",
+    "prompt": "Passage 5\nA regional distribution center recently added a staging area for outgoing shipments. Before the change, completed orders were placed wherever open space was available near the loading dock. During busy shifts, this sometimes made it difficult to know which orders were ready, which were waiting for paperwork, and which had already been loaded.\nThe new staging area is divided into marked sections. Each section is labeled by delivery route, and orders are moved there only after they pass a final check. Shipping employees scan each order when it enters the staging area and again when it is loaded onto a truck.\nSupervisors report that the new layout has reduced confusion near the dock. Drivers also say it is easier to confirm that the correct orders are being loaded.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The distribution center stopped using delivery routes.",
+      "B": "A marked staging area improved organization for outgoing shipments.",
+      "C": "Drivers now decide which orders pass final checks.",
+      "D": "Completed orders are no longer loaded onto trucks."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that the marked staging area improved organization and reduced confusion near the loading dock."
+  },
+  {
+    "id": "RC20-020",
+    "prompt": "Passage 5\nA regional distribution center recently added a staging area for outgoing shipments. Before the change, completed orders were placed wherever open space was available near the loading dock. During busy shifts, this sometimes made it difficult to know which orders were ready, which were waiting for paperwork, and which had already been loaded.\nThe new staging area is divided into marked sections. Each section is labeled by delivery route, and orders are moved there only after they pass a final check. Shipping employees scan each order when it enters the staging area and again when it is loaded onto a truck.\nSupervisors report that the new layout has reduced confusion near the dock. Drivers also say it is easier to confirm that the correct orders are being loaded.\n\nWhat problem occurred before the staging area was added?",
+    "choices": {
+      "A": "Orders were placed in any open space near the dock.",
+      "B": "Trucks were not allowed near the building.",
+      "C": "Shipping employees refused to scan orders.",
+      "D": "Paperwork was completed too early."
+    },
+    "correct": "A",
+    "explanation": "Before the change, completed orders were placed wherever open space was available near the loading dock."
+  },
+  {
+    "id": "RC20-021",
+    "prompt": "Passage 5\nA regional distribution center recently added a staging area for outgoing shipments. Before the change, completed orders were placed wherever open space was available near the loading dock. During busy shifts, this sometimes made it difficult to know which orders were ready, which were waiting for paperwork, and which had already been loaded.\nThe new staging area is divided into marked sections. Each section is labeled by delivery route, and orders are moved there only after they pass a final check. Shipping employees scan each order when it enters the staging area and again when it is loaded onto a truck.\nSupervisors report that the new layout has reduced confusion near the dock. Drivers also say it is easier to confirm that the correct orders are being loaded.\n\nHow are sections in the staging area labeled?",
+    "choices": {
+      "A": "By employee name",
+      "B": "By supplier location",
+      "C": "By delivery route",
+      "D": "By customer age"
+    },
+    "correct": "C",
+    "explanation": "The staging sections are labeled by delivery route."
+  },
+  {
+    "id": "RC20-022",
+    "prompt": "Passage 5\nA regional distribution center recently added a staging area for outgoing shipments. Before the change, completed orders were placed wherever open space was available near the loading dock. During busy shifts, this sometimes made it difficult to know which orders were ready, which were waiting for paperwork, and which had already been loaded.\nThe new staging area is divided into marked sections. Each section is labeled by delivery route, and orders are moved there only after they pass a final check. Shipping employees scan each order when it enters the staging area and again when it is loaded onto a truck.\nSupervisors report that the new layout has reduced confusion near the dock. Drivers also say it is easier to confirm that the correct orders are being loaded.\n\nWhen are orders moved into the staging area?",
+    "choices": {
+      "A": "After they pass a final check",
+      "B": "Before they are created",
+      "C": "Only after the truck leaves",
+      "D": "When customers arrive at the dock"
+    },
+    "correct": "A",
+    "explanation": "Orders are moved into the staging area only after they pass a final check."
+  },
+  {
+    "id": "RC20-023",
+    "prompt": "Passage 5\nA regional distribution center recently added a staging area for outgoing shipments. Before the change, completed orders were placed wherever open space was available near the loading dock. During busy shifts, this sometimes made it difficult to know which orders were ready, which were waiting for paperwork, and which had already been loaded.\nThe new staging area is divided into marked sections. Each section is labeled by delivery route, and orders are moved there only after they pass a final check. Shipping employees scan each order when it enters the staging area and again when it is loaded onto a truck.\nSupervisors report that the new layout has reduced confusion near the dock. Drivers also say it is easier to confirm that the correct orders are being loaded.\n\nThe word “confirm” most nearly means:",
+    "choices": {
+      "A": "Forget",
+      "B": "Delay",
+      "C": "Hide",
+      "D": "Verify or make sure"
+    },
+    "correct": "D",
+    "explanation": "In context, “confirm” means to verify or make sure the correct orders are being loaded."
+  },
+  {
+    "id": "RC20-024",
+    "prompt": "Passage 6\nMany companies use written checklists when shutting down equipment at the end of a workday. A shutdown checklist may include turning off power, cleaning work surfaces, recording production totals, checking guards, and reporting unusual noises or problems.\nChecklists help employees avoid missing important steps, especially when they are tired or when several tasks must be completed quickly. They also create a shared expectation for what “shutdown complete” means.\nA checklist should be reviewed when equipment or procedures change. If new steps are added to the work process but the checklist is not updated, employees may follow old instructions that no longer match the job.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Shutdown checklists help employees complete end-of-day tasks and must stay updated.",
+      "B": "Employees should shut down equipment without instructions.",
+      "C": "Checklists are needed only when no equipment is used.",
+      "D": "Old instructions always match new work processes."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that shutdown checklists help employees complete important steps and should be updated when work changes."
+  },
+  {
+    "id": "RC20-025",
+    "prompt": "Passage 6\nMany companies use written checklists when shutting down equipment at the end of a workday. A shutdown checklist may include turning off power, cleaning work surfaces, recording production totals, checking guards, and reporting unusual noises or problems.\nChecklists help employees avoid missing important steps, especially when they are tired or when several tasks must be completed quickly. They also create a shared expectation for what “shutdown complete” means.\nA checklist should be reviewed when equipment or procedures change. If new steps are added to the work process but the checklist is not updated, employees may follow old instructions that no longer match the job.\n\nWhich step may be included on a shutdown checklist?",
+    "choices": {
+      "A": "Checking guards",
+      "B": "Scheduling vacations",
+      "C": "Preparing customer advertisements",
+      "D": "Buying office furniture"
+    },
+    "correct": "A",
+    "explanation": "Checking guards is specifically listed as a possible shutdown checklist step."
+  },
+  {
+    "id": "RC20-026",
+    "prompt": "Passage 6\nMany companies use written checklists when shutting down equipment at the end of a workday. A shutdown checklist may include turning off power, cleaning work surfaces, recording production totals, checking guards, and reporting unusual noises or problems.\nChecklists help employees avoid missing important steps, especially when they are tired or when several tasks must be completed quickly. They also create a shared expectation for what “shutdown complete” means.\nA checklist should be reviewed when equipment or procedures change. If new steps are added to the work process but the checklist is not updated, employees may follow old instructions that no longer match the job.\n\nWhy are checklists helpful when employees are tired?",
+    "choices": {
+      "A": "They help employees avoid missing important steps.",
+      "B": "They allow employees to skip shutdown.",
+      "C": "They make equipment run all night.",
+      "D": "They remove the need to report problems."
+    },
+    "correct": "A",
+    "explanation": "Checklists help employees avoid missing steps, especially when they are tired or rushed."
+  },
+  {
+    "id": "RC20-027",
+    "prompt": "Passage 6\nMany companies use written checklists when shutting down equipment at the end of a workday. A shutdown checklist may include turning off power, cleaning work surfaces, recording production totals, checking guards, and reporting unusual noises or problems.\nChecklists help employees avoid missing important steps, especially when they are tired or when several tasks must be completed quickly. They also create a shared expectation for what “shutdown complete” means.\nA checklist should be reviewed when equipment or procedures change. If new steps are added to the work process but the checklist is not updated, employees may follow old instructions that no longer match the job.\n\nWhen should a checklist be reviewed?",
+    "choices": {
+      "A": "When equipment or procedures change",
+      "B": "Only after it becomes unreadable",
+      "C": "Never, if employees are familiar with it",
+      "D": "Before any employee is trained"
+    },
+    "correct": "A",
+    "explanation": "A checklist should be reviewed when equipment or procedures change."
+  },
+  {
+    "id": "RC20-028",
+    "prompt": "Passage 6\nMany companies use written checklists when shutting down equipment at the end of a workday. A shutdown checklist may include turning off power, cleaning work surfaces, recording production totals, checking guards, and reporting unusual noises or problems.\nChecklists help employees avoid missing important steps, especially when they are tired or when several tasks must be completed quickly. They also create a shared expectation for what “shutdown complete” means.\nA checklist should be reviewed when equipment or procedures change. If new steps are added to the work process but the checklist is not updated, employees may follow old instructions that no longer match the job.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A checklist is most useful when it matches the current work process.",
+      "B": "Shutdown tasks should be different for every employee every day.",
+      "C": "Outdated checklists improve accuracy.",
+      "D": "Written steps make shutdown more confusing."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that a checklist is useful only if it matches the current work process."
+  },
+  {
+    "id": "RC20-029",
+    "prompt": "Passage 7\nMany communities operate public boat ramps near lakes and rivers. These ramps allow residents and visitors to launch small boats, fishing boats, kayaks, or emergency response vessels.\nClear rules help keep boat ramps safe and efficient. Signs may explain parking areas, launch lanes, speed limits, life jacket reminders, and hours of use. Without clear instructions, vehicles and trailers may block access, and users may spend extra time trying to understand where to wait or unload.\nPublic works crews often inspect ramps for damaged pavement, slippery surfaces, debris, or low-water conditions. Regular maintenance helps keep ramps usable during busy seasons.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Public boat ramps require clear rules and maintenance to remain safe and usable.",
+      "B": "Boat ramps are used only by emergency crews.",
+      "C": "Communities should remove all signs near water.",
+      "D": "Kayaks cannot be launched from public ramps."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that boat ramps need clear rules and regular maintenance to remain safe and usable."
+  },
+  {
+    "id": "RC20-030",
+    "prompt": "Passage 7\nMany communities operate public boat ramps near lakes and rivers. These ramps allow residents and visitors to launch small boats, fishing boats, kayaks, or emergency response vessels.\nClear rules help keep boat ramps safe and efficient. Signs may explain parking areas, launch lanes, speed limits, life jacket reminders, and hours of use. Without clear instructions, vehicles and trailers may block access, and users may spend extra time trying to understand where to wait or unload.\nPublic works crews often inspect ramps for damaged pavement, slippery surfaces, debris, or low-water conditions. Regular maintenance helps keep ramps usable during busy seasons.\n\nWhat may signs at boat ramps explain?",
+    "choices": {
+      "A": "Parking areas, launch lanes, speed limits, and hours of use",
+      "B": "Employee payroll totals",
+      "C": "Grocery store prices",
+      "D": "Private medical instructions"
+    },
+    "correct": "A",
+    "explanation": "Signs may explain parking areas, launch lanes, speed limits, life jacket reminders, and hours of use."
+  },
+  {
+    "id": "RC20-031",
+    "prompt": "Passage 7\nMany communities operate public boat ramps near lakes and rivers. These ramps allow residents and visitors to launch small boats, fishing boats, kayaks, or emergency response vessels.\nClear rules help keep boat ramps safe and efficient. Signs may explain parking areas, launch lanes, speed limits, life jacket reminders, and hours of use. Without clear instructions, vehicles and trailers may block access, and users may spend extra time trying to understand where to wait or unload.\nPublic works crews often inspect ramps for damaged pavement, slippery surfaces, debris, or low-water conditions. Regular maintenance helps keep ramps usable during busy seasons.\n\nWhat can happen without clear instructions at boat ramps?",
+    "choices": {
+      "A": "Vehicles and trailers may block access.",
+      "B": "All users will immediately leave.",
+      "C": "Water levels will rise automatically.",
+      "D": "Life jackets become unnecessary."
+    },
+    "correct": "A",
+    "explanation": "Without clear instructions, vehicles and trailers may block access."
+  },
+  {
+    "id": "RC20-032",
+    "prompt": "Passage 7\nMany communities operate public boat ramps near lakes and rivers. These ramps allow residents and visitors to launch small boats, fishing boats, kayaks, or emergency response vessels.\nClear rules help keep boat ramps safe and efficient. Signs may explain parking areas, launch lanes, speed limits, life jacket reminders, and hours of use. Without clear instructions, vehicles and trailers may block access, and users may spend extra time trying to understand where to wait or unload.\nPublic works crews often inspect ramps for damaged pavement, slippery surfaces, debris, or low-water conditions. Regular maintenance helps keep ramps usable during busy seasons.\n\nWhat do crews inspect ramps for?",
+    "choices": {
+      "A": "Damaged pavement, slippery surfaces, debris, or low-water conditions",
+      "B": "Customer invoices",
+      "C": "Office meeting agendas",
+      "D": "School attendance records"
+    },
+    "correct": "A",
+    "explanation": "Crews inspect ramps for damaged pavement, slippery surfaces, debris, and low-water conditions."
+  },
+  {
+    "id": "RC20-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently introduced weekly “question strategy” lessons. Instructors noticed that some students knew the material but missed questions because they answered too quickly or did not compare all answer choices.\nDuring the lessons, students practice reading the question first, locating evidence in the passage, eliminating clearly wrong choices, and then choosing the best answer. Instructors explain that the correct answer should be supported by the text, not just sound reasonable.\nThe lessons are short, but instructors repeat the same process each week. The goal is to help students build a habit they can use during the timed entrance exam.\n\nWhy did the program introduce question strategy lessons?",
+    "choices": {
+      "A": "Some students missed questions because they answered too quickly or failed to compare choices.",
+      "B": "Students no longer needed reading passages.",
+      "C": "Instructors wanted to remove answer choices.",
+      "D": "The entrance exam no longer included timing."
+    },
+    "correct": "A",
+    "explanation": "The lessons were added because some students missed questions by answering too quickly or not comparing all answer choices."
+  },
+  {
+    "id": "RC20-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently introduced weekly “question strategy” lessons. Instructors noticed that some students knew the material but missed questions because they answered too quickly or did not compare all answer choices.\nDuring the lessons, students practice reading the question first, locating evidence in the passage, eliminating clearly wrong choices, and then choosing the best answer. Instructors explain that the correct answer should be supported by the text, not just sound reasonable.\nThe lessons are short, but instructors repeat the same process each week. The goal is to help students build a habit they can use during the timed entrance exam.\n\nWhat do students practice during the lessons?",
+    "choices": {
+      "A": "Reading the question first, locating evidence, eliminating wrong choices, and choosing the best answer",
+      "B": "Choosing the first answer that sounds familiar",
+      "C": "Avoiding the passage when answering questions",
+      "D": "Writing new passages from memory"
+    },
+    "correct": "A",
+    "explanation": "Students practice reading the question first, finding evidence, eliminating wrong choices, and choosing the best answer."
+  },
+  {
+    "id": "RC20-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently introduced weekly “question strategy” lessons. Instructors noticed that some students knew the material but missed questions because they answered too quickly or did not compare all answer choices.\nDuring the lessons, students practice reading the question first, locating evidence in the passage, eliminating clearly wrong choices, and then choosing the best answer. Instructors explain that the correct answer should be supported by the text, not just sound reasonable.\nThe lessons are short, but instructors repeat the same process each week. The goal is to help students build a habit they can use during the timed entrance exam.\n\nAccording to the passage, the correct answer should be:",
+    "choices": {
+      "A": "The longest answer choice",
+      "B": "The answer that sounds most familiar",
+      "C": "Supported by the text",
+      "D": "Chosen without comparison"
+    },
+    "correct": "C",
+    "explanation": "The passage states that the correct answer should be supported by the text."
+  },
+  {
+    "id": "RC20-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation program recently introduced weekly “question strategy” lessons. Instructors noticed that some students knew the material but missed questions because they answered too quickly or did not compare all answer choices.\nDuring the lessons, students practice reading the question first, locating evidence in the passage, eliminating clearly wrong choices, and then choosing the best answer. Instructors explain that the correct answer should be supported by the text, not just sound reasonable.\nThe lessons are short, but instructors repeat the same process each week. The goal is to help students build a habit they can use during the timed entrance exam.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Repeated strategy practice can help students build useful test-taking habits.",
+      "B": "Students should avoid looking for evidence.",
+      "C": "Comparing answer choices usually makes answers less accurate.",
+      "D": "Timed exams do not require decision-making strategies."
+    },
+    "correct": "A",
+    "explanation": "The repeated weekly process is intended to help students build a useful habit for the timed exam."
+  }
+]

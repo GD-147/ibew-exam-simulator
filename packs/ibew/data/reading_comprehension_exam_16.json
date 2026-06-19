@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC16-001",
+    "prompt": "Passage 1\nA regional repair company recently updated its process for assigning emergency service calls. Previously, dispatchers contacted technicians by phone one at a time until someone was available. During busy periods, this process could delay the response to urgent jobs.\nThe company now uses a shared dispatch platform. When an emergency call is entered, available technicians receive a notification with the customer location, problem description, and priority level. The first qualified technician who accepts the job is assigned automatically.\nManagers report that the new process has reduced response time for urgent calls. Dispatchers still monitor assignments, but they spend less time making repeated phone calls and more time assisting customers.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Dispatchers no longer assist customers.",
+      "B": "A shared dispatch platform improved emergency service-call assignment.",
+      "C": "Technicians now choose only non-urgent jobs.",
+      "D": "The company stopped accepting emergency calls."
+    },
+    "correct": "B",
+    "explanation": "The passage explains how the shared dispatch platform improved emergency service-call assignment by notifying available technicians and reducing response time."
+  },
+  {
+    "id": "RC16-002",
+    "prompt": "Passage 1\nA regional repair company recently updated its process for assigning emergency service calls. Previously, dispatchers contacted technicians by phone one at a time until someone was available. During busy periods, this process could delay the response to urgent jobs.\nThe company now uses a shared dispatch platform. When an emergency call is entered, available technicians receive a notification with the customer location, problem description, and priority level. The first qualified technician who accepts the job is assigned automatically.\nManagers report that the new process has reduced response time for urgent calls. Dispatchers still monitor assignments, but they spend less time making repeated phone calls and more time assisting customers.\n\nWhat problem occurred under the old process?",
+    "choices": {
+      "A": "Dispatchers called every customer twice.",
+      "B": "Technicians were never contacted.",
+      "C": "Response to urgent jobs could be delayed.",
+      "D": "Customers had to repair equipment themselves."
+    },
+    "correct": "C",
+    "explanation": "The old phone-based process could delay responses to urgent jobs, especially during busy periods."
+  },
+  {
+    "id": "RC16-003",
+    "prompt": "Passage 1\nA regional repair company recently updated its process for assigning emergency service calls. Previously, dispatchers contacted technicians by phone one at a time until someone was available. During busy periods, this process could delay the response to urgent jobs.\nThe company now uses a shared dispatch platform. When an emergency call is entered, available technicians receive a notification with the customer location, problem description, and priority level. The first qualified technician who accepts the job is assigned automatically.\nManagers report that the new process has reduced response time for urgent calls. Dispatchers still monitor assignments, but they spend less time making repeated phone calls and more time assisting customers.\n\nWhat information is included in the notification to technicians?",
+    "choices": {
+      "A": "Customer location, problem description, and priority level",
+      "B": "Employee vacation balances",
+      "C": "Warehouse cleaning schedules",
+      "D": "Company advertising costs"
+    },
+    "correct": "A",
+    "explanation": "The notification includes the customer location, problem description, and priority level."
+  },
+  {
+    "id": "RC16-004",
+    "prompt": "Passage 1\nA regional repair company recently updated its process for assigning emergency service calls. Previously, dispatchers contacted technicians by phone one at a time until someone was available. During busy periods, this process could delay the response to urgent jobs.\nThe company now uses a shared dispatch platform. When an emergency call is entered, available technicians receive a notification with the customer location, problem description, and priority level. The first qualified technician who accepts the job is assigned automatically.\nManagers report that the new process has reduced response time for urgent calls. Dispatchers still monitor assignments, but they spend less time making repeated phone calls and more time assisting customers.\n\nHow is a technician assigned under the new system?",
+    "choices": {
+      "A": "The customer selects the technician.",
+      "B": "The first qualified technician who accepts the job is assigned automatically.",
+      "C": "Dispatchers assign jobs only at the end of the week.",
+      "D": "Every technician is sent to the same call."
+    },
+    "correct": "B",
+    "explanation": "The first qualified technician who accepts the job is assigned automatically."
+  },
+  {
+    "id": "RC16-005",
+    "prompt": "Passage 1\nA regional repair company recently updated its process for assigning emergency service calls. Previously, dispatchers contacted technicians by phone one at a time until someone was available. During busy periods, this process could delay the response to urgent jobs.\nThe company now uses a shared dispatch platform. When an emergency call is entered, available technicians receive a notification with the customer location, problem description, and priority level. The first qualified technician who accepts the job is assigned automatically.\nManagers report that the new process has reduced response time for urgent calls. Dispatchers still monitor assignments, but they spend less time making repeated phone calls and more time assisting customers.\n\nThe word “urgent” most nearly means:",
+    "choices": {
+      "A": "Delayed",
+      "B": "Unimportant",
+      "C": "Requiring quick attention",
+      "D": "Already completed"
+    },
+    "correct": "C",
+    "explanation": "In context, “urgent” means needing quick attention."
+  },
+  {
+    "id": "RC16-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning November 6, employees must inspect portable ladders before each use. The inspection should include checking steps, rails, feet, labels, and locking parts. Any ladder that appears damaged should be removed from service and reported to a supervisor.\nThe updated requirement was created after several ladders were found with worn feet or missing safety labels. The purpose is to identify problems before a ladder is used, not after an incident occurs.\nSupervisors will review proper ladder inspection during safety meetings this month.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To announce a new ladder inspection requirement",
+      "B": "To remove all ladders from the workplace",
+      "C": "To explain a new payroll system",
+      "D": "To schedule customer deliveries"
+    },
+    "correct": "A",
+    "explanation": "The notice announces the requirement to inspect portable ladders before each use."
+  },
+  {
+    "id": "RC16-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning November 6, employees must inspect portable ladders before each use. The inspection should include checking steps, rails, feet, labels, and locking parts. Any ladder that appears damaged should be removed from service and reported to a supervisor.\nThe updated requirement was created after several ladders were found with worn feet or missing safety labels. The purpose is to identify problems before a ladder is used, not after an incident occurs.\nSupervisors will review proper ladder inspection during safety meetings this month.\n\nWhen should portable ladders be inspected?",
+    "choices": {
+      "A": "Once every five years",
+      "B": "Before each use",
+      "C": "Only after an accident",
+      "D": "After the building closes"
+    },
+    "correct": "B",
+    "explanation": "The notice states that employees must inspect portable ladders before each use."
+  },
+  {
+    "id": "RC16-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning November 6, employees must inspect portable ladders before each use. The inspection should include checking steps, rails, feet, labels, and locking parts. Any ladder that appears damaged should be removed from service and reported to a supervisor.\nThe updated requirement was created after several ladders were found with worn feet or missing safety labels. The purpose is to identify problems before a ladder is used, not after an incident occurs.\nSupervisors will review proper ladder inspection during safety meetings this month.\n\nWhich ladder part should employees check?",
+    "choices": {
+      "A": "Office drawers",
+      "B": "Customer invoices",
+      "C": "Locking parts",
+      "D": "Parking signs"
+    },
+    "correct": "C",
+    "explanation": "Locking parts are specifically listed as something employees should check during ladder inspection."
+  },
+  {
+    "id": "RC16-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning November 6, employees must inspect portable ladders before each use. The inspection should include checking steps, rails, feet, labels, and locking parts. Any ladder that appears damaged should be removed from service and reported to a supervisor.\nThe updated requirement was created after several ladders were found with worn feet or missing safety labels. The purpose is to identify problems before a ladder is used, not after an incident occurs.\nSupervisors will review proper ladder inspection during safety meetings this month.\n\nWhat should employees do with a ladder that appears damaged?",
+    "choices": {
+      "A": "Continue using it carefully.",
+      "B": "Paint it a different color.",
+      "C": "Store it with customer files.",
+      "D": "Remove it from service and report it to a supervisor."
+    },
+    "correct": "D",
+    "explanation": "A ladder that appears damaged should be removed from service and reported to a supervisor."
+  },
+  {
+    "id": "RC16-010",
+    "prompt": "Passage 3\nMany organizations use meeting agendas to make discussions more organized. An agenda lists the topics to be discussed, the person responsible for each topic, and sometimes the amount of time planned for each section.\nA clear agenda helps participants prepare before a meeting begins. If employees know that a staffing issue, equipment purchase, or safety concern will be discussed, they can bring the correct records or questions. Agendas also help meetings stay focused by reminding participants of the main purpose.\nHowever, an agenda is useful only when it is followed with some discipline. If participants spend too much time on unrelated issues, the meeting may end before important topics are addressed.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Meeting agendas can help organize discussions when they are followed.",
+      "B": "Meetings should never include planned topics.",
+      "C": "Agendas are useful only after meetings are over.",
+      "D": "Employees should avoid preparing for meetings."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that agendas make meetings more organized and useful when participants follow them."
+  },
+  {
+    "id": "RC16-011",
+    "prompt": "Passage 3\nMany organizations use meeting agendas to make discussions more organized. An agenda lists the topics to be discussed, the person responsible for each topic, and sometimes the amount of time planned for each section.\nA clear agenda helps participants prepare before a meeting begins. If employees know that a staffing issue, equipment purchase, or safety concern will be discussed, they can bring the correct records or questions. Agendas also help meetings stay focused by reminding participants of the main purpose.\nHowever, an agenda is useful only when it is followed with some discipline. If participants spend too much time on unrelated issues, the meeting may end before important topics are addressed.\n\nWhat may an agenda include?",
+    "choices": {
+      "A": "Topics, responsible people, and planned time for sections",
+      "B": "Personal shopping lists",
+      "C": "Weather reports from other cities",
+      "D": "Customer home addresses"
+    },
+    "correct": "A",
+    "explanation": "An agenda may include topics, responsible people, and time planned for each section."
+  },
+  {
+    "id": "RC16-012",
+    "prompt": "Passage 3\nMany organizations use meeting agendas to make discussions more organized. An agenda lists the topics to be discussed, the person responsible for each topic, and sometimes the amount of time planned for each section.\nA clear agenda helps participants prepare before a meeting begins. If employees know that a staffing issue, equipment purchase, or safety concern will be discussed, they can bring the correct records or questions. Agendas also help meetings stay focused by reminding participants of the main purpose.\nHowever, an agenda is useful only when it is followed with some discipline. If participants spend too much time on unrelated issues, the meeting may end before important topics are addressed.\n\nHow can an agenda help participants prepare?",
+    "choices": {
+      "A": "It prevents them from bringing records.",
+      "B": "It lets them know what topics will be discussed.",
+      "C": "It removes the need for questions.",
+      "D": "It stops all discussion during the meeting."
+    },
+    "correct": "B",
+    "explanation": "An agenda helps participants prepare by showing what topics will be discussed."
+  },
+  {
+    "id": "RC16-013",
+    "prompt": "Passage 3\nMany organizations use meeting agendas to make discussions more organized. An agenda lists the topics to be discussed, the person responsible for each topic, and sometimes the amount of time planned for each section.\nA clear agenda helps participants prepare before a meeting begins. If employees know that a staffing issue, equipment purchase, or safety concern will be discussed, they can bring the correct records or questions. Agendas also help meetings stay focused by reminding participants of the main purpose.\nHowever, an agenda is useful only when it is followed with some discipline. If participants spend too much time on unrelated issues, the meeting may end before important topics are addressed.\n\nWhat can happen if participants spend too much time on unrelated issues?",
+    "choices": {
+      "A": "Important topics may not be addressed.",
+      "B": "The agenda becomes more useful automatically.",
+      "C": "Meetings always end early with all tasks complete.",
+      "D": "Employees no longer need preparation."
+    },
+    "correct": "A",
+    "explanation": "If participants spend too much time on unrelated issues, important topics may not be addressed."
+  },
+  {
+    "id": "RC16-014",
+    "prompt": "Passage 3\nMany organizations use meeting agendas to make discussions more organized. An agenda lists the topics to be discussed, the person responsible for each topic, and sometimes the amount of time planned for each section.\nA clear agenda helps participants prepare before a meeting begins. If employees know that a staffing issue, equipment purchase, or safety concern will be discussed, they can bring the correct records or questions. Agendas also help meetings stay focused by reminding participants of the main purpose.\nHowever, an agenda is useful only when it is followed with some discipline. If participants spend too much time on unrelated issues, the meeting may end before important topics are addressed.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A meeting agenda is most helpful when it guides the discussion.",
+      "B": "Unrelated topics improve meeting efficiency.",
+      "C": "Participants should ignore the listed topics.",
+      "D": "Agendas make preparation impossible."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the conclusion that an agenda is most useful when it guides the meeting discussion."
+  },
+  {
+    "id": "RC16-015",
+    "prompt": "Passage 4\nBefore barcode scanning became common in grocery stores, cashiers often entered prices manually or used price stickers on individual items. This process could be slow, especially when labels were missing or difficult to read.\nBarcode scanning changed checkout by allowing cashiers to scan a code that identified the item and price in the store system. This made checkout faster and reduced some pricing errors. It also helped stores collect information about sales patterns and inventory movement.\nToday, barcode scanning is used in many industries beyond grocery stores, including shipping, healthcare, libraries, and manufacturing. The basic purpose remains the same: to identify items quickly and accurately.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Barcode scanning improved item identification and checkout efficiency.",
+      "B": "Grocery stores no longer use cashiers.",
+      "C": "Price stickers are always faster than scanning.",
+      "D": "Barcodes are used only in libraries."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on barcode scanning as a technology that improved item identification and checkout speed."
+  },
+  {
+    "id": "RC16-016",
+    "prompt": "Passage 4\nBefore barcode scanning became common in grocery stores, cashiers often entered prices manually or used price stickers on individual items. This process could be slow, especially when labels were missing or difficult to read.\nBarcode scanning changed checkout by allowing cashiers to scan a code that identified the item and price in the store system. This made checkout faster and reduced some pricing errors. It also helped stores collect information about sales patterns and inventory movement.\nToday, barcode scanning is used in many industries beyond grocery stores, including shipping, healthcare, libraries, and manufacturing. The basic purpose remains the same: to identify items quickly and accurately.\n\nWhat was one problem before barcode scanning?",
+    "choices": {
+      "A": "Customers could not buy groceries.",
+      "B": "Labels were sometimes missing or difficult to read.",
+      "C": "Stores had no inventory.",
+      "D": "Cashiers refused to enter prices."
+    },
+    "correct": "B",
+    "explanation": "Before scanning, labels could be missing or difficult to read, slowing checkout."
+  },
+  {
+    "id": "RC16-017",
+    "prompt": "Passage 4\nBefore barcode scanning became common in grocery stores, cashiers often entered prices manually or used price stickers on individual items. This process could be slow, especially when labels were missing or difficult to read.\nBarcode scanning changed checkout by allowing cashiers to scan a code that identified the item and price in the store system. This made checkout faster and reduced some pricing errors. It also helped stores collect information about sales patterns and inventory movement.\nToday, barcode scanning is used in many industries beyond grocery stores, including shipping, healthcare, libraries, and manufacturing. The basic purpose remains the same: to identify items quickly and accurately.\n\nWhat information could stores collect because of barcode scanning?",
+    "choices": {
+      "A": "Employee medical information",
+      "B": "Public weather reports",
+      "C": "Sales patterns and inventory movement",
+      "D": "Customer driving records"
+    },
+    "correct": "C",
+    "explanation": "Barcode scanning helped stores collect information about sales patterns and inventory movement."
+  },
+  {
+    "id": "RC16-018",
+    "prompt": "Passage 4\nBefore barcode scanning became common in grocery stores, cashiers often entered prices manually or used price stickers on individual items. This process could be slow, especially when labels were missing or difficult to read.\nBarcode scanning changed checkout by allowing cashiers to scan a code that identified the item and price in the store system. This made checkout faster and reduced some pricing errors. It also helped stores collect information about sales patterns and inventory movement.\nToday, barcode scanning is used in many industries beyond grocery stores, including shipping, healthcare, libraries, and manufacturing. The basic purpose remains the same: to identify items quickly and accurately.\n\nHow is the passage organized?",
+    "choices": {
+      "A": "It explains an older process, describes a technology change, and gives current uses.",
+      "B": "It provides instructions for designing a grocery store.",
+      "C": "It compares food prices in different countries.",
+      "D": "It argues that item identification is unnecessary."
+    },
+    "correct": "A",
+    "explanation": "The passage starts with the old process, explains the technology change, and then describes current uses in several industries."
+  },
+  {
+    "id": "RC16-019",
+    "prompt": "Passage 5\nA regional transit agency recently updated its bus shelter maintenance program. Previously, shelters were inspected only after riders reported broken glass, damaged benches, or missing schedule signs. This sometimes meant problems remained for several days before repair crews were notified.\nThe new program places shelters on a rotating inspection schedule. Crews check each shelter for damage, cleanliness, lighting problems, and schedule information. Reports are entered into a maintenance system, where supervisors assign repair tasks based on urgency.\nTransit officials say the program has improved the appearance and usability of shelters. Riders have also reported fewer complaints about missing information at stops.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Bus shelters are no longer used by riders.",
+      "B": "A rotating inspection program improved bus shelter maintenance.",
+      "C": "Riders now repair broken shelters themselves.",
+      "D": "Transit agencies stopped posting schedule information."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that rotating inspections improved bus shelter maintenance and reduced complaints."
+  },
+  {
+    "id": "RC16-020",
+    "prompt": "Passage 5\nA regional transit agency recently updated its bus shelter maintenance program. Previously, shelters were inspected only after riders reported broken glass, damaged benches, or missing schedule signs. This sometimes meant problems remained for several days before repair crews were notified.\nThe new program places shelters on a rotating inspection schedule. Crews check each shelter for damage, cleanliness, lighting problems, and schedule information. Reports are entered into a maintenance system, where supervisors assign repair tasks based on urgency.\nTransit officials say the program has improved the appearance and usability of shelters. Riders have also reported fewer complaints about missing information at stops.\n\nHow were shelters inspected before the new program?",
+    "choices": {
+      "A": "Only after riders reported problems",
+      "B": "Every hour during service",
+      "C": "Before each bus arrived",
+      "D": "Only by bus drivers during routes"
+    },
+    "correct": "A",
+    "explanation": "Before the new program, shelters were inspected only after riders reported problems."
+  },
+  {
+    "id": "RC16-021",
+    "prompt": "Passage 5\nA regional transit agency recently updated its bus shelter maintenance program. Previously, shelters were inspected only after riders reported broken glass, damaged benches, or missing schedule signs. This sometimes meant problems remained for several days before repair crews were notified.\nThe new program places shelters on a rotating inspection schedule. Crews check each shelter for damage, cleanliness, lighting problems, and schedule information. Reports are entered into a maintenance system, where supervisors assign repair tasks based on urgency.\nTransit officials say the program has improved the appearance and usability of shelters. Riders have also reported fewer complaints about missing information at stops.\n\nWhat do crews check during shelter inspections?",
+    "choices": {
+      "A": "Damage, cleanliness, lighting problems, and schedule information",
+      "B": "Rider income levels",
+      "C": "Bus engine oil",
+      "D": "Driver vacation schedules"
+    },
+    "correct": "A",
+    "explanation": "Crews check for damage, cleanliness, lighting problems, and schedule information."
+  },
+  {
+    "id": "RC16-022",
+    "prompt": "Passage 5\nA regional transit agency recently updated its bus shelter maintenance program. Previously, shelters were inspected only after riders reported broken glass, damaged benches, or missing schedule signs. This sometimes meant problems remained for several days before repair crews were notified.\nThe new program places shelters on a rotating inspection schedule. Crews check each shelter for damage, cleanliness, lighting problems, and schedule information. Reports are entered into a maintenance system, where supervisors assign repair tasks based on urgency.\nTransit officials say the program has improved the appearance and usability of shelters. Riders have also reported fewer complaints about missing information at stops.\n\nHow are repair tasks assigned?",
+    "choices": {
+      "A": "Based on urgency",
+      "B": "Based on rider age",
+      "C": "Based on the color of the bus",
+      "D": "Based on ticket prices"
+    },
+    "correct": "A",
+    "explanation": "Supervisors assign repair tasks based on urgency."
+  },
+  {
+    "id": "RC16-023",
+    "prompt": "Passage 5\nA regional transit agency recently updated its bus shelter maintenance program. Previously, shelters were inspected only after riders reported broken glass, damaged benches, or missing schedule signs. This sometimes meant problems remained for several days before repair crews were notified.\nThe new program places shelters on a rotating inspection schedule. Crews check each shelter for damage, cleanliness, lighting problems, and schedule information. Reports are entered into a maintenance system, where supervisors assign repair tasks based on urgency.\nTransit officials say the program has improved the appearance and usability of shelters. Riders have also reported fewer complaints about missing information at stops.\n\nThe word “usability” most nearly means:",
+    "choices": {
+      "A": "Ability to be used effectively",
+      "B": "Cost of construction",
+      "C": "Number of employees",
+      "D": "Distance between shelters"
+    },
+    "correct": "A",
+    "explanation": "In context, “usability” means how effectively the shelters can be used by riders."
+  },
+  {
+    "id": "RC16-024",
+    "prompt": "Passage 6\nMany workplaces use lockout procedures when equipment must be serviced or repaired. These procedures are intended to prevent equipment from starting unexpectedly while someone is working on it.\nA lockout procedure may require employees to shut down the equipment, disconnect power sources, apply locks or tags, and verify that the equipment cannot operate. Workers must follow the required steps before beginning maintenance.\nTraining is important because skipping a step can create serious hazards. Employees also need to understand who is authorized to apply or remove locks and what to do if a lockout problem occurs.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Lockout procedures help protect workers during equipment service or repair.",
+      "B": "Equipment should be repaired while running.",
+      "C": "Locks are used only to protect office doors.",
+      "D": "Training is unnecessary for maintenance work."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that lockout procedures protect workers by preventing equipment from starting unexpectedly during service."
+  },
+  {
+    "id": "RC16-025",
+    "prompt": "Passage 6\nMany workplaces use lockout procedures when equipment must be serviced or repaired. These procedures are intended to prevent equipment from starting unexpectedly while someone is working on it.\nA lockout procedure may require employees to shut down the equipment, disconnect power sources, apply locks or tags, and verify that the equipment cannot operate. Workers must follow the required steps before beginning maintenance.\nTraining is important because skipping a step can create serious hazards. Employees also need to understand who is authorized to apply or remove locks and what to do if a lockout problem occurs.\n\nWhat is the purpose of lockout procedures?",
+    "choices": {
+      "A": "To prevent equipment from starting unexpectedly during service",
+      "B": "To increase production speed during repairs",
+      "C": "To allow customers to operate equipment",
+      "D": "To remove all maintenance records"
+    },
+    "correct": "A",
+    "explanation": "The purpose is to prevent equipment from starting unexpectedly while someone is working on it."
+  },
+  {
+    "id": "RC16-026",
+    "prompt": "Passage 6\nMany workplaces use lockout procedures when equipment must be serviced or repaired. These procedures are intended to prevent equipment from starting unexpectedly while someone is working on it.\nA lockout procedure may require employees to shut down the equipment, disconnect power sources, apply locks or tags, and verify that the equipment cannot operate. Workers must follow the required steps before beginning maintenance.\nTraining is important because skipping a step can create serious hazards. Employees also need to understand who is authorized to apply or remove locks and what to do if a lockout problem occurs.\n\nWhich step may be part of a lockout procedure?",
+    "choices": {
+      "A": "Applying locks or tags",
+      "B": "Sending customer invoices",
+      "C": "Cleaning breakroom tables",
+      "D": "Printing advertising flyers"
+    },
+    "correct": "A",
+    "explanation": "Applying locks or tags is specifically mentioned as a possible step in lockout procedures."
+  },
+  {
+    "id": "RC16-027",
+    "prompt": "Passage 6\nMany workplaces use lockout procedures when equipment must be serviced or repaired. These procedures are intended to prevent equipment from starting unexpectedly while someone is working on it.\nA lockout procedure may require employees to shut down the equipment, disconnect power sources, apply locks or tags, and verify that the equipment cannot operate. Workers must follow the required steps before beginning maintenance.\nTraining is important because skipping a step can create serious hazards. Employees also need to understand who is authorized to apply or remove locks and what to do if a lockout problem occurs.\n\nWhy is training important for lockout procedures?",
+    "choices": {
+      "A": "Skipping a step can create serious hazards.",
+      "B": "Training allows employees to ignore procedures.",
+      "C": "Locks work better when no one understands them.",
+      "D": "Equipment becomes safer when workers guess."
+    },
+    "correct": "A",
+    "explanation": "Training is important because skipping a step can create serious hazards."
+  },
+  {
+    "id": "RC16-028",
+    "prompt": "Passage 6\nMany workplaces use lockout procedures when equipment must be serviced or repaired. These procedures are intended to prevent equipment from starting unexpectedly while someone is working on it.\nA lockout procedure may require employees to shut down the equipment, disconnect power sources, apply locks or tags, and verify that the equipment cannot operate. Workers must follow the required steps before beginning maintenance.\nTraining is important because skipping a step can create serious hazards. Employees also need to understand who is authorized to apply or remove locks and what to do if a lockout problem occurs.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Lockout procedures require careful step-by-step compliance.",
+      "B": "Any employee can remove any lock at any time.",
+      "C": "Equipment cannot start unexpectedly.",
+      "D": "Tags are unrelated to repair safety."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that lockout requires careful completion of required steps before maintenance begins."
+  },
+  {
+    "id": "RC16-029",
+    "prompt": "Passage 7\nMany public parks use trail markers to help visitors navigate safely. Markers may show trail names, distances, difficulty levels, directions, or warnings about closed sections.\nTrail markers are especially useful when paths cross or when visitors are unfamiliar with the area. Clear markers can reduce wrong turns and help visitors estimate how much time or effort a route may require. In larger parks, markers may also assist emergency responders in locating someone who needs help.\nPark staff must maintain markers because signs can fade, fall, or become blocked by vegetation. A missing or unreadable marker can create confusion, especially near intersections.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Trail markers help park visitors navigate and must be maintained.",
+      "B": "Public parks should remove all signs.",
+      "C": "Visitors should avoid unfamiliar trails.",
+      "D": "Trail difficulty levels are never useful."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that trail markers guide visitors and must be maintained so they remain clear and useful."
+  },
+  {
+    "id": "RC16-030",
+    "prompt": "Passage 7\nMany public parks use trail markers to help visitors navigate safely. Markers may show trail names, distances, difficulty levels, directions, or warnings about closed sections.\nTrail markers are especially useful when paths cross or when visitors are unfamiliar with the area. Clear markers can reduce wrong turns and help visitors estimate how much time or effort a route may require. In larger parks, markers may also assist emergency responders in locating someone who needs help.\nPark staff must maintain markers because signs can fade, fall, or become blocked by vegetation. A missing or unreadable marker can create confusion, especially near intersections.\n\nWhat information may trail markers show?",
+    "choices": {
+      "A": "Trail names, distances, difficulty levels, or directions",
+      "B": "Employee payroll totals",
+      "C": "Store inventory numbers",
+      "D": "Private medical instructions"
+    },
+    "correct": "A",
+    "explanation": "Trail markers may show trail names, distances, difficulty levels, directions, or warnings."
+  },
+  {
+    "id": "RC16-031",
+    "prompt": "Passage 7\nMany public parks use trail markers to help visitors navigate safely. Markers may show trail names, distances, difficulty levels, directions, or warnings about closed sections.\nTrail markers are especially useful when paths cross or when visitors are unfamiliar with the area. Clear markers can reduce wrong turns and help visitors estimate how much time or effort a route may require. In larger parks, markers may also assist emergency responders in locating someone who needs help.\nPark staff must maintain markers because signs can fade, fall, or become blocked by vegetation. A missing or unreadable marker can create confusion, especially near intersections.\n\nWhy are markers useful where paths cross?",
+    "choices": {
+      "A": "Visitors may need help choosing the correct direction.",
+      "B": "Paths cannot be used near intersections.",
+      "C": "Park staff remove signs at crossings.",
+      "D": "Visitors always know every route."
+    },
+    "correct": "A",
+    "explanation": "Markers help at crossings because visitors may be unfamiliar with the area and need help choosing the correct path."
+  },
+  {
+    "id": "RC16-032",
+    "prompt": "Passage 7\nMany public parks use trail markers to help visitors navigate safely. Markers may show trail names, distances, difficulty levels, directions, or warnings about closed sections.\nTrail markers are especially useful when paths cross or when visitors are unfamiliar with the area. Clear markers can reduce wrong turns and help visitors estimate how much time or effort a route may require. In larger parks, markers may also assist emergency responders in locating someone who needs help.\nPark staff must maintain markers because signs can fade, fall, or become blocked by vegetation. A missing or unreadable marker can create confusion, especially near intersections.\n\nWhat can make a marker less useful?",
+    "choices": {
+      "A": "Fading, falling, or being blocked by vegetation",
+      "B": "Showing the trail name",
+      "C": "Giving distance information",
+      "D": "Helping emergency responders"
+    },
+    "correct": "A",
+    "explanation": "A marker can become less useful if it fades, falls, or is blocked by vegetation."
+  },
+  {
+    "id": "RC16-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short “error review” sessions after practice quizzes. Instead of simply marking answers right or wrong, instructors ask students to identify why an incorrect answer was chosen.\nStudents may discover that they misread the question, skipped a key word, rushed through arithmetic, or chose an answer that seemed familiar but did not match the passage. The goal is to help students recognize patterns in their mistakes.\nInstructors explain that error review is not meant to embarrass students. It is a way to turn mistakes into useful study information. Several students have reported that reviewing errors helps them avoid repeating the same mistake on later quizzes.\n\nWhy did the class add error review sessions?",
+    "choices": {
+      "A": "To help students understand why they chose incorrect answers",
+      "B": "To remove practice quizzes from the course",
+      "C": "To make students avoid reviewing mistakes",
+      "D": "To replace all instruction with grading"
+    },
+    "correct": "A",
+    "explanation": "The class added error review so students can understand why they chose incorrect answers."
+  },
+  {
+    "id": "RC16-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short “error review” sessions after practice quizzes. Instead of simply marking answers right or wrong, instructors ask students to identify why an incorrect answer was chosen.\nStudents may discover that they misread the question, skipped a key word, rushed through arithmetic, or chose an answer that seemed familiar but did not match the passage. The goal is to help students recognize patterns in their mistakes.\nInstructors explain that error review is not meant to embarrass students. It is a way to turn mistakes into useful study information. Several students have reported that reviewing errors helps them avoid repeating the same mistake on later quizzes.\n\nWhat might students discover during error review?",
+    "choices": {
+      "A": "That they misread the question or skipped a key word",
+      "B": "That mistakes never follow patterns",
+      "C": "That all familiar answers are correct",
+      "D": "That arithmetic is unrelated to quizzes"
+    },
+    "correct": "A",
+    "explanation": "Students may discover errors such as misreading a question or skipping a key word."
+  },
+  {
+    "id": "RC16-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short “error review” sessions after practice quizzes. Instead of simply marking answers right or wrong, instructors ask students to identify why an incorrect answer was chosen.\nStudents may discover that they misread the question, skipped a key word, rushed through arithmetic, or chose an answer that seemed familiar but did not match the passage. The goal is to help students recognize patterns in their mistakes.\nInstructors explain that error review is not meant to embarrass students. It is a way to turn mistakes into useful study information. Several students have reported that reviewing errors helps them avoid repeating the same mistake on later quizzes.\n\nWhat is the goal of error review?",
+    "choices": {
+      "A": "To embarrass students",
+      "B": "To help students recognize patterns in their mistakes",
+      "C": "To make quizzes longer without purpose",
+      "D": "To prevent students from studying"
+    },
+    "correct": "B",
+    "explanation": "The goal is to help students recognize patterns in their mistakes."
+  },
+  {
+    "id": "RC16-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation class recently added short “error review” sessions after practice quizzes. Instead of simply marking answers right or wrong, instructors ask students to identify why an incorrect answer was chosen.\nStudents may discover that they misread the question, skipped a key word, rushed through arithmetic, or chose an answer that seemed familiar but did not match the passage. The goal is to help students recognize patterns in their mistakes.\nInstructors explain that error review is not meant to embarrass students. It is a way to turn mistakes into useful study information. Several students have reported that reviewing errors helps them avoid repeating the same mistake on later quizzes.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Reviewing mistakes can help students avoid repeating them.",
+      "B": "Students should ignore incorrect answers.",
+      "C": "Error review makes learning less useful.",
+      "D": "Practice quizzes should never be discussed."
+    },
+    "correct": "A",
+    "explanation": "The passage states that several students reported avoiding repeated mistakes after reviewing errors."
+  }
+]

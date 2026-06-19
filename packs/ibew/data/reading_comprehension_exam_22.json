@@ -1,0 +1,434 @@
+[
+  {
+    "id": "RC22-001",
+    "prompt": "Passage 1\nA regional maintenance company recently changed how it handles requests for replacement keys. Previously, employees filled out a paper form and left it in a box near the facilities office. If a request was missing a room number or approval signature, staff had to contact the employee before making the key.\nThe company now uses an online key request system. Employees must enter the room number, reason for the request, supervisor approval, and whether the key is a new issue or a replacement. The system does not allow the request to be submitted until all required fields are complete.\nFacilities staff report that the new process has reduced delays and made it easier to track who requested each key. Managers also say the system provides a clearer record if a key is lost or returned later.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Employees no longer need keys for rooms.",
+      "B": "An online key request system made key requests easier to track and process.",
+      "C": "Facilities staff stopped approving requests.",
+      "D": "Paper forms were faster than the new system."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that the online system reduced delays, required complete information, and made key requests easier to track."
+  },
+  {
+    "id": "RC22-002",
+    "prompt": "Passage 1\nA regional maintenance company recently changed how it handles requests for replacement keys. Previously, employees filled out a paper form and left it in a box near the facilities office. If a request was missing a room number or approval signature, staff had to contact the employee before making the key.\nThe company now uses an online key request system. Employees must enter the room number, reason for the request, supervisor approval, and whether the key is a new issue or a replacement. The system does not allow the request to be submitted until all required fields are complete.\nFacilities staff report that the new process has reduced delays and made it easier to track who requested each key. Managers also say the system provides a clearer record if a key is lost or returned later.\n\nWhat problem occurred with the old paper process?",
+    "choices": {
+      "A": "Employees could submit requests without any room number or approval signature.",
+      "B": "Some requests were missing information, causing staff to contact employees.",
+      "C": "Facilities staff made keys before receiving requests.",
+      "D": "Managers refused to keep records of keys."
+    },
+    "correct": "B",
+    "explanation": "The old process caused delays when paper forms were missing a room number or approval signature."
+  },
+  {
+    "id": "RC22-003",
+    "prompt": "Passage 1\nA regional maintenance company recently changed how it handles requests for replacement keys. Previously, employees filled out a paper form and left it in a box near the facilities office. If a request was missing a room number or approval signature, staff had to contact the employee before making the key.\nThe company now uses an online key request system. Employees must enter the room number, reason for the request, supervisor approval, and whether the key is a new issue or a replacement. The system does not allow the request to be submitted until all required fields are complete.\nFacilities staff report that the new process has reduced delays and made it easier to track who requested each key. Managers also say the system provides a clearer record if a key is lost or returned later.\n\nWhat does the online system require before a request can be submitted?",
+    "choices": {
+      "A": "A customer invoice number",
+      "B": "All required fields to be complete",
+      "C": "A printed copy of every email",
+      "D": "A weekly maintenance report"
+    },
+    "correct": "B",
+    "explanation": "The system does not allow submission until all required fields are complete."
+  },
+  {
+    "id": "RC22-004",
+    "prompt": "Passage 1\nA regional maintenance company recently changed how it handles requests for replacement keys. Previously, employees filled out a paper form and left it in a box near the facilities office. If a request was missing a room number or approval signature, staff had to contact the employee before making the key.\nThe company now uses an online key request system. Employees must enter the room number, reason for the request, supervisor approval, and whether the key is a new issue or a replacement. The system does not allow the request to be submitted until all required fields are complete.\nFacilities staff report that the new process has reduced delays and made it easier to track who requested each key. Managers also say the system provides a clearer record if a key is lost or returned later.\n\nWhat is one benefit of the new system?",
+    "choices": {
+      "A": "It makes keys unnecessary.",
+      "B": "It prevents supervisors from reviewing requests.",
+      "C": "It creates a clearer record if a key is lost or returned.",
+      "D": "It removes the need for room numbers."
+    },
+    "correct": "C",
+    "explanation": "Managers say the system provides a clearer record if a key is lost or returned later."
+  },
+  {
+    "id": "RC22-005",
+    "prompt": "Passage 1\nA regional maintenance company recently changed how it handles requests for replacement keys. Previously, employees filled out a paper form and left it in a box near the facilities office. If a request was missing a room number or approval signature, staff had to contact the employee before making the key.\nThe company now uses an online key request system. Employees must enter the room number, reason for the request, supervisor approval, and whether the key is a new issue or a replacement. The system does not allow the request to be submitted until all required fields are complete.\nFacilities staff report that the new process has reduced delays and made it easier to track who requested each key. Managers also say the system provides a clearer record if a key is lost or returned later.\n\nThe word “submitted” most nearly means:",
+    "choices": {
+      "A": "Sent in for review or processing",
+      "B": "Locked in a room",
+      "C": "Thrown away",
+      "D": "Repaired"
+    },
+    "correct": "A",
+    "explanation": "In context, “submitted” means sent in through the online system for review or processing."
+  },
+  {
+    "id": "RC22-006",
+    "prompt": "Passage 2\nNOTICE\nBeginning June 2, employees must report empty first-aid supply boxes to the safety coordinator before the end of their shift. Employees should not move supplies from one box to another unless instructed to do so.\nThis procedure was created after several first-aid boxes were found with missing bandages, gloves, or antiseptic wipes. In some cases, employees assumed another department had already reported the shortage, so the box was not refilled promptly.\nThe goal is to keep first-aid supplies available in all assigned locations. The safety coordinator will check reported boxes each morning and restock items as needed.\n\nWhat is the purpose of the notice?",
+    "choices": {
+      "A": "To remove all first-aid boxes from the workplace",
+      "B": "To explain a procedure for reporting empty first-aid supplies",
+      "C": "To announce a new employee attendance policy",
+      "D": "To require employees to buy their own supplies"
+    },
+    "correct": "B",
+    "explanation": "The notice explains how employees should report empty first-aid supply boxes so they can be restocked."
+  },
+  {
+    "id": "RC22-007",
+    "prompt": "Passage 2\nNOTICE\nBeginning June 2, employees must report empty first-aid supply boxes to the safety coordinator before the end of their shift. Employees should not move supplies from one box to another unless instructed to do so.\nThis procedure was created after several first-aid boxes were found with missing bandages, gloves, or antiseptic wipes. In some cases, employees assumed another department had already reported the shortage, so the box was not refilled promptly.\nThe goal is to keep first-aid supplies available in all assigned locations. The safety coordinator will check reported boxes each morning and restock items as needed.\n\nWhen should employees report empty first-aid supply boxes?",
+    "choices": {
+      "A": "Before the end of their shift",
+      "B": "Only once per year",
+      "C": "After the safety coordinator asks twice",
+      "D": "When the building closes for the weekend"
+    },
+    "correct": "A",
+    "explanation": "Employees must report empty boxes before the end of their shift."
+  },
+  {
+    "id": "RC22-008",
+    "prompt": "Passage 2\nNOTICE\nBeginning June 2, employees must report empty first-aid supply boxes to the safety coordinator before the end of their shift. Employees should not move supplies from one box to another unless instructed to do so.\nThis procedure was created after several first-aid boxes were found with missing bandages, gloves, or antiseptic wipes. In some cases, employees assumed another department had already reported the shortage, so the box was not refilled promptly.\nThe goal is to keep first-aid supplies available in all assigned locations. The safety coordinator will check reported boxes each morning and restock items as needed.\n\nWhat should employees avoid unless instructed?",
+    "choices": {
+      "A": "Reporting missing supplies",
+      "B": "Checking first-aid boxes",
+      "C": "Moving supplies from one box to another",
+      "D": "Speaking to the safety coordinator"
+    },
+    "correct": "C",
+    "explanation": "The notice says employees should not move supplies from one box to another unless instructed."
+  },
+  {
+    "id": "RC22-009",
+    "prompt": "Passage 2\nNOTICE\nBeginning June 2, employees must report empty first-aid supply boxes to the safety coordinator before the end of their shift. Employees should not move supplies from one box to another unless instructed to do so.\nThis procedure was created after several first-aid boxes were found with missing bandages, gloves, or antiseptic wipes. In some cases, employees assumed another department had already reported the shortage, so the box was not refilled promptly.\nThe goal is to keep first-aid supplies available in all assigned locations. The safety coordinator will check reported boxes each morning and restock items as needed.\n\nWhy were some boxes not refilled promptly?",
+    "choices": {
+      "A": "Employees assumed another department had already reported the shortage.",
+      "B": "First-aid supplies were no longer needed.",
+      "C": "The safety coordinator refused to restock items.",
+      "D": "Supplies were stored only in customer areas."
+    },
+    "correct": "A",
+    "explanation": "Some boxes were not refilled because employees assumed another department had already reported the shortage."
+  },
+  {
+    "id": "RC22-010",
+    "prompt": "Passage 3\nMany companies use daily production summaries to review what happened during a shift. A summary may include the number of units completed, equipment downtime, staffing issues, material shortages, and safety concerns.\nDaily summaries help managers compare planned work with actual results. If a team completed fewer units than expected, the summary may explain whether the cause was a machine problem, missing material, or reduced staffing. This prevents managers from guessing based only on the final number.\nThe summaries are most useful when they are completed soon after the shift ends. Waiting several days can make details harder to remember, especially if employees have worked multiple shifts since then.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Daily production summaries help explain shift results when completed promptly.",
+      "B": "Managers should judge work only by final numbers.",
+      "C": "Production summaries should be written several weeks later.",
+      "D": "Staffing issues are unrelated to production results."
+    },
+    "correct": "A",
+    "explanation": "The passage focuses on how daily summaries explain shift results and are most useful when completed soon after the shift ends."
+  },
+  {
+    "id": "RC22-011",
+    "prompt": "Passage 3\nMany companies use daily production summaries to review what happened during a shift. A summary may include the number of units completed, equipment downtime, staffing issues, material shortages, and safety concerns.\nDaily summaries help managers compare planned work with actual results. If a team completed fewer units than expected, the summary may explain whether the cause was a machine problem, missing material, or reduced staffing. This prevents managers from guessing based only on the final number.\nThe summaries are most useful when they are completed soon after the shift ends. Waiting several days can make details harder to remember, especially if employees have worked multiple shifts since then.\n\nWhich item may be included in a daily production summary?",
+    "choices": {
+      "A": "Employee home addresses",
+      "B": "Equipment downtime",
+      "C": "Customer entertainment choices",
+      "D": "Public park schedules"
+    },
+    "correct": "B",
+    "explanation": "Equipment downtime is specifically listed as information that may appear in a daily production summary."
+  },
+  {
+    "id": "RC22-012",
+    "prompt": "Passage 3\nMany companies use daily production summaries to review what happened during a shift. A summary may include the number of units completed, equipment downtime, staffing issues, material shortages, and safety concerns.\nDaily summaries help managers compare planned work with actual results. If a team completed fewer units than expected, the summary may explain whether the cause was a machine problem, missing material, or reduced staffing. This prevents managers from guessing based only on the final number.\nThe summaries are most useful when they are completed soon after the shift ends. Waiting several days can make details harder to remember, especially if employees have worked multiple shifts since then.\n\nHow can a daily summary help if fewer units are completed than expected?",
+    "choices": {
+      "A": "It can explain possible causes such as machine problems or material shortages.",
+      "B": "It can make the final number disappear.",
+      "C": "It can prevent all future equipment problems.",
+      "D": "It can replace all production planning."
+    },
+    "correct": "A",
+    "explanation": "A summary may explain whether lower output was caused by machine problems, missing materials, or staffing issues."
+  },
+  {
+    "id": "RC22-013",
+    "prompt": "Passage 3\nMany companies use daily production summaries to review what happened during a shift. A summary may include the number of units completed, equipment downtime, staffing issues, material shortages, and safety concerns.\nDaily summaries help managers compare planned work with actual results. If a team completed fewer units than expected, the summary may explain whether the cause was a machine problem, missing material, or reduced staffing. This prevents managers from guessing based only on the final number.\nThe summaries are most useful when they are completed soon after the shift ends. Waiting several days can make details harder to remember, especially if employees have worked multiple shifts since then.\n\nWhy should summaries be completed soon after the shift ends?",
+    "choices": {
+      "A": "Details may become harder to remember later.",
+      "B": "Managers do not need accurate information.",
+      "C": "Employees should avoid writing after work.",
+      "D": "Production numbers change automatically after several days."
+    },
+    "correct": "A",
+    "explanation": "Waiting several days can make details harder to remember."
+  },
+  {
+    "id": "RC22-014",
+    "prompt": "Passage 3\nMany companies use daily production summaries to review what happened during a shift. A summary may include the number of units completed, equipment downtime, staffing issues, material shortages, and safety concerns.\nDaily summaries help managers compare planned work with actual results. If a team completed fewer units than expected, the summary may explain whether the cause was a machine problem, missing material, or reduced staffing. This prevents managers from guessing based only on the final number.\nThe summaries are most useful when they are completed soon after the shift ends. Waiting several days can make details harder to remember, especially if employees have worked multiple shifts since then.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "A production summary is useful because it gives context behind the numbers.",
+      "B": "Final production totals always explain everything.",
+      "C": "Summaries are most accurate when written long after the shift.",
+      "D": "Material shortages should not be recorded."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that summaries give context behind final production numbers."
+  },
+  {
+    "id": "RC22-015",
+    "prompt": "Passage 4\nBefore modern public address systems were common in large buildings, announcements often had to be delivered in person, by telephone, or through posted notices. This made it difficult to reach many people quickly, especially in factories, schools, transportation centers, and public facilities.\nPublic address systems made it possible to share information with large groups at once. A building manager could announce a schedule change, emergency instruction, or general reminder over speakers. This helped reduce delays when information needed to reach many people in different areas.\nPublic address systems still require clear procedures. Announcements should be easy to understand, and employees need to know who is authorized to use the system. Poorly worded or unnecessary announcements can create confusion instead of helping.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Public address systems made group communication faster but require clear procedures.",
+      "B": "Posted notices are always faster than speaker announcements.",
+      "C": "Public address systems are used only outdoors.",
+      "D": "Announcements should never be used in large buildings."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that public address systems helped reach large groups quickly but require clear rules and wording."
+  },
+  {
+    "id": "RC22-016",
+    "prompt": "Passage 4\nBefore modern public address systems were common in large buildings, announcements often had to be delivered in person, by telephone, or through posted notices. This made it difficult to reach many people quickly, especially in factories, schools, transportation centers, and public facilities.\nPublic address systems made it possible to share information with large groups at once. A building manager could announce a schedule change, emergency instruction, or general reminder over speakers. This helped reduce delays when information needed to reach many people in different areas.\nPublic address systems still require clear procedures. Announcements should be easy to understand, and employees need to know who is authorized to use the system. Poorly worded or unnecessary announcements can create confusion instead of helping.\n\nWhy was it difficult to reach many people before public address systems?",
+    "choices": {
+      "A": "Announcements had to be delivered in person, by telephone, or through posted notices.",
+      "B": "Buildings had no employees.",
+      "C": "People refused to listen to any information.",
+      "D": "Transportation centers did not need communication."
+    },
+    "correct": "A",
+    "explanation": "Before public address systems, announcements often had to be delivered in person, by phone, or through posted notices."
+  },
+  {
+    "id": "RC22-017",
+    "prompt": "Passage 4\nBefore modern public address systems were common in large buildings, announcements often had to be delivered in person, by telephone, or through posted notices. This made it difficult to reach many people quickly, especially in factories, schools, transportation centers, and public facilities.\nPublic address systems made it possible to share information with large groups at once. A building manager could announce a schedule change, emergency instruction, or general reminder over speakers. This helped reduce delays when information needed to reach many people in different areas.\nPublic address systems still require clear procedures. Announcements should be easy to understand, and employees need to know who is authorized to use the system. Poorly worded or unnecessary announcements can create confusion instead of helping.\n\nWhat could a building manager announce over a public address system?",
+    "choices": {
+      "A": "A schedule change or emergency instruction",
+      "B": "A private bank password",
+      "C": "A customer’s medical record",
+      "D": "A personal shopping list"
+    },
+    "correct": "A",
+    "explanation": "The passage gives schedule changes and emergency instructions as examples of announcements."
+  },
+  {
+    "id": "RC22-018",
+    "prompt": "Passage 4\nBefore modern public address systems were common in large buildings, announcements often had to be delivered in person, by telephone, or through posted notices. This made it difficult to reach many people quickly, especially in factories, schools, transportation centers, and public facilities.\nPublic address systems made it possible to share information with large groups at once. A building manager could announce a schedule change, emergency instruction, or general reminder over speakers. This helped reduce delays when information needed to reach many people in different areas.\nPublic address systems still require clear procedures. Announcements should be easy to understand, and employees need to know who is authorized to use the system. Poorly worded or unnecessary announcements can create confusion instead of helping.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "Public address systems help only when announcements are clear and properly controlled.",
+      "B": "Public address systems eliminate the need for all procedures.",
+      "C": "Poorly worded announcements always improve communication.",
+      "D": "Unauthorized use of the system is encouraged."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that public address systems help only when announcements are clear and controlled."
+  },
+  {
+    "id": "RC22-019",
+    "prompt": "Passage 5\nA regional repair shop recently added a parts-review step before technicians begin major repairs. Previously, a technician might begin disassembly and then discover that a required part was not in stock. This sometimes left equipment sitting open while the shop waited for the part to arrive.\nUnder the new process, technicians review the repair estimate and confirm that required parts are available before beginning work. If a part is missing, office staff contact the customer with an updated timeline before the repair starts.\nManagers say the review step has reduced delays once repairs are underway. It also helps customers understand when a repair may take longer than first expected.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "The repair shop stopped performing major repairs.",
+      "B": "A parts-review step helps reduce repair delays and improve customer communication.",
+      "C": "Customers now disassemble equipment themselves.",
+      "D": "Technicians no longer use repair estimates."
+    },
+    "correct": "B",
+    "explanation": "The passage explains that reviewing parts before major repairs reduces delays and helps customers understand timelines."
+  },
+  {
+    "id": "RC22-020",
+    "prompt": "Passage 5\nA regional repair shop recently added a parts-review step before technicians begin major repairs. Previously, a technician might begin disassembly and then discover that a required part was not in stock. This sometimes left equipment sitting open while the shop waited for the part to arrive.\nUnder the new process, technicians review the repair estimate and confirm that required parts are available before beginning work. If a part is missing, office staff contact the customer with an updated timeline before the repair starts.\nManagers say the review step has reduced delays once repairs are underway. It also helps customers understand when a repair may take longer than first expected.\n\nWhat problem happened under the old process?",
+    "choices": {
+      "A": "Technicians sometimes found out after disassembly that a required part was not in stock.",
+      "B": "Office staff contacted customers too early.",
+      "C": "All parts were available before every repair.",
+      "D": "Customers refused repair timelines."
+    },
+    "correct": "A",
+    "explanation": "Previously, technicians might begin disassembly and then discover that a required part was not available."
+  },
+  {
+    "id": "RC22-021",
+    "prompt": "Passage 5\nA regional repair shop recently added a parts-review step before technicians begin major repairs. Previously, a technician might begin disassembly and then discover that a required part was not in stock. This sometimes left equipment sitting open while the shop waited for the part to arrive.\nUnder the new process, technicians review the repair estimate and confirm that required parts are available before beginning work. If a part is missing, office staff contact the customer with an updated timeline before the repair starts.\nManagers say the review step has reduced delays once repairs are underway. It also helps customers understand when a repair may take longer than first expected.\n\nWhat do technicians confirm before beginning work?",
+    "choices": {
+      "A": "That required parts are available",
+      "B": "That customers have left the building",
+      "C": "That the equipment is already repaired",
+      "D": "That office staff have cancelled the estimate"
+    },
+    "correct": "A",
+    "explanation": "Technicians confirm that required parts are available before beginning work."
+  },
+  {
+    "id": "RC22-022",
+    "prompt": "Passage 5\nA regional repair shop recently added a parts-review step before technicians begin major repairs. Previously, a technician might begin disassembly and then discover that a required part was not in stock. This sometimes left equipment sitting open while the shop waited for the part to arrive.\nUnder the new process, technicians review the repair estimate and confirm that required parts are available before beginning work. If a part is missing, office staff contact the customer with an updated timeline before the repair starts.\nManagers say the review step has reduced delays once repairs are underway. It also helps customers understand when a repair may take longer than first expected.\n\nWhat happens if a required part is missing?",
+    "choices": {
+      "A": "The repair begins immediately anyway.",
+      "B": "Office staff contact the customer with an updated timeline.",
+      "C": "The technician closes the shop.",
+      "D": "The customer must locate the part without help."
+    },
+    "correct": "B",
+    "explanation": "If a part is missing, office staff contact the customer with an updated timeline before work starts."
+  },
+  {
+    "id": "RC22-023",
+    "prompt": "Passage 5\nA regional repair shop recently added a parts-review step before technicians begin major repairs. Previously, a technician might begin disassembly and then discover that a required part was not in stock. This sometimes left equipment sitting open while the shop waited for the part to arrive.\nUnder the new process, technicians review the repair estimate and confirm that required parts are available before beginning work. If a part is missing, office staff contact the customer with an updated timeline before the repair starts.\nManagers say the review step has reduced delays once repairs are underway. It also helps customers understand when a repair may take longer than first expected.\n\nThe word “underway” most nearly means:",
+    "choices": {
+      "A": "In progress",
+      "B": "Forgotten",
+      "C": "Fully cancelled",
+      "D": "Unrelated"
+    },
+    "correct": "A",
+    "explanation": "In context, “underway” means already in progress."
+  },
+  {
+    "id": "RC22-024",
+    "prompt": "Passage 6\nMany workplaces use visitor orientation cards to give short safety instructions to people who are not regular employees. These cards may explain where visitors should check in, which areas are restricted, what personal protective equipment is required, and what to do during an emergency.\nVisitor orientation cards are useful because visitors may not know the building layout or workplace hazards. A delivery driver, contractor, or customer may be on site for only a short time but still needs basic safety information.\nThe cards work best when they are brief and easy to read. If a visitor receives several pages of detailed instructions, important points may be missed. A short card with clear directions can be reviewed quickly before the visitor enters the work area.\n\nWhat is the main idea of the passage?",
+    "choices": {
+      "A": "Visitor orientation cards give important safety information in a brief form.",
+      "B": "Visitors should enter restricted areas without instructions.",
+      "C": "Safety information is unnecessary for short visits.",
+      "D": "Orientation cards should always be long and complex."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that visitor orientation cards provide brief safety information for people who are not regular employees."
+  },
+  {
+    "id": "RC22-025",
+    "prompt": "Passage 6\nMany workplaces use visitor orientation cards to give short safety instructions to people who are not regular employees. These cards may explain where visitors should check in, which areas are restricted, what personal protective equipment is required, and what to do during an emergency.\nVisitor orientation cards are useful because visitors may not know the building layout or workplace hazards. A delivery driver, contractor, or customer may be on site for only a short time but still needs basic safety information.\nThe cards work best when they are brief and easy to read. If a visitor receives several pages of detailed instructions, important points may be missed. A short card with clear directions can be reviewed quickly before the visitor enters the work area.\n\nWhat may a visitor orientation card explain?",
+    "choices": {
+      "A": "Employee payroll records",
+      "B": "Where visitors should check in",
+      "C": "Customer shopping habits",
+      "D": "Company advertising plans"
+    },
+    "correct": "B",
+    "explanation": "The card may explain where visitors should check in."
+  },
+  {
+    "id": "RC22-026",
+    "prompt": "Passage 6\nMany workplaces use visitor orientation cards to give short safety instructions to people who are not regular employees. These cards may explain where visitors should check in, which areas are restricted, what personal protective equipment is required, and what to do during an emergency.\nVisitor orientation cards are useful because visitors may not know the building layout or workplace hazards. A delivery driver, contractor, or customer may be on site for only a short time but still needs basic safety information.\nThe cards work best when they are brief and easy to read. If a visitor receives several pages of detailed instructions, important points may be missed. A short card with clear directions can be reviewed quickly before the visitor enters the work area.\n\nWhy are visitor orientation cards useful?",
+    "choices": {
+      "A": "Visitors may not know the building layout or workplace hazards.",
+      "B": "Visitors always know every safety rule already.",
+      "C": "Regular employees cannot answer questions.",
+      "D": "Emergencies cannot happen during short visits."
+    },
+    "correct": "A",
+    "explanation": "Visitors may not know the building layout or workplace hazards, so basic safety information is useful."
+  },
+  {
+    "id": "RC22-027",
+    "prompt": "Passage 6\nMany workplaces use visitor orientation cards to give short safety instructions to people who are not regular employees. These cards may explain where visitors should check in, which areas are restricted, what personal protective equipment is required, and what to do during an emergency.\nVisitor orientation cards are useful because visitors may not know the building layout or workplace hazards. A delivery driver, contractor, or customer may be on site for only a short time but still needs basic safety information.\nThe cards work best when they are brief and easy to read. If a visitor receives several pages of detailed instructions, important points may be missed. A short card with clear directions can be reviewed quickly before the visitor enters the work area.\n\nWhy should the cards be brief and easy to read?",
+    "choices": {
+      "A": "Long instructions may cause important points to be missed.",
+      "B": "Brief instructions make visitors ignore safety.",
+      "C": "Visitors should never read directions.",
+      "D": "Short cards cannot contain useful information."
+    },
+    "correct": "A",
+    "explanation": "Long instructions can cause visitors to miss important points, so cards should be brief and easy to read."
+  },
+  {
+    "id": "RC22-028",
+    "prompt": "Passage 6\nMany workplaces use visitor orientation cards to give short safety instructions to people who are not regular employees. These cards may explain where visitors should check in, which areas are restricted, what personal protective equipment is required, and what to do during an emergency.\nVisitor orientation cards are useful because visitors may not know the building layout or workplace hazards. A delivery driver, contractor, or customer may be on site for only a short time but still needs basic safety information.\nThe cards work best when they are brief and easy to read. If a visitor receives several pages of detailed instructions, important points may be missed. A short card with clear directions can be reviewed quickly before the visitor enters the work area.\n\nWhich conclusion is best supported by the passage?",
+    "choices": {
+      "A": "Safety instructions for visitors should be clear, practical, and quick to review.",
+      "B": "Visitors should receive no information unless they stay all day.",
+      "C": "More pages always make safety instructions more useful.",
+      "D": "Restricted areas do not need to be identified."
+    },
+    "correct": "A",
+    "explanation": "The passage supports the idea that visitor safety instructions should be clear, practical, and quick to review."
+  },
+  {
+    "id": "RC22-029",
+    "prompt": "Passage 7\nMany communities maintain public drainage ditches along roads and near neighborhoods. These ditches help carry rainwater away from streets, yards, and buildings during storms.\nDrainage ditches must be kept clear to work properly. Leaves, trash, soil, or overgrown vegetation can slow water flow and increase the chance of flooding. Property owners may be asked not to place yard waste or debris in ditches because even small blockages can cause problems during heavy rain.\nPublic works crews inspect ditches before storm seasons and after major weather events. Repairs may include removing debris, reshaping slopes, or clearing blocked culverts.\n\nWhat is the passage mainly about?",
+    "choices": {
+      "A": "Drainage ditches help manage stormwater and must be kept clear.",
+      "B": "Drainage ditches are used only for storing yard waste.",
+      "C": "Public works crews should avoid inspecting ditches.",
+      "D": "Flooding is unrelated to blocked drainage."
+    },
+    "correct": "A",
+    "explanation": "The passage explains that drainage ditches carry stormwater and must be kept clear to prevent problems."
+  },
+  {
+    "id": "RC22-030",
+    "prompt": "Passage 7\nMany communities maintain public drainage ditches along roads and near neighborhoods. These ditches help carry rainwater away from streets, yards, and buildings during storms.\nDrainage ditches must be kept clear to work properly. Leaves, trash, soil, or overgrown vegetation can slow water flow and increase the chance of flooding. Property owners may be asked not to place yard waste or debris in ditches because even small blockages can cause problems during heavy rain.\nPublic works crews inspect ditches before storm seasons and after major weather events. Repairs may include removing debris, reshaping slopes, or clearing blocked culverts.\n\nWhat can slow water flow in a drainage ditch?",
+    "choices": {
+      "A": "Leaves, trash, soil, or overgrown vegetation",
+      "B": "Clear culverts",
+      "C": "Properly shaped slopes",
+      "D": "Empty roadways"
+    },
+    "correct": "A",
+    "explanation": "Leaves, trash, soil, and overgrown vegetation can slow water flow."
+  },
+  {
+    "id": "RC22-031",
+    "prompt": "Passage 7\nMany communities maintain public drainage ditches along roads and near neighborhoods. These ditches help carry rainwater away from streets, yards, and buildings during storms.\nDrainage ditches must be kept clear to work properly. Leaves, trash, soil, or overgrown vegetation can slow water flow and increase the chance of flooding. Property owners may be asked not to place yard waste or debris in ditches because even small blockages can cause problems during heavy rain.\nPublic works crews inspect ditches before storm seasons and after major weather events. Repairs may include removing debris, reshaping slopes, or clearing blocked culverts.\n\nWhy may property owners be asked not to place debris in ditches?",
+    "choices": {
+      "A": "Even small blockages can cause problems during heavy rain.",
+      "B": "Debris always improves water flow.",
+      "C": "Ditches are designed for trash storage.",
+      "D": "Yard waste prevents flooding automatically."
+    },
+    "correct": "A",
+    "explanation": "Even small blockages can cause problems during heavy rain."
+  },
+  {
+    "id": "RC22-032",
+    "prompt": "Passage 7\nMany communities maintain public drainage ditches along roads and near neighborhoods. These ditches help carry rainwater away from streets, yards, and buildings during storms.\nDrainage ditches must be kept clear to work properly. Leaves, trash, soil, or overgrown vegetation can slow water flow and increase the chance of flooding. Property owners may be asked not to place yard waste or debris in ditches because even small blockages can cause problems during heavy rain.\nPublic works crews inspect ditches before storm seasons and after major weather events. Repairs may include removing debris, reshaping slopes, or clearing blocked culverts.\n\nWhat repair may public works crews perform?",
+    "choices": {
+      "A": "Removing debris or clearing blocked culverts",
+      "B": "Printing customer invoices",
+      "C": "Scheduling classroom tests",
+      "D": "Installing office furniture"
+    },
+    "correct": "A",
+    "explanation": "Public works crews may remove debris, reshape slopes, or clear blocked culverts."
+  },
+  {
+    "id": "RC22-033",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added short “evidence check” activities to reading lessons. Instructors noticed that some students chose answers that sounded reasonable but were not directly supported by the passage.\nDuring the activities, students must point to the sentence or phrase that supports their answer. If they cannot find support, they must reconsider the choice. Instructors explain that an answer can sound true in real life but still be wrong if the passage does not support it.\nThe purpose is to build a habit of returning to the text before choosing an answer. This habit is especially useful when answer choices are similar or when a student feels unsure.\n\nWhy did the course add evidence check activities?",
+    "choices": {
+      "A": "Some students chose answers that sounded reasonable but were not supported by the passage.",
+      "B": "Students no longer needed reading lessons.",
+      "C": "Instructors wanted students to avoid the passage.",
+      "D": "The course removed answer choices from practice."
+    },
+    "correct": "A",
+    "explanation": "The activities were added because some students chose answers that sounded reasonable but lacked passage support."
+  },
+  {
+    "id": "RC22-034",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added short “evidence check” activities to reading lessons. Instructors noticed that some students chose answers that sounded reasonable but were not directly supported by the passage.\nDuring the activities, students must point to the sentence or phrase that supports their answer. If they cannot find support, they must reconsider the choice. Instructors explain that an answer can sound true in real life but still be wrong if the passage does not support it.\nThe purpose is to build a habit of returning to the text before choosing an answer. This habit is especially useful when answer choices are similar or when a student feels unsure.\n\nWhat must students point to during the activity?",
+    "choices": {
+      "A": "The sentence or phrase that supports their answer",
+      "B": "The longest answer choice",
+      "C": "The title of another lesson",
+      "D": "A personal opinion about the topic"
+    },
+    "correct": "A",
+    "explanation": "Students must point to the sentence or phrase that supports their answer."
+  },
+  {
+    "id": "RC22-035",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added short “evidence check” activities to reading lessons. Instructors noticed that some students chose answers that sounded reasonable but were not directly supported by the passage.\nDuring the activities, students must point to the sentence or phrase that supports their answer. If they cannot find support, they must reconsider the choice. Instructors explain that an answer can sound true in real life but still be wrong if the passage does not support it.\nThe purpose is to build a habit of returning to the text before choosing an answer. This habit is especially useful when answer choices are similar or when a student feels unsure.\n\nWhat should students do if they cannot find support for an answer?",
+    "choices": {
+      "A": "Choose the answer anyway.",
+      "B": "Reconsider the choice.",
+      "C": "Skip all remaining questions.",
+      "D": "Ignore the passage completely."
+    },
+    "correct": "B",
+    "explanation": "If students cannot find support, they must reconsider the answer choice."
+  },
+  {
+    "id": "RC22-036",
+    "prompt": "Passage 8\nAn apprenticeship preparation course recently added short “evidence check” activities to reading lessons. Instructors noticed that some students chose answers that sounded reasonable but were not directly supported by the passage.\nDuring the activities, students must point to the sentence or phrase that supports their answer. If they cannot find support, they must reconsider the choice. Instructors explain that an answer can sound true in real life but still be wrong if the passage does not support it.\nThe purpose is to build a habit of returning to the text before choosing an answer. This habit is especially useful when answer choices are similar or when a student feels unsure.\n\nWhich statement is best supported by the passage?",
+    "choices": {
+      "A": "A reasonable-sounding answer may still be wrong if the passage does not support it.",
+      "B": "Students should rely mainly on outside knowledge.",
+      "C": "Similar answer choices make evidence less important.",
+      "D": "Returning to the text is useful only for math problems."
+    },
+    "correct": "A",
+    "explanation": "The passage states that an answer can sound true in real life but still be wrong if the passage does not support it."
+  }
+]
